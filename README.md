@@ -1,6 +1,10 @@
 <div align="center">
 
-# Clarity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./asset/Clarity.png">
+  <source media="(prefers-color-scheme: light)" srcset="./asset/Clarity.png">
+  <img src="./asset/Clarity.png" alt="Clarity" width="520">
+</picture>
 
 **Buy Now, Wait or Walk Away.**
 
