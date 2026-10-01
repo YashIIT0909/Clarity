@@ -1,0 +1,117 @@
+{
+ "search_metadata": {
+  "id": "6abce31e80c9638b2022d522",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/BYXMi23426RMrPhDlAsEL5vSSRRFOGKHnKuKBbcbVXI/6abce31e80c9638b2022d522.json",
+  "markdown_endpoint": "https://serpapi.com/searches/BYXMi23426RMrPhDlAsEL5vSSRRFOGKHnKuKBbcbVXI/6abce31e80c9638b2022d522.md",
+  "created_at": "2026-09-30 10:23:26 UTC",
+  "processed_at": "2026-09-30 10:23:26 UTC",
+  "google_autocomplete_url": "https://www.google.com/complete/search?q=sony+wh-1000xm5&gl=us&hl=en&client=chrome&dpr=1",
+  "raw_html_file": "https://serpapi.com/searches/BYXMi23426RMrPhDlAsEL5vSSRRFOGKHnKuKBbcbVXI/6abce31e80c9638b2022d522.html",
+  "prettify_html_file": "https://serpapi.com/searches/BYXMi23426RMrPhDlAsEL5vSSRRFOGKHnKuKBbcbVXI/6abce31e80c9638b2022d522.prettify",
+  "total_time_taken": 0.89
+ },
+ "search_parameters": {
+  "engine": "google_autocomplete",
+  "q": "sony wh-1000xm5",
+  "gl": "us",
+  "hl": "en"
+ },
+ "search_information": {
+  "autocomplete_results_state": "Showing completion results."
+ },
+ "suggestions": [
+  {
+   "value": "sony wh-1000xm5 vs xm6",
+   "relevance": 601,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+vs+xm6"
+  },
+  {
+   "value": "sony wh-1000xm5 review",
+   "relevance": 600,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+review"
+  },
+  {
+   "value": "sony wh-1000xm5 vs bose quietcomfort",
+   "relevance": 562,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+vs+bose+quietcomfort"
+  },
+  {
+   "value": "sony wh-1000xm5 price",
+   "relevance": 561,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+price"
+  },
+  {
+   "value": "sony wh-1000xm5 vs sony wh-1000xm6",
+   "relevance": 560,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+vs+sony+wh-1000xm6"
+  },
+  {
+   "value": "sony wh-1000xm5 vs bose quietcomfort ultra",
+   "relevance": 559,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+vs+bose+quietcomfort+ultra"
+  },
+  {
+   "value": "sony wh-1000xm5 release date",
+   "relevance": 558,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+release+date"
+  },
+  {
+   "value": "sony wh-1000xm5 headphones",
+   "relevance": 557,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+headphones"
+  },
+  {
+   "value": "sony wh-1000xm5 pairing mode",
+   "relevance": 556,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+pairing+mode"
+  },
+  {
+   "value": "sony wh-1000xm5 app",
+   "relevance": 555,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+app"
+  },
+  {
+   "value": "sony wh-1000xm5sa",
+   "relevance": 554,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5sa"
+  },
+  {
+   "value": "sony wh-1000xm5 earbuds",
+   "relevance": 553,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+earbuds"
+  },
+  {
+   "value": "sony wh-1000xm5 how to pair",
+   "relevance": 552,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+how+to+pair"
+  },
+  {
+   "value": "sony wh-1000xm5 vs beats studio pro",
+   "relevance": 551,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+vs+beats+studio+pro"
+  },
+  {
+   "value": "sony wh-1000xm5 controls",
+   "relevance": 550,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=sony+wh-1000xm5+controls"
+  }
+ ],
+ "verbatim_relevance": 1290,
+ "_probe_latency_s": 1.28
+}

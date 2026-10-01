@@ -1,0 +1,499 @@
+{
+ "search_metadata": {
+  "id": "6abcfe807223f429285823da",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/BIyyrRR9XCmR88OgQU6jjc-vIdIt9OU4QJgHd8iE-24/6abcfe807223f429285823da.json",
+  "markdown_endpoint": "https://serpapi.com/searches/BIyyrRR9XCmR88OgQU6jjc-vIdIt9OU4QJgHd8iE-24/6abcfe807223f429285823da.md",
+  "created_at": "2026-09-30 12:20:16 UTC",
+  "processed_at": "2026-09-30 12:20:16 UTC",
+  "google_news_url": "https://news.google.com/search?q=Motorola+MA2&hl=en&gl=US",
+  "raw_html_file": "https://serpapi.com/searches/BIyyrRR9XCmR88OgQU6jjc-vIdIt9OU4QJgHd8iE-24/6abcfe807223f429285823da.html",
+  "total_time_taken": 0.7
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "us",
+  "hl": "en",
+  "q": "Motorola MA2"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Motorola MA2 wireless Android Auto adapter, 'the only one engineered by Google,' gets a release date and full details",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/06/25/motorola-ma2-wireless-android-auto-adapter-release-date-full-details/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/motorola-ma2-android-auto-2.jpg?quality=82&strip=all",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDVaWFpqWDFKTVZYWldiVWh0VFJDSEF4aVBCaWdLTWdzTkFJYU1QV1Nwd0pxb2Fn",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Motorola's tiny new Android Auto box missed its launch, but there's good news",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Adamya Sharma"
+    ]
+   },
+   "link": "https://www.androidauthority.com/motorola-ma2-wireless-android-auto-adapter-new-launch-timeline-3681205/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2026/03/Motorola-Sound-MA2-in-hand.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaVkJzZVZFeFF6aEdkRUZOVFJDZkF4ampCU2dLTWdZcGhJTFBzUVk",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Motorola\u2019s next wireless Android Auto dongle brings the refresh you\u2019ve been waiting for",
+   "source": {
+    "name": "Android Police",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidpolice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rajesh Pandey"
+    ]
+   },
+   "link": "https://www.androidpolice.com/motorola-next-wireless-android-auto-dongle-refresh-waiting-for/",
+   "thumbnail": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/google-maps-android-auto.JPG?w=1600&h=900&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxYMmw0ZFdWMmVuQjJWMGRTVFJDZkF4ampCU2dLTWdZQlVKQ3BxUVk",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Motorola's rumored MA2 wireless Android Auto adapter features a key upgrade",
+   "source": {
+    "name": "XDA",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.xda-developers.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Patrick O'Rourke"
+    ]
+   },
+   "link": "https://www.xda-developers.com/motorola-rumored-ma2-wireless-android-auto-adapter-features-key-upgrade/",
+   "thumbnail": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/02/motorola-ma1-render.jpg?w=1600&h=900&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlSWGRDT0VSbFoxcEdiRkJTVFJDZkF4ampCU2dLTWdZVjU0aEp5Z00",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "New Android Auto Wireless Adapter: This Is the All-New Motorola MA2",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/new-android-auto-wireless-adapter-this-is-the-all-new-motorola-ma2-266549.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/new-android-auto-wireless-adapter-this-is-the-all-new-motorola-ma2-266549_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFTakU0VlhkeFExWXlkRVZLVFJDM0F4aTdCU2dLTWdZVlFvSlJ0UVk",
+   "date": "03/03/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-03T08:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Motorola has a tiny new black box at MWC that wants to kill Android Auto cables",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Adamya Sharma"
+    ]
+   },
+   "link": "https://www.androidauthority.com/motorola-ma2-wireless-android-auto-adapter-3645480/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2026/03/Motorola-MA-2-Android-Auto-Adapter.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWliRWQwV1ZCVlVtVldWazlrVFJDZkF4ampCU2dLTWdZZGNJN3NyUVk",
+   "date": "03/01/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-01T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Motorola MA2 wireless Android Auto adapter quietly goes official, apparently costs $40",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/03/01/motorola-ma2-wireless-android-auto-adapter-price-release-date/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2025/05/Android-Auto-Maps-and-Music-playback-5.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRaMGxEUjBoRkxWbFFhbFV6VFJDSEF4aVBCaWdLTWdhQmNJck5zQWM",
+   "date": "03/01/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-01T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Motorola MA2: Essential Upgrades in the 2026 Refresh",
+   "source": {
+    "name": "Techgenyz",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techgenyz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://techgenyz.com/motorola-ma2-wireless-android-auto-upgrade/",
+   "thumbnail": "https://techgenyz.com/wp-content/uploads/2026/03/Motorola-MA2.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1lWEoxVmpONFJWRmxhamt3VFJDZkF4ampCU2dLTWdrRkE0Nk1zV1Nob3dJ",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "MWC 2026: The 4 Most Intriguing Devices We Saw At ShowStoppers",
+   "source": {
+    "name": "bgr.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jose Adorno"
+    ]
+   },
+   "link": "https://www.bgr.com/2113603/mwc-2026-showstoppers-most-exciting-devices/",
+   "thumbnail": "https://www.bgr.com/img/gallery/mwc-2026-the-4-most-intriguing-devices-we-saw-at-showstoppers/intro-1772471668.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFhRWR6YTNGbmVFZFpXalpPVFJDZkF4ampCU2dLTWdZQmNJUUoxZ0k",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Motorola MA2 Leaked: The Official Wireless Android Auto Adapter Gets a Sequel",
+   "source": {
+    "name": "Android Headlines",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidheadlines.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jean Leon"
+    ]
+   },
+   "link": "https://www.androidheadlines.com/2026/02/motorola-ma2-wireless-android-auto-adapter-leak.html",
+   "thumbnail": "https://www.androidheadlines.com/wp-content/uploads/2026/02/Motorola-MA1-wireless-Android-Auto-adapter-355x202.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRjVWRUYjBSWk0zSXhiazFpVFJES0FSampBaWdLTWdiQnNJcTF3QVE",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "If you use Android Auto you'll want to know about this update",
+   "source": {
+    "name": "Pocket-lint",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pocket-lint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Craig Donaldson"
+    ]
+   },
+   "link": "https://www.pocket-lint.com/motorola-ma2-wireless-android-auto/",
+   "thumbnail": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/10/dsc_0340.jpg?w=1600&h=900&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtUMDVYU2toM2VrOHlOREJ0VFJDZkF4ampCU2dLTWdZSllwQkpxUVk",
+   "date": "02/11/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-11T08:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Motorola's New Android Auto Wireless Adapter Leaked: This Is the MA2",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/leak-reveals-new-big-android-auto-wireless-adapter-bad-news-for-carplay-users-265522.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/leak-reveals-new-big-android-auto-wireless-adapter-bad-news-for-carplay-users-265522_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkWGhQYzFNM1JtVkVUa2h4VFJDakF4amNCU2dLTWdhZElZZ3lLUWc",
+   "date": "02/11/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-11T08:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "\u2018Motorola MA2\u2019 wireless Android Auto adapter leaks with big updates [Gallery]",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/02/10/motorola-ma2-wireless-android-auto-adapter-leak/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2022/04/motorola_ma1_android_auto_3.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjV2xVWW1wUVZVTk1OVE55VFJDSEF4aVBCaWdLTWdhbFZJVE14UU0",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Motorola MA2 listing reveals almost everything about the upcoming wireless Android Auto dongle",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hadlee Simons"
+    ]
+   },
+   "link": "https://www.androidauthority.com/motorola-ma2-wireless-android-auto-dongle-fcc-3639429/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2025/10/android-auto-launcher-home-screen-2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5la1ZDVm1SWGNHZFhVbTV4VFJDZkF4ampCU2dLTWdhTlVwREpLUWM",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "Time To Go Wireless: MA1 Android Auto Adapter Cheaper Than Ever As New Model Is Coming",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/time-to-go-wireless-ma1-android-auto-adapter-cheaper-than-ever-as-new-model-is-coming-266666.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/time-to-go-wireless-ma1-android-auto-adapter-cheaper-than-ever-as-new-model-is-coming-266666_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1TWE4yTUVGVFVFWllUVlJ3VFJDZkF4ampCU2dLTWdZdEFKcDFFQW8",
+   "date": "03/05/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-05T08:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "AAWireless TWO Android Auto Wireless Adapter Is Now Cheaper Than Ever",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/the-world-s-top-android-auto-wireless-adapter-is-down-to-the-lowest-price-since-launch-265539.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/the-world-s-top-android-auto-wireless-adapter-is-down-to-the-lowest-price-since-launch-265539_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxaV280V2xOT1ZVMXhja1pqVFJDMkF4aTlCU2dLTWdtVkFZeFFEYWFEQXdN",
+   "date": "02/11/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-11T08:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Google still hasn\u2019t fixed my biggest problem with Gemini on Android Auto [Video]",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/07/03/gemini-android-auto-problem-keeps-listening/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2025/05/google-gemini-android-auto-1.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVXWGc1ZWtVNVZrNDVlazU1VFJDSEF4aVBCaWdLTWdhVkk1WlBKUWc",
+   "date": "07/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-03T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "One of the best wireless Android Auto adapters is just $35 right now ahead of sequel",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Andrew Romero"
+    ]
+   },
+   "link": "https://9to5google.com/2026/03/25/motorola-ma1-deal-ahead-of-ma2/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2022/04/motorola_ma1_android_auto_1.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWRFYzYWprMGVDMTFha2xoVFJDSEF4aVBCaWdLTWdhaGtZN050UVk",
+   "date": "03/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-25T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Is Motorola Trying to Kill Its Android Auto Wireless Adapter?",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/is-motorola-trying-to-kill-its-android-auto-wireless-adapter-239358.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/is-motorola-trying-to-kill-its-android-auto-wireless-adapter-239358_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUthRGQyV1V4aVdsYzNXV3hGVFJDZkF4ampCU2dLTWdrVlVaRFFKR2lTcndF",
+   "date": "09/04/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-09-04T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Google confirms Android Auto fixes for Pixel, Galaxy users facing connection problems",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/03/25/google-confirms-android-auto-fixes-for-pixel-galaxy-users-facing-connection-problems/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Pixel-10-Pro-XL-and-Galaxy-S26-Ultra-design-and-hardware-3.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZMVVZTVldwNlpFNUJhVGRhVFJDSEF4aVBCaWdLTWdhWlVJS3RKUWc",
+   "date": "03/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-25T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "AAWireless TWO+ adapter with wireless Android Auto and CarPlay is finally back in stock",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/03/09/aawireless-two-adapter-with-wireless-android-auto-and-carplay-is-finally-back-in-stock/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/aawireless-two-plus-android-auto-carplay-8.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhSSG95ZFRkUWFETkVkM2RYVFJDSEF4aVBCaWdLTWdrRlFZSWxxbVdhRlFF",
+   "date": "03/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-09T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Android Auto more widely rolling out updates for Spotify and YouTube Music apps",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/07/02/android-auto-more-widely-rolling-out-updates-for-spotify-and-youtube-music-apps/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/android-auto-kia-niro-ev-1.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpXVXByTFVSa1FYRXlSa2xYVFJDSEF4aVBCaWdLTWdhVmdvb3FNUVk",
+   "date": "07/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-02T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Android Auto users hit with \u2018Voice commands aren\u2019t available right now\u2019 bug",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/02/23/android-auto-users-hit-with-voice-commands-arent-available-right-now-bug/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2025/05/google-gemini-android-auto-1.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVXWGc1ZWtVNVZrNDVlazU1VFJDSEF4aVBCaWdLTWdhVkk1WlBKUWc",
+   "date": "02/23/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-23T08:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Motorola MA1 vs. AAWireless: Android Auto without wires",
+   "source": {
+    "name": "Android Police",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidpolice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jesse David Hollington"
+    ]
+   },
+   "link": "https://www.androidpolice.com/motorola-sound-ma1-vs-aa-wireless/",
+   "thumbnail": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2023/05/motorola-ma1.jpg?q=50&fit=contain&w=420&dpr=1.5",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJOM1J1WW0xT2FteGhYMVJIVFJDa0F4aWtBeWdLTWdhTmdveG13Z1E",
+   "date": "12/13/2023, 08:00 AM, +0000 UTC",
+   "iso_date": "2023-12-13T08:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Latest Android Auto updates are crashing for some users",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/07/06/latest-android-auto-updates-are-crashing-for-some-users/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/android-auto-kia-niro-ev-5.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNiV2xEZVdvd2RtOU5VSGRVVFJDSEF4aVBCaWdLTWdZUmdvb1NRUVU",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Android Auto\u2019s squiggly media player is rolling out to more users",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/03/25/android-autos-squiggly-media-player-is-rolling-out-to-more-users/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/android-auto-gemini-4.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNOMnhYU21SaFRIUlRXR0pOVFJDSEF4aVBCaWdLTWdhQlFJUk9RUVE",
+   "date": "03/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-25T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "This new Android Auto app can unlock your home\u2019s front door",
+   "source": {
+    "name": "9to5google.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Schoon"
+    ]
+   },
+   "link": "https://9to5google.com/2026/03/24/this-new-android-auto-app-can-unlock-your-homes-front-door/",
+   "thumbnail": "https://9to5google.com/wp-content/uploads/sites/4/2025/03/android-auto-white-microphone-1.jpg?quality=82&strip=all&w=1600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1RbVZYT1VrNVRFNWZhMFJWVFJDSEF4aVBCaWdLTWdZcEVvUnZJUVE",
+   "date": "03/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-24T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Android Authority\u2019s Best of MWC 2026 awards: The biggest announcements from the show",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Bogdan Petrovan"
+    ]
+   },
+   "link": "https://www.androidauthority.com/best-of-mwc-2026-awards-3646537/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2026/03/best-of-mwc-2026-award-android-authority-scaled.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZYMHRZZEcxcmNFWlZSa3BNVFJDZkF4ampCU2dLTWdZaFJKQnZ1UVU",
+   "date": "03/04/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-04T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ],
+ "_probe_latency_s": 1.45
+}

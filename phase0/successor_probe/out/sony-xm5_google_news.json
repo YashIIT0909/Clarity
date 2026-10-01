@@ -1,0 +1,803 @@
+{
+ "search_metadata": {
+  "id": "6abce31f7bf2f9254dbc85aa",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/l7CZqC7iniT3_7vllVCwtI_7y0sA6Su1uGzKa7c2PNk/6abce31f7bf2f9254dbc85aa.json",
+  "markdown_endpoint": "https://serpapi.com/searches/l7CZqC7iniT3_7vllVCwtI_7y0sA6Su1uGzKa7c2PNk/6abce31f7bf2f9254dbc85aa.md",
+  "created_at": "2026-09-30 10:23:27 UTC",
+  "processed_at": "2026-09-30 10:23:27 UTC",
+  "google_news_url": "https://news.google.com/search?q=sony+wh-1000xm5+successor&hl=en&gl=US",
+  "raw_html_file": "https://serpapi.com/searches/l7CZqC7iniT3_7vllVCwtI_7y0sA6Su1uGzKa7c2PNk/6abce31f7bf2f9254dbc85aa.html",
+  "total_time_taken": 0.84
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "us",
+  "hl": "en",
+  "q": "sony wh-1000xm5 successor"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Sony WH-1000XM5 Headphone Review",
+   "source": {
+    "name": "Audiophile ON",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.audiophileon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.audiophileon.com/news/sony-wh-1000xm5",
+   "thumbnail": "https://m.media-amazon.com/images/I/31vOBg8cPaL._SL500_.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthVjh5UWt0bFFsUXlPRFY0VFJEMEF4ajBBeWdLTWdZbFZJcU5PUVU",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Sony WF-1000XM6 vs Sony WF-1000XM5: A worthy successor?",
+   "source": {
+    "name": "soundguys.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.soundguys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.soundguys.com/sony-wf-1000xm6-vs-sony-wf-1000xm5-152515/",
+   "thumbnail": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/12056/custom_filename.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXplaTFtY2pGS2NIbENWek0zVFJDcUJCaXFCQ2dLTWdhcGRKQ3VNUWM",
+   "date": "02/13/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-13T08:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Sony Goes All-In on WH-1000XM5 Headphones to Clear Out Previous-Gen Stock After XM6 Deals Roll Out",
+   "source": {
+    "name": "Kotaku",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://kotaku.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mike Fazioli"
+    ]
+   },
+   "link": "https://kotaku.com/sony-goes-all-in-on-wh-1000xm5-headphones-to-clear-out-previous-gen-stock-after-xm6-deals-roll-out-2000664791",
+   "thumbnail": "https://kotaku.com/app/uploads/2026/01/Sony-WH-1000XM5-Premium-Noise-Canceling-Headphones.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdlVU41YjJ4VGFFTkdRelJqVFJERUF4aW1CU2dLTWdhWlk0UktSUVE",
+   "date": "02/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-02T08:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Sony WH-1000XM6 vs. WH-1000XM5: I compared both headphones, and this model wins",
+   "source": {
+    "name": "ZDNET",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zdnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nina Raemont"
+    ]
+   },
+   "link": "https://www.zdnet.com/article/sony-wh-1000xm6-vs-wh-1000xm5-i-compared-both-headphones-and-this-model-wins/",
+   "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/4680e219-bb54-495b-afb4-2d2b1d3819a0.jpg?resize=1200,675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNjbUZGZW1zdFRpMVdWVEZ2VFJDZkF4ampCU2dLTWdrQk1JcXJNYVk5VWdF",
+   "date": "11/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-17T08:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Sony WH-1000XM5 headphones drop to lowest price ever!",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Edgar Cervantes"
+    ]
+   },
+   "link": "https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-7-3616528/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2024/10/Sony-WH-1000XM5-headphones-laying-flat-on-wooden-table.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJXVk01VFc0M2JFRm1URU52VFJDZkF4ampCU2dLTWdZaFFveU1xUVU",
+   "date": "11/18/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-18T08:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Sony WH-1000XM6 vs Sony WH-1000XM5: Should you upgrade?",
+   "source": {
+    "name": "soundguys.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.soundguys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Adam Birney"
+    ]
+   },
+   "link": "https://www.soundguys.com/sony-wh-1000xm6-vs-sony-wh-1000xm5-137876/",
+   "thumbnail": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/11233/custom_filename.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBXbTVQU1ZaSWVtdE1jVWc0VFJDcUJCaXFCQ2dLTWdhcGhJNnRNUVk",
+   "date": "11/24/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-24T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Sony WH-1000XM5 Wireless Review",
+   "source": {
+    "name": "RTINGS.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rtings.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.rtings.com/headphones/reviews/sony/wh-1000xm5-wireless",
+   "thumbnail": "https://i.rtings.com/assets/products/Nc33W9lA/sony-wh-1000xm5-wireless/design-medium.jpg?format=auto",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtjV3MwZDNwa2JXRndXa050VFJDb0FSaXNBaWdCTWdZcEFaQnVtUVk",
+   "date": "02/10/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-10T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "New Sony Noise-Canceling Headphones Specs and Pricing Apparently Leak",
+   "source": {
+    "name": "CNET",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Blake Stimac"
+    ]
+   },
+   "link": "https://www.cnet.com/tech/mobile/new-sony-noise-canceling-headphones-specs-and-pricing-apparently-leak/",
+   "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/e0cf228a-022a-461e-800f-0af087ca61cf.png?resize=1200,675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxOVGhYZVdKRlFqVkhXbkJOVFJDZkF4ampCU2dLTWdhdFJJaXZKUVU",
+   "date": "05/08/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-08T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "The Sony WH-1000XM5 are official, a successor to the popular XM4 noise canceling headphones",
+   "source": {
+    "name": "PhoneArena",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rado Minkov"
+    ]
+   },
+   "link": "https://www.phonearena.com/news/sony-wh-1000xm5-headphones-official-announcement-specs_id140085",
+   "thumbnail": "https://m-cdn.phonearena.com/images/article/140085-wide-two_1200/The-Sony-WH-1000XM5-are-official-a-successor-to-the-popular-XM4-noise-canceling-headphones.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBRV010Wms5NmNTMDNVRWxKVFJDZkF4ampCU2dLTWdZTlFveW5SZ1U",
+   "date": "05/12/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-12T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Sony WH-1000XM6 headphones could be coming soon, according to FCC",
+   "source": {
+    "name": "theshortcut.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theshortcut.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Max Buondonno"
+    ]
+   },
+   "link": "https://www.theshortcut.com/p/sony-wh-1000xm6-fcc-filing-rumor",
+   "thumbnail": "https://substackcdn.com/image/fetch/$s_!QFsx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa70c8c11-5087-4d2e-adc9-5784db6636b4_2100x1181.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdORmRvYjBoNlpqZEdYMnB3VFJDZkF4ampCU2dLTWdZVlZJaHR0UVE",
+   "date": "01/24/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-24T08:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Sony WH-1000XM5 Review: Raising the bar for ANC, ambient noise & sound quality",
+   "source": {
+    "name": "Counterpoint Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://counterpointresearch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Bendre"
+    ]
+   },
+   "link": "https://counterpointresearch.com/en/insights/sony-wh-1000xm5-review",
+   "thumbnail": "https://counterpointresearch.com/_next/image?url=https%3A%2F%2Fstatic.counterpointresearch.com%2Fstatics%2Fcontent%2Fimage%2Fcounterpoint-sony-wh-1000xm5-sustainability.jpg&w=1200&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBOVVV5V21kak1IUjBVbXhHVFJDM0FSaVRBaWdCTWdZTllaRFV0QVk",
+   "date": "10/31/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-10-31T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Sony WF-1000XM6: Early details about WF-1000XM5 successors revealed amid WH-1000XM6 release",
+   "source": {
+    "name": "Notebookcheck",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alexander Alderson"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Sony-WF-1000XM6-Early-details-about-WF-1000XM5-successors-revealed-amid-WH-1000XM6-release.1016745.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Sony-WF1000xm6-early-info-kv-final.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVkM2xwZEZaRWFVRTFPRGQ0VFJEZkF4aUFCU2dLTWdhUlVvQlJPUUk",
+   "date": "05/15/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-15T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Man Goes Over 11 WH-1000XM5 Warranty Replacement Units in Just One Year",
+   "source": {
+    "name": "Headphonesty",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.headphonesty.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.headphonesty.com/2024/02/man-goes-wh-1000xm5-warranty-replacement-units/",
+   "thumbnail": "https://www.headphonesty.com/wp-content/uploads/2024/02/main_image-3.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpOV1JtUkhSeFozbDJjSFIzVFJDUUF4ai1CU2dLTWdrRk1vU21vcUpFYUFJ",
+   "date": "02/05/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-02-05T08:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Sony WH-1000XM5: what we know about the successors to the best headphones of 2022",
+   "source": {
+    "name": "techradar.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Olivia Tambini"
+    ]
+   },
+   "link": "https://www.techradar.com/news/sony-wh-1000xm5-what-we-know-about-the-successors-to-the-best-headphones-of-2022",
+   "thumbnail": "https://cdn.mos.cms.futurecdn.net/5ENQXEz2WZVX3bibYvBnC3-1200-80.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNXVFZDWW1KcFMybENlWGhrVFJDZkF4ampCU2dLTWdZWm9JYXNPUVU",
+   "date": "04/22/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-04-22T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "Sony WH-1000XM6 headphone specs and details leak early",
+   "source": {
+    "name": "The Verge",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "\u02bfUmar Sh\u0101kir"
+    ]
+   },
+   "link": "https://www.theverge.com/news/662938/sony-xm6-leak-headphones-noise-canceling-price",
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454339/DSCF7908.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJUV0ZGUkVoM01EZHlZbDlUVFJERUF4aW1CU2dLTWdtWlFvUVR6V09hRkFF",
+   "date": "05/07/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-07T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Sony WH-1000XM5 Headphones Tease Improvement On Active Noise Cancellation Technology",
+   "source": {
+    "name": "SlashGear",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.slashgear.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rahul Srinivas"
+    ]
+   },
+   "link": "https://www.slashgear.com/861360/sony-wh-1000xm5-headphones-promise-next-level-noise-cancellation/",
+   "thumbnail": "https://www.slashgear.com/img/gallery/sony-wh-1000xm5-headphones-tease-improvement-on-active-noise-cancellation-technology/intro-1652375467.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURYM2hXVW14ek9VOVJZemxuVFJDZkF4ampCU2dLTWdZdGRZU3VNUVU",
+   "date": "05/12/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-12T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Best Sony headphones: Audiophile tested and reviewed",
+   "source": {
+    "name": "Pocket-lint",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pocket-lint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Christina Darby",
+     "Ian Carlos Campbell"
+    ]
+   },
+   "link": "https://www.pocket-lint.com/best-sony-headphones/",
+   "thumbnail": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2023/04/sony-ch720n-5.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVkVUY1ZEU1MVgybFBaWEZFVFJERUF4aW1CU2dLTWdZQkVvcHVOUVE",
+   "date": "10/19/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-10-19T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Sony WH-1000XM6 Review",
+   "source": {
+    "name": "RTINGS.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rtings.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.rtings.com/headphones/reviews/sony/wh-1000xm6",
+   "thumbnail": "https://i.rtings.com/assets/products/xSEH9sui/sony-wh-1000xm6/design-medium.jpg?format=auto",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZRVnBvTUhaS1YxZElTVEk0VFJDZkF4amlCU2dLTWdhcEZJYk5vUVk",
+   "date": "06/18/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-18T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Sony WH-1000XM6: Sony officially reveals colours, pricing and shipment dates of new wireless over-ear headphones ahead of schedule",
+   "source": {
+    "name": "Notebookcheck",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alexander Alderson"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Sony-WH-1000XM6-Sony-officially-reveals-colours-pricing-and-shipment-dates-of-new-wireless-over-ear-headphones-ahead-of-schedule.1016686.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/wh1000xm6-final-teaser-kv.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhNbnAyU0V4Rk1uYzFVRWd4VFJEZkF4aUFCU2dLTWdtZFFvQXEyYUZNU0FJ",
+   "date": "05/15/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-15T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Sony WH-1000XM5 vs Bose Noise Cancelling Headphones 700",
+   "source": {
+    "name": "soundguys.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.soundguys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Zak Khan"
+    ]
+   },
+   "link": "https://www.soundguys.com/sony-wh-1000xm5-vs-bose-noise-cancelling-headphones-700-71868/",
+   "thumbnail": "https://www.soundguys.com/wp-content/uploads/2022/05/sony-wh-1000xm5-vs-bose-noise-cancelling-headphones-700-hero.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTRTkyY1ZSd2VFeDFaSFZVVFJDZkF4ampCU2dLTWdZUllvd3BKUVU",
+   "date": "11/20/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-11-20T08:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "The 4 best over-ear headphones with ANC released in 2022",
+   "source": {
+    "name": "Inverse",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.inverse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Samuel Polay"
+    ]
+   },
+   "link": "https://www.inverse.com/tech/best-over-ear-active-noise-cancellation-headphones-2022",
+   "thumbnail": "https://imgix.bustle.com/uploads/image/2022/12/21/81bcb130-facb-4f87-84b2-b00e0f939304-bestheadphones_header.jpg?w=370&h=247&fit=crop&crop=focalpoint&dpr=2&fp-x=0.5013&fp-y=0.5",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpiVWxYVUdobVR6SlhTVWc0VFJERUF4aW1CU2dLTWdB",
+   "date": "12/25/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-12-25T08:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Sony WH-1000XM6 officially launches: Here\u2019s what\u2019s new",
+   "source": {
+    "name": "soundguys.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.soundguys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Adam Birney"
+    ]
+   },
+   "link": "https://www.soundguys.com/sony-wh1000xm6-105246/",
+   "thumbnail": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/11233/custom_filename.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBXbTVQU1ZaSWVtdE1jVWc0VFJDcUJCaXFCQ2dLTWdhcGhJNnRNUVk",
+   "date": "05/15/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-15T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Sony launches WH-1000XM5 wireless noise-canceling headphones",
+   "source": {
+    "name": "gagadget.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gagadget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://gagadget.com/en/129057-sony-launches-wh-1000xm5-wireless-noise-canceling-headphones/",
+   "thumbnail": "https://gagadget.com/media/pr_news/1652384113-gsmarena_000.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRMV0ZEUzB4bE9VaFNMWGxpVFJDUUF4ai1CU2dLTWdZcFlZSnV0UVU",
+   "date": "05/12/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-12T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "The Sony WH-1000XM5 is back with a fresh look and improved sound",
+   "source": {
+    "name": "MusicTech",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://musictech.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Crystal Koe"
+    ]
+   },
+   "link": "https://musictech.com/news/gear/sony-wireless-headphones-wh1000xm5-new-design-upgrade/",
+   "thumbnail": "https://musictech.com/wp-content/uploads/2022/05/Sony-WHX10005-Headphones@2000x1500-1200x900.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpMVFZtYUY5RFgwSjVjREpmVFJEZ0F4aUFCU2dLTWdZaE5aVE5IUWs",
+   "date": "05/13/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-13T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "WH-1000XM6: Sony drops clear hint about 'Chapter 6' beginning this week for over-ear wireless headphone division",
+   "source": {
+    "name": "Notebookcheck",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.notebookcheck.net/WH-1000XM6-Sony-drops-clear-hint-about-Chapter-6-beginning-this-week-for-over-ear-wireless-headphone-division.1015050.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/kv-pc-1000xm6-kv.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhRM2hNVVZKMGRUaHpPRXg2VFJEZ0F4al9CQ2dLTWdhVmNaRHlRQVk",
+   "date": "05/13/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-13T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "The Sony WH-1000XM5 Could End Up Costing a Pretty Penny",
+   "source": {
+    "name": "Wccftech",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://wccftech.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Furqan Shahid"
+    ]
+   },
+   "link": "https://wccftech.com/the-sony-wh-1000xm5-could-end-up-costing-a-pretty-penny/",
+   "thumbnail": "https://cdn.wccftech.com/wp-content/uploads/2022/05/Sony-WH-1000XM511-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNObGhKUzJ3emJUQlVMWEZXVFJDSkF4aU1CaWdLTWdrRk1JU0hRT016RHdJ",
+   "date": "05/12/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-12T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Sony WH-1000XM4 wireless headphones drop to all-time low on Amazon, WH-1000XM5 also 25% off",
+   "source": {
+    "name": "Notebookcheck",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Codrut Nistor"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Sony-WH-1000XM4-wireless-headphones-drop-to-all-time-low-on-Amazon-WH-1000XM5-also-25-off.876990.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Sony-WH-1000XM4.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpkVTB3ZG1Wb2FWWmFkRmR3VFJDZkF4amlCU2dLTWdZbFZaS3VJUWc",
+   "date": "08/19/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-08-19T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Sony WH-1000XM5 noise cancelling headphones launched: Here\u2019s what\u2019s new",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/technology/gadgets/sony-wh-1000xm5-announced-heres-whats-new-7915594/",
+   "thumbnail": "https://images.indianexpress.com/2022/05/Sony-WH-1000XM5-.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtWMlozTUhsVlFUUkpXVkpOVFJDZEF4am5CU2dLTWdhQkFaQXp2UVk",
+   "date": "05/13/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-13T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Leak shows unannounced Sony XM5 earbuds from the inside and out",
+   "source": {
+    "name": "The Verge",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jon Porter"
+    ]
+   },
+   "link": "https://www.theverge.com/2023/3/16/23642883/sony-wf-1000xm5-true-wireless-earbuds-leaked-images-specs",
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24512549/wf1000xm5_cover.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBWREEyTVRjNGNHVTNVa3RrVFJERUF4aW1CU2dLTWdtUkVwS25MbWhGN0FF",
+   "date": "03/16/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-03-16T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Sony WH-1000XM5",
+   "source": {
+    "name": "Gamereactor UK",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gamereactor.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.gamereactor.eu/sony-wh1000xm5-1089823/",
+   "thumbnail": "https://www.gamereactor.eu/media/36/sonywh_1000xm5_3803643.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNXa3hMVWpRM2NXRlNiblJLVFJDcUJCaXFCQ2dLTWdhaFU0cU13UVE",
+   "date": "06/12/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-06-12T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Sony Readies the WH-1000XM5 Wireless Headphones",
+   "source": {
+    "name": "hypebeast.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hypebeast.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nicolaus Li"
+    ]
+   },
+   "link": "https://hypebeast.com/2022/5/sony-wh-1000xm5-wireless-headphones-release-info",
+   "thumbnail": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F05%2Fsony-wh-1000xm5-wireless-headphones-release-info-001.jpg?q=90&w=800&cbr=1&fit=max",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBUVjgzZGpaZlpWWlhXR2Q1VFJERUF4aW5CU2dLTWdZUlFvcW56Z1E",
+   "date": "05/23/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-23T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Fixing my Sony WH-1000XM3 convinced me of the right to repair",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Robert Triggs"
+    ]
+   },
+   "link": "https://www.androidauthority.com/sony-wh-1000xm3-battery-replacement-3212768/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2022/09/Sony-WH-1000MX3-repair-hero.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpUR05tZFVZNFEybzBVVk5wVFJDZUF4amtCU2dLTWdrRkVJVG1KR2RFMVFB",
+   "date": "10/08/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-10-08T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Leak confirms Sony flagship headphone design, casts doubt on improved battery life",
+   "source": {
+    "name": "The Verge",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jon Porter"
+    ]
+   },
+   "link": "https://www.theverge.com/2022/5/5/23058233/sony-wh-1000xm5-retail-packaging-leak-battery-life-noise-cancelling-headphones",
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23439633/7TP4oHA.jpg?quality=90&strip=all&crop=0,0.021729682746631,100,99.956540634507",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9VMFl6VkdScVNVeDZMVEJ0VFJEQ0F4aXFCU2dLTWdZbFJJck9PUVU",
+   "date": "05/05/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-05T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "A successor to the incredibly popular Sony WH-1000XM4 could be announced this year",
+   "source": {
+    "name": "MusicTech",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://musictech.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://musictech.com/news/gear/a-successor-to-the-incredibly-popular-sony-wh-1000xm4-could-be-announced-this-year/",
+   "thumbnail": "https://musictech.com/wp-content/uploads/2022/02/sony-leaked-headphones-walkmanblog@2000x1500-1200x900.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHRabEJEUVZsQmN6RllhSFp3VFJEZ0F4aUFCU2dLTWdNZGhBQQ",
+   "date": "02/16/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-02-16T08:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Sony WH-1000XM5 takes a trip to the FCC with a revised design, larger battery and fast charging support",
+   "source": {
+    "name": "Notebookcheck",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alexander Alderson"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Sony-WH-1000XM5-takes-a-trip-to-the-FCC-with-a-revised-design-larger-battery-and-fast-charging-support.598859.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitled4475.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNMV1EyTTJWMWJEUXdSM2N6VFJERUF4aW1CU2dLTWdtTlFZcW5TaVZGVWdF",
+   "date": "02/13/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-02-13T08:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Sony WH-1000XM5 headphones with a new design and improved ANC launched in India",
+   "source": {
+    "name": "timesofindia.indiatimes.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/gadgets-news/sony-wh-1000xm5-headphones-with-a-new-design-and-improved-anc-launched-in-india/articleshow/94346087.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-94346151,width-1280,height-720,resizemode-4/94346151.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1NMWQwTmt4dE1IZ3RVM1I2VFJDZkF4ampCU2dLTWdZTllvekhQZ1k",
+   "date": "09/21/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-09-21T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Sony WH-1000XM5 headphones take personal sound to awesome new heights for RM1,799",
+   "source": {
+    "name": "hitechcentury.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hitechcentury.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hitechcentury.com/sony-wh-1000xm5-headphones-malaysia/",
+   "thumbnail": "https://hitechcentury.com/wp-content/uploads/2022/05/WH-1000XM5-sony-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpSVGhKUmtOSE5saFFiMFZIVFJDc0F4ak1CU2dLTWdZZFo0Z3FLZ2M",
+   "date": "05/14/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-14T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Why the Sony WH-1000XM5 and Sony ULT Wear are the perfect alternatives to the WH-1000XM4 this December",
+   "source": {
+    "name": "Expert Reviews",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.expertreviews.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.expertreviews.co.uk/technology/headphones-audio/why-the-sony-wh-1000xm5-and-sony-ult-wear-are-the-perfect-alternatives-to-the-wh-1000xm4-this-december",
+   "thumbnail": "https://images.expertreviews.co.uk/wp-content/uploads/sites/6/2025/11/23_ULT-Wear_01641_v01-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRUelZxWjNoelduUnNNRXhMVFJERUF4aW1CU2dLTWdZZFZKYk5JUWc",
+   "date": "12/03/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-03T08:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Sony WH-1000XM5 leaks with a major redesign, longer battery life and new drivers",
+   "source": {
+    "name": "Notebookcheck",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alexander Alderson"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Sony-WH-1000XM5-leaks-with-a-major-redesign-longer-battery-life-and-new-drivers.614954.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitled6850.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNhME0xUlVaUlYyZFhkamRNVFJEVkF4aU9CU2dLTWdZUlVvcUlSZ1U",
+   "date": "04/22/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-04-22T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Sony WH-1000XM5 XM5 Headphones Left Hinge Replacement | Repair Video",
+   "source": {
+    "name": "YouTube",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://youtu.be&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://youtu.be/dOs0vec2k9k?si=wSi0GjkJsr9Cg4Cj&t=229",
+   "thumbnail": "https://i.ytimg.com/vi/dOs0vec2k9k/maxresdefault.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZielV3UzJKdWFVZEVlREpsVFJDZkF4ampCU2dLTWdhWlU0NXJKUVk",
+   "date": "12/20/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-20T08:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Sony WH-1000XM5 Wireless Active Noise Cancelling Headphones Launched in India: Details",
+   "source": {
+    "name": "Gadgets 360",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gadgets360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Siddharth Suvarna",
+     "Ali Pardiwala"
+    ]
+   },
+   "link": "https://www.gadgets360.com/audio/news/sony-wh-1000xm5-headphones-price-in-india-rs-34990-specifications-features-active-noise-cancellation-3361254",
+   "thumbnail": "https://i.gadgets360cdn.com/large/sony_wh1000xm5_review_logo_1663673857709.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBVRnBMVW5ZeVpuRXROemwzVFJDZkF4ampCU2dLTWdZaE01YXNwUWM",
+   "date": "09/21/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-09-21T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Sony WH-1000XM5 Noise-cancelling Headphones Launched",
+   "source": {
+    "name": "Gadget Pilipinas",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gadgetpilipinas.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.gadgetpilipinas.net/2022/05/sony-wh-1000xm5-noise-cancelling-headphones-launched/",
+   "thumbnail": "https://cdn.gadgetpilipinas.net/wp-content/uploads/2022/05/Sony-WH-1000MX5-banner-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWhVbkoxZFZSaU4ycHpVUzF1VFJDZkF4ampCU2dLTWdB",
+   "date": "05/13/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-13T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Sony announces WH-1000XM5 Noise Cancelling headphones",
+   "source": {
+    "name": "The Mobile Indian",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://themobileindian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://themobileindian.com/news/sony-announces-wh-1000xm5-noise-cancelling-headphones",
+   "date": "05/13/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-13T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Test: Sony WH-1000XM5 \u00e2\u20ac\u201c certainly among the best in the world - Computer news",
+   "source": {
+    "name": "Ra\u010dunalni\u0161ke novice",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.racunalniske-novice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.racunalniske-novice.com/en/test-headphones-sony-wh-1000xm5-review/",
+   "thumbnail": "https://www.racunalniske-novice.com/wp-content/uploads/2024/07/Test-Sony-WH-1000XM5-review-2-1024x768.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpPV3hZYlZObVh5MDJhRlpHVFJEZ0F4aUFCU2dLTWdtWlVvWk1LV1NpS0FJ",
+   "date": "07/19/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-07-19T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "The Redesigned Sony WH1000XM5 Headphones Have Been Unveiled",
+   "source": {
+    "name": "Unbox PH",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://unbox.ph&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://unbox.ph/gadget/the-redesigned-sony-wh1000xm5-headphones-have-been-unveiled/",
+   "thumbnail": "https://unbox.ph/wp-content/uploads/2022/05/wh1000xm5.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1TV3BrVVZvMVlrMHdSbVF3VFJEOEFoaW5CaWdLTWdZWmc0Q1A0UUU",
+   "date": "05/13/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-13T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "The Sony WH-1000XM5 is now official, coming to Malaysia this June",
+   "source": {
+    "name": "SoyaCincau",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://soyacincau.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Raymond Saw"
+    ]
+   },
+   "link": "https://soyacincau.com/2022/05/13/the-sony-wh-1000xm5-is-now-official-coming-to-malaysia-this-june/",
+   "thumbnail": "https://soyacincau.com/wp-content/uploads/2022/05/220513-sony-wh-1000xm5.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlSGt5Y0dWRlVVeFJTMk54VFJDZkF4ampCU2dLTWdhbFZJcXRwUWM",
+   "date": "05/13/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-13T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Sony Launches WH-1000XM5 Noise Cancelling Headphone",
+   "source": {
+    "name": "digital terminal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://digitalterminal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://digitalterminal.in/news/31061.html",
+   "thumbnail": "https://media.assettype.com/digitalterminal/import/uploads/news/1663759044s_Sony-WH-1000XM5.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRjRlkyUkdaNldFc3ljbTFLVFJDeEF4akVCU2dLTWdB",
+   "date": "09/21/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-09-21T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Sony WH-1000XM5 wireless noise-canceling headphones launched: Check price and features",
+   "source": {
+    "name": "NewsBytes",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.newsbytesapp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.newsbytesapp.com/news/science/sony-wh-1000xm5-wireless-noise-canceling-headphones-launched-price-features/story",
+   "thumbnail": "https://i.cdn.newsbytesapp.com/images/l89220220513103829.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVJSMVpSWTNwMGIwb3hiMDVLVFJDZkF4ampCU2dLTWdB",
+   "date": "05/13/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-05-13T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Beats Studio Pro at $169.95 Signals Clearance as FCC-Confirmed Successor Nears",
+   "source": {
+    "name": "Tech Times",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.techtimes.com/articles/323227/20260805/beats-studio-pro-16995-signals-clearance-fcc-confirmed-successor-nears.htm",
+   "thumbnail": "https://d.techtimes.com/en/full/471554/beats-studio-pro.jpg?w=836&f=5e6829507203d53921ad2e28406f8ab7",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSVFZhVUVkSGRESnlTVVJpVFJDcUJCaXFCQ2dLTWdhaFlveFB1UVU",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Sony WH-XB910N\u2019s Successor Seems Near, Design Renders & Specifications Leak",
+   "source": {
+    "name": "Gizmochina",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.gizmochina.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.gizmochina.com/2023/02/10/sony-wh-xb910n-successor-design-renders-specifications-leak/",
+   "thumbnail": "https://www.gizmochina.com/wp-content/uploads/2023/02/New-Sony-Headphones.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpPRVpyVVVremRYZElVVXhIVFJDZkF4ampCU2dLTWdZcFZZcnR2UVE",
+   "date": "02/10/2023, 08:00 AM, +0000 UTC",
+   "iso_date": "2023-02-10T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ],
+ "_probe_latency_s": 1.31
+}

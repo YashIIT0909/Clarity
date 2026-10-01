@@ -1,0 +1,380 @@
+{
+ "search_metadata": {
+  "id": "6abce32d1290d9411ddcb41a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/jjoorwf-1V6X4jnf-pzZ3mZe_XdppD2aCglsCDZAKPE/6abce32d1290d9411ddcb41a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/jjoorwf-1V6X4jnf-pzZ3mZe_XdppD2aCglsCDZAKPE/6abce32d1290d9411ddcb41a.md",
+  "created_at": "2026-09-30 10:23:41 UTC",
+  "processed_at": "2026-09-30 10:23:41 UTC",
+  "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22space+heater%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+3-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+  "raw_html_file": "https://serpapi.com/searches/jjoorwf-1V6X4jnf-pzZ3mZe_XdppD2aCglsCDZAKPE/6abce32d1290d9411ddcb41a.html",
+  "prettify_html_file": "https://serpapi.com/searches/jjoorwf-1V6X4jnf-pzZ3mZe_XdppD2aCglsCDZAKPE/6abce32d1290d9411ddcb41a.prettify",
+  "total_time_taken": 2.78
+ },
+ "search_parameters": {
+  "engine": "google_trends",
+  "q": "space heater",
+  "hl": "en",
+  "geo": "US",
+  "date": "today 3-m",
+  "tz": "420",
+  "data_type": "RELATED_QUERIES"
+ },
+ "related_queries": {
+  "rising": [
+   {
+    "query": "infared space heater",
+    "value": "Breakout",
+    "extracted_value": 17500,
+    "link": "https://trends.google.com/trends/explore?q=infared+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=infared+space+heater&tz=420"
+   },
+   {
+    "query": "safe space heaters for overnight use",
+    "value": "+4,650%",
+    "extracted_value": 4650,
+    "link": "https://trends.google.com/trends/explore?q=safe+space+heaters+for+overnight+use&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=safe+space+heaters+for+overnight+use&tz=420"
+   },
+   {
+    "query": "energy efficient space heater for large room",
+    "value": "+1,950%",
+    "extracted_value": 1950,
+    "link": "https://trends.google.com/trends/explore?q=energy+efficient+space+heater+for+large+room&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=energy+efficient+space+heater+for+large+room&tz=420"
+   },
+   {
+    "query": "dreo space heater reviews",
+    "value": "+1,900%",
+    "extracted_value": 1900,
+    "link": "https://trends.google.com/trends/explore?q=dreo+space+heater+reviews&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=dreo+space+heater+reviews&tz=420"
+   },
+   {
+    "query": "safest space heater for bedroom",
+    "value": "+1,850%",
+    "extracted_value": 1850,
+    "link": "https://trends.google.com/trends/explore?q=safest+space+heater+for+bedroom&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=safest+space+heater+for+bedroom&tz=420"
+   },
+   {
+    "query": "krispy pizza new york",
+    "value": "+1,850%",
+    "extracted_value": 1850,
+    "link": "https://trends.google.com/trends/explore?q=krispy+pizza+new+york&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=krispy+pizza+new+york&tz=420"
+   },
+   {
+    "query": "safest space heater to leave unattended",
+    "value": "+1,600%",
+    "extracted_value": 1600,
+    "link": "https://trends.google.com/trends/explore?q=safest+space+heater+to+leave+unattended&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=safest+space+heater+to+leave+unattended&tz=420"
+   },
+   {
+    "query": "can you plug a space heater into an extension cord",
+    "value": "+1,450%",
+    "extracted_value": 1450,
+    "link": "https://trends.google.com/trends/explore?q=can+you+plug+a+space+heater+into+an+extension+cord&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=can+you+plug+a+space+heater+into+an+extension+cord&tz=420"
+   },
+   {
+    "query": "whats a space heater",
+    "value": "+1,400%",
+    "extracted_value": 1400,
+    "link": "https://trends.google.com/trends/explore?q=whats+a+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=whats+a+space+heater&tz=420"
+   },
+   {
+    "query": "best indoor electric heaters for large rooms",
+    "value": "+1,350%",
+    "extracted_value": 1350,
+    "link": "https://trends.google.com/trends/explore?q=best+indoor+electric+heaters+for+large+rooms&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=best+indoor+electric+heaters+for+large+rooms&tz=420"
+   },
+   {
+    "query": "does a space heater use a lot of electricity",
+    "value": "+1,200%",
+    "extracted_value": 1200,
+    "link": "https://trends.google.com/trends/explore?q=does+a+space+heater+use+a+lot+of+electricity&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=does+a+space+heater+use+a+lot+of+electricity&tz=420"
+   },
+   {
+    "query": "hotel booking",
+    "value": "+1,150%",
+    "extracted_value": 1150,
+    "link": "https://trends.google.com/trends/explore?q=hotel+booking&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=hotel+booking&tz=420"
+   },
+   {
+    "query": "space heater with thermostat and auto shut off",
+    "value": "+1,100%",
+    "extracted_value": 1100,
+    "link": "https://trends.google.com/trends/explore?q=space+heater+with+thermostat+and+auto+shut+off&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=space+heater+with+thermostat+and+auto+shut+off&tz=420"
+   },
+   {
+    "query": "space heater vs central heat cost",
+    "value": "+1,100%",
+    "extracted_value": 1100,
+    "link": "https://trends.google.com/trends/explore?q=space+heater+vs+central+heat+cost&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=space+heater+vs+central+heat+cost&tz=420"
+   },
+   {
+    "query": "cyber monday space heater deals",
+    "value": "+950%",
+    "extracted_value": 950,
+    "link": "https://trends.google.com/trends/explore?q=cyber+monday+space+heater+deals&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=cyber+monday+space+heater+deals&tz=420"
+   },
+   {
+    "query": "how much does it cost to run a space heater",
+    "value": "+950%",
+    "extracted_value": 950,
+    "link": "https://trends.google.com/trends/explore?q=how+much+does+it+cost+to+run+a+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=how+much+does+it+cost+to+run+a+space+heater&tz=420"
+   },
+   {
+    "query": "most efficient space heater",
+    "value": "+800%",
+    "extracted_value": 800,
+    "link": "https://trends.google.com/trends/explore?q=most+efficient+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=most+efficient+space+heater&tz=420"
+   },
+   {
+    "query": "how many amps does a space heater use",
+    "value": "+800%",
+    "extracted_value": 800,
+    "link": "https://trends.google.com/trends/explore?q=how+many+amps+does+a+space+heater+use&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=how+many+amps+does+a+space+heater+use&tz=420"
+   },
+   {
+    "query": "best space heater for large room",
+    "value": "+700%",
+    "extracted_value": 700,
+    "link": "https://trends.google.com/trends/explore?q=best+space+heater+for+large+room&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=best+space+heater+for+large+room&tz=420"
+   },
+   {
+    "query": "technology news",
+    "value": "+700%",
+    "extracted_value": 700,
+    "link": "https://trends.google.com/trends/explore?q=technology+news&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=technology+news&tz=420"
+   },
+   {
+    "query": "safest space heater",
+    "value": "+700%",
+    "extracted_value": 700,
+    "link": "https://trends.google.com/trends/explore?q=safest+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=safest+space+heater&tz=420"
+   },
+   {
+    "query": "menards space heater",
+    "value": "+650%",
+    "extracted_value": 650,
+    "link": "https://trends.google.com/trends/explore?q=menards+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=menards+space+heater&tz=420"
+   },
+   {
+    "query": "soace heater",
+    "value": "+600%",
+    "extracted_value": 600,
+    "link": "https://trends.google.com/trends/explore?q=soace+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=soace+heater&tz=420"
+   },
+   {
+    "query": "walmart space heaters",
+    "value": "+600%",
+    "extracted_value": 600,
+    "link": "https://trends.google.com/trends/explore?q=walmart+space+heaters&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=walmart+space+heaters&tz=420"
+   },
+   {
+    "query": "low wattage space heater",
+    "value": "+600%",
+    "extracted_value": 600,
+    "link": "https://trends.google.com/trends/explore?q=low+wattage+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=low+wattage+space+heater&tz=420"
+   }
+  ],
+  "top": [
+   {
+    "query": "electric heater",
+    "value": "100",
+    "extracted_value": 100,
+    "link": "https://trends.google.com/trends/explore?q=electric+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=electric+heater&tz=420"
+   },
+   {
+    "query": "space heater electric",
+    "value": "99",
+    "extracted_value": 99,
+    "link": "https://trends.google.com/trends/explore?q=space+heater+electric&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=space+heater+electric&tz=420"
+   },
+   {
+    "query": "water heater",
+    "value": "57",
+    "extracted_value": 57,
+    "link": "https://trends.google.com/trends/explore?q=water+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=water+heater&tz=420"
+   },
+   {
+    "query": "best space heater",
+    "value": "47",
+    "extracted_value": 47,
+    "link": "https://trends.google.com/trends/explore?q=best+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=best+space+heater&tz=420"
+   },
+   {
+    "query": "small space heater",
+    "value": "30",
+    "extracted_value": 30,
+    "link": "https://trends.google.com/trends/explore?q=small+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=small+space+heater&tz=420"
+   },
+   {
+    "query": "portable heater",
+    "value": "30",
+    "extracted_value": 30,
+    "link": "https://trends.google.com/trends/explore?q=portable+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=portable+heater&tz=420"
+   },
+   {
+    "query": "portable space heater",
+    "value": "30",
+    "extracted_value": 30,
+    "link": "https://trends.google.com/trends/explore?q=portable+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=portable+space+heater&tz=420"
+   },
+   {
+    "query": "space heaters",
+    "value": "26",
+    "extracted_value": 26,
+    "link": "https://trends.google.com/trends/explore?q=space+heaters&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=space+heaters&tz=420"
+   },
+   {
+    "query": "heaters",
+    "value": "25",
+    "extracted_value": 25,
+    "link": "https://trends.google.com/trends/explore?q=heaters&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=heaters&tz=420"
+   },
+   {
+    "query": "room space heater",
+    "value": "25",
+    "extracted_value": 25,
+    "link": "https://trends.google.com/trends/explore?q=room+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=room+space+heater&tz=420"
+   },
+   {
+    "query": "room heater",
+    "value": "25",
+    "extracted_value": 25,
+    "link": "https://trends.google.com/trends/explore?q=room+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=room+heater&tz=420"
+   },
+   {
+    "query": "what is a space heater",
+    "value": "23",
+    "extracted_value": 23,
+    "link": "https://trends.google.com/trends/explore?q=what+is+a+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=what+is+a+space+heater&tz=420"
+   },
+   {
+    "query": "space heater near me",
+    "value": "21",
+    "extracted_value": 21,
+    "link": "https://trends.google.com/trends/explore?q=space+heater+near+me&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=space+heater+near+me&tz=420"
+   },
+   {
+    "query": "gas space heater",
+    "value": "20",
+    "extracted_value": 20,
+    "link": "https://trends.google.com/trends/explore?q=gas+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=gas+space+heater&tz=420"
+   },
+   {
+    "query": "oil space heater",
+    "value": "20",
+    "extracted_value": 20,
+    "link": "https://trends.google.com/trends/explore?q=oil+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=oil+space+heater&tz=420"
+   },
+   {
+    "query": "wall space heater",
+    "value": "19",
+    "extracted_value": 19,
+    "link": "https://trends.google.com/trends/explore?q=wall+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=wall+space+heater&tz=420"
+   },
+   {
+    "query": "ceramic space heater",
+    "value": "19",
+    "extracted_value": 19,
+    "link": "https://trends.google.com/trends/explore?q=ceramic+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=ceramic+space+heater&tz=420"
+   },
+   {
+    "query": "space heater indoor",
+    "value": "19",
+    "extracted_value": 19,
+    "link": "https://trends.google.com/trends/explore?q=space+heater+indoor&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=space+heater+indoor&tz=420"
+   },
+   {
+    "query": "outdoor space heater",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=outdoor+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=outdoor+space+heater&tz=420"
+   },
+   {
+    "query": "dreo",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=dreo&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=dreo&tz=420"
+   },
+   {
+    "query": "dreo space heater",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=dreo+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=dreo+space+heater&tz=420"
+   },
+   {
+    "query": "space heater cost",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=space+heater+cost&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=space+heater+cost&tz=420"
+   },
+   {
+    "query": "dreo heater",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=dreo+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=dreo+heater&tz=420"
+   },
+   {
+    "query": "propane heater",
+    "value": "15",
+    "extracted_value": 15,
+    "link": "https://trends.google.com/trends/explore?q=propane+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=propane+heater&tz=420"
+   },
+   {
+    "query": "propane space heater",
+    "value": "15",
+    "extracted_value": 15,
+    "link": "https://trends.google.com/trends/explore?q=propane+space+heater&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=propane+space+heater&tz=420"
+   }
+  ]
+ },
+ "_probe_latency_s": 3.39
+}

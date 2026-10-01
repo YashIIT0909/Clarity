@@ -1,0 +1,1622 @@
+{
+ "search_metadata": {
+  "id": "6abce32b5c2622de15cc724a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/xddE2Ec0l2rLM_cJtG9q-vLnrwUXmZJ0qPbcTuLQf2k/6abce32b5c2622de15cc724a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/xddE2Ec0l2rLM_cJtG9q-vLnrwUXmZJ0qPbcTuLQf2k/6abce32b5c2622de15cc724a.md",
+  "created_at": "2026-09-30 10:23:39 UTC",
+  "processed_at": "2026-09-30 10:23:39 UTC",
+  "google_news_url": "https://news.google.com/search?q=nintendo+switch+2+successor&hl=en&gl=US",
+  "raw_html_file": "https://serpapi.com/searches/xddE2Ec0l2rLM_cJtG9q-vLnrwUXmZJ0qPbcTuLQf2k/6abce32b5c2622de15cc724a.html",
+  "total_time_taken": 1.49
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "us",
+  "hl": "en",
+  "q": "nintendo switch 2 successor"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Is Switch 2 Powerful Enough To Last Into the 2030s With PS6 and Project Helix Coming Soon?",
+   "source": {
+    "name": "Digital Foundry",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.digitalfoundry.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "William Judd"
+    ]
+   },
+   "link": "https://www.digitalfoundry.net/features/is-switch-2-powerful-enough-to-last-into-the-2030s-with-ps6-and-project-helix-coming-soon",
+   "thumbnail": "https://images.digitalfoundry.net/b60a0f301057f/large.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpNRkZ3YXpkNlRXazVRbk41VFJDZkF4ampCU2dLTWdhQmdaSkRzUWM",
+   "date": "05/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-23T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "I\u2019ve been testing the Nintendo Switch 2 for the last 10 months, and here\u2019s my honest feedback if it\u2019s worth the upgrade",
+   "source": {
+    "name": "NBC News",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harry Rabinowitz"
+    ]
+   },
+   "link": "https://www.nbcnews.com/select/shopping/nintendo-switch-2-review-rcna265466",
+   "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-03/260324-nintendo-switch-2-oo-main-1830fa.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUROME14TkhCVGJsaEdSak53VFJDSEF4aVBCaWdLTWdhUk1aQ3NwUWM",
+   "date": "03/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-30T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Wild Arms spiritual successor Armed Fantasia, which was planned for Nintendo platforms, has been cancelled",
+   "source": {
+    "name": "Nintendo Everything",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://nintendoeverything.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://nintendoeverything.com/wild-arms-spiritual-successor-armed-fantasia-which-was-planned-for-nintendo-platforms-has-been-cancelled/",
+   "thumbnail": "https://nintendoeverything.com/wp-content/uploads/Armed-Fantasia-cancelled.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRPVUZUWVZwSE5uRTNWR0YwVFJDZkF4ampCU2dLTWdhZEU0NXJsUWs",
+   "date": "09/24/2026, 08:44 PM, +0000 UTC",
+   "iso_date": "2026-09-24T20:44:55Z"
+  },
+  {
+   "position": 4,
+   "title": "Never Do These 5 Things On Your Nintendo Switch 2",
+   "source": {
+    "name": "bgr.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jose Adorno"
+    ]
+   },
+   "link": "https://www.bgr.com/2150666/never-do-these-things-on-nintendo-switch/",
+   "thumbnail": "https://www.bgr.com/img/gallery/never-do-these-5-things-on-your-nintendo-switch-2/intro-1776442037.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlUV3RMY2pSNlVYQk9PRjloVFJDZkF4ampCU2dLTWdZaFk1SnZNUWc",
+   "date": "05/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-03T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "\u2018Nintendo Switch Sports Resort,\u2019 The Spiritual Successor to \u2018Wii Sports,\u2019 Is Releasing in October 2026",
+   "source": {
+    "name": "Hypebeast",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hypebeast.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sophia Patricia Caraan"
+    ]
+   },
+   "link": "https://hypebeast.com/2026/6/nintendo-switch-sports-resort-video-game-release-info",
+   "thumbnail": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F06%2F10%2FNintendo-Switch-Sports-Resort-Video-Game-Release-Info-0.jpg?w=960&cbr=1&q=90&fit=max",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBORjlhU21nemRVSjROelZYVFJERUF4aW1CU2dLTWdhTlJKTEhxUWc",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Nintendo Switch 2 Locks In 2026 Release Date For Bloodborne Successor",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kate Harrold"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/platform/nintendo/nintendo-switch-release-date-bloodborne-successor-922294-20260518",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHQzOWJlZDQzZmUxOGVjMGVlLzZhMGIzMmVjZTEyMTY0NTM1NDkxYmQ4My9kdXNrYmxvb2RzMjAyNi5qcGc.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhZbWMzTWxOWFFucE9lVXRRVFJDZkF4ampCU2dLTWdZbEJZYk9FUXM",
+   "date": "05/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-19T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Nintendo Switch 2 In 2027: Every Game And Their Release Dates",
+   "source": {
+    "name": "Nintendo Insider",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nintendo-insider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alex Seedhouse"
+    ]
+   },
+   "link": "https://www.nintendo-insider.com/nintendo-switch-2-in-2027-every-game-and-their-release-dates/",
+   "thumbnail": "https://www.nintendo-insider.com/wp-content/uploads/2025/01/nintendo_switch_2_official_photo-300x169.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpSMDl4VjBGUU4zRlVjR2d0VFJDcEFSaXNBaWdLTWdZSmtKU2x0Z1k",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Nintendo shares slide 11% as Switch 2 momentum fears grow",
+   "source": {
+    "name": "reuters.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sam Nussey"
+    ]
+   },
+   "link": "https://www.reuters.com/world/asia-pacific/nintendo-shares-slide-10-momentum-fears-grow-2026-02-04/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/ZODN2VNVHJMZ5K5REGFGPJA6JU.jpg?auth=f0ebac0ab3ef9aa2f7a92ff5241fe21d282ce96898037f2186b6540aa9217b67&width=960&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdVV000WkRGcmVqVnJSVzVCVFJDM0FSaVRBaWdCTWdhVkU1SUpyZ1k",
+   "date": "02/04/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-04T08:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "13 months later: A retrospective on the Nintendo Switch 2",
+   "source": {
+    "name": "Gamereactor UK",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gamereactor.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ben Lyons"
+    ]
+   },
+   "link": "https://www.gamereactor.eu/13-months-later-a-retrospective-on-the-nintendo-switch-2-1745323/",
+   "thumbnail": "https://www.gamereactor.eu/media/32/_4553263_1600x900.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpaSFZUYnprM2JGRkhhM001VFJDZkF4ampCU2dLTWdhVk5ZZ0xJZ2c",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Argos rivals Amazon as Nintendo Switch 2 falls to 'lowest price ever' in gaming sale",
+   "source": {
+    "name": "Nottingham Post",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nottinghampost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jake Hackney"
+    ]
+   },
+   "link": "https://www.nottinghampost.com/whats-on/shopping/argos-amazon-nintendo-switch-2-11174466.amp",
+   "thumbnail": "https://i2-prod.nottinghampost.com/incoming/article11174493.ece/ALTERNATES/s1200b/0_Untitled-September-25-2026-at-134102-1jpeg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhZM2xIWXpWcmFWZHFNR1J2VFJEZ0F4aUFCU2dLTWdZUllKSkpLUWM",
+   "date": "09/28/2026, 10:21 AM, +0000 UTC",
+   "iso_date": "2026-09-28T10:21:42Z"
+  },
+  {
+   "position": 11,
+   "title": "Phasmophobia Heading To Nintendo Switch 2",
+   "source": {
+    "name": "The Outerhaven",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theouterhaven.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Scott Adams"
+    ]
+   },
+   "link": "https://www.theouterhaven.net/phasmophobia-heading-to-nintendo-switch-2/",
+   "thumbnail": "https://cdn.theouterhaven.net/wp-content/uploads/phasmophobia-is-coming-to-the-nintendo-switch-2-v0-8wyw29zzxo6g1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFZbTlyYmtwU1lqTkdOMVZKVFJDZkF4ampCU2dLTWdhbFZJWnNJUWs",
+   "date": "12/12/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-12T08:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "When Should You Fully Power Off Your Nintendo Switch 2 Vs Using Sleep Mode?",
+   "source": {
+    "name": "SlashGear",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.slashgear.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.slashgear.com/2183468/when-to-power-off-nintendo-switch-2-sleep-mode-fully-shut-down-reason/",
+   "thumbnail": "https://www.slashgear.com/img/gallery/when-to-power-off-nintendo-switch-2-sleep-mode-fully-shut-down-reason/intro-1780050739.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBMVTB5U1dkbE1VbDFUMnhzVFJDZkF4ampCU2dLTWdhSmtaSzF0QVk",
+   "date": "05/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-31T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Nintendo Switch 2 just got a new Pok\u00e9mon game \u2013 sort of",
+   "source": {
+    "name": "The Shortcut | Matt Swider",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theshortcut.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Adam Vjestica"
+    ]
+   },
+   "link": "https://www.theshortcut.com/p/nintendo-switch-2-just-got-a-new-pokemon-game-sort-of",
+   "thumbnail": "https://substackcdn.com/image/fetch/$s_!ksdr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac08fe4d-4dd2-4dd9-af5c-75cc2eea7107_1280x720.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jbWhYZDJScmFrcElkMjlLVFJDZkF4ampCU2dLTWdhbFJJYXRJUU0",
+   "date": "03/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-18T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Nintendo Surprise New Console Surfaces Online, Watch Out Switch 2",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kate Harrold"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/platform/nintendo/nintendo-surprise-new-console-635295-20260116",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHQ0ZTlhMzY5NTk1OGQ1YTMwLzY5NmEwYjQyNTY2MzU4ZWI0YmI2ZDdkNS9zd2l0Y2hvbGVkLmpwZw.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxibFpyVlhoWU9URk9YMlZDVFJDZkF4amlCU2dLTWdrSlFJeDFuS2RhendF",
+   "date": "01/16/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-16T08:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "Nintendo Is Releasing an EU-Only Switch 2 Model With User-Replaceable Battery",
+   "source": {
+    "name": "Hypebeast",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hypebeast.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hypebeast.com/2026/6/nintendo-switch-2-eu-model-adds-user-replaceable-battery",
+   "thumbnail": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F06%2F04%2Fnintendo-switch-2-eu-model-adds-user-replaceable-battery-1.jpg?q=90&w=800&cbr=1&fit=max",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlNRzV1UkZCUlVVTkhYMEpQVFJERUF4aW5CU2dLTWdZSlVJNElyUVk",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Guitar Hero Spiritual Successor Stage Tour Coming To Nintendo Switch 2",
+   "source": {
+    "name": "Nintendo Insider",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nintendo-insider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alex Seedhouse"
+    ]
+   },
+   "link": "https://www.nintendo-insider.com/guitar-hero-spiritual-successor-stage-tour-coming-to-nintendo-switch-2/",
+   "thumbnail": "https://www.nintendo-insider.com/wp-content/uploads/2026/07/stage_tour_screenshot.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhVREpzUVRkNU5ETk9hSE51VFJDZkF4ampCU2dLTWdZUkFJb0tpZ3M",
+   "date": "07/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-16T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Nintendo explains why it decided to make a direct follow-up to Switch with Switch 2",
+   "source": {
+    "name": "Nintendo Everything",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://nintendoeverything.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://nintendoeverything.com/nintendo-explains-why-it-decided-to-make-a-direct-follow-up-to-switch-with-switch-2/",
+   "thumbnail": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-Switch-2-successor.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlhM28yY0ZCQmIxbFJjREI1VFJDZkF4ampCU2dLTWdZSlVvamtwZ2c",
+   "date": "11/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-04T08:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "FromSoftware's Bloodborne successor announces free playtest, sign up soon",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sam Cawley"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/platform/nintendo/fromsoftware-bloodborne-successor-free-playtest-870893-20260716",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHQ4MzFjZDQ0MjljYjE2ZjY3LzZhNTg5MWJiYjY4NjM3ZDdiOTc5NDU5Ny90aGVkdXNrYmxvb2RzLmpwZw.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpOR3hDVGt4d1MyODNXVFpSVFJDZkF4ampCU2dLTWdZcFU0Q3VLUU0",
+   "date": "07/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-16T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Nintendo Switch 2 Out-Sells Classic Console in Just 7 Months",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "James Lynch"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/platform/nintendo/nintendo-switch-2-outsells-classic-console-908996-20260116",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHQxNGM4NTc5NjZjNmI2YTVmLzY5NmEyNjVkNjdiNzViY2ZiNzMwMjE2MS9Td2l0Y2hfMl8oMSkuanBn.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtYemR4U25saFZEbFVVbEJtVFJDZkF4ampCU2dLTWdhVklvUUxuZ2s",
+   "date": "01/16/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-16T08:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Nintendo Switch Demolishes DS Sales, Switch 2 Already Outsold Wii U",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Richard Breslin"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/platform/nintendo/nintendo-switch-demolishes-ds-outsold-wii-u-640922-20260203",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHRhYjA1NTZjY2JiYmQ2MzAzLzY5ODIxZDBlOTM2Yzc4NDVlZjIzYzA0ZS9uaW50ZW5kby1zd2l0Y2gtYW5kLWRzLXNhbGVzLmpwZw.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxReTFyY0d0cGFHUkZlbWhhVFJDZkF4ampCU2dLTWdZTkVZelduQWc",
+   "date": "02/03/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-03T08:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Switch 2 vs Switch 1 Sales Comparison - October 2025",
+   "source": {
+    "name": "VGChartz",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vgchartz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "William D'Angelo"
+    ]
+   },
+   "link": "https://www.vgchartz.com/article/466341/switch-2-vs-switch-1-sales-comparison-october-2025/",
+   "thumbnail": "https://www.vgchartz.com/articles_media/images/switch-2-vs-switch-1-sales-comparison-october-2025-294285_expanded.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxRbnBwWm1jMmNuQlpUWGRUVFJDc0FSaWVCU2dLTWdtSmdaTFdzS2E1ekFF",
+   "date": "12/07/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-07T08:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Nintendo Switch 2 to be released in 2025 - News - Nintendo Official Site",
+   "source": {
+    "name": "nintendo.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nintendo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.nintendo.com/us/whatsnew/nintendo-switch-2-to-be-released-in-2025/",
+   "thumbnail": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/c_fill,w_813/dpr_2.0/ncom/en_US/articles/2025/nintendo-switch-2-to-be-released-in-2025/1920x1080_WN_PR01162025",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpiREZyY2t3NVZ6bGpTVTVhVFJDZkF4amlCU2dLTWdrSmdKS2x0dVpFN2dF",
+   "date": "01/16/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-16T08:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Nintendo Shares A Very Surprising Stat About The Switch 2's Bonkers Launch",
+   "source": {
+    "name": "Kotaku",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://kotaku.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ethan Gach"
+    ]
+   },
+   "link": "https://kotaku.com/switch-2-mario-galaxy-movie-nintendo-donkey-kong-2000641323",
+   "thumbnail": "https://kotaku.com/app/uploads/2025/05/d8f74d792342ce766d95cf4dfef6d184-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFYekZMVWpNME4yVXpTRUk0VFJDZkF4ampCU2dLTWdZdFFvNXZwUVU",
+   "date": "11/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-05T08:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "New Nintendo Switch 2 With Updated Screen Could Fix Ghosting Issue",
+   "source": {
+    "name": "Insider Gaming",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://insider-gaming.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Andrew Highton"
+    ]
+   },
+   "link": "https://insider-gaming.com/new-nintendo-switch-2-with-updated-screen-could-fix-ghosting-issue/",
+   "thumbnail": "https://insider-gaming.com/wp-content/uploads/2025/12/Switch-2-1-1024x576.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhkRXRrWkVaQlpGcHdVamhNVFJDZkF4ampCU2dLTWdZZEFKQ3RPUVk",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Is Shift at Midnight on Xbox, PlayStation, or Nintendo Switch? All Consoles & Platforms, Explained",
+   "source": {
+    "name": "Insider Gaming",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://insider-gaming.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Andrew Highton"
+    ]
+   },
+   "link": "https://insider-gaming.com/shift-at-midnight-xbox-playstation-nintendo-switch-platforms/",
+   "thumbnail": "https://insider-gaming.com/wp-content/uploads/2026/07/Is-Shift-at-Midnight-on-Xbox-PlayStation-or-Nintendo-Switch-All-Platforms-Explained-guide-1024x576.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlaMjlZYjFORFEwSk1MV05zVFJDZkF4ampCU2dLTWdraFVJek1JV2dPTVFF",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Finally, a new controller that solves the Switch 2\u2019s \u201cflat Joy-Con\u201d problem",
+   "source": {
+    "name": "Ars Technica",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kyle Orland"
+    ]
+   },
+   "link": "https://arstechnica.com/gaming/2026/01/finally-a-new-controller-that-solves-the-switch-2s-flat-joy-con-problem/",
+   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/hyperion3-1152x648.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZOMjl5WVRoR1ZHbEVlV04yVFJDZkF4ampCU2dLTWdZQklJeEx4UVE",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Updated Switch 2 Disassembled: Nintendo Simplified Battery Replacement",
+   "source": {
+    "name": "ixbt.games",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ixbt.games&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dmitry Krivov"
+    ]
+   },
+   "link": "https://ixbt.games/en/news/2026/09/07/433041-obnovlennuiu-switch-2-razobrali-nintendo-uprostila-zamenu-akkumuliatora.html",
+   "thumbnail": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1298935/91f05157-6005-48ac-8850-1e3fc9cb203e.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtRVkpsV2pCV1JqTm9ZbWROVFJDMkF4aTlCU2dLTWdZQk1Kak5xUWM",
+   "date": "09/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-07T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Pro-Evolution Soccer Successor 'eFootball' Is Getting A Switch 2 Exclusive Spin-Off",
+   "source": {
+    "name": "Nintendo Life",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nintendolife.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alana Hagues"
+    ]
+   },
+   "link": "https://www.nintendolife.com/news/2026/02/pro-evolution-soccer-successor-efootball-is-getting-a-switch-2-exclusive-spin-off",
+   "thumbnail": "https://images.nintendolife.com/4af18e4d3c336/1280x720.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhVMTlGZFZSRldsRkZZblI1VFJDZkF4ampCU2dLTWdZdEZZVE5sUW8",
+   "date": "02/05/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-05T08:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Heir to Bloodborne is Officially Here This Year, Can't Wait",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sam Cawley"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/heir-bloodborne-duskbloods-fromsoftware-432783-20260102",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHQ5Yjc2MjgzYzgwZmJkOGU4LzY5NTdiNzZhNjBmNWVmMTM1ZDEzOGZlYi90aHVtYi5wbmc.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFNV1F3U1VOc1FsVnhUWGhzVFJDZkF4ampCU2dLTWdZeGNvZ3hxUVk",
+   "date": "01/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-02T08:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Nintendo Switch 2 production slashed: Will the handheld get pricier this spring?",
+   "source": {
+    "name": "tech.sportskeeda.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tech.sportskeeda.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sreyoskrit Mukherjee"
+    ]
+   },
+   "link": "https://tech.sportskeeda.com/gaming-news/nintendo-switch-2-production-slashed-will-handheld-get-pricier-spring",
+   "thumbnail": "https://staticg.sportskeeda.com/editor/2026/03/b7aa3-17743604915651-1920.jpg?w=640",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZOMm8xTVhaQ01uSnFUekZMVFJEb0FoaUFCU2dLTWdZSlVveU1OUVU",
+   "date": "03/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-24T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "THQ Nordic Teases 7 Unannounced Games for Nintendo Switch 2",
+   "source": {
+    "name": "Insider Gaming",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://insider-gaming.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Robert DeFelice"
+    ]
+   },
+   "link": "https://insider-gaming.com/thq-nordic-teases-7-unnanounced-games-for-nintendo-switch-2/",
+   "thumbnail": "https://insider-gaming.com/wp-content/uploads/2026/04/THQ-Nordic-Teases-7-Unnanounced-Games-for-Nintendo-Switch-2.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNORU5WYTFOd1QycFBNbXR6VFJDNEF4aTVCU2dLTWdZQkFJaU5CUTA",
+   "date": "04/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-19T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Zelda Tears of the Kingdom Sequel Rumours Are Worrying, It's Not For Us",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sam Cawley"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/platform/nintendo/zelda-tears-kingdom-sequel-rumours-426933-20260102",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHQyOGZhYjBlNTkzMmMyMWUzLzY5NTdiZGRlMzFhYTk1ODlmYTdiZTMyZS90aHVtYi5wbmc.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBPREpxVEVOUWIzVm1jbUk0VFJDZkF4ampCU2dLTWdtQlFZZ1NtU25CVVFF",
+   "date": "01/04/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-04T08:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Nintendo Switch 2's \"Donkey Kong Bananza\" Hands-On Report: Critics See \"Odyssey\" Successor Potential, Call It \"Like GTA\"",
+   "source": {
+    "name": "\u73a9\u5177\u4eba TOY PEOPLE",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.toy-people.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.toy-people.com/en/?p=101329",
+   "thumbnail": "https://img.toy-people.com/member/175145216021.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhYMUl5Y2tKVGIzVkVTRUYzVFJDZkF4ampCU2dLTWdtQkFZeEtqYWV4QlFN",
+   "date": "06/10/2026, 01:22 AM, +0000 UTC",
+   "iso_date": "2026-06-10T01:22:10Z"
+  },
+  {
+   "position": 34,
+   "title": "The Nintendo Switch 2 Just Added A Surprise Free Multiplayer Demo For 'Little Nightmares' Spiritual Successor",
+   "source": {
+    "name": "inverse.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.inverse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Robin Bea"
+    ]
+   },
+   "link": "https://www.inverse.com/gaming/nintendo-switch-2-reanimal-coop-horror-demo",
+   "thumbnail": "https://imgix.bustle.com/uploads/image/2026/1/14/5b377e00/reanimal-header.jpg?w=1200&h=675&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4823&fp-y=0.6484",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRkV3gxVWpScGR6VnlZamR4VFJDZkF4ampCU2dLTWdZVnNvYXRTUVE",
+   "date": "01/14/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-14T08:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Nintendo Switch 2 Exclusive Keyblade Revealed For Kingdom Hearts Collection [I-III]",
+   "source": {
+    "name": "Nintendo Insider",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nintendo-insider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alex Seedhouse"
+    ]
+   },
+   "link": "https://www.nintendo-insider.com/nintendo-switch-2-exclusive-keyblade-revealed-for-kingdom-hearts-collection-i-iii/",
+   "thumbnail": "https://www.nintendo-insider.com/wp-content/uploads/2026/06/kingdom_hearts_collection_i-iii_pre-order_banner.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUhPVU5WU25adFUwbFJUbGRhVFJDZkF4ampCU2dLTWd1QlJveURIaWVUNjRtb1hB",
+   "date": "06/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-20T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Nintendo to Invest \u00a5121 Billion in Technology Development Center, Set for March 2029 Completion \u2014 Strengthening R&D Foundation with Switch 2 Successor in Sight",
+   "source": {
+    "name": "finance.biggo.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://finance.biggo.com/news/7081fdad-635c-4bb0-aa64-2db99aca1c25",
+   "thumbnail": "https://img.biggo.com/pBio3JRryVZefKAmUyQdxChNbswp8HXENtS6kO3IzOY/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2LzcwODFmZGFkLTYzNWMtNGJiMC1hYTY0LTJkYjk5YWNhMWMyNV8xNzgyMzkyNDc3X2RlZmF1bHQuanBn.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5lSFIyTm1oMUxUSnBNbU5aVFJDZkF4ampCU2dLTWdZaFlJQ3U0UUk",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Pro Evolution Soccer Successor eFootball Kick-Off! Out On Nintendo Switch 2 This Summer",
+   "source": {
+    "name": "Nintendo Insider",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nintendo-insider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alex Seedhouse"
+    ]
+   },
+   "link": "https://www.nintendo-insider.com/pro-evolution-soccer-successor-efootball-kick-off-out-on-nintendo-switch-2-this-summer/",
+   "thumbnail": "https://www.nintendo-insider.com/wp-content/uploads/2026/02/efootball_kick-off_banner-300x169.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxRamx5YmpSMGFrTmFZVkZrVFJDcEFSaXNBaWdLTWdZUkk1Wm5IZ2c",
+   "date": "02/06/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-06T08:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "It's happening \u2014 the Nitro Deck 2 is finally coming",
+   "source": {
+    "name": "TechRadar",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rhys Wood"
+    ]
+   },
+   "link": "https://www.techradar.com/gaming/crkd-finally-reveals-the-nitro-deck-2-a-successor-of-the-best-nintendo-switch-accessories",
+   "thumbnail": "https://cdn.mos.cms.futurecdn.net/uRuBexGWKFpptBc7G97pq5-1920-80.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhVa05zWVcxWVVFSTBOblpQVFJDZkF4ampCU2dLTWdraE5Jak1uYWx6RXdF",
+   "date": "12/12/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-12T08:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Nintendo is getting the Switch ready for retirement",
+   "source": {
+    "name": "The Verge",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jess Weatherbed"
+    ]
+   },
+   "link": "https://www.theverge.com/news/814273/nintendo-switch-2-console-primary-focus-pivot",
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9575287/akrales_171018_2067_games_0027.jpg?quality=90&strip=all&crop=0,21.60000406901,100,66.666666666667",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpkREI0UWsxR1pHTlhPV1UyVFJEQ0F4aXFCU2dLTWdtSllaQ3RzYWZCcndF",
+   "date": "11/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-05T08:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Can You Play Kirby Air Riders On Switch 1? Nintendo Switch 2 & Switch 1 Status, Explained",
+   "source": {
+    "name": "Insider Gaming",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://insider-gaming.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Andrew Highton"
+    ]
+   },
+   "link": "https://insider-gaming.com/kirby-air-riders-switch-1-switch-2/",
+   "thumbnail": "https://insider-gaming.com/wp-content/uploads/2025/11/Is-Kirby-Air-Riders-On-Switch-1-Nintendo-Switch-2-Switch-1-Status-Explained-guide.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRSbTlXTkd0WVl6WlhZMmRCVFJDZkF4ampCU2dLTWdrWklJeXJ0U2FhRkFF",
+   "date": "11/14/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-14T08:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Elden Ring Director Reveals Spiritual Successor Titles Are In Development",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jack Marsh"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/elden-ring-director-spiritual-successor-title-066801-20260613",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHRhNDE2YjQ3ZDQ0M2NjZGM2LzZhMmQ4MTM4NTliMTk0OTI1ZmUwMDZhNS9FbGRlbl9SaW5nX1NwaXJpdHVhbF9TdWNjZXNzb3IuanBn.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9NRGhvV2xkV1YyTnFORUZSVFJDZkF4ampCU2dLTWdtTk1vaHRHV1ZGOEFB",
+   "date": "06/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-13T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Nintendo Switch 2 Hands-On Preview: My Biggest Takeways After A Few Hours With Nintendo's Switch Successor",
+   "source": {
+    "name": "MMORPG.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.mmorpg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Joseph Bradford"
+    ]
+   },
+   "link": "https://www.mmorpg.com/news/nintendo-switch-2-hands-on-preview-my-biggest-takeways-after-a-few-hours-with-nintendos-switch-successor-2000134562",
+   "thumbnail": "https://media.mmorpg.com/images/heroes/posts/134562.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJSelZZU1ROUmRqVTViM1IxVFJDUUF4akhCU2dLTWdZZGtKQ3N1UVU",
+   "date": "04/03/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-03T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Over the river and through the woods to get a Switch 2 near Pittsburgh",
+   "source": {
+    "name": "Pittsburgh City Paper",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pghcitypaper.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Matt Petras"
+    ]
+   },
+   "link": "https://www.pghcitypaper.com/arts-entertainment-2/over-the-river-and-through-the-woods-to-get-a-switch-2-near-pittsburgh-28126456/",
+   "thumbnail": "https://dnm7v7agbcytc.cloudfront.net/2025/06/img_4482.webp-scaled.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRTRkpHUTJrNFNEZzBiMEU0VFJEZ0F4aUFCU2dLTWdZQllKYkVMZ2M",
+   "date": "06/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-05T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Nintendo Switch 2 Review: A Worthy Successor, But Is It Worth The Price?",
+   "source": {
+    "name": "SlashGear",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.slashgear.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.slashgear.com/1891354/nintento-switch-2-review-price-specs-features/",
+   "thumbnail": "https://www.slashgear.com/img/gallery/nintendo-switch-2-review-a-worthy-successor-but-is-it-worth-the-price/intro-1756153038.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJSWEkzU2xsbE1WQnBNVVE1VFJDZkF4ampCU2dLTWdZQmdKTHNPUVk",
+   "date": "08/25/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-25T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Nintendo Switch 2 price is $449.99 and launches June 5",
+   "source": {
+    "name": "The Shortcut | Matt Swider",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theshortcut.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Max Buondonno"
+    ]
+   },
+   "link": "https://www.theshortcut.com/p/nintendo-switch-2-price-confirmed",
+   "thumbnail": "https://substackcdn.com/image/fetch/$s_!TRQP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2094e29-d29b-4a3f-b50b-1046d2b572e1_3200x1800.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdXRkpHTFRReWRqbEdhRzlsVFJDZkF4ampCU2dLTWdrSmdKS2x0dVpFN2dF",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "This Is Why \u20ac469.99 Really Isn't That Expensive for the Nintendo Switch 2",
+   "source": {
+    "name": "IGN Nordic",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nordic.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tom Van Stam"
+    ]
+   },
+   "link": "https://nordic.ign.com/nintendo-switch-2-unofficial-name/93155/feature/this-is-why-eur46999-really-isnt-that-expensive-for-the-nintendo-switch-2",
+   "thumbnail": "https://sm.ign.com/t/ign_nordic/news/n/nintendo-s/nintendo-switch-2-exclusive-games-mitigates-the-sticker-shoc_neh8.1200.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9Sa2R2YUdkWVIzVkpNbEZ1VFJDZkF4ampCU2dLTWdZcEU0aFBIUVk",
+   "date": "04/11/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-11T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Nintendo Switch 2 draws long lines and excited gamers",
+   "source": {
+    "name": "NBC News",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Steven Kopack",
+     "Kalhan Rosenblatt",
+     "Brian Cheung"
+    ]
+   },
+   "link": "https://www.nbcnews.com/business/business-news/nintendo-switch-2-release-lines-excited-gamers-rcna210910",
+   "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-01/250116-nintendo-switch-2-ew-1120a-32ac16.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJTakpzYkVod2VVdG1Ua3hwVFJERUF4aW1CU2dLTWdZZGdvNXJ0UVU",
+   "date": "06/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-04T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "How Nintendo Beat the Bad Vibes Around the Switch 2",
+   "source": {
+    "name": "The Ringer",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theringer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Justin Charity"
+    ]
+   },
+   "link": "https://www.theringer.com/2025/07/18/video-games/nintendo-switch-2-restock-price-release-date-games-success",
+   "thumbnail": "https://www.theringer.com/_next/image?url=https%3A%2F%2Fwp.theringer.com%2Fwp-content%2Fuploads%2F2025%2F07%2Fswitch2_conoldeeney-scaled.jpg&w=3840&q=75&dpl=c0762068d57bb2322a58e6767ae290ac31b10ae5",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJTa3gxYUVOR2VHRnBWazFSVFJDcUJCaXFCQ2dLTWdhZFFvcXNKUVU",
+   "date": "07/18/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-18T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Nintendo Switch 2: Release date, price and new games announced",
+   "source": {
+    "name": "BBC",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.bbc.com/news/articles/c1dr5913qx0o",
+   "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4aaf/live/3f361270-0fde-11f0-ac9f-c37d6fd89579.jpg.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFNSFY0WkZwWlduZ3laR0ZSVFJDT0FoamdBeWdLTWdZQmNwVDBMQWM",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Nintendo Switch 2 Hands-On Preview Part 1: The Hardware and Mario Kart World",
+   "source": {
+    "name": "superjumpmagazine.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.superjumpmagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "James Burns"
+    ]
+   },
+   "link": "https://www.superjumpmagazine.com/nintendo-switch-2-hands-on-preview-part-1-the-hardware-and-mario-kart-world/",
+   "thumbnail": "https://storage.ghost.io/c/c0/e7/c0e78dd7-e7af-4603-8ab9-09f05cab06f3/content/images/size/w2000/2025/05/Incidental05_3sec-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpOakJUYVRSQ1pEUkZXVUZRVFJDbUF4alhCU2dLTWdtQk1JNERKdWh5MEFF",
+   "date": "05/19/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-19T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Nintendo Switch 2 to launch in June with 4K visuals and surprise game lineup",
+   "source": {
+    "name": "The Washington Post",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gene Park",
+     "Samantha Chery"
+    ]
+   },
+   "link": "https://www.washingtonpost.com/entertainment/video-games/2025/04/02/switch-2-4k-hardware-nintendo-direct/",
+   "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AUR4W25MIRATBDIGY3CJAOC7RY.png&w=1440",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhkMk5XWWtwZlp5MWZRbkpsVFJDLUF4aXdCU2dLTWdhSmNaRG1NQWM",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Nintendo Switch 2 price leak is already causing confusion",
+   "source": {
+    "name": "GAMINGbible",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamingbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Richard Breslin"
+    ]
+   },
+   "link": "https://www.gamingbible.com/news/platform/nintendo/nintendo-switch-2-price-leak-442539-20250120",
+   "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YmMxODc2MTUyZmNkOWYwNy9ibHQwMjNjZGQ3NjRjZTMzYjNiLzY3OGU1NGU1MzgwZGRiMWIxNDI3MmYwYi9uaW50ZW5kb19zd2l0Y2hfMl9wcmljZS5wbmc.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdMV2t6YVZBMlZXWlVOR2w1VFJDZkF4ampCU2dLTWdZQlFJeFNwQVk",
+   "date": "01/20/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-20T08:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Nintendo Switch 2 vs. Switch 1: Every Feature Compared",
+   "source": {
+    "name": "CNET",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "David Lumb"
+    ]
+   },
+   "link": "https://www.cnet.com/tech/gaming/nintendo-switch-2-vs-switch-1-gamers-start-your-specs-breakdowns/",
+   "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/526dac1a-cf84-4592-a037-3c9c5d5c589a.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9NMnRNTVRBMWMzUjJSRVpOVFJDZkF4ampCU2dLTWdrSmdKS2x0dVpFN2dF",
+   "date": "06/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-05T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Nintendo Switch 2 to launch in June with 4K visuals and surp...",
+   "source": {
+    "name": "unionleader.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.unionleader.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gene Park",
+     "Samantha Chery"
+    ]
+   },
+   "link": "https://www.unionleader.com/news/article_54c21191-f2c6-46d5-ac59-27eeec6371de-13b0b782",
+   "thumbnail": "https://public-assets-prod.pubgen.ai/brand_9ef47734-e232-4def-9bd7-b215704412e3/asset_d0809b4c-6004-5bb6-85a4-cf6cc66902a0.jpg?w=1200&h=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9WbEpqUVROMVYzWlRhMlUyVFJDcUJCaXFCQ2dLTWdNQllCSQ",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Is RV There Yet? On PlayStation, Xbox, Or Nintendo Switch? Console Status Explained",
+   "source": {
+    "name": "Insider Gaming",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://insider-gaming.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Andrew Highton"
+    ]
+   },
+   "link": "https://insider-gaming.com/rv-there-yet-playstation-xbox-nintendo-switch-console/",
+   "thumbnail": "https://insider-gaming.com/wp-content/uploads/2025/10/Is-RV-There-Yet-on-PlayStation-Xbox-Or-Nintendo-Switch-Console-Status-Explained-guide-mountain-1024x576.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFSMnRmVXkxR1FWZG9hVFZsVFJDZkF4ampCU2dLTWdraEFvYU5zU1JzaGdJ",
+   "date": "10/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-22T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Nintendo Switch 2: Playing it safe with more of the same?",
+   "source": {
+    "name": "straitstimes.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.straitstimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kai Xiang",
+     "Kai Xiang Teo"
+    ]
+   },
+   "link": "https://www.straitstimes.com/life/nintendo-switch-2-playing-it-safe-with-more-of-the-same",
+   "thumbnail": "https://cassette.sphdigital.com.sg/image/straitstimes/0f9c2357d861eb75949e38eea1a7c5913785c73800b9660e2773d84ef30feb8c",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhkVWhWUjJoVVIwWlZYMDlqVFJERUF4aW1CU2dLTWdhVkU1SUpyZ1k",
+   "date": "12/27/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-27T08:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "My Nintendo Switch 2 Review, After Hours Of Gaming\u2014And How To Find It In Stock",
+   "source": {
+    "name": "Forbes",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rebecca Isaacs"
+    ]
+   },
+   "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/nintendo-switch-2-review/",
+   "thumbnail": "https://specials-images.forbesimg.com/imageserve/68791ccd3ab80b5158ff1c4a/A-black-Nintendo-Switch-2-gaming-console-on-a-yellow-background/960x0.jpg?fit=scale",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhiVEV5VjBWbmFrZHpVSG94VFJDZkF4ampCU2dLTWdhVms1S0p0UVk",
+   "date": "07/17/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-17T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "The Nintendo Switch 2, hands-on: It\u2019s pretty good!",
+   "source": {
+    "name": "TechCrunch",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amanda Silberling"
+    ]
+   },
+   "link": "https://techcrunch.com/2025/04/03/the-nintendo-switch-2-hands-on-its-pretty-good/",
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/IMG_0769.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhhRWgwUkc1eFEwazVNblpSVFJEZ0F4aUFCU2dLTWdZUmNvNnB0UVk",
+   "date": "04/03/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-03T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "The Duskbloods: Everything you need to know about FromSoftware's Switch 2 exclusive",
+   "source": {
+    "name": "GamesRadar+",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gamesradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Andrew Brown",
+     "Heather Wald",
+     "Emma-jane Betts"
+    ]
+   },
+   "link": "https://www.gamesradar.com/the-duskbloods-guide/",
+   "thumbnail": "https://cdn.mos.cms.futurecdn.net/Fqbr7gm4g6fqaRDmH7AzBj.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdZbEIzUWtSSVRuSnFSRXhUVFJDZkF4ampCU2dLTWdhZGtvaXRSUVE",
+   "date": "03/06/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-06T08:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Nintendo reveals Switch 2, successor to the massively successful Switch",
+   "source": {
+    "name": "The Spokesman-Review",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.spokesman.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gene Park"
+    ]
+   },
+   "link": "https://www.spokesman.com/stories/2025/jan/16/nintendo-reveals-switch-2-successor-to-the-massive/",
+   "thumbnail": "https://thumb.spokesman.com/Q1KH3WdptcC3Oi5RvT_HZ5ISmdY=/2500x1875/smart/media.spokesman.com/photos/2025/01/16/67895ad69b1ae.hires.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5aelJMT0MwMlVIbElhMlpEVFJEZ0F4aUFCU2dLTWdB",
+   "date": "01/16/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-16T08:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Nintendo Switch 2 hype leads to shortages, special store opening hours",
+   "source": {
+    "name": "CNBC",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Arjun Kharpal"
+    ]
+   },
+   "link": "https://www.cnbc.com/2025/06/05/nintendo-switch-2-launch-shortages-special-opening-hours-amid-hype.html",
+   "thumbnail": "https://image.cnbcfm.com/api/v1/image/108154675-17490591382025-06-04t170741z_449637325_rc2svear6kx6_rtrmadp_0_nintendo-switch-2.jpeg?v=1749059272&w=1600&h=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNUbU5MVVY5UE1tVkNXa0ZPVFJDZkF4ampCU2dLTWdtSk1KckVJdWtsU1FJ",
+   "date": "06/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-05T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Nintendo Switch 2 Console Review",
+   "source": {
+    "name": "CGMagazine",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cgmagonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Zubi Khan"
+    ]
+   },
+   "link": "https://www.cgmagonline.com/review/hardware/nintendo-switch-2-console-review/",
+   "thumbnail": "https://www.cgmagonline.com/wp-content/uploads/2025/06/nintendo-switch-2-console-review-2025-06-09-609542.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlRWE5oUTBaM05VRmhRbUZ0VFJDZkF4ampCU2dLTWdhWnNwQ3RQUVk",
+   "date": "06/09/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-09T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "\u2018Switch 2\u2019 Is Nintendo (Mostly) All Grown Up",
+   "source": {
+    "name": "Rolling Stone",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rollingstone.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Christopher Cruz"
+    ]
+   },
+   "link": "https://www.rollingstone.com/culture/rs-gaming/nintendo-switch-2-review-1235350688/",
+   "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2025/05/JRNintendoSwitch2_HW_09.jpg?w=1581&h=1054&crop=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFWa2RtWDNCQloyVnRlVkkwVFJERUF4aW1CU2dLTWdhWlVaYktLUWc",
+   "date": "06/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-05T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "10 Ways Switch 2 Is Better than Switch",
+   "source": {
+    "name": "IGN",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jared Petty"
+    ]
+   },
+   "link": "https://www.ign.com/articles/10-ways-switch-2-is-better-than-switch",
+   "thumbnail": "https://assets-prd.ignimgs.com/2025/04/04/nintendoswitch2-bestconsoledayone-blogroll-1743769019834.jpg?width=1280&format=jpg&auto=webp&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZRVXBSTUUxSU5WSktTRVYxVFJDZkF4ampCU2dLTWdhZE1wSU1uUWM",
+   "date": "04/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-05T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Nintendo reveals Switch 2 console due to launch on 5 June | Nintendo Switch 2",
+   "source": {
+    "name": "The Guardian",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Keith Stuart"
+    ]
+   },
+   "link": "https://www.theguardian.com/games/2025/apr/02/nintendo-reveals-switch-2-console-due-to-launch-on-5-june",
+   "thumbnail": "https://i.guim.co.uk/img/media/49ba6a9c295acbd131abd301e3a3bc888ec347d3/19_170_2878_1728/master/2878.jpg?width=465&dpr=1&s=none&crop=none",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhSM0pMUm5FMllqSjVWRzEzVFJDWEFoalJBeWdLTWdrVkFJcG93V1F0eGdJ",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Nintendo posts profit miss as it slashes Switch forecast again ahead of console's successor",
+   "source": {
+    "name": "CNBC",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Arjun Kharpal"
+    ]
+   },
+   "link": "https://www.cnbc.com/2025/02/04/nintendo-switch-2-in-focus-as-gaming-giant-posts-profit-miss.html",
+   "thumbnail": "https://image.cnbcfm.com/api/v1/image/107234541-1683103821332-gettyimages-1228099549-AFP_1WL5EI.jpeg?v=1738585302&w=1600&h=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJUa0ZGZDFoVFJXWjVNMjExVFJDZkF4ampCU2dLTWdhQkFZZ3RGUVk",
+   "date": "02/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-04T08:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Nintendo Switch 2 review: exactly good enough",
+   "source": {
+    "name": "The Verge",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Andrew Webster"
+    ]
+   },
+   "link": "https://www.theverge.com/nintendo/686603/nintendo-switch-2-review",
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpWSFUyWjA4dGFXOVZPVVZXVFJDdEJCaW5CQ2dLTWdhTmdaU3FOUWc",
+   "date": "06/14/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-14T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Will games continue to release for Nintendo Switch after its successor? Here\u2019s Nintendo\u2019s roadmap",
+   "source": {
+    "name": "Diario AS",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.as.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://en.as.com/meristation/news/will-games-continue-to-release-for-nintendo-switch-after-its-successor-heres-nintendos-roadmap-n/",
+   "thumbnail": "https://img.asmedia.epimg.net/resizer/v2/NFWK6DB6LZGMFL7QUVLCHAA6X4.jpg?auth=df791f662cd0df4118979815a81e14de64beed2af0b6f180eb4d337ee4e2306a&width=1472&height=828&smart=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNRVUYzT0dwVlIyWlpWamxqVFJDZkF4ampCU2dLTWdZVk00aExJZ2s",
+   "date": "04/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-04T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "How a Detachable Second Screen Would Look on the Nintendo Switch 2",
+   "source": {
+    "name": "TechEBlog -",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techeblog.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.techeblog.com/detachable-second-screen-nintendo-switch-2/",
+   "thumbnail": "https://images.techeblog.com/wp-content/uploads/2025/02/18230613/detachable-second-screen-nintendo-switch-2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhSRlU0YzJSSFJIaDVlVVJMVFJDcUJCaXBCQ2dLTWdhZE5JVHJ6UU0",
+   "date": "02/18/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-18T08:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Nintendo's Switch 2 could breathe new life into the video game giant\u2014if Trump's trade war doesn't upend it all",
+   "source": {
+    "name": "fortune.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nicholas Gordon"
+    ]
+   },
+   "link": "https://fortune.com/asia/2025/06/05/nintendo-switch-2-tariffs-trump-china-video-games-prices/",
+   "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2025/06/ND_2_v1-e1748968641312.jpg?resize=1200,600",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDNNVTVuZURsblRXMVdjbEIzVFJDSEF4aVBCaWdLTWdzQkVJS09zS1NTRTBrUm9n",
+   "date": "06/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-05T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Donkey Kong Bananza Is the Switch 2\u2019s True Successor to Super Mario Odyssey",
+   "source": {
+    "name": "IGN",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mitchell Saltzman"
+    ]
+   },
+   "link": "https://www.ign.com/articles/donkey-kong-bananza-is-the-switch-2s-true-successor-to-super-mario-odyssey",
+   "thumbnail": "https://assets-prd.ignimgs.com/2025/06/30/dkbananza-finalprev-blogroll-1751307467703.jpg?width=1280&format=jpg&auto=webp&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdiWEp4Y21sdVpGcDNhRE5GVFJDZkF4ampCU2dLTWdZQklwQVRFUW8",
+   "date": "07/01/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-01T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Nintendo announces Switch 2, its first new console in eight years",
+   "source": {
+    "name": "The Japan Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.japantimes.co.jp&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sam Byford"
+    ]
+   },
+   "link": "https://www.japantimes.co.jp/life/2025/01/17/digital/nintendo-switch-release-japan/",
+   "thumbnail": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/01/17/446409.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9PV2RsV1cxTFpIVnBNVUZEVFJDZkF4ampCU2dLTWdrSmdKS2x0dVpFN2dF",
+   "date": "01/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-17T08:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Nintendo announces release date for Switch\u2019s gaming-console successor \u2014 the Switch 2",
+   "source": {
+    "name": "New York Post",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://nypost.com/2025/04/02/business/nintendo-announces-release-date-for-switch-successor-switch-2/",
+   "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2025/04/newspress-collage-4bmgb2usn-1743605438089.jpg?quality=75&strip=all&1743591204&w=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU1VVUpHZW5KVmJteFJVa28zVFJERUF4aW5CU2dLTWdzQkVJaXpHQ21wcFJyWlRB",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "5 Things We Want to See In Nintendo Switch 2",
+   "source": {
+    "name": "Rolling Stone",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rollingstone.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Christopher Cruz"
+    ]
+   },
+   "link": "https://www.rollingstone.com/culture/rs-gaming-lists/nintendo-switch-2-what-we-want-1235239835/",
+   "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2025/01/Switch2-ft2.jpg?w=1581&h=1054&crop=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5NbUUzU1hoZmIwMW9SVlYyVFJERUF4aW1CU2dLTWdhbFpJYXNyUVU",
+   "date": "01/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-19T08:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Nintendo reveals plan to tackle Nintendo Switch 2 scalpers and resellers",
+   "source": {
+    "name": "TweakTown",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tweaktown.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jak Connor"
+    ]
+   },
+   "link": "https://www.tweaktown.com/news/103041/nintendo-reveals-plan-to-tackle-switch-2-scalpers-and-resellers/index.html",
+   "thumbnail": "https://static.tweaktown.com/news/1/0/103041_626226_nintendo-reveals-plan-to-tackle-scalpers-with-the-switch-2-release_full.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNRzVZU0ROMlRWZzRVemxZVFJDZkF4ampCU2dLTWdhWmNvcU5yUVE",
+   "date": "02/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-04T08:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Lines at Best Buy, Target wrap around for blocks as Nintendo Switch 2 launches",
+   "source": {
+    "name": "NBC 5 Chicago",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcchicago.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.nbcchicago.com/news/local/lines-at-best-buy-target-wrap-around-for-blocks-as-nintendo-switch-2-launches/3761007/",
+   "thumbnail": "https://media.nbcchicago.com/2025/06/GettyImages-2218016428.jpg?quality=85&strip=all&resize=1200%2C675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBSMEZYTTNaVE4zcG1SMjA1VFJDZkF4ampCU2dLTWdrQk1vWmtzU1ZVaVFJ",
+   "date": "06/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-05T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Nintendo\u2019s next-gen console reportedly delayed to 2025",
+   "source": {
+    "name": "polygon.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.polygon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Michael Mcwhertor"
+    ]
+   },
+   "link": "https://www.polygon.com/24075215/nintendo-switch-2-delay-2025-reports/",
+   "thumbnail": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25290169/mario_switch_.jpg?w=1600&h=900&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRkMFpaUjFSaFZuUldNbEl3VFJDZkF4ampCU2dLTWdZWmM1TE5NUWM",
+   "date": "02/16/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-02-16T08:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Nintendo unveils details of new Switch 2 console",
+   "source": {
+    "name": "marketplace.org",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketplace.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Savannah Peters"
+    ]
+   },
+   "link": "https://www.marketplace.org/story/2025/04/02/nintendo-unveils-details-of-new-switch-2-console",
+   "thumbnail": "https://img.apmcdn.org/7b26ce9dfa8e016597a9c482e213ba346ab2c646/uncropped/d5ce14-2025-04-gettyimages-2201092524-scaled-600.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlVeTFyTFZJM1JtdzNOa0p5VFJEU0FoallCQ2dLTWdZcFk1Qk9OUVk",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Donkey Kong Bananza Is the Switch 2\u2019s True Successor to Super Mario Odyssey",
+   "source": {
+    "name": "IGN Pakistan",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://pk.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mitchell Saltzman"
+    ]
+   },
+   "link": "https://pk.ign.com/donkey-kong-bananza/240839/preview/donkey-kong-bananza-is-the-switch-2s-true-successor-to-super-mario-odyssey",
+   "thumbnail": "https://sm.ign.com/t/ign_pk/gallery/d/donkey-kon/donkey-kong-bananza-direct-screenshots_1em3.600.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNDVSbEJ5YlRWQllsTk5OMGRJVFJEU0FoallCQ2dLTWc0QkVJaGtuV1ZOVHdrNFl5SlpNZw",
+   "date": "07/01/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-01T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Nintendo Switch 2 Hands-On: I\u2019m Obsessed With the Joy-Con Mouse Mode",
+   "source": {
+    "name": "Gizmodo",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gizmodo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alex Cranz"
+    ]
+   },
+   "link": "https://gizmodo.com/the-nintendo-switch-2-is-nice-and-its-mouse-gaming-mode-is-even-nicer-2000583719",
+   "thumbnail": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-hands-on-03.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJaR1JGV0VadlNXSktjazlIVFJERUF4aW1CU2dLTWdZaFlJNXNOUVk",
+   "date": "04/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-05T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Nintendo Switch 2 Launch: What early digital data reveals for third-party games",
+   "source": {
+    "name": "Newzoo",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newzoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://newzoo.com/articles/nintendo-switch-2-launch/",
+   "thumbnail": "https://res.cloudinary.com/da0nqlv43/image/upload/f_auto,q_auto,c_limit,w_1200/v1784034385/articles/ns2-1.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXljWE13TFV0Q2QwZFJkMmxNVFJENkFoaXJCaWdLTWdZSmtaREh0QVk",
+   "date": "07/21/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-21T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Analysts Say Nintendo Switch 2 Won't Outsell the Original Switch, but That's Okay",
+   "source": {
+    "name": "IGN",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rebekah Valentine"
+    ]
+   },
+   "link": "https://www.ign.com/articles/analysts-say-nintendo-switch-2-wont-outsell-the-original-switch-but-thats-okay",
+   "thumbnail": "https://assets-prd.ignimgs.com/2025/01/16/switch2thumb-1737032857640.png?width=1280&format=jpg&auto=webp&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVjVXhmU0c4NFEwUkZiM281VFJDZkF4ampCU2dLTWdZRmNZN0Z0QWM",
+   "date": "01/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-17T08:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Nintendo's Switch 2: What we know about its 2025 release",
+   "source": {
+    "name": "LiveNOW from FOX",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livenowfox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livenowfox.com/news/nintendos-switch-2-what-to-know-release",
+   "thumbnail": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/01/764/432/nintendo-switch-logo.jpg?ve=1&tl=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdhMDB6UXpoRFVqSnhXalptVFJDZ0F4amhCU2dLTWdhTk1ZYkpHQW8",
+   "date": "01/16/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-16T08:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Nintendo Switch 2 revealed with more details coming in April",
+   "source": {
+    "name": "SiliconValley.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.siliconvalley.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gieson Cacho"
+    ]
+   },
+   "link": "https://www.siliconvalley.com/2025/01/16/nintendo-switch-2-revealed-with-more-details-coming-in-april/",
+   "thumbnail": "https://www.siliconvalley.com/wp-content/uploads/2025/01/NintendoSwitch2_Asset2_3ce300.jpg?w=1024",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZla2xtTm1sUllWWkdhV2h0VFJDZkF4ampCU2dLTWdrSmdKS2x0dVpFN2dF",
+   "date": "01/16/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-16T08:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Nintendo Switch 2 pre-order details have been updated with a new date",
+   "source": {
+    "name": "SiliconValley.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.siliconvalley.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gieson Cacho"
+    ]
+   },
+   "link": "https://www.siliconvalley.com/2025/04/18/nintendo-switch-2-pre-order-details-have-been-updated-with-a-new-date/",
+   "thumbnail": "https://www.siliconvalley.com/wp-content/uploads/2025/01/NintendoSwitch2_Asset2_3ce300.jpg?w=1024",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZla2xtTm1sUllWWkdhV2h0VFJDZkF4ampCU2dLTWdrSmdKS2x0dVpFN2dF",
+   "date": "04/18/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-18T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Switch 2 Officially Announced: Nintendo Planning for 2025 Release",
+   "source": {
+    "name": "Tokyo Weekender",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tokyoweekender.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Samantha Low"
+    ]
+   },
+   "link": "https://www.tokyoweekender.com/entertainment/tech-trends/nintendo-switch-2-officially-announced/",
+   "thumbnail": "https://i.ytimg.com/vi/itpcsQQvgAQ/mqdefault.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVTekpSVjBSNGJGRXlRV0U0VFJDMEFSakFBaWdLTWdZZEFKQ3R1UVU",
+   "date": "01/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-17T08:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Nintendo Switch 2 preorders start Thursday. Here's your best chance of getting your hands on one",
+   "source": {
+    "name": "fortune.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chris Morris"
+    ]
+   },
+   "link": "https://fortune.com/article/nintendo-switch-2-preorders-how-to-buy/",
+   "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2025/04/NintendoSwitch2_HW_MarioKartWorld_pkg-e1745419933653.png?format=webp&w=1440&q=100",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlRV2h1VFVNMGFtVnpjM1V3VFJDUEJCakdCQ2dLTWdhbGM0Nk5yUVk",
+   "date": "04/23/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-23T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Nintendo Switch 2 | Critical Consensus",
+   "source": {
+    "name": "GamesIndustry.biz",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gamesindustry.biz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sophie McEvoy"
+    ]
+   },
+   "link": "https://www.gamesindustry.biz/nintendo-switch-2-critical-consensus",
+   "thumbnail": "https://assetsio.gnwcdn.com/nintendo-switch-2-in-the-dock_ZzEOhBk.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpNRlkyUXpOc1RXRnRZVE5hVFJDZkF4amtCU2dLTWdZWmdwQ3R1UVU",
+   "date": "06/24/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-24T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "REVIEW: The Switch 2 is Everything You\u2019d Want in a Switch Successor and More",
+   "source": {
+    "name": "Newsweek",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Oliver Brandt"
+    ]
+   },
+   "link": "https://www.newsweek.com/entertainment/video-games/review-switch-2-everything-youd-want-switch-successor-more-2083513",
+   "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/2660384-switch-2-key-art.jpg?w=1600&quality=80&webp=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdhVmRWZUVONlZqUmxOeTB5VFJDZkF4ampCU2dLTWdZSlVvemtwZ2c",
+   "date": "06/10/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-10T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "FromSoftware Unveils Bloodborne Spiritual Successor for Switch 2",
+   "source": {
+    "name": "80 Level",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://80.lv&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://80.lv/articles/fromsoftware-announces-bloodborne-spiritual-successor-for-nintendo-switch-2",
+   "thumbnail": "https://cdn.80.lv/api/upload/meta/40850/images/67ed4a11242b4/contain_1200x630.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJNbm8xUjFWNU1FTk9TMTlGVFJDakFSaTJBaWdCTWdhQkFvNXZqUWs",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Nintendo Switch 2 - Official Launch Trailer",
+   "source": {
+    "name": "IGN Nordic",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nordic.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://nordic.ign.com/nintendo-switch-2-unofficial-name/94996/video/nintendo-switch-2-official-launch-trailer",
+   "thumbnail": "https://sm.ign.com/t/ign_nordic/video/n/nintendo-s/nintendo-switch-2-official-launch-trailer_p9qn.1280.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlVbHBwZDFrM1drbElURkZtVFJDZkF4ampCU2dLTWdhUmNaS05MUVk",
+   "date": "06/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-05T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Nintendo Switch 2: Release Date, Features, and Upcoming Events",
+   "source": {
+    "name": "Cosmic Book News",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cosmicbook.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://cosmicbook.news/nintendo-switch-2-release-date-features-events",
+   "thumbnail": "https://cosmicbook.news/wp-content/uploads/2025/01/nintendo-switch-2.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWZaaTB6U200ME1rbEtWVlpsVFJDZkF4amlCU2dLTWdB",
+   "date": "01/16/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-16T08:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Making sense of Nintendo\u2019s tight-lipped Switch 2 reveal",
+   "source": {
+    "name": "The Japan Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.japantimes.co.jp&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Owen Ziegler"
+    ]
+   },
+   "link": "https://www.japantimes.co.jp/life/2025/02/06/digital/switch-2-nintendo-launch-analysis/",
+   "thumbnail": "https://cdnx.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2025/02/06/450427.jpg&q=100&f=webp&t=1.53",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVWbFZQVkRSTWRURlZkMVoxVFJERUF4aW5CU2dLTWdZQlFZVFBWQU0",
+   "date": "02/06/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-06T08:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Nintendo finally unveiled its long-awaited Switch successor. Investors weren\u2019t impressed",
+   "source": {
+    "name": "fortune.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Lionel Lim"
+    ]
+   },
+   "link": "https://fortune.com/asia/2025/01/17/nintendo-shares-switch-2-reveal/",
+   "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2025/01/GettyImages-2186237636-e1737097761499.jpg?format=webp&w=1440&quality=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXNObkJKVDBreFpIRTNTRFJtVFJERUF4aW1CU2dLTWdzQllJcEVyV2F4cWJyZVhB",
+   "date": "01/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-17T08:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Nintendo levels up: Switch 2 launches with power boost, 4K gaming",
+   "source": {
+    "name": "MyNorthwest.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://mynorthwest.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Luke Duecy"
+    ]
+   },
+   "link": "https://mynorthwest.com/local/nintendo-switch-2-launches/4100143",
+   "thumbnail": "https://mynorthwest.com/wp-content/uploads/2025/06/Nintendo-Switch-2-420x236.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU1TVmxQUmsxMFZVSnVOM1YxVFJEc0FSaWtBeWdLTWd1UkFJZ0xEYWFDb1p2cXVB",
+   "date": "06/17/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-17T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Nintendo Switch 2 Preview: Hands-on With Nintendo's Next Console",
+   "source": {
+    "name": "Game Informer",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gameinformer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brian Shea"
+    ]
+   },
+   "link": "https://gameinformer.com/preview/2025/04/03/hands-on-with-nintendos-next-console",
+   "thumbnail": "https://gameinformer.com/sites/default/files/styles/content_header_l/public/2025/04/02/5437a49b/nintendoswitch2_asset2.jpg.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFZbEI0YnpoZlRGRnJaMWxyVFJDZkF4ampCU2dLTWdrSmdKS2x0dVpFN2dF",
+   "date": "04/03/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-03T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Nintendo Considered Calling the Switch 2 the Super Nintendo Switch \u2014 Here's Why It Didn't",
+   "source": {
+    "name": "IGN",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Eric Van Allen"
+    ]
+   },
+   "link": "https://www.ign.com/articles/nintendo-considered-calling-the-switch-2-the-super-nintendo-switch-heres-why-it-didnt",
+   "thumbnail": "https://assets-prd.ignimgs.com/2025/04/02/nintendoswitch2overviewtrailer-ign-blogroll-1743603547059.jpg?width=1200&height=900&fit=crop&format=jpg&auto=webp&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdiSEV6Vld0ZlkyMU5ObnBIVFJEZ0F4aUFCU2dLTWdZVmdwU01NUWM",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Customers furious after Game cancels Nintendo Switch 2 pre-orders",
+   "source": {
+    "name": "BBC",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tom Gerken"
+    ]
+   },
+   "link": "https://www.bbc.com/news/articles/ceqg10zqd38o",
+   "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9f44/live/b704dc50-3c98-11f0-9186-699299f06678.jpg.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhXV0l4WVcxcFNXZGZURXRzVFJDT0FoamdBeWdLTWdZWkFveHNMUVk",
+   "date": "05/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-29T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "All about the Nintendo Switch 2: release date, features, price, performance and where to pre-order",
+   "source": {
+    "name": "Diario AS",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.as.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gabriel Huerta"
+    ]
+   },
+   "link": "https://en.as.com/meristation/news/all-about-the-nintendo-switch-2-release-date-features-price-performance-and-where-to-pre-order-n/",
+   "thumbnail": "https://img.asmedia.epimg.net/resizer/v2/V4D6A7L4MBAZTEKSCBEXDGFQ6I.jpg?auth=f7228ed9d608f40939ee67bca0d207fd15d921c2820fbea74c14eff46dd97e7b&width=1472&height=828&smart=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJUV1ZXWm5GT1FqUm5PVVk1VFJDZkF4ampCU2dLTWdhSmdaS0xPUWM",
+   "date": "04/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-02T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Not Sure Which Nintendo Switch to Buy? This'll Make It Way Easier",
+   "source": {
+    "name": "lifewire.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.lifewire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brad Stephenson"
+    ]
+   },
+   "link": "https://www.lifewire.com/nintendo-switch-vs-switch-2-11767986",
+   "thumbnail": "https://www.lifewire.com/thmb/IL80mhfjRo6C7G8NBR6XRfNV8n0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/switch-1-vs-2-e647cbc6da1344f2a811ed269daee8c8.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVPRzFGUVhGSk1GTlpjR2hrVFJDVkF4ajFCU2dLTWdrRm9aVEZPcWMxemdF",
+   "date": "07/09/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-09T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ],
+ "_probe_latency_s": 1.96
+}

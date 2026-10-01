@@ -1,0 +1,182 @@
+{
+ "search_metadata": {
+  "id": "6abcfb116e223751c166ea59",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/tbymNTnTVbNPLZV225wj7NFUxn0u3apTyMsfXLO6l48/6abcfb116e223751c166ea59.json",
+  "markdown_endpoint": "https://serpapi.com/searches/tbymNTnTVbNPLZV225wj7NFUxn0u3apTyMsfXLO6l48/6abcfb116e223751c166ea59.md",
+  "created_at": "2026-09-30 12:05:37 UTC",
+  "processed_at": "2026-09-30 12:05:37 UTC",
+  "google_news_url": "https://news.google.com/search?q=Motorola+MA1+successor&hl=en&gl=US",
+  "raw_html_file": "https://serpapi.com/searches/tbymNTnTVbNPLZV225wj7NFUxn0u3apTyMsfXLO6l48/6abcfb116e223751c166ea59.html",
+  "total_time_taken": 0.54
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "us",
+  "hl": "en",
+  "q": "Motorola MA1 successor"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Battle of Android Auto Wireless Adapters: New Model vs. Major Discount",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/battle-of-android-auto-wireless-adapters-new-model-vs-major-discount-241571.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/battle-of-android-auto-wireless-adapters-new-model-vs-major-discount-241571_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJNMjU0WDFweVYwVk5lbkJ1VFJDZkF4ampCU2dLTWdtSklaQkhNcVkxcmdF",
+   "date": "10/21/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-10-21T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Motorola\u2019s next wireless Android Auto dongle brings the refresh you\u2019ve been waiting for",
+   "source": {
+    "name": "Android Police",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidpolice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rajesh Pandey"
+    ]
+   },
+   "link": "https://www.androidpolice.com/motorola-next-wireless-android-auto-dongle-refresh-waiting-for/",
+   "thumbnail": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/google-maps-android-auto.JPG?w=1600&h=900&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxYMmw0ZFdWMmVuQjJWMGRTVFJDZkF4ampCU2dLTWdZQlVKQ3BxUVk",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Motorola's tiny new Android Auto box missed its launch, but there's good news",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Adamya Sharma"
+    ]
+   },
+   "link": "https://www.androidauthority.com/motorola-ma2-wireless-android-auto-adapter-new-launch-timeline-3681205/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2026/03/Motorola-Sound-MA2-in-hand.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaVkJzZVZFeFF6aEdkRUZOVFJDZkF4ampCU2dLTWdZcGhJTFBzUVk",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Motorola has a tiny new black box at MWC that wants to kill Android Auto cables",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Adamya Sharma"
+    ]
+   },
+   "link": "https://www.androidauthority.com/motorola-ma2-wireless-android-auto-adapter-3645480/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2026/03/Motorola-MA-2-Android-Auto-Adapter.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWliRWQwV1ZCVlVtVldWazlrVFJDZkF4ampCU2dLTWdZZGNJN3NyUVk",
+   "date": "03/01/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-01T08:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Motorola's New Android Auto Wireless Adapter Leaked: This Is the MA2",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/leak-reveals-new-big-android-auto-wireless-adapter-bad-news-for-carplay-users-265522.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/leak-reveals-new-big-android-auto-wireless-adapter-bad-news-for-carplay-users-265522_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkWGhQYzFNM1JtVkVUa2h4VFJDakF4amNCU2dLTWdhZElZZ3lLUWc",
+   "date": "02/11/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-11T08:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "New Android Auto Wireless Adapter: This Is the All-New Motorola MA2",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/new-android-auto-wireless-adapter-this-is-the-all-new-motorola-ma2-266549.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/new-android-auto-wireless-adapter-this-is-the-all-new-motorola-ma2-266549_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFTakU0VlhkeFExWXlkRVZLVFJDM0F4aTdCU2dLTWdZVlFvSlJ0UVk",
+   "date": "03/03/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-03T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Is Motorola's Wireless Android Auto Adapter As Bad as Long-Term Users Claim?",
+   "source": {
+    "name": "autoevolution",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autoevolution.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autoevolution.com/news/is-motorola-s-wireless-android-auto-adapter-as-bad-as-long-term-users-claim-226928.html",
+   "thumbnail": "https://s1.cdn.autoevolution.com/images/news/is-motorola-s-wireless-android-auto-adapter-really-that-unreliable-226928_1.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhTelY1WkhGRlNtUmZaMDVMVFJDZkF4ampCU2dLTWdrZFFKSjNLQ2g3cndF",
+   "date": "12/30/2023, 08:00 AM, +0000 UTC",
+   "iso_date": "2023-12-30T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Moto Edge 30, G52, E32, & Lenovo K15 spotted on certification websites, may launch soon",
+   "source": {
+    "name": "Gizmochina",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.gizmochina.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.gizmochina.com/2022/03/15/moto-edge-30-g52-e32-lenovo-k15-launch-soon/",
+   "thumbnail": "https://www.gizmochina.com/wp-content/uploads/2022/01/Moto-Edge-X30.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlSRUl6TjIxd2FuSktUV05NVFJERUF4aW1CU2dLTWdZWlZJeXNwUWs",
+   "date": "03/15/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-03-15T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ],
+ "_probe_latency_s": 1.13
+}

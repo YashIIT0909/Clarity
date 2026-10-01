@@ -1,0 +1,1600 @@
+{
+ "search_metadata": {
+  "id": "6abcfb12a0cb10a9683f8ae6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/FWOdAhyucmd9CUoXM5AXtLAbpk05RNpNjw9eG7j0xzg/6abcfb12a0cb10a9683f8ae6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/FWOdAhyucmd9CUoXM5AXtLAbpk05RNpNjw9eG7j0xzg/6abcfb12a0cb10a9683f8ae6.md",
+  "created_at": "2026-09-30 12:05:38 UTC",
+  "processed_at": "2026-09-30 12:05:38 UTC",
+  "google_news_url": "https://news.google.com/search?q=Samsung+Galaxy+Tab+S11+successor&hl=en&gl=US",
+  "raw_html_file": "https://serpapi.com/searches/FWOdAhyucmd9CUoXM5AXtLAbpk05RNpNjw9eG7j0xzg/6abcfb12a0cb10a9683f8ae6.html",
+  "total_time_taken": 0.86
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "us",
+  "hl": "en",
+  "q": "Samsung Galaxy Tab S11 successor"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Samsung Galaxy Tab S12 release date expectations, price estimates and upgrades",
+   "source": {
+    "name": "PhoneArena",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Iskra Petrova"
+    ]
+   },
+   "link": "https://www.phonearena.com/galaxy-tab-s12-release-date-price-features-news",
+   "thumbnail": "https://m-cdn.phonearena.com/images/hub/670-wide-two_1200/Samsung-Galaxy-Tab-S12-release-date-expectations-price-estimates-and-upgrades.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNNelJUY2xkSGFpMTZWRTlTVFJDZkF4ampCU2dLTWdZaEJJenJQUVU",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Samey hardware, higher prices: It\u2019s a bad time to buy a tablet",
+   "source": {
+    "name": "techadvisor.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.techadvisor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jon Mundy"
+    ]
+   },
+   "link": "https://www.techadvisor.com/article/3243011/samsung-galaxy-tab-s12-and-xiaomi-pad-9-series-set-for-price-hike.html",
+   "thumbnail": "https://www.techadvisor.com/wp-content/uploads/2026/09/3243011-0-74760900-1790243185-samsunggalaxytabs11ultra6.jpg?quality=50&strip=all",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXBWbGQ2TFdORmFtZG1VamRsVFJDZkF4ampCU2dLTWdNaEFCSQ",
+   "date": "09/24/2026, 09:47 AM, +0000 UTC",
+   "iso_date": "2026-09-24T09:47:12Z"
+  },
+  {
+   "position": 3,
+   "title": "Samsung Galaxy Tab S11 Ultra review: a fantastic premium tablet that\u2019s hampered by mid-range specs",
+   "source": {
+    "name": "TechRadar",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nico Arboleda"
+    ]
+   },
+   "link": "https://www.techradar.com/tablets/samsung-galaxy-tab-s11-ultra-review",
+   "thumbnail": "https://cdn.mos.cms.futurecdn.net/vTTSJ39bBpo8nAEKFj5nRE-1200-80.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZja05MVEVKaGRFbzRRakE0VFJDVEFSalhBaWdCTWdhWk00UXIyZ00",
+   "date": "05/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-21T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "5 Great Android Tablets That Aren\u2019t Just for Cheapskates and Apple-Haters",
+   "source": {
+    "name": "WIRED",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Scott Gilbertson"
+    ]
+   },
+   "link": "https://www.wired.com/story/the-best-android-tablets/",
+   "thumbnail": "http://media.wired.com/photos/6a7ca94984d83aba841afc00/master/pass/The-Best-Android-Tablets.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVaSHBRUVc4MVdVZEJObEpwVFJERUF4aW1CU2dLTWdhWmc0N0x0UVk",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "10 reasons to choose Samsung\u2019s Galaxy Tab S11 and Tab S11 Ultra for work on the go",
+   "source": {
+    "name": "insights.samsung.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://insights.samsung.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://insights.samsung.com/2025/11/05/10-reasons-to-choose-samsungs-galaxy-tab-s11-and-tab-s11-ultra-for-work-on-the-go/",
+   "thumbnail": "https://s47295.pcdn.co/wp-content/uploads/2025/11/Galaxy-Tab-S11_Feature-Visuals_DeX_510x370mm_RGB-1-900x450.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9MV2RyU1hjME9XVXlibGh1VFJDSEF4aVBCaWdLTWdZTmxJQ05PUVE",
+   "date": "11/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-05T08:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "The Best Android Tablets We've Tested for 2026",
+   "source": {
+    "name": "PCMag",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Eric Zeman"
+    ]
+   },
+   "link": "https://www.pcmag.com/picks/the-best-android-tablets",
+   "thumbnail": "https://i.pcmag.com/imagery/articles/01TtPAFPN8oRuIx4A7eavYU-37..v1739292599.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNhbGxFYzJnNGFXMHpMVUV5VFJDZkF4ampCU2dLTWdZTlpJd0tzZ1k",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Leak: Samsung Galaxy Tab S12 Ultra revealed with controversial design",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hannes Brecher"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Leak-Samsung-Galaxy-Tab-S12-Ultra-revealed-with-controversial-design.1344346.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-Tab-S12-Ultra.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZXRE5CVkRkTFEzVXlaVm94VFJEZ0F4aUFCU2dLTWdtQlFZb3FyU1dLcVFJ",
+   "date": "07/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-16T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Galaxy Tab S10+ Sinks to $749 on Amazon: Samsung\u2019s Last 12.4-Inch AMOLED Slate",
+   "source": {
+    "name": "techtimes.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.techtimes.com/articles/321299/20260722/galaxy-tab-s10-sinks-749-amazon-samsungs-last-124-inch-amoled-slate.htm",
+   "thumbnail": "https://d.techtimes.com/en/full/469544/samsung.png?w=836&f=b4add50f6f3ae38232983affe39edcc6",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJWMmh5WTBsYWVFYzBaMlUwVFJET0F4aVhCU2dLTWdtRllvb3VzU2FTc0FF",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Samsung\u2019s latest deal makes the Galaxy Tab S11 Ultra a true replacement for your 10\u2011year\u2011old laptop",
+   "source": {
+    "name": "PhoneArena",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Preslav Mladenov"
+    ]
+   },
+   "link": "https://www.phonearena.com/news/galaxy-tab-s11-ultra-samsung-offer_id181013",
+   "thumbnail": "https://m-cdn.phonearena.com/images/article/181013-wide-two_1200/Samsungs-latest-deal-makes-the-Galaxy-Tab-S11-Ultra-a-true-replacement-for-your-10yearold-laptop.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJiRFJIV0hSTlJGaE5hVXQ1VFJDZkF4ampCU2dLTWdZZGM0aHN1UVE",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "I just tried Samsung\u2019s new Dex Mode on the Galaxy Tab S11 Ultra \u2014 and I don\u2019t think it can replace your laptop (yet)",
+   "source": {
+    "name": "Tom's Guide",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tomsguide.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tony Polanco"
+    ]
+   },
+   "link": "https://www.tomsguide.com/computing/android-tablets/i-ditched-my-laptop-for-the-samsung-galaxy-tab-s11-ultra-heres-what-happened",
+   "thumbnail": "https://cdn.mos.cms.futurecdn.net/LtvbytM2iuAFQbgU4wyk77.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdWMVY1WmpCM1NYbFRVR3BOVFJDZkF4ampCU2dLTWdZcFE0eHRJUWc",
+   "date": "10/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-29T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Samsung Galaxy Tab S11 Review: The High-End Android Tablet to Beat",
+   "source": {
+    "name": "CNET",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "David Carnoy"
+    ]
+   },
+   "link": "https://www.cnet.com/tech/computing/samsung-galaxy-tab-s11-review-expensive-but-the-ideal-android-tablet-for-me/",
+   "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/027d5bb5-8e94-47c9-81af-2ff817d6a055.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpVamRUUWpkTFZGQlRjblJ2VFJDZkF4ampCU2dLTWdhbE00NnVJUVk",
+   "date": "10/25/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-25T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "5 Android Tablets With The Longest Software Support",
+   "source": {
+    "name": "bgr.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alvin Alvin Wanjala"
+    ]
+   },
+   "link": "https://www.bgr.com/2224154/android-tablets-with-longest-software-support/",
+   "thumbnail": "https://www.bgr.com/img/gallery/5-android-tablets-with-the-longest-software-support/intro-1785168854.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhaMWM1VERWeVMxWTBUR0paVFJDZkF4ampCU2dLTWdhaEVvYk5tUWc",
+   "date": "08/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-02T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Samsung Galaxy Tab S12 Ultra surfaces on Google Play Console, may feature flagship MediaTek Dimensity chipset",
+   "source": {
+    "name": "91mobiles.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.91mobiles.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.91mobiles.com/hub/samsung-galaxy-s12-ultra-spotted-on-google-play-console/",
+   "thumbnail": "https://static.hub.91mobiles.com/wp-content/uploads/sites/9/2026/08/Samsung-Galaxy-Tab-S12-Ultra-spotted-on-Google-Play-Console-1.png?tr=q-70,q-70",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWFXVU5HZWpKS1ozaDZWa1ZIVFJDZkF4ampCU2dLTWdPaGd3NA",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Galaxy Tab S11 Ultra turns into laptop replacement with Samsung's new Pro Keyboard",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hannes Brecher"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Galaxy-Tab-S11-Ultra-turns-into-laptop-replacement-with-Samsung-s-new-Pro-Keyboard.1246825.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/_processed_/webp/Notebooks/News/_nc5/Samsung-Galaxy-Tab-S11-Ultra-Pro-Keyboard.png-q82-w2560-h.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1ZazlEYjFOT05HSXlVR2xEVFJEeEF4anBCQ2dLTWdZZFE1QnVwUWc",
+   "date": "03/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-10T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "I tested the Samsung Galaxy Tab S11 Ultra for a week \u2014 here\u2019s what I like and what I don\u2019t",
+   "source": {
+    "name": "Tom's Guide",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tomsguide.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tony Polanco"
+    ]
+   },
+   "link": "https://www.tomsguide.com/computing/android-tablets/samsung-galaxy-tab-s11-ultra-review",
+   "thumbnail": "https://cdn.mos.cms.futurecdn.net/BSFUWF36Lqg2VyNcZosr9a-1200-80.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthbHAzYUhKSWNEZ3piMVpKVFJDVEFSalhBaWdCTWdhbE5Jck5vUWM",
+   "date": "11/01/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-11-01T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "The Galaxy Tab S12 Ultra is starting to look like a rinse-and-repeat upgrade",
+   "source": {
+    "name": "PhoneArena",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Polina Kovalakova"
+    ]
+   },
+   "link": "https://www.phonearena.com/news/galaxy-tab-s12-ultra-rinse-and-repeat_id180967",
+   "thumbnail": "https://m-cdn.phonearena.com/images/article/180967-wide-two_1200/The-Galaxy-Tab-S12-Ultra-is-starting-to-look-like-a-rinse-and-repeat-upgrade.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlXVmhmTTI1WFpFZHZhamhVVFJDZkF4ampCU2dLTWdraEZZYnRFV3A3OGdB",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Samsung Pro Keyboard turns Galaxy Tab S11 Ultra into laptop, but is extremely expensive",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hannes Brecher"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Samsung-Pro-Keyboard-turns-Galaxy-Tab-S11-Ultra-into-laptop-but-is-extremely-expensive.1262576.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung_Pro_Keyboard_Galaxy-Tab-S11-Ultra.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlSV0pXZEZKemIzWTVUR05EVFJEdkF4anJCQ2dLTWdZZE00eU9uUVU",
+   "date": "03/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-30T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Shooting on the Oppo Find X9 Ultra, editing on the Galaxy Tab S11 Ultra: still not good enough",
+   "source": {
+    "name": "PhoneArena",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sebastian Pier"
+    ]
+   },
+   "link": "https://www.phonearena.com/news/shooting-on-the-oppo-find-x9-ultra-editing-on-the-galaxy-tab-s11-ultra-still-not-good-enough_id181603",
+   "thumbnail": "https://m-cdn.phonearena.com/images/article/181603-wide-two_1200/Shooting-on-the-Oppo-Find-X9-Ultra-editing-on-the-Galaxy-Tab-S11-Ultra-still-not-good-enough.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRNRTgwYlZCa2FYWnFhSEpuVFJDZkF4ampCU2dLTWdZaEJZYnRqUU0",
+   "date": "07/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-03T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Galaxy Tab Active6: Samsung\u2019s rugged tablet leak reveals 5G support and launch window",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Huzefa Baloch"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Galaxy-Tab-Active6-Samsung-s-rugged-tablet-leak-reveals-5G-support-and-launch-window.1318376.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/The-Galaxy-Tab-Active5..png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNjRWhIUkZkSGNFeENlazFMVFJEZ0F4aUFCU2dLTWdZWmM1SnJNUWM",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "One of Samsung's next big tablets will pack an even bigger battery than its predecessor",
+   "source": {
+    "name": "PhoneArena",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Adrian Diaconescu"
+    ]
+   },
+   "link": "https://www.phonearena.com/news/samsung-galaxy-tab-s12-plus-even-bigger-battery-than-galaxy-tab-s10-plus_id178960",
+   "thumbnail": "https://m-cdn.phonearena.com/images/article/178960-wide-two_1200/One-of-Samsungs-next-big-tablets-will-pack-an-even-bigger-battery-than-its-predecessor.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBkRkZuYkhCeWFsOWZVSGxWVFJDZkF4ampCU2dLTWdPWmNSSQ",
+   "date": "03/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-16T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "The Samsung Galaxy Tab S11 Ultra has more power, more AI, and much more battery life than its predecessor",
+   "source": {
+    "name": "IT Pro",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.itpro.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Bobby Hellard"
+    ]
+   },
+   "link": "https://www.itpro.com/hardware/tablets/the-samsung-galaxy-tab-s11-ultra-has-more-power-more-ai-and-much-more-battery-life-than-its-predecessor",
+   "thumbnail": "https://cdn.mos.cms.futurecdn.net/GAZpYTtTBHoQjtJmE9RVLb.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVhlbUpZVUZaNU5EWldkelEzVFJDZkF4ampCU2dLTWdNaGNnbw",
+   "date": "10/03/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-03T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Samsung Galaxy Tab S12 tablets detailed with new Galaxy Watch wearables",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alexander Alderson"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Samsung-Galaxy-Tab-S12-tablets-detailed-with-new-Galaxy-Watch-wearables.1218219.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/galaxy-tab-s12-etc-kv.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTZNVWhtTVd4ZkxUUnhZWE16VFJEZ0F4aUFCU2dLTWdNSmNBWQ",
+   "date": "02/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-02T08:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "5 Of The Best Big Tablets You Can Buy In 2026",
+   "source": {
+    "name": "bgr.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alvin Alvin Wanjala"
+    ]
+   },
+   "link": "https://www.bgr.com/2173384/best-big-tablets-can-buy/",
+   "thumbnail": "https://www.bgr.com/img/gallery/5-of-the-best-big-tablets-you-can-buy-in-2026/intro-1778593775.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5ibTFHVFRCSVVITnJRa1o0VFJDZkF4ampCU2dLTWdtZFVvWk1JZVZyOWdB",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Samsung Galaxy Tab S11 Ultra Review \u2013 Slim Flagship Tablet Tested",
+   "source": {
+    "name": "Hitech Century",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hitechcentury.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hitechcentury.com/samsung-galaxy-tab-s11-ultra-review/",
+   "thumbnail": "https://hitechcentury.com/wp-content/uploads/2025/10/24564_compress43.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhRVGwzUlZNeVMxOVFka2xpVFJDZkF4amlCU2dLTWdZbFZaRE5KUWc",
+   "date": "10/24/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-24T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Can A Tablet Replace A Laptop? I Used The Samsung Galaxy Tab S11 Ultra For A Week To Find Out",
+   "source": {
+    "name": "says.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://says.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://says.com/my/tech/gadgets-tech/samsung-galaxy-tab-s11-ultra-laptop-replacement",
+   "thumbnail": "https://says.com/my/_next/image?url=https%3A%2F%2Fmedia.says.com%2F2025%2F10%2FnhkVNPiq-SAYS-COVER-1.png&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURjSGROYWpSbVNrUmFOazVTVFJDUkF4ajhCU2dLTWdZRm9KREZPZ1k",
+   "date": "10/15/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-15T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "The iPad Pro Has Its First Worthy Android Replacement",
+   "source": {
+    "name": "bgr.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chris Smith"
+    ]
+   },
+   "link": "https://www.bgr.com/2112215/honor-android-tablet-ipad-pro-replcement/",
+   "thumbnail": "https://www.bgr.com/img/gallery/the-ipad-pro-has-its-first-worthy-android-replacement/intro-1772293396.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNiMmxsY2tJeVpVNXpkR0ZqVFJDZkF4ampCU2dLTWdZWlE0eU1MUVk",
+   "date": "03/01/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-01T08:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "It\u2019s true: A tablet might be the perfect laptop replacement for many!",
+   "source": {
+    "name": "eftm.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://eftm.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Trevor Long"
+    ]
+   },
+   "link": "https://eftm.com/2025/12/its-true-a-tablet-might-be-the-perfect-laptop-replacement-for-many-270042",
+   "thumbnail": "https://cdn.eftm.com/wp-content/uploads/2025/12/Samsung-Dex-10-scaled.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpkbTUwWkVoRlMzTlFOM3BsVFJEQ0F4aXBCU2dLTWdrTlFZd0lJcWd0RWdF",
+   "date": "12/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-17T08:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Samsung launches long-awaited Galaxy Tab S11 slates, with one predictable omission",
+   "source": {
+    "name": "Android Police",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidpolice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chris Thomas"
+    ]
+   },
+   "link": "https://www.androidpolice.com/samsung-galaxy-tab-s11-s11-ultra-revealed/",
+   "thumbnail": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/samsung-galaxy-tab-s10-ultra-review-laying-in-the-sun.JPG?w=1600&h=900&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRZVkpDYzJnMmRFYzNjbU5CVFJDZkF4ampCU2dLTWdZZFU0aU1KUVk",
+   "date": "09/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-04T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Why tri-fold phones aren\u2019t the tablet replacement they promise to be",
+   "source": {
+    "name": "PhoneArena",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aleksandar Anastasov"
+    ]
+   },
+   "link": "https://www.phonearena.com/news/tri-fold-phones-tablet-replacement-promise_id176570",
+   "thumbnail": "https://m-cdn.phonearena.com/images/article/176570-wide-two_1200/Why-tri-fold-phones-arent-the-tablet-replacement-they-promise-to-be.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTBXWEl0T1ZsU1dFdFlkbTVWVFJDZkF4ampCU2dLTWd1TlFZb0lUaVNLeG5yTmN3",
+   "date": "12/12/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-12T08:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Galaxy Tab S11 Ultra: can this replace your laptop thanks to DeX and extra features?",
+   "source": {
+    "name": "PhoneArena",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tsveta Ermenkova"
+    ]
+   },
+   "link": "https://www.phonearena.com/news/galaxy-tab-s11-ultra-can-this-replace-your-laptop-thanks-to-dex-and-extra-features_id173787",
+   "thumbnail": "https://m-cdn.phonearena.com/images/article/173787-wide-two_1200/Galaxy-Tab-S11-Ultra-can-this-replace-your-laptop-thanks-to-DeX-and-extra-features.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRka3BsTkc5dVNVOWFWVlpVVFJDZkF4ampCU2dLTWdhZEFvS3REUXc",
+   "date": "09/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-04T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "A superb tablet experience with caveats - Samsung Galaxy Tab S11 review",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Marcus Herbrich"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/A-superb-tablet-experience-with-caveats-Samsung-Galaxy-Tab-S11-review.1130795.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/_processed_/3/4/csm_Samsung_Galaxy_Tab_S11_Test_Tablet_4_293ca2025f.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRPSFpWV1doV1RqSTRlVUZMVFJEZEFoanVCaWdLTWdhVk00aXRzUVE",
+   "date": "10/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-04T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Samsung Galaxy Tab S11 Ultra: News, rumors, release date, and pricing",
+   "source": {
+    "name": "Android Police",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidpolice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jon Gilbert"
+    ]
+   },
+   "link": "https://www.androidpolice.com/samsung-galaxy-tab-s11-ultra-news-rumors/",
+   "thumbnail": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/samsung-galaxy-tab-s10-ultra-review-laying-in-the-sun.JPG?w=1600&h=900&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRZVkpDYzJnMmRFYzNjbU5CVFJDZkF4ampCU2dLTWdZZFU0aU1KUVk",
+   "date": "08/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-02T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "The Galaxy Tab S11 family is here, but should you upgrade from your older Galaxy tablet?",
+   "source": {
+    "name": "Android Authority",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Andrew Grush"
+    ]
+   },
+   "link": "https://www.androidauthority.com/galaxy-tab-s11-vs-tab-s-3594495/",
+   "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-Tab-S11-Ultra-in-mans-hand-showing-home-screen.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNYMmxrZDJGNFVuRlRUVTlUVFJDZkF4ampCU2dLTWdhVmNvcXJOUVU",
+   "date": "09/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-05T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "The Galaxy Tab S11 Ultra might be the best Android tablet ever, but buying one is a terrible idea",
+   "source": {
+    "name": "techadvisor.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.techadvisor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anyron Copeman"
+    ]
+   },
+   "link": "https://www.techadvisor.com/article/2897701/samsung-galaxy-tab-s11-ultra-hands-on-why-you-shouldnt-buy-it.html",
+   "thumbnail": "https://www.techadvisor.com/wp-content/uploads/2025/09/samsung-galaxy-tab-s11-ultra-3-1.jpg?quality=50&strip=all",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRSVE53YVdReGNuVmxXVlZUVFJDZkF4ampCU2dLTWdZRkFwSXVBUXc",
+   "date": "09/10/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-10T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Samsung's Galaxy Tab S11 branding feels wrong, here's why",
+   "source": {
+    "name": "SamMobile",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.sammobile.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Danny Dorresteijn"
+    ]
+   },
+   "link": "https://www.sammobile.com/opinion/samsung-galaxy-tab-s11-should-have-been-s25/",
+   "thumbnail": "https://www.sammobile.com/wp-content/uploads/2025/09/Galaxy-Tab-S11-Ultra-battery-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5aVUZZU0ZZdFVHdGphbkIxVFJDZkF4ampCU2dLTWdrZEFJNnRzZVl6WVFN",
+   "date": "09/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-05T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Samsung Galaxy Tab S11 Ultra: The art and gaming setup is complete",
+   "source": {
+    "name": "Digitec",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.digitec.ch&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Michelle Brandle"
+    ]
+   },
+   "link": "https://www.digitec.ch/en/page/samsung-galaxy-tab-s11-ultra-the-art-and-gaming-setup-is-complete-39829",
+   "thumbnail": "https://static.digitecgalaxus.ch/im/Files/7/7/1/4/6/4/6/6/Tab%20S11%20Teaser21.png?impolicy=teaser&resizeWidth=700&resizeHeight=350",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFiR2hMZUZKNk0yZGtURzkxVFJEZUFoaThCU2dLTWdhbFk1QnRyUVk",
+   "date": "10/06/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-06T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Here's our first look at Samsung's Galaxy Tab S11",
+   "source": {
+    "name": "Android Police",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidpolice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chethan Rao"
+    ]
+   },
+   "link": "https://www.androidpolice.com/samsung-galaxy-tab-s11-renders-leak/",
+   "thumbnail": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/samsung-galaxy-tab-s10-plus-08.jpg?w=1600&h=900&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZRa2hYTkdzMExWTlRRV00zVFJDZkF4ampCU2dLTWdhUk1vaHJIUWc",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "First Look: Samsung Galaxy S25 FE and Tab S11 Deliver Exciting New Upgrades",
+   "source": {
+    "name": "HotHardware",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hothardware.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aaron Leong"
+    ]
+   },
+   "link": "https://hothardware.com/news/first-look-samsung-galaxy-s25-fe-and-tab-s11",
+   "thumbnail": "https://images.hothardware.com/contentimages/newsitem/68542/content/hero-samsung-galaxy-s25-fe-family.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpiRFpPUjBNMGFXTjRNbXBsVFJDUEF4akVCU2dLTWdZQklKUlNwUWs",
+   "date": "09/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-04T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Leak: Samsung Galaxy Tab S11 Ultra may be as thin as Apple's iPad Pro 13",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alexander Fagot"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Leak-Samsung-Galaxy-Tab-S11-Ultra-may-be-as-thin-as-Apple-s-iPad-Pro-13.1088378.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-Tab-S11-Ultra-wird-laut-Leaker-so-duenn-wie-Apple-iPad-Pro.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtjbUoyYUY5VGMxbHNPV1YzVFJDZkF4ampCU2dLTWdhdFJJeXZvUWM",
+   "date": "08/16/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-16T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Samsung Galaxy Tab S11 Ultra detailed before release with thinner than expected design",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alexander Alderson"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Samsung-Galaxy-Tab-S11-Ultra-detailed-before-release-with-thinner-than-expected-design.1092146.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/galaxy-tab-s11-ultra-stuff-new-kv.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFMWGs0VW5ZNWJFbDFYM1pKVFJEZkF4aUFCU2dLTWdhZGtZeFJ3UVU",
+   "date": "08/20/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-20T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Samsung Galaxy Tab S11 showcased before official release in new leak",
+   "source": {
+    "name": "notebookcheck.net",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alexander Alderson"
+    ]
+   },
+   "link": "https://www.notebookcheck.net/Samsung-Galaxy-Tab-S11-showcased-before-official-release-in-new-leak.1093372.0.html",
+   "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-Tab-S11-winfuture-kv.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJiVWh4Tm1WbU1IaHBja2xXVFJEZkF4aUFCU2dLTWdhWmtveHZ2UVU",
+   "date": "08/21/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-21T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Samsung Galaxy Tab S11 Ultra vs Tab S10 Ultra: What\u2019s new?",
+   "source": {
+    "name": "Trusted Reviews",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trustedreviews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jessica Gorringe"
+    ]
+   },
+   "link": "https://www.trustedreviews.com/versus/samsung-galaxy-tab-s11-ultra-vs-tab-s10-ultra",
+   "thumbnail": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2025/09/samsung-galaxy-tab-s11-ultra-vs-tab-s10-ultra-820x461.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9ZVXRaZERaa1Frc3plVkZMVFJDZkF4ampCU2dLTWdhTmNaQ29QZ2M",
+   "date": "09/16/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-16T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Meet the Samsung Galaxy Tab A11 - GSMArena.com news",
+   "source": {
+    "name": "GSMArena.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.gsmarena.com/meet_the_samsung_galaxy_tab_a11-news-68975.php",
+   "thumbnail": "https://st.gsmarena.com/imgroot/news/25/08/samsung-galaxy-tab-a11-live-image/-1220x526/gsmarena_000.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWZWa1I1WjNWeGNrWjJTSGxwVFJEckFoak1CaWdLTWdNUk54WQ",
+   "date": "08/09/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-09T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Samsung Galaxy Tab S11 isn\u2019t a laptop killer by design",
+   "source": {
+    "name": "GadgetGuy",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gadgetguy.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Valens Quinn"
+    ]
+   },
+   "link": "https://www.gadgetguy.com.au/samsung-galaxy-tab-s11-release-date-price/",
+   "thumbnail": "https://www.gadgetguy.com.au/wp-content/uploads/2025/09/Samsung-Galaxy-Tab-S11-and-Tab-S11-Ultra-770x513.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJUV2d5V0ZKS2JUWlFSWGhCVFJERUF4aW5CU2dLTWdrUmdwSkl2cVpFREFJ",
+   "date": "09/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-04T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Samsung Galaxy Tab S11 Ultra: AI laptop replacement",
+   "source": {
+    "name": "potions.sg",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://potions.sg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Justin Choo"
+    ]
+   },
+   "link": "https://potions.sg/tech/samsung-galaxy-tab-s11-ultra-ai-laptop-replacement/",
+   "thumbnail": "https://potions.sg/wp-content/uploads/2025/09/DSCF3068.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNhbEpVZW0xS1FXbHJUbFV0VFJDZkF4ampCU2dLTWdrSmdaU0d0dWM4N1FF",
+   "date": "09/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-05T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Samsung Galaxy Tab S11 series Malaysia release - Dimensity 9400 Plus chipset, Enhanced Samsung DeX, OneUI 8.0, and more from RM3,899",
+   "source": {
+    "name": "TechNave",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://technave.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://technave.com/gadget/Samsung-Galaxy-Tab-S11-series-Malaysia-release-Dimensity-9400-Plus-chipset-Enhanced-Samsung-DeX-OneUI-8-0-and-more-from-RM3-899-44029.html",
+   "thumbnail": "https://technave.com/data/files/article/202509040925413881.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5abTAyVVVkaFNDMVRkMVpGVFJDSkF4anVCU2dLTWdhWmNvb0t2UVU",
+   "date": "09/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-04T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Is the Galaxy Tab S3 a suitable successor to an aging Pixel C?",
+   "source": {
+    "name": "Android Central",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidcentral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.androidcentral.com/galaxy-tab-s3-suitable-replacement-aging-pixel-c",
+   "thumbnail": "https://cdn.mos.cms.futurecdn.net/UBAFDo53cibED2UXZ4eBbB.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5jbFpPZFRab04zTnJaR3ROVFJEZ0F4aUFCU2dLTWdhTkFwQkhyZ2M",
+   "date": "05/09/2017, 07:00 AM, +0000 UTC",
+   "iso_date": "2017-05-09T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Galaxy Tab S11 Drops to $599 for Some Lucky Samsung Shoppers",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jeff Springer"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-deal-599-samsung/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/Galaxy-Tab-S11-1-scaled-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNUbkpZU0hwWWNqRXlRWGRVVFJDZkF4ampCU2dLTWdZZGM0eVBPUVk",
+   "date": "09/25/2026, 08:58 PM, +0000 UTC",
+   "iso_date": "2026-09-25T20:58:57Z"
+  },
+  {
+   "position": 49,
+   "title": "You Can Get the Galaxy Tab S11 Ultra for $1,099.99",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/samsung-galaxy-tab-s11-ultra-deal-1099/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/05/Pro-Keyboard-Outside-Shot-scaled-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJRMWRZUkU5aldGSjBVak0yVFJDZkF4ampCU2dLTWdtaEU0S3RrYWxqOUFB",
+   "date": "09/24/2026, 08:26 PM, +0000 UTC",
+   "iso_date": "2026-09-24T20:26:18Z"
+  },
+  {
+   "position": 50,
+   "title": "Galaxy Tab S11 is $200 Off at Samsung, Down to Just $699.99",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/samsung-galaxy-tab-s11-200-off/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/03/Galaxy-Tab-S11-300x169.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRlREo1TFd4aGVTMUhZblZOVFJDcEFSaXNBaWdLTWdhZGc0NnV0UVk",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Galaxy Tab S11 is $200 Off Across the Board, Available on Amazon and Samsung",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jeff Springer"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-200-off-amazon-samsung/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/09/Galaxy-Tab-S11-300x169.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXljWGxSY2xFMFNtSlllR05rVFJDcEFSaXNBaWdLTWdhQkFaQkxoUWc",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Galaxy Tab S11 Series Joins One UI 9 Testing",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mohammed Khatri"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-series-joins-one-ui-9-testing/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/04/Galaxy-Tab-S11-Ultra-Pro-Keyboard-Top-View-scaled-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVSVEpSVjB3elQwVnNkSGxuVFJDZkF4ampCU2dLTWdZaEZJeU5GUWc",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Samsung Galaxy Tab S11 3-Month Review: Is it really a laptop replacement?",
+   "source": {
+    "name": "Alex Reviews Tech",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://alexreviewstech.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alex Kidman"
+    ]
+   },
+   "link": "https://alexreviewstech.com/samsung-galaxy-tab-s11-3-month-review-is-it-really-a-laptop-replacement/",
+   "thumbnail": "https://alexreviewstech.com/wp-content/uploads/2026/02/GalaxyTabS11_3.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFhMlJXVUd0Sk9FVTVSMHhzVFJDZkF4ampCU2dLTWdhWlZKREtKUWM",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Galaxy Tab S11 Ultra Pro Keyboard Review: Solid Hardware with a Major Flaw",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-ultra-pro-keyboard-review/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/05/Pro-Keyboard-Standard-Shot-300x169.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kMUZFZWpCNFlYbzBOblZJVFJDcEFSaXNBaWdLTWdZaEZKS3NsUWc",
+   "date": "05/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-21T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Galaxy Tab S11 Ultra Pro Keyboard First Impressions: Better In Every Way, Almost",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/samsung-galaxy-tab-s11-ultra-pro-keyboard-first-impressions/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/04/Galaxy-Tab-S11-Ultra-Pro-Keyboard-Top-View-scaled-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVSVEpSVjB3elQwVnNkSGxuVFJDZkF4ampCU2dLTWdZaEZJeU5GUWc",
+   "date": "04/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-20T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Galaxy Tab S11 Sees $120 Price Drop in Amazon Spring Sale",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "David Buliga"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-deal-amazon/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/Galaxy-Tab-S11-1-scaled-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNUbkpZU0hwWWNqRXlRWGRVVFJDZkF4ampCU2dLTWdZZGM0eVBPUVk",
+   "date": "03/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-31T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Galaxy Tab S11 Ultra\u2019s Pro Keyboard Debuts in the US in Two Colors",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-ultra-pro-keyboard-us-launch/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/03/IMG_8653.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtRMUpsVDJOa2MyNVBVbmRzVFJDZkF4ampCU2dLTWdZZE5JNnVJUWs",
+   "date": "03/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-27T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Galaxy Tab S11 and Tab S11 Ultra Get One UI 8.5 Stable Update",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-tab-s11-ultra-one-ui-8-5-stable-update/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/04/20260419_125637-768x432.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURSVEZqV1RoQ1JXWnpSSEp4VFJDZkF4ampCU2dLTWdhQkJwQXJDZ3c",
+   "date": "05/20/2026, 04:39 PM, +0000 UTC",
+   "iso_date": "2026-05-20T16:39:48Z"
+  },
+  {
+   "position": 59,
+   "title": "Galaxy Tab S11 Ultra Requires Pro-Level Accessories",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-ultra-requires-pro-level-accessories/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/02/Galaxy-Tab-S11-Ultra.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTbXBsUzJzMmJVZHNSM3BTVFJDZkF4ampCU2dLTWdZRmRJS01MUVk",
+   "date": "02/06/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-06T08:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Galaxy Tab S11 and Galaxy Tab S11 Ultra Pick Up July 2026 Security Update",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-galaxy-tab-s11-ultra-july-2026-security-update/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/05/Pro-Keyboard-Standard-Shot-300x169.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kMUZFZWpCNFlYbzBOblZJVFJDcEFSaXNBaWdLTWdZaEZKS3NsUWc",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Where is Samsung\u2019s Pro Keyboard for Galaxy Tab S11 Ultra?",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/where-is-samsung-pro-keyboard-for-galaxy-tab-s11-ultra/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/12/galaxy-tab-s11-book-cover-keyboard-slim-1200x675.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVpPUzA1YVVVMGQwNU5aV3h2VFJDZkF4ampCU2dLTWdPVk13QQ",
+   "date": "01/14/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-14T08:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "One UI 8.5 Beta Rolls Out to Galaxy Tab S11 and Galaxy Tab S11 Ultra",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/one-ui-8-5-beta-galaxy-tab-s11-tab-s11-ultra/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/02/Magic-Keyboard-Alt.-S-Pen-Holder.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdRMGxXYTJWU1VHRnRhVTlzVFJDZkF4ampCU2dLTWdZQkFKNGxHUXc",
+   "date": "03/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-26T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Galaxy Tab S11 Ultra Pro Keyboard is Thoughtfully Engineered",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-ultra-pro-keyboard-thoughtfully-engineered/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/04/20260419_125637-300x169.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZXRUkwT1ZCYVpsZDBaMWxCVFJDcEFSaXNBaWdLTWdZQkJwSXJpZ3c",
+   "date": "05/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-07T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Galaxy Tab S12 Ultra Shows Up on Geekbench With Dimensity 9500 on Board",
+   "source": {
+    "name": "Gizchina.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gizchina.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nick Papanikolopoulos"
+    ]
+   },
+   "link": "https://www.gizchina.com/samsung/galaxy-tab-s12-ultra-shows-up-on-geekbench-with-dimensity-9500-on-board",
+   "thumbnail": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fimage-1785740014333-6a703b16c13b0.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVNjMVJFTmt0Vk4wZHlUVGR3VFJDUkF4ajhCU2dLTWdNUk1BQQ",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Samsung Galaxy Tab S12 Ultra device specifications leaked: The next Galaxy Tab is expected to arrive with a performance upgrade",
+   "source": {
+    "name": "Sportskeeda Tech",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tech.sportskeeda.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Subhadip Dey"
+    ]
+   },
+   "link": "https://tech.sportskeeda.com/mobiles/samsung-galaxy-tab-s12-ultra-device-specifications-leaked-the-next-galaxy-tab-expected-arrive-performance-upgrade",
+   "thumbnail": "https://staticg.sportskeeda.com/editor/2026/06/48053-17811728058217-1920.jpg?w=640",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJjelp0ZUY5NVZUQlBTVnBtVFJEb0FoaUFCU2dLTWdZVlFwQ3VwUWs",
+   "date": "06/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-19T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Samsung Expands January 2026 Security Patch to Galaxy Tab S11, Tab S9 FE Series",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mohammed Khatri"
+    ]
+   },
+   "link": "https://sammyguru.com/samsung-expands-january-2026-security-patch-to-galaxy-tab-s11-tab-s9-fe-series/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2024/09/Galaxy-Tab-S9-FE-SammyGuru-2-768x432.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNURjMVYxYldSRFVHTmxTMFZOVFJDZkF4ampCU2dLTWdNTlFobw",
+   "date": "02/02/2026, 03:34 PM, +0000 UTC",
+   "iso_date": "2026-02-02T15:34:38Z"
+  },
+  {
+   "position": 67,
+   "title": "Deal Alert! Samsung Slashes $150 off Galaxy Tab S11",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sumit Adhikari"
+    ]
+   },
+   "link": "https://sammyguru.com/samsung-galaxy-tab-s11-deal-150-discount/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/03/Galaxy-Tab-S11.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdaVVZCU0dOVldIUjZNRzB4VFJDZkF4ampCU2dLTWdhZGc0Nk9OUVk",
+   "date": "03/05/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-05T08:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Galaxy Tab S11, Tab S11 Ultra Get Price Cuts With Bundle Deals",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-tab-s11-ultra-deals/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/04/20260419_125637-768x432.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURSVEZqV1RoQ1JXWnpSSEp4VFJDZkF4ampCU2dLTWdhQkJwQXJDZ3c",
+   "date": "05/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-01T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Deal Alert: Samsung Offers Up to $120 Off on Galaxy Tab S11 Series",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/deal-alert-samsung-offers-up-to-120-off-on-galaxy-tab-s11-series/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/Galaxy-Tab-S11-1-scaled-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNUbkpZU0hwWWNqRXlRWGRVVFJDZkF4ampCU2dLTWdZZGM0eVBPUVk",
+   "date": "01/29/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-29T08:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "There\u2019s a 3rd Party Magic Keyboard for Galaxy Tab S11 Ultra",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/third-party-magic-keyboard-for-galaxy-tab-s11-ultra/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/02/Feature-Image-2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVNVkJUVjFWamVqVlpVSFYxVFJDZkF4ampCU2dLTWdrQlVJNWxNcVlsS0FJ",
+   "date": "03/04/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-04T08:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Galaxy Tab S11 Could Join Samsung\u2019s One UI 8.5 Beta Program",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sumit Adhikari"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-one-ui-8-5-beta-build/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/12/tab-s11-AI-use.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRaVWhvYjBOTVJXcEdVek13VFJDZkF4ampCU2dLTWdrbEFvNnRyYVZFb3dJ",
+   "date": "03/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-20T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Galaxy Tab S11 Ultra\u2019s AI Brings Imagination to Life This Christmas",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-ultras-ai-brings-imagination-to-life-this-christmas/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/12/tab-s11-AI-use-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZaMU5DTTNCVExVbEZNelpMVFJDZkF4ampCU2dLTWdrbEFvNnRyYVZFb2dJ",
+   "date": "12/15/2025, 07:30 PM, +0000 UTC",
+   "iso_date": "2025-12-15T19:30:37Z"
+  },
+  {
+   "position": 73,
+   "title": "Galaxy Tab S11 Ultra Pro Keyboard Comes With a Pro Price Tag",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-ultra-pro-keyboard-price-korea/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/03/Galaxy-Tab-S11-Ultra-Pro-Keyboard-768x432.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZaeTFRZDA1SmRFdHFVelF4VFJDZkF4ampCU2dLTWdZWlpJcnJMUVU",
+   "date": "03/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-09T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Galaxy Tab S11, Galaxy Tab S11 Ultra Get One UI 8.5 Beta 2",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-one-ui-8-5-beta-2/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/02/Magic-Keyboard-Alt.-S-Pen-Holder-768x432.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVSbUYwT1VOalNFMUNjSHAyVFJDZkF4ampCU2dLTWdZQkFKNGxHUXc",
+   "date": "04/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-13T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Both Galaxy Tab S10 Ultra and S11 Ultra See Price Cut, but Which One Should You Buy?",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/both-galaxy-tab-s10-ultra-and-s11-ultra-see-price-cut-but-which-one-should-you-buy/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/03/Galaxy-Tab-S10-Ultra-1024x576.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZPRzh6WjFsU1JFTTNlRWQwVFJDZkF4ampCU2dLTWdhWlU0ekxwUWM",
+   "date": "12/25/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-25T08:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Galaxy S24 FE, S23 FE & Tab S11 Series Get New One UI 8.5 Beta Updates",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mohammed Khatri"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-s24-fe-s23-fe-tab-s11-new-one-ui-8-5-beta-updates/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/02/IMG_0581-300x169.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZNbTlVYWxoVFJHSkJWbHBaVFJDcEFSaXNBaWdLTWdZbE5ZUU5vZ2s",
+   "date": "04/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-28T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Galaxy Tab S11, Tab A11, Tab S6 Lite Grab February 2026 Security Update",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-tab-a11-tab-s6-lite-february-2026-security-update/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/02/Galaxy-Tab-S11-Ultra.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTbXBsUzJzMmJVZHNSM3BTVFJDZkF4ampCU2dLTWdZRmRJS01MUVk",
+   "date": "03/05/2026, 07:03 PM, +0000 UTC",
+   "iso_date": "2026-03-05T19:03:52Z"
+  },
+  {
+   "position": 78,
+   "title": "(VIDEO) Samsung Galaxy Tab S12 Ultra: Expected Release Date in Late 2026, Latest Rumors on Specs and Timeline",
+   "source": {
+    "name": "International Business Times Australia",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ibtimes.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Daniel Lee"
+    ]
+   },
+   "link": "https://www.ibtimes.com.au/video-samsung-galaxy-tab-s12-ultra-expected-release-date-late-2026-latest-rumors-specs-1861833",
+   "thumbnail": "https://d.ibtimes.com.au/en/full/1891526/samsung-galaxy-tab-s12-ultra.jpg?w=736&f=b85cdf30d72fd396ad3b3268d1fef928",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtaM1ozVjNsS1JFUTNjalp4VFJETUF4aWFCU2dLTWdhSlVZaXBMUWM",
+   "date": "02/21/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-21T08:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Samsung Expands One UI 8.5 Testing for Galaxy Tab S11 and Tab S8 Series",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mohammed Khatri"
+    ]
+   },
+   "link": "https://sammyguru.com/samsung-begins-one-ui-8-5-testing-for-galaxy-tab-s11-and-tab-s8-series/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2024/09/Samsung-Galaxy-Tab-S8-Ultra.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlTamhvVERocVZGOVpSa28wVFJDZkF4ampCU2dLTWdhZFlvNVFOUVk",
+   "date": "12/28/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-28T08:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Pick Up a Galaxy Tab S11 or S11 Ultra with $100 Off and a Free Keyboard Cover",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/pick-up-a-galaxy-tab-s11-s11-ultra-with-100-off-and-a-free-keyboard-cover/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/12/galaxy-tab-s11-book-cover-keyboard-slim-1200x675.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVpPUzA1YVVVMGQwNU5aV3h2VFJDZkF4ampCU2dLTWdPVk13QQ",
+   "date": "12/11/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-11T08:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Deal: Save $150-$200 on Galaxy Tab S11 and S11 Ultra, No Trade-In Needed",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/deal-save-150-200-on-galaxy-tab-s11-and-s11-ultra-no-trade-in-needed/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/Galaxy-Tab-S11-vs-S11-Ultra-768x432.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFRMnBWTkdkNExYRXpjVmQ2VFJDZkF4ampCU2dLTWdZQlVZckZvZ2s",
+   "date": "11/13/2025, 06:52 AM, +0000 UTC",
+   "iso_date": "2025-11-13T06:52:29Z"
+  },
+  {
+   "position": 82,
+   "title": "Pro Keyboard for Galaxy Tab S11 Ultra is Now Available in Canada!",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-ultra-pro-keyboard-canada/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2026/03/Galaxy-Tab-S11-Ultra-Pro-Keyboard-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSa28xWmw5aldVdFlVa2RSVFJDZkF4ampCU2dLTWdhaE00aXVwUWc",
+   "date": "03/16/2026, 05:08 AM, +0000 UTC",
+   "iso_date": "2026-03-16T05:08:07Z"
+  },
+  {
+   "position": 83,
+   "title": "Samsung Galaxy Tab S12 Ultra Chip Confirmed through Geekbench",
+   "source": {
+    "name": "TelecomTalk",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://telecomtalk.info&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tanay Singh Thakur"
+    ]
+   },
+   "link": "https://telecomtalk.info/samsung-galaxy-tab-s12-ultra-chip-confirmed/1010372/",
+   "thumbnail": "https://telecomtalk.info/wp-content/uploads/2026/08/samsung-galaxy-tab-s12-ultra-chip-confirmed.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTRaM0pmVkc1T1VYTkRWRGROVFJERUF4aW1CU2dLTWdPVkFRQQ",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Galaxy Tab S12 Ultra will be a big disappointment. Samsung refuses to improve one of the most essential features",
+   "source": {
+    "name": "Samsung Magazine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://samsungmagazine.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jana Skalova"
+    ]
+   },
+   "link": "https://samsungmagazine.eu/en/2026/06/09/galaxy-tab-s12-ultra-bude-velke-zklamani-samsung-odmita-vylepsit-jednu-z-nejzasadnejsich-vlastnosti/",
+   "thumbnail": "https://samsungmagazine.eu/wp-content/uploads/2025/08/Galaxy-Tab-S11-a-S11-Ultra-10-1536x1152.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhVa0ZoWjNoU1pXNVhhVXh3VFJEZ0F4aUFCU2dLTWdhQmc0YU91UVE",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Galaxy Tab S10 and Tab S11 Already Have a Chrome Feature Pixels Lack [U]",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s10-tab-s11-chrome-feature-pixels-lack/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/10/Screenshot_20251014_135501_One-UI-Home-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBZV05tTTJORE9TMUxUM1phVFJDZkF4ampCU2dLTWdZVkE0SkxFUXc",
+   "date": "10/15/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-15T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Basic Galaxy Tab There will be no S12. Samsung is preparing another model change, the price will be astronomical",
+   "source": {
+    "name": "Samsung Magazine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://samsungmagazine.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jana Skalova"
+    ]
+   },
+   "link": "https://samsungmagazine.eu/en/2026/03/18/zakladni-galaxy-tab-s12-nebude/",
+   "thumbnail": "https://samsungmagazine.eu/wp-content/uploads/2025/08/Galaxy-Tab-S11-a-S11-Ultra-7.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtaM1ZVUzBaMFJsRkNYMTlsVFJEZ0F4aUFCU2dLTWdtQmdJN3h1R1NoN0FF",
+   "date": "03/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-18T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Galaxy Tab S11, S11 Ultra, S11 Enterprise Edition US Prices Revealed",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-s11-ultra-enterprise-edition-us-prices-leak/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/Samsung-Galaxy-Tab-S11-Ultra-leak-18.jpg-1200x675.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5RWFpzYVhGQmJIZFRRekZvVFJDZkF4ampCU2dLTWdhaGM1S3R0UVk",
+   "date": "08/27/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-27T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Galaxy Tab S11, S11 Ultra Prices Leaked in Premature Retail Listings",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sumit Adhikari"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-s11-ultra-prices-leaked-in-premature-retail-listings/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/04/Galaxy-Tab-S10-FE-with-S-Pen-SammyGuru-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNla2hzUm5SUFdVMUpOMjlOVFJDZkF4ampCU2dLTWdZaFlJYU1xUVk",
+   "date": "08/12/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-12T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Official: Samsung Launches Galaxy Tab S11 and Tab S11 Ultra with Key Upgrades",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sumit Adhikari"
+    ]
+   },
+   "link": "https://sammyguru.com/official-samsung-launches-galaxy-tab-s11-and-tab-s11-ultra-with-key-upgrades/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/09/Galaxy-Tab-S11-Ultra-3-scaled-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZRMFIxUW5Zd1JsZ3RlVUo2VFJDZkF4ampCU2dLTWdhZGdveVJSUVU",
+   "date": "09/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-04T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Galaxy Tab S11, Tab S10 Lite Stop By Bluetooth SIG Certification",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-tab-s10-lite-stop-by-bluetooth-sig-certification/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/03/Galaxy-Tab-S10-Ultra-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlkMmRQVVV4SE1FZDRMVFkwVFJDZkF4ampCU2dLTWdhWlU0ekxwUWM",
+   "date": "08/12/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-12T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Galaxy Tab S10 Lite Design Leaked, S11 Ultra Gets 3C Certification Approval",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Binay Konwar"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s10-lite-design-leaked-s11-ultra-gets-3c-certification-approval/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/03/Galaxy-Tab-S10-Ultra-1024x576.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZPRzh6WjFsU1JFTTNlRWQwVFJDZkF4ampCU2dLTWdhWlU0ekxwUWM",
+   "date": "08/08/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-08T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Samsung\u2019s New S Pen Looks Like Apple Pencil \u2014 But It\u2019s Better for Work",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sumit Adhikari"
+    ]
+   },
+   "link": "https://sammyguru.com/samsung-new-s-pen-looks-like-apple-pencil-but-its-better-for-work/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/09/Samsung-new-S-Pen-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUZlbTR0V1VKWmFGRnRNalJHVFJDZkF4ampCU2dLTWdNRnNBNA",
+   "date": "09/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-04T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Samsung Galaxy Tab S11 Ultra: All the Latest Leaks and Rumors",
+   "source": {
+    "name": "Geeky Gadgets",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.geeky-gadgets.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Roland Hutchinson"
+    ]
+   },
+   "link": "https://www.geeky-gadgets.com/samsung-galaxy-tab-s11-ultra-6/",
+   "thumbnail": "https://www.geeky-gadgets.com/wp-content/uploads/2025/08/galaxy-tab-s11-ultra-connectivity-options.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBObnAzVkVkRE5qVlFaaTF5VFJDZkF4ampCU2dLTWdZQkFZYm1CQXc",
+   "date": "08/07/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-07T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Galaxy Tab S11 Ultra High-Quality Renders Reveal New Notch Design",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Binay Konwar"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-ultra-high-quality-renders-reveal-new-notch-design/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/tab-s11-ultra-featured-leaked.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVSa1kxTFRCQk5HOXFaMGR4VFJDZkF4ampCU2dLTWdNaGN3dw",
+   "date": "08/21/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-21T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Galaxy Tab S11 vs Tab S11 Ultra: What Extra Does the Ultra Offer?",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sumit Adhikari"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-vs-tab-s11-ultra-what-extra-does-the-ultra-offer/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/Galaxy-Tab-S11-vs-S11-Ultra-768x432.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFRMnBWTkdkNExYRXpjVmQ2VFJDZkF4ampCU2dLTWdZQlVZckZvZ2s",
+   "date": "09/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-04T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Massive Galaxy Tab S11 Ultra Renders, Promo Leak Confirm What\u2019s Coming",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/massive-galaxy-tab-s11-ultra-renders-promo-leak-confirm-whats-coming/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/Samsung-Galaxy-Tab-S11-Ultra-leak-10.jpg.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZVeTFFZVZkdlZraHpTMjVOVFJDZkF4ampCU2dLTWdZaGdvb3d0UVU",
+   "date": "08/27/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-27T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Galaxy Tab A11 Leak Reveals Key Specs Ahead of Launch",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Binay Konwar"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-a11-leak-reveals-key-specs-ahead-of-launch/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/07/Galaxy-Tab-A9-1200x675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJMV3BTUWtzeE9HNW9WVWxvVFJDZkF4ampCU2dLTWdhcEVvYVNLUWc",
+   "date": "09/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-05T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Samsung Galaxy Tab S11 Ultra Might Be \u2018Ultra\u2019\u2026 but Its Charger Isn\u2019t",
+   "source": {
+    "name": "Android Headlines",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidheadlines.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sai Krishna"
+    ]
+   },
+   "link": "https://www.androidheadlines.com/2025/08/samsung-galaxy-tab-s11-ultra-charging.html",
+   "thumbnail": "https://www.androidheadlines.com/wp-content/uploads/2024/09/Samsung-Galaxy-Tab-S10-Utra-AH-2-1420x799.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlSbUZQTVZkTVYzY3lSME5PVFJDZkF4amlCU2dLTWdhQk1ZWU1LZ1k",
+   "date": "08/06/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-06T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Galaxy Tab S11 Series Can Actually Run Linux Apps",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Anand"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-series-can-actually-run-linux-apps/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/09/Linux-Galaxy-Tab-S11-2-1200x675.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9OREpxWldWUFJFcHlVR2Q0VFJDZkF4ampCU2dLTWdZSmNZQ3NyUVk",
+   "date": "09/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-29T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Galaxy Tab S11 Complete Design Revealed in High-Quality Renders",
+   "source": {
+    "name": "SammyGuru",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sammyguru.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Binay Konwar"
+    ]
+   },
+   "link": "https://sammyguru.com/galaxy-tab-s11-complete-design-revealed-in-high-quality-renders/",
+   "thumbnail": "https://sammyguru.com/wp-content/uploads/2025/08/tab-s11-leak-featured.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJkV053YVZSTVoxSXRWek5oVFJDZkF4ampCU2dLTWdZZGM0cVF2UVU",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "U.S.",
+   "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+  }
+ ],
+ "_probe_latency_s": 1.33
+}

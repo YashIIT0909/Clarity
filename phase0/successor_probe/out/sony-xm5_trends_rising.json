@@ -1,0 +1,380 @@
+{
+ "search_metadata": {
+  "id": "6abce31bee028af166dc29f0",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/aW5KhFddsSTVWfLUxGbUD-ZKHKlht2jc1D9XbH8xdQo/6abce31bee028af166dc29f0.json",
+  "markdown_endpoint": "https://serpapi.com/searches/aW5KhFddsSTVWfLUxGbUD-ZKHKlht2jc1D9XbH8xdQo/6abce31bee028af166dc29f0.md",
+  "created_at": "2026-09-30 10:23:23 UTC",
+  "processed_at": "2026-09-30 10:23:23 UTC",
+  "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22sony+wh-1000xm5%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+3-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+  "raw_html_file": "https://serpapi.com/searches/aW5KhFddsSTVWfLUxGbUD-ZKHKlht2jc1D9XbH8xdQo/6abce31bee028af166dc29f0.html",
+  "prettify_html_file": "https://serpapi.com/searches/aW5KhFddsSTVWfLUxGbUD-ZKHKlht2jc1D9XbH8xdQo/6abce31bee028af166dc29f0.prettify",
+  "total_time_taken": 3.07
+ },
+ "search_parameters": {
+  "engine": "google_trends",
+  "q": "sony wh-1000xm5",
+  "hl": "en",
+  "geo": "US",
+  "date": "today 3-m",
+  "tz": "420",
+  "data_type": "RELATED_QUERIES"
+ },
+ "related_queries": {
+  "rising": [
+   {
+    "query": "how to connect sony wh-1000xm4",
+    "value": "Breakout",
+    "extracted_value": 39600,
+    "link": "https://trends.google.com/trends/explore?q=how+to+connect+sony+wh-1000xm4&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=how+to+connect+sony+wh-1000xm4&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 turn off speak to chat",
+    "value": "Breakout",
+    "extracted_value": 24850,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+turn+off+speak+to+chat&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+turn+off+speak+to+chat&tz=420"
+   },
+   {
+    "query": "beats 360",
+    "value": "Breakout",
+    "extracted_value": 9700,
+    "link": "https://trends.google.com/trends/explore?q=beats+360&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=beats+360&tz=420"
+   },
+   {
+    "query": "how to connect sony wh-1000xm5 to new device",
+    "value": "+2,750%",
+    "extracted_value": 2750,
+    "link": "https://trends.google.com/trends/explore?q=how+to+connect+sony+wh-1000xm5+to+new+device&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=how+to+connect+sony+wh-1000xm5+to+new+device&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm4c",
+    "value": "+2,600%",
+    "extracted_value": 2600,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm4c&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm4c&tz=420"
+   },
+   {
+    "query": "jbl live 780nc",
+    "value": "+1,750%",
+    "extracted_value": 1750,
+    "link": "https://trends.google.com/trends/explore?q=jbl+live+780nc&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=jbl+live+780nc&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm6 release date",
+    "value": "+1,550%",
+    "extracted_value": 1550,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm6+release+date&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm6+release+date&tz=420"
+   },
+   {
+    "query": "airpod max 2",
+    "value": "+1,150%",
+    "extracted_value": 1150,
+    "link": "https://trends.google.com/trends/explore?q=airpod+max+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=airpod+max+2&tz=420"
+   },
+   {
+    "query": "skullcandy crusher anc 2",
+    "value": "+1,100%",
+    "extracted_value": 1100,
+    "link": "https://trends.google.com/trends/explore?q=skullcandy+crusher+anc+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=skullcandy+crusher+anc+2&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm4 pairing mode",
+    "value": "+850%",
+    "extracted_value": 850,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm4+pairing+mode&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm4+pairing+mode&tz=420"
+   },
+   {
+    "query": "how to connect sony headphones to iphone",
+    "value": "+700%",
+    "extracted_value": 700,
+    "link": "https://trends.google.com/trends/explore?q=how+to+connect+sony+headphones+to+iphone&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=how+to+connect+sony+headphones+to+iphone&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 pairing mode",
+    "value": "+650%",
+    "extracted_value": 650,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+pairing+mode&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+pairing+mode&tz=420"
+   },
+   {
+    "query": "wh-1000xm6",
+    "value": "+450%",
+    "extracted_value": 450,
+    "link": "https://trends.google.com/trends/explore?q=wh-1000xm6&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=wh-1000xm6&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm6",
+    "value": "+450%",
+    "extracted_value": 450,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm6&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm6&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm4",
+    "value": "+350%",
+    "extracted_value": 350,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm4&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm4&tz=420"
+   },
+   {
+    "query": "sony wh",
+    "value": "+300%",
+    "extracted_value": 300,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh&tz=420"
+   },
+   {
+    "query": "best buy",
+    "value": "+250%",
+    "extracted_value": 250,
+    "link": "https://trends.google.com/trends/explore?q=best+buy&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=best+buy&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 vs bose quietcomfort",
+    "value": "+250%",
+    "extracted_value": 250,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+vs+bose+quietcomfort&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+vs+bose+quietcomfort&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 price",
+    "value": "+170%",
+    "extracted_value": 170,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+price&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+price&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 amazon",
+    "value": "+140%",
+    "extracted_value": 140,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+amazon&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+amazon&tz=420"
+   },
+   {
+    "query": "bose quietcomfort",
+    "value": "+130%",
+    "extracted_value": 130,
+    "link": "https://trends.google.com/trends/explore?q=bose+quietcomfort&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=bose+quietcomfort&tz=420"
+   },
+   {
+    "query": "bose",
+    "value": "+110%",
+    "extracted_value": 110,
+    "link": "https://trends.google.com/trends/explore?q=bose&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=bose&tz=420"
+   },
+   {
+    "query": "sennheiser",
+    "value": "+100%",
+    "extracted_value": 100,
+    "link": "https://trends.google.com/trends/explore?q=sennheiser&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sennheiser&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 review",
+    "value": "+90%",
+    "extracted_value": 90,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+review&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+review&tz=420"
+   },
+   {
+    "query": "airpods",
+    "value": "+90%",
+    "extracted_value": 90,
+    "link": "https://trends.google.com/trends/explore?q=airpods&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=airpods&tz=420"
+   }
+  ],
+  "top": [
+   {
+    "query": "headphones",
+    "value": "100",
+    "extracted_value": 100,
+    "link": "https://trends.google.com/trends/explore?q=headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=headphones&tz=420"
+   },
+   {
+    "query": "sony headphones",
+    "value": "100",
+    "extracted_value": 100,
+    "link": "https://trends.google.com/trends/explore?q=sony+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+headphones&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 wireless",
+    "value": "47",
+    "extracted_value": 47,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+wireless&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+wireless&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 wireless headphones",
+    "value": "42",
+    "extracted_value": 42,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+wireless+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+wireless+headphones&tz=420"
+   },
+   {
+    "query": "sony wireless headphones",
+    "value": "41",
+    "extracted_value": 41,
+    "link": "https://trends.google.com/trends/explore?q=sony+wireless+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wireless+headphones&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 price",
+    "value": "38",
+    "extracted_value": 38,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+price&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+price&tz=420"
+   },
+   {
+    "query": "bose",
+    "value": "26",
+    "extracted_value": 26,
+    "link": "https://trends.google.com/trends/explore?q=bose&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=bose&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 review",
+    "value": "26",
+    "extracted_value": 26,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+review&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+review&tz=420"
+   },
+   {
+    "query": "best sony headphones",
+    "value": "24",
+    "extracted_value": 24,
+    "link": "https://trends.google.com/trends/explore?q=best+sony+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=best+sony+headphones&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm6",
+    "value": "24",
+    "extracted_value": 24,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm6&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm6&tz=420"
+   },
+   {
+    "query": "best headphones",
+    "value": "24",
+    "extracted_value": 24,
+    "link": "https://trends.google.com/trends/explore?q=best+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=best+headphones&tz=420"
+   },
+   {
+    "query": "wh-1000xm6",
+    "value": "23",
+    "extracted_value": 23,
+    "link": "https://trends.google.com/trends/explore?q=wh-1000xm6&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=wh-1000xm6&tz=420"
+   },
+   {
+    "query": "bose quietcomfort",
+    "value": "21",
+    "extracted_value": 21,
+    "link": "https://trends.google.com/trends/explore?q=bose+quietcomfort&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=bose+quietcomfort&tz=420"
+   },
+   {
+    "query": "noise cancelling headphones",
+    "value": "17",
+    "extracted_value": 17,
+    "link": "https://trends.google.com/trends/explore?q=noise+cancelling+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=noise+cancelling+headphones&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 amazon",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+amazon&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+amazon&tz=420"
+   },
+   {
+    "query": "sony noise cancelling headphones",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=sony+noise+cancelling+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+noise+cancelling+headphones&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 wireless noise canceling headphones",
+    "value": "15",
+    "extracted_value": 15,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+wireless+noise+canceling+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+wireless+noise+canceling+headphones&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm4",
+    "value": "15",
+    "extracted_value": 15,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm4&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm4&tz=420"
+   },
+   {
+    "query": "bose headphones",
+    "value": "14",
+    "extracted_value": 14,
+    "link": "https://trends.google.com/trends/explore?q=bose+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=bose+headphones&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 wireless noise-canceling headphones",
+    "value": "13",
+    "extracted_value": 13,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+wireless+noise-canceling+headphones&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+wireless+noise-canceling+headphones&tz=420"
+   },
+   {
+    "query": "airpods",
+    "value": "12",
+    "extracted_value": 12,
+    "link": "https://trends.google.com/trends/explore?q=airpods&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=airpods&tz=420"
+   },
+   {
+    "query": "sony wh-1000xm5 vs bose quietcomfort",
+    "value": "11",
+    "extracted_value": 11,
+    "link": "https://trends.google.com/trends/explore?q=sony+wh-1000xm5+vs+bose+quietcomfort&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sony+wh-1000xm5+vs+bose+quietcomfort&tz=420"
+   },
+   {
+    "query": "best buy",
+    "value": "11",
+    "extracted_value": 11,
+    "link": "https://trends.google.com/trends/explore?q=best+buy&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=best+buy&tz=420"
+   },
+   {
+    "query": "sennheiser",
+    "value": "10",
+    "extracted_value": 10,
+    "link": "https://trends.google.com/trends/explore?q=sennheiser&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=sennheiser&tz=420"
+   },
+   {
+    "query": "bose quietcomfort ultra",
+    "value": "10",
+    "extracted_value": 10,
+    "link": "https://trends.google.com/trends/explore?q=bose+quietcomfort+ultra&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=bose+quietcomfort+ultra&tz=420"
+   }
+  ]
+ },
+ "_probe_latency_s": 3.54
+}

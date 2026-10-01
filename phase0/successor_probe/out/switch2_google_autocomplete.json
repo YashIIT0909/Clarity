@@ -1,0 +1,117 @@
+{
+ "search_metadata": {
+  "id": "6abce32af9aa73831c3c0b87",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/b6G-kERrbW4Q43kaQJ9o8zp7KZo4oWzWaIllvp5TmMU/6abce32af9aa73831c3c0b87.json",
+  "markdown_endpoint": "https://serpapi.com/searches/b6G-kERrbW4Q43kaQJ9o8zp7KZo4oWzWaIllvp5TmMU/6abce32af9aa73831c3c0b87.md",
+  "created_at": "2026-09-30 10:23:38 UTC",
+  "processed_at": "2026-09-30 10:23:38 UTC",
+  "google_autocomplete_url": "https://www.google.com/complete/search?q=nintendo+switch+2&gl=us&hl=en&client=chrome&dpr=1",
+  "raw_html_file": "https://serpapi.com/searches/b6G-kERrbW4Q43kaQJ9o8zp7KZo4oWzWaIllvp5TmMU/6abce32af9aa73831c3c0b87.html",
+  "prettify_html_file": "https://serpapi.com/searches/b6G-kERrbW4Q43kaQJ9o8zp7KZo4oWzWaIllvp5TmMU/6abce32af9aa73831c3c0b87.prettify",
+  "total_time_taken": 0.48
+ },
+ "search_parameters": {
+  "engine": "google_autocomplete",
+  "q": "nintendo switch 2",
+  "gl": "us",
+  "hl": "en"
+ },
+ "search_information": {
+  "autocomplete_results_state": "Showing completion results."
+ },
+ "suggestions": [
+  {
+   "value": "nintendo switch 2 zelda edition",
+   "relevance": 1251,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+zelda+edition"
+  },
+  {
+   "value": "nintendo switch 2 zelda edition pre order",
+   "relevance": 1250,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+zelda+edition+pre+order"
+  },
+  {
+   "value": "nintendo switch 2 zelda",
+   "relevance": 1100,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+zelda"
+  },
+  {
+   "value": "nintendo switch 2 games",
+   "relevance": 602,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+games"
+  },
+  {
+   "value": "nintendo switch 2 price",
+   "relevance": 601,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+price"
+  },
+  {
+   "value": "nintendo switch 2 zelda ocarina of time",
+   "relevance": 600,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+zelda+ocarina+of+time"
+  },
+  {
+   "value": "nintendo switch 2 ocarina of time bundle",
+   "relevance": 558,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+ocarina+of+time+bundle"
+  },
+  {
+   "value": "nintendo switch 2 firmware 23.0.0",
+   "relevance": 557,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+firmware+23.0.0"
+  },
+  {
+   "value": "nintendo switch 2 release date",
+   "relevance": 556,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+release+date"
+  },
+  {
+   "value": "nintendo switch 2 legend of zelda edition",
+   "relevance": 555,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+legend+of+zelda+edition"
+  },
+  {
+   "value": "nintendo switch 2 pro controller zelda",
+   "relevance": 554,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+pro+controller+zelda"
+  },
+  {
+   "value": "nintendo switch 2 ocarina of time console",
+   "relevance": 553,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+ocarina+of+time+console"
+  },
+  {
+   "value": "nintendo switch 2 controllers",
+   "relevance": 552,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+controllers"
+  },
+  {
+   "value": "nintendo switch 2 pro controller",
+   "relevance": 551,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+pro+controller"
+  },
+  {
+   "value": "nintendo switch 2 40th anniversary edition",
+   "relevance": 550,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=us&hl=en&q=nintendo+switch+2+40th+anniversary+edition"
+  }
+ ],
+ "verbatim_relevance": 1300,
+ "_probe_latency_s": 1.02
+}

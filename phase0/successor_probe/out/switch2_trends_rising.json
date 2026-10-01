@@ -1,0 +1,380 @@
+{
+ "search_metadata": {
+  "id": "6abce322231ffee7854240fa",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/ElWa70e8V10mAx3wbGtdHKA04EhAD0PWdEisL0lKCD4/6abce322231ffee7854240fa.json",
+  "markdown_endpoint": "https://serpapi.com/searches/ElWa70e8V10mAx3wbGtdHKA04EhAD0PWdEisL0lKCD4/6abce322231ffee7854240fa.md",
+  "created_at": "2026-09-30 10:23:30 UTC",
+  "processed_at": "2026-09-30 10:23:30 UTC",
+  "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22nintendo+switch+2%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+3-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+  "raw_html_file": "https://serpapi.com/searches/ElWa70e8V10mAx3wbGtdHKA04EhAD0PWdEisL0lKCD4/6abce322231ffee7854240fa.html",
+  "prettify_html_file": "https://serpapi.com/searches/ElWa70e8V10mAx3wbGtdHKA04EhAD0PWdEisL0lKCD4/6abce322231ffee7854240fa.prettify",
+  "total_time_taken": 7.22
+ },
+ "search_parameters": {
+  "engine": "google_trends",
+  "q": "nintendo switch 2",
+  "hl": "en",
+  "geo": "US",
+  "date": "today 3-m",
+  "tz": "420",
+  "data_type": "RELATED_QUERIES"
+ },
+ "related_queries": {
+  "rising": [
+   {
+    "query": "zelda 40th anniversary switch 2",
+    "value": "Breakout",
+    "extracted_value": 107400,
+    "link": "https://trends.google.com/trends/explore?q=zelda+40th+anniversary+switch+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=zelda+40th+anniversary+switch+2&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 zelda edition pre order",
+    "value": "Breakout",
+    "extracted_value": 41050,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+zelda+edition+pre+order&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+zelda+edition+pre+order&tz=420"
+   },
+   {
+    "query": "switch 2 zelda edition pre order",
+    "value": "Breakout",
+    "extracted_value": 40600,
+    "link": "https://trends.google.com/trends/explore?q=switch+2+zelda+edition+pre+order&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=switch+2+zelda+edition+pre+order&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 40th anniversary edition",
+    "value": "Breakout",
+    "extracted_value": 27450,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+40th+anniversary+edition&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+40th+anniversary+edition&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 zelda 40th anniversary edition",
+    "value": "Breakout",
+    "extracted_value": 18400,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+zelda+40th+anniversary+edition&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+zelda+40th+anniversary+edition&tz=420"
+   },
+   {
+    "query": "zelda switch 2 console pre order",
+    "value": "Breakout",
+    "extracted_value": 16300,
+    "link": "https://trends.google.com/trends/explore?q=zelda+switch+2+console+pre+order&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=zelda+switch+2+console+pre+order&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 zelda pre order",
+    "value": "Breakout",
+    "extracted_value": 15400,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+zelda+pre+order&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+zelda+pre+order&tz=420"
+   },
+   {
+    "query": "nintendo switch\u2122 2 \u2013the legend of zelda\u2122 \u2013 40th anniversary edition",
+    "value": "Breakout",
+    "extracted_value": 12300,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch%E2%84%A2+2+%E2%80%93the+legend+of+zelda%E2%84%A2+%E2%80%93+40th+anniversary+edition&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch%E2%84%A2+2+%E2%80%93the+legend+of+zelda%E2%84%A2+%E2%80%93+40th+anniversary+edition&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 console bans",
+    "value": "Breakout",
+    "extracted_value": 10000,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+console+bans&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+console+bans&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 zelda accessories hori",
+    "value": "Breakout",
+    "extracted_value": 7350,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+zelda+accessories+hori&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+zelda+accessories+hori&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 the legend of zelda 40th anniversary edition",
+    "value": "Breakout",
+    "extracted_value": 7150,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+the+legend+of+zelda+40th+anniversary+edition&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+the+legend+of+zelda+40th+anniversary+edition&tz=420"
+   },
+   {
+    "query": "zelda switch 2 preorder",
+    "value": "Breakout",
+    "extracted_value": 5850,
+    "link": "https://trends.google.com/trends/explore?q=zelda+switch+2+preorder&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=zelda+switch+2+preorder&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 zelda restock",
+    "value": "Breakout",
+    "extracted_value": 5750,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+zelda+restock&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+zelda+restock&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 pro controller the legend of zelda 40th anniversary edition",
+    "value": "+4,200%",
+    "extracted_value": 4200,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+pro+controller+the+legend+of+zelda+40th+anniversary+edition&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+pro+controller+the+legend+of+zelda+40th+anniversary+edition&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 holiday bundles",
+    "value": "+3,100%",
+    "extracted_value": 3100,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+holiday+bundles&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+holiday+bundles&tz=420"
+   },
+   {
+    "query": "nintendo direct september 2026",
+    "value": "+2,400%",
+    "extracted_value": 2400,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+direct+september+2026&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+direct+september+2026&tz=420"
+   },
+   {
+    "query": "shop deals on nintendo switch 2 console bundle",
+    "value": "+2,250%",
+    "extracted_value": 2250,
+    "link": "https://trends.google.com/trends/explore?q=shop+deals+on+nintendo+switch+2+console+bundle&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=shop+deals+on+nintendo+switch+2+console+bundle&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 zelda leak",
+    "value": "+1,700%",
+    "extracted_value": 1700,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+zelda+leak&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+zelda+leak&tz=420"
+   },
+   {
+    "query": "nintendo customer appreciation sale",
+    "value": "+1,550%",
+    "extracted_value": 1550,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+customer+appreciation+sale&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+customer+appreciation+sale&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 pro controller zelda",
+    "value": "+1,400%",
+    "extracted_value": 1400,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+pro+controller+zelda&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+pro+controller+zelda&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 monster hunter bundle",
+    "value": "+1,250%",
+    "extracted_value": 1250,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+monster+hunter+bundle&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+monster+hunter+bundle&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 screen rumors",
+    "value": "+1,250%",
+    "extracted_value": 1250,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+screen+rumors&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+screen+rumors&tz=420"
+   },
+   {
+    "query": "switch 2 zelda edition",
+    "value": "+1,200%",
+    "extracted_value": 1200,
+    "link": "https://trends.google.com/trends/explore?q=switch+2+zelda+edition&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=switch+2+zelda+edition&tz=420"
+   },
+   {
+    "query": "zelda edition switch 2",
+    "value": "+1,200%",
+    "extracted_value": 1200,
+    "link": "https://trends.google.com/trends/explore?q=zelda+edition+switch+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=zelda+edition+switch+2&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 game pre-orders",
+    "value": "+1,150%",
+    "extracted_value": 1150,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+game+pre-orders&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+game+pre-orders&tz=420"
+   }
+  ],
+  "top": [
+   {
+    "query": "switch games",
+    "value": "100",
+    "extracted_value": 100,
+    "link": "https://trends.google.com/trends/explore?q=switch+games&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=switch+games&tz=420"
+   },
+   {
+    "query": "switch 2 games",
+    "value": "100",
+    "extracted_value": 100,
+    "link": "https://trends.google.com/trends/explore?q=switch+2+games&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=switch+2+games&tz=420"
+   },
+   {
+    "query": "nintendo games",
+    "value": "99",
+    "extracted_value": 99,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+games&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+games&tz=420"
+   },
+   {
+    "query": "nintendo switch games",
+    "value": "98",
+    "extracted_value": 98,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+games&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+games&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 games",
+    "value": "96",
+    "extracted_value": 96,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+games&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+games&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 zelda",
+    "value": "63",
+    "extracted_value": 63,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+zelda&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+zelda&tz=420"
+   },
+   {
+    "query": "zelda",
+    "value": "62",
+    "extracted_value": 62,
+    "link": "https://trends.google.com/trends/explore?q=zelda&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=zelda&tz=420"
+   },
+   {
+    "query": "zelda switch 2",
+    "value": "62",
+    "extracted_value": 62,
+    "link": "https://trends.google.com/trends/explore?q=zelda+switch+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=zelda+switch+2&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 game",
+    "value": "52",
+    "extracted_value": 52,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+game&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+game&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 price",
+    "value": "31",
+    "extracted_value": 31,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+price&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+price&tz=420"
+   },
+   {
+    "query": "nintendo switch controller",
+    "value": "30",
+    "extracted_value": 30,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+controller&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+controller&tz=420"
+   },
+   {
+    "query": "switch 2 price",
+    "value": "30",
+    "extracted_value": 30,
+    "link": "https://trends.google.com/trends/explore?q=switch+2+price&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=switch+2+price&tz=420"
+   },
+   {
+    "query": "nintendo switch price",
+    "value": "29",
+    "extracted_value": 29,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+price&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+price&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 controller",
+    "value": "28",
+    "extracted_value": 28,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+controller&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+controller&tz=420"
+   },
+   {
+    "query": "switch 2 controller",
+    "value": "28",
+    "extracted_value": 28,
+    "link": "https://trends.google.com/trends/explore?q=switch+2+controller&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=switch+2+controller&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 console",
+    "value": "27",
+    "extracted_value": 27,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+console&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+console&tz=420"
+   },
+   {
+    "query": "zelda edition switch 2",
+    "value": "27",
+    "extracted_value": 27,
+    "link": "https://trends.google.com/trends/explore?q=zelda+edition+switch+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=zelda+edition+switch+2&tz=420"
+   },
+   {
+    "query": "switch 2 zelda edition",
+    "value": "27",
+    "extracted_value": 27,
+    "link": "https://trends.google.com/trends/explore?q=switch+2+zelda+edition&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=switch+2+zelda+edition&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 zelda edition",
+    "value": "25",
+    "extracted_value": 25,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+zelda+edition&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+zelda+edition&tz=420"
+   },
+   {
+    "query": "buy nintendo switch 2",
+    "value": "23",
+    "extracted_value": 23,
+    "link": "https://trends.google.com/trends/explore?q=buy+nintendo+switch+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=buy+nintendo+switch+2&tz=420"
+   },
+   {
+    "query": "nintendo switch 2 vs nintendo switch",
+    "value": "19",
+    "extracted_value": 19,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+2+vs+nintendo+switch&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+2+vs+nintendo+switch&tz=420"
+   },
+   {
+    "query": "nintendo switch vs switch 2",
+    "value": "19",
+    "extracted_value": 19,
+    "link": "https://trends.google.com/trends/explore?q=nintendo+switch+vs+switch+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=nintendo+switch+vs+switch+2&tz=420"
+   },
+   {
+    "query": "games for nintendo switch 2",
+    "value": "17",
+    "extracted_value": 17,
+    "link": "https://trends.google.com/trends/explore?q=games+for+nintendo+switch+2&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=games+for+nintendo+switch+2&tz=420"
+   },
+   {
+    "query": "switch 2 bundle",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=switch+2+bundle&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=switch+2+bundle&tz=420"
+   },
+   {
+    "query": "ocarina of time",
+    "value": "14",
+    "extracted_value": 14,
+    "link": "https://trends.google.com/trends/explore?q=ocarina+of+time&date=today+3-m&geo=US",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+3-m&engine=google_trends&geo=US&hl=en&q=ocarina+of+time&tz=420"
+   }
+  ]
+ },
+ "_probe_latency_s": 7.75
+}

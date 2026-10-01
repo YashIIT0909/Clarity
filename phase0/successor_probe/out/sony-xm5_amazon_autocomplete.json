@@ -1,0 +1,110 @@
+{
+ "search_metadata": {
+  "id": "6abce32177e3d95392c2945b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/U5bLjMzp_VYZVZB61qZBRAQ6PBn3x_DntmZJ2-apAIo/6abce32177e3d95392c2945b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/U5bLjMzp_VYZVZB61qZBRAQ6PBn3x_DntmZJ2-apAIo/6abce32177e3d95392c2945b.md",
+  "created_at": "2026-09-30 10:23:29 UTC",
+  "processed_at": "2026-09-30 10:23:29 UTC",
+  "amazon_autocomplete_url": "https://www.amazon.com/s?k=sony+wh-1000xm5",
+  "raw_html_file": "https://serpapi.com/searches/U5bLjMzp_VYZVZB61qZBRAQ6PBn3x_DntmZJ2-apAIo/6abce32177e3d95392c2945b.html",
+  "prettify_html_file": "https://serpapi.com/searches/U5bLjMzp_VYZVZB61qZBRAQ6PBn3x_DntmZJ2-apAIo/6abce32177e3d95392c2945b.prettify",
+  "total_time_taken": 0.47
+ },
+ "search_parameters": {
+  "engine": "amazon_autocomplete",
+  "k": "sony wh-1000xm5",
+  "amazon_domain": "amazon.com"
+ },
+ "search_information": {
+  "query_displayed": "sony wh-1000xm5",
+  "autocomplete_results_state": "Showing completion results."
+ },
+ "suggestions": [
+  {
+   "value": "sony wh-1000xm5",
+   "type": "KEYWORD",
+   "thumbnail": "https://m.media-amazon.com/images/I/31rfuPTgllL.__AC_SL75__.jpg",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5"
+  },
+  {
+   "value": "sony wh-1000xm5 headphones",
+   "type": "KEYWORD",
+   "thumbnail": "https://m.media-amazon.com/images/I/317FTXmm9VL.__AC_SL75__.jpg",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+headphones",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+headphones",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20headphones"
+  },
+  {
+   "value": "sony wh-1000xm5 ear pads",
+   "type": "KEYWORD",
+   "thumbnail": "https://m.media-amazon.com/images/I/51o3A-QiIOL.__AC_SL75__.jpg",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+ear+pads",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+ear+pads",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20ear%20pads"
+  },
+  {
+   "value": "sony wh-1000xm5 case",
+   "type": "KEYWORD",
+   "thumbnail": "https://m.media-amazon.com/images/I/51GISs+Zm0L.__AC_SL75__.jpg",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+case",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+case",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20case"
+  },
+  {
+   "value": "sony wh-1000xm5 accessories",
+   "type": "KEYWORD",
+   "thumbnail": "https://m.media-amazon.com/images/I/41topQsawaL.__AC_SL75__.jpg",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+accessories",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+accessories",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20accessories"
+  },
+  {
+   "value": "sony wh-1000xm5 cover",
+   "type": "KEYWORD",
+   "thumbnail": "https://m.media-amazon.com/images/I/31JitIhBoML.__AC_SL75__.jpg",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+cover",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+cover",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20cover"
+  },
+  {
+   "value": "sony wh-1000xm5 repair kit",
+   "type": "KEYWORD",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+repair+kit",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+repair+kit",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20repair%20kit"
+  },
+  {
+   "value": "sony wh-1000xm5 refurbished",
+   "type": "KEYWORD",
+   "thumbnail": "https://m.media-amazon.com/images/I/31SiqebvlVL.__AC_SL75__.jpg",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+refurbished",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+refurbished",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20refurbished"
+  },
+  {
+   "value": "sony wh-1000xm5 wireless headphones",
+   "type": "KEYWORD",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+wireless+headphones",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+wireless+headphones",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20wireless%20headphones"
+  },
+  {
+   "value": "sony wh-1000xm5 replacement ear pads",
+   "type": "KEYWORD",
+   "thumbnail": "https://m.media-amazon.com/images/I/51gJpHhKuYS.__AC_SL75__.jpg",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&engine=amazon_autocomplete&k=sony+wh-1000xm5+replacement+ear+pads",
+   "serpapi_amazon_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=sony+wh-1000xm5+replacement+ear+pads",
+   "amazon_link": "https://www.amazon.com/s?k=sony%20wh-1000xm5%20replacement%20ear%20pads"
+  },
+  {
+   "value": "Shop the Sony store",
+   "type": "WIDGET",
+   "thumbnail": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/c/AmazonStores/ATVPDKIKX0DER/9772738c208a8f68196f36a4c31823fb.w600.h600._RO299,1,0,0,0,0,0,0,0,0,15_FMpng_._AC_SS200_BO20,255,255,255_.jpg",
+   "amazon_link": "https://www.amazon.com/stores/page/AEA5D08A-7FC6-45D4-B121-C8A6FA25219F?store_ref=storeRecs_sa__x&amp=&ref_=nb_sb_ss_w_stores-v2-t2_k0_11_15_1_1&crid=3BH28E39BFCMD&amp=&sprefix=sony+wh-1000xm5&amp=&redirect_store_id=AEA5D08A-7FC6-45D4-B121-C8A6FA25219F"
+  }
+ ],
+ "_probe_latency_s": 0.99
+}
