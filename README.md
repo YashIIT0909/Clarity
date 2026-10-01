@@ -247,7 +247,7 @@ This stage runs next to timing once trust passes, and it arrives after the verdi
 flowchart LR
     Y["SerpApi · youtube"] --> SEL["Pick ≤3 reviews<br/>exact model, one per channel"]
     SEL --> TX["SerpApi · youtube_video_transcript"]
-    F["SerpApi · google_forums<br/>&quot;problems&quot; / &quot;issues&quot;"]
+    F["SerpApi · google_forums<br/>problems / issues"]
     TX & F --> LLM["Groq: extract → merge → verify<br/>every quote checked against source"]
     LLM --> OUT(["Known issues & praise<br/>with timestamps + thread links"])
 
