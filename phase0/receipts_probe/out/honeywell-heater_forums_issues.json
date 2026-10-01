@@ -1,0 +1,25 @@
+{
+ "search_metadata": {
+  "id": "6abd1a50e7a2a971b901c16c",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/rq7cjj9uafIuWsSK3-5UmUass0U5TcDYRD-5fGmCJcs/6abd1a50e7a2a971b901c16c.json",
+  "markdown_endpoint": "https://serpapi.com/searches/rq7cjj9uafIuWsSK3-5UmUass0U5TcDYRD-5fGmCJcs/6abd1a50e7a2a971b901c16c.md",
+  "created_at": "2026-09-30 14:18:56 UTC",
+  "processed_at": "2026-09-30 14:18:56 UTC",
+  "google_forums_url": "https://www.google.com/search?q=honeywell+360+heater+issues&hl=en&gl=us&device=desktop&udm=18",
+  "raw_html_file": "https://serpapi.com/searches/rq7cjj9uafIuWsSK3-5UmUass0U5TcDYRD-5fGmCJcs/6abd1a50e7a2a971b901c16c.html",
+  "total_time_taken": 9.53
+ },
+ "search_parameters": {
+  "q": "honeywell 360 heater issues",
+  "engine": "google_forums",
+  "device": "desktop",
+  "gl": "us",
+  "hl": "en"
+ },
+ "search_information": {
+  "organic_results_state": "Fully empty"
+ },
+ "error": "Google Forums hasn't returned any results for this query.",
+ "_probe_latency_s": 9.95
+}

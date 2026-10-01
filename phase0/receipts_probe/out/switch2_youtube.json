@@ -1,0 +1,714 @@
+{
+ "search_metadata": {
+  "id": "6abd19fb23df78dc38cbd257",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/c3DprAMep--7YPvQ0qgi9vTEqOzMUQtvLvo3fTjucHE/6abd19fb23df78dc38cbd257.json",
+  "markdown_endpoint": "https://serpapi.com/searches/c3DprAMep--7YPvQ0qgi9vTEqOzMUQtvLvo3fTjucHE/6abd19fb23df78dc38cbd257.md",
+  "created_at": "2026-09-30 14:17:31 UTC",
+  "processed_at": "2026-09-30 14:17:31 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=nintendo+switch+2+review&gl=us&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/c3DprAMep--7YPvQ0qgi9vTEqOzMUQtvLvo3fTjucHE/6abd19fb23df78dc38cbd257.html",
+  "total_time_taken": 3.07
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "nintendo switch 2 review",
+  "gl": "us",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 3576112,
+  "video_results_state": "Results for exact spelling"
+ },
+ "video_results": [
+  {
+   "position_on_page": 1,
+   "title": "Nintendo Switch 2 Review - a PC Gamer\u2019s Perspective",
+   "link": "https://www.youtube.com/watch?v=58XieqW6CO4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=58XieqW6CO4",
+   "video_id": "58XieqW6CO4",
+   "channel": {
+    "name": "Linus Tech Tips",
+    "link": "https://www.youtube.com/@LinusTechTips",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 2653381,
+   "length": "16:12",
+   "description": "Get your Killswitch for the Switch 2 at https://myhandsareverysmall.com The Nintendo Switch 2 is here! And so is a new hole in my\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/58XieqW6CO4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp1YSI6Y_dEWuCByNr7cBHTKvZZw",
+    "rich": "https://i.ytimg.com/an_webp/58XieqW6CO4/mqdefault_6s.webp?du=3000&sqp=COSL9NUG&rs=AOn4CLCAUWHEQTCq720Pra5jNKhWr9sJZw"
+   }
+  },
+  {
+   "position_on_page": 2,
+   "title": "My Nintendo Switch 2 Review (Doesn't Matter?)",
+   "link": "https://www.youtube.com/watch?v=-NNCca97v98",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=-NNCca97v98",
+   "video_id": "-NNCca97v98",
+   "channel": {
+    "name": "Marques Brownlee",
+    "link": "https://www.youtube.com/@mkbhd",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 3908465,
+   "length": "13:17",
+   "description": "The Switch 2 is pretty good. Also pricy. But it's really all about the games Save $35 on a dbrand Killswitch case for your Switch 2 at\u00a0...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/-NNCca97v98/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg4edcQQ0EOKGMuQI1Vic6SKxR-A",
+    "rich": "https://i.ytimg.com/an_webp/-NNCca97v98/mqdefault_6s.webp?du=3000&sqp=CPil9NUG&rs=AOn4CLCG5FbAnE0LNANokUrxUbYCxqjAoA"
+   }
+  },
+  {
+   "position_on_page": 3,
+   "title": "Nintendo Switch 2 Review After 6 Months: Is It Actually Worth It?",
+   "link": "https://www.youtube.com/watch?v=Qviwd67iz5s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=Qviwd67iz5s",
+   "video_id": "Qviwd67iz5s",
+   "channel": {
+    "name": "Tech Fowler",
+    "link": "https://www.youtube.com/@TechFowler",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/nH7u73AdPWYCfIvqQzr_hZYNZp16hVl0CJpcSvW9Kpif6C4evpmevp1yKv_K18afzfKjZD_k=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 333532,
+   "length": "19:26",
+   "description": "Change your workflow with the Framer x Work Louder Creator Macro Pad! https://framer.link/TechFowler Is the Nintendo Switch 2\u00a0...",
+   "extensions": [
+    "1 product",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Qviwd67iz5s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_VTYwZnQ3FxX1X6sOL8PSuKZkUA",
+    "rich": "https://i.ytimg.com/an_webp/Qviwd67iz5s/mqdefault_6s.webp?du=3000&sqp=CKOm9NUG&rs=AOn4CLBF6W8mDuzk158Z2ajVCo9j7VauWQ"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "The Switch 2 is the Ultimate Value Console",
+   "link": "https://www.youtube.com/watch?v=MLfYgPbDHho",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=MLfYgPbDHho",
+   "video_id": "MLfYgPbDHho",
+   "channel": {
+    "name": "Justin's Game Corner",
+    "link": "https://www.youtube.com/@JustinsGameCorner",
+    "thumbnail": "https://yt3.ggpht.com/RS1TxbGoFWpVIAcRCJfuIe-AQcphglkRclvFqX0MTbRIV6_TXsxB_G2a4wG3vHvcQHU8Cz2N=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2d ago",
+   "views": 29996,
+   "length": "11:32",
+   "description": "The Switch 2 has become a juggernaut of a console, and it's not entirely because of its 1st party games. The last few months,\u00a0...",
+   "extensions": [
+    "New",
+    "1 product"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/MLfYgPbDHho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJmtX3DdpjFunW3KuQ8hSiHUBRUw",
+    "rich": "https://i.ytimg.com/an_webp/MLfYgPbDHho/mqdefault_6s.webp?du=3000&sqp=CICK9NUG&rs=AOn4CLD8sG2oLzzeXWueNaGD7tYHcCpRjQ"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "Nintendo Switch 2 Review - Best Worst Console Ever.",
+   "link": "https://www.youtube.com/watch?v=haGDkJsDUMk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=haGDkJsDUMk",
+   "video_id": "haGDkJsDUMk",
+   "channel": {
+    "name": "Mrwhosetheboss",
+    "link": "https://www.youtube.com/@Mrwhosetheboss",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 3058094,
+   "length": "12:13",
+   "description": "My full review of the Nintendo Switch 2 - and how it stacks up vs PS5, Steam Deck, Nintendo Switch 1 etc. I spend a LOT of time\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/haGDkJsDUMk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLIeL-UwkdkazDGBppJCgYt5NGXQ",
+    "rich": "https://i.ytimg.com/an_webp/haGDkJsDUMk/mqdefault_6s.webp?du=3000&sqp=COCZ9NUG&rs=AOn4CLDA2LkikxUhe5E9NZw8V1WjDYHRjw"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "Nintendo Switch 2 Review",
+   "link": "https://www.youtube.com/watch?v=TJCBDDQNOrQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=TJCBDDQNOrQ",
+   "video_id": "TJCBDDQNOrQ",
+   "channel": {
+    "name": "IGN",
+    "link": "https://www.youtube.com/@IGN",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/4jRpju9vRtgoIA6SxuIomVcCmjub6ydA1TzGRHts853ZzxRITi41gxP50jTuGBdUlvAgehZJK8Y=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 251019,
+   "length": "20:25",
+   "description": "The Nintendo Switch 2 reviewed by Tom Marks. The Switch 2 is a Switch but bigger and better in nearly every way, with all of its\u00a0...",
+   "extensions": [
+    "5 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/TJCBDDQNOrQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM33CmdkcYjSpYWMrfNqzGU67-bQ",
+    "rich": "https://i.ytimg.com/an_webp/TJCBDDQNOrQ/mqdefault_6s.webp?du=3000&sqp=COik9NUG&rs=AOn4CLDJcY5IsuMHyb3PfM3LDq4k-0yNLw"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Nintendo Switch 2 \u2013 6 Months Later: Still Worth It in 2026?",
+   "link": "https://www.youtube.com/watch?v=vYs87c6IIZk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=vYs87c6IIZk",
+   "video_id": "vYs87c6IIZk",
+   "channel": {
+    "name": "Tech Lift",
+    "link": "https://www.youtube.com/@techlift_",
+    "thumbnail": "https://yt3.ggpht.com/m_hjKOCOT5LaRfFS2LIYN5eEZ9F7e8WD1-EKXPXkHnhhF4hgwpJGD7pQZnwIkMmnvxTrTR_YSQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "10d ago",
+   "views": 55073,
+   "length": "10:48",
+   "description": "Nintendo Switch 2 \u2013 6 Months Later: Still Worth It in 2026? I'm a lifelong Xbox user and recently switched to the PlayStation 5 in\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/vYs87c6IIZk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaGtkcYZ1TAlSSE03wClcQySWj0g",
+    "rich": "https://i.ytimg.com/an_webp/vYs87c6IIZk/mqdefault_6s.webp?du=3000&sqp=CJOS9NUG&rs=AOn4CLDiwoYuUBBb9OGQUPkac8_tDQA0Sg"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "Nintendo Switch 2 Review: Everything you NEED to know",
+   "link": "https://www.youtube.com/watch?v=aXuzUWx1Aow",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=aXuzUWx1Aow",
+   "video_id": "aXuzUWx1Aow",
+   "channel": {
+    "name": "SpawnPoiint",
+    "link": "https://www.youtube.com/@SpawnPoiint",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9apSXVNib2_ONPiO4yUH6CEKwMeMnHXk249QC7aQZrXs=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 637657,
+   "length": "18:27",
+   "description": "Unboxing and full review of the Nintendo Switch 2. A first look at what's included, the setup process, new screen, magnetic\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/aXuzUWx1Aow/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAThWN7OfAr6KYIGsniZZznjnTJCg",
+    "rich": "https://i.ytimg.com/an_webp/aXuzUWx1Aow/mqdefault_6s.webp?du=3000&sqp=CNiM9NUG&rs=AOn4CLAKXlM5DIdFx2vlbkplogIp34m_1g"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "Nintendo's Switch 2 Plans Leak Early? & Sony Backs Out of A Big Event | News Wave",
+   "link": "https://www.youtube.com/watch?v=rzujwg32dN4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=rzujwg32dN4",
+   "video_id": "rzujwg32dN4",
+   "channel": {
+    "name": "Spawn Wave",
+    "link": "https://www.youtube.com/@SpawnWave",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nvgowMqGES97295ca-kcFDlupckJyBceBP9X_7IDv5JkE=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1d ago",
+   "views": 130558,
+   "length": "22:55",
+   "description": "It looks like Nintendo could have some interesting plans for the Switch 2 with a new feature being noticed behind the scenes.",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/rzujwg32dN4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBHnm23az2griX5RX95oC99A61iQ",
+    "rich": "https://i.ytimg.com/an_webp/rzujwg32dN4/mqdefault_6s.webp?du=3000&sqp=CI6D9NUG&rs=AOn4CLAeFBmncDJp2AdptJxbY78hMjt0Fw"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "10 NEW Nintendo Switch 2 eShop Games Worth Buying!",
+   "link": "https://www.youtube.com/watch?v=IUIcxk38uUs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=IUIcxk38uUs",
+   "video_id": "IUIcxk38uUs",
+   "channel": {
+    "name": "BeatEmUps",
+    "link": "https://www.youtube.com/@BeatEmUps",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/S4ZfsXvYnywvHSYKJXoNKletKDxRFXS_yQl9vf--_GTyGXSkG7HZvc_J8Rpd89J2EzbpEN2aZw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "12h ago",
+   "views": 110504,
+   "length": "25:16",
+   "description": "What 10 BEST Nintendo Switch eShop games are Worth Buying? MewGenics, Woodo, Diablo 4, Valhiem, Meccha Chameleon\u00a0...",
+   "extensions": [
+    "New",
+    "4 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/IUIcxk38uUs/hq720_custom_3.jpg?sqp=COSy9NUG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7GGblZdf1L41ilQctTdeluWMYeg",
+    "rich": "https://i.ytimg.com/an_webp/IUIcxk38uUs/mqdefault_6s.webp?du=3000&sqp=COzp89UG&rs=AOn4CLA7tbU-1KCOFfz3Qf_q3ALrSn-bfw"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "EA Sports FC 27 Nintendo Switch 2 Review",
+   "link": "https://www.youtube.com/watch?v=__G6aqoqcdA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=__G6aqoqcdA",
+   "video_id": "__G6aqoqcdA",
+   "channel": {
+    "name": "SwitchUp",
+    "link": "https://www.youtube.com/@SwitchUpYt",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lKUR794VM2DqSJAaTA8qR4tZQwCAXXM7pDsILIuaYebAPW=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "19h ago",
+   "views": 27083,
+   "length": "11:53",
+   "description": "EA's footballing behemoth returns to the Nintendo Switch and Switch 2 with FC 27. Is it worth getting? Well, let's find out.... #eafc27\u00a0...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/__G6aqoqcdA/hq720_custom_2.jpg?sqp=COSy9NUG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjKL9x5ov826vwE4tQyueYnpEtXw",
+    "rich": "https://i.ytimg.com/an_webp/__G6aqoqcdA/mqdefault_6s.webp?du=3000&sqp=CICH9NUG&rs=AOn4CLDL3KWFMXQungXu5SsUpwG6eQ-2Ew"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Switch 2 - Before You Buy",
+   "link": "https://www.youtube.com/watch?v=QQcLVryfnCU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=QQcLVryfnCU",
+   "video_id": "QQcLVryfnCU",
+   "channel": {
+    "name": "gameranx",
+    "link": "https://www.youtube.com/@gameranxTV",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mT3hsjvr0yyS6bW4inz3956572zV_j4t7TLsEOkK0G1VM=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 1070632,
+   "length": "13:06",
+   "description": "Thanks @NintendoAmerica for sending- Switch 2 has arrived! After testing it for a few days, here are some things you should\u00a0...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/QQcLVryfnCU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTVTQrvXxrQxi-RkftbfvuWqQT_w",
+    "rich": "https://i.ytimg.com/an_webp/QQcLVryfnCU/mqdefault_6s.webp?du=3000&sqp=CM-i9NUG&rs=AOn4CLCmcEc8p_KMyT-DfjXPPL9PqUFArQ"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "Minecraft Dungeons 2 on Nintendo Switch 2 \u2014 Worth It?",
+   "link": "https://www.youtube.com/watch?v=CldRHxIS58s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=CldRHxIS58s",
+   "video_id": "CldRHxIS58s",
+   "channel": {
+    "name": "SwitchForce",
+    "link": "https://www.youtube.com/@SwitchForce",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/cqi6FzQDDJqyeLLH-7JYgghmu6_7QbRMfK9sn8nVo_MxVrcrwkHZDmBBs4DJSQdNXUvQn5k0=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "11h ago",
+   "views": 6282,
+   "length": "7:47",
+   "description": "Minecraft Dungeons 2 just launched, and I spent real time with it on Nintendo Switch 2, docked and handheld, to find out if it's\u00a0...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/CldRHxIS58s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzvEAn0vfmnFe4ipMDpIbVMjkkwQ",
+    "rich": "https://i.ytimg.com/an_webp/CldRHxIS58s/mqdefault_6s.webp?du=3000&sqp=CJiq9NUG&rs=AOn4CLDDHK0ean4QC7mRNL5l9x8nOplqAQ"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Nintendo Switch 2 - Review",
+   "link": "https://www.youtube.com/watch?v=ZwdD6oydgDM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=ZwdD6oydgDM",
+   "video_id": "ZwdD6oydgDM",
+   "channel": {
+    "name": "Skill Up",
+    "link": "https://www.youtube.com/@SkillUp",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/CcyQzLCpV1rVfUWeaEgRut_FZGTkOfM7VFc0dG80dm6UraKtid4Tbetka8elQPn-4AABg3k-8A=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 281211,
+   "length": "22:31",
+   "description": "Thanks to Squarespace for sponsoring the video. If you want to set up your own website (and get a discount while doing it), hit this\u00a0...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ZwdD6oydgDM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWwZ_T8bJQmOn3tq5NXs4pMvajXA",
+    "rich": "https://i.ytimg.com/an_webp/ZwdD6oydgDM/mqdefault_6s.webp?du=3000&sqp=COWc9NUG&rs=AOn4CLAonS_T9t7TqJeM_EJJcDde6sWiew"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "Let's talk about Minecraft Dungeons 2 on Switch 2... Is it GOOD?",
+   "link": "https://www.youtube.com/watch?v=E-1FNfdFv78",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=E-1FNfdFv78",
+   "video_id": "E-1FNfdFv78",
+   "channel": {
+    "name": "Kneeckoh Games",
+    "link": "https://www.youtube.com/@KneeckohGames",
+    "thumbnail": "https://yt3.ggpht.com/NodMFtQ9R2AyCeI2kVH-0k-KF0PDjI6bk4dblmrueUTHYSyjM2-YRe6SYglbN7iswGAXDPW6=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "20h ago",
+   "views": 8810,
+   "length": "17:20",
+   "description": "Should you buy Minecraft Dungeons 2? Find out in this Minecraft Dungeons 2 Switch 2 review! #nintendoswitch2 #switch2 #\u00a0...",
+   "extensions": [
+    "New",
+    "9 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/E-1FNfdFv78/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAK5ARONZtkWZVstgJjThd_f5xHQ",
+    "rich": "https://i.ytimg.com/an_webp/E-1FNfdFv78/mqdefault_6s.webp?du=3000&sqp=CIye9NUG&rs=AOn4CLBgWHhX7ZhbudL_bb8syB2Y9LT0dQ"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "Nintendo Switch 2 Review! (1 Month In)",
+   "link": "https://www.youtube.com/watch?v=2d17mylSwLQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=2d17mylSwLQ",
+   "video_id": "2d17mylSwLQ",
+   "channel": {
+    "name": "EmSwizzle",
+    "link": "https://www.youtube.com/@EmSwizzle",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/oCVBYfaL2-RvnnqMjjFGROEtHVb4HDNcBUhQfaPjfgkNQ2qlBuyPzCrILocOqbexM4VK_Sx1QhI=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 659238,
+   "length": "17:30",
+   "description": "A lot of good, and plenty of bad! Second Channel @MaxCorbett Podcast Channel @TheMarioMatter \u2b50 Become a\u00a0...",
+   "extensions": [
+    "6 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/2d17mylSwLQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk5rKRGXPLdE0gnKQSEoluYrL2GQ",
+    "rich": "https://i.ytimg.com/an_webp/2d17mylSwLQ/mqdefault_6s.webp?du=3000&sqp=CJSP9NUG&rs=AOn4CLA6yZct5JLzWiXVuFP7f_XbjcQMPQ"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "Nintendo Switch 2 After 1 YEAR... Is It Still Worth It?",
+   "link": "https://www.youtube.com/watch?v=loDo0eufEWo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=loDo0eufEWo",
+   "video_id": "loDo0eufEWo",
+   "channel": {
+    "name": "Tech Fowler",
+    "link": "https://www.youtube.com/@TechFowler",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/nH7u73AdPWYCfIvqQzr_hZYNZp16hVl0CJpcSvW9Kpif6C4evpmevp1yKv_K18afzfKjZD_k=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 136435,
+   "length": "19:54",
+   "description": "Is the Nintendo Switch 2 actually worth buying a year after launch? After spending serious time with Nintendo's latest console, I'm\u00a0...",
+   "extensions": [
+    "2 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/loDo0eufEWo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeLsNjJ-wWBhWjDwvDYmRvX6cThg",
+    "rich": "https://i.ytimg.com/an_webp/loDo0eufEWo/mqdefault_6s.webp?du=3000&sqp=CIKb9NUG&rs=AOn4CLDewOlZVDtRXhxWI6r3cHAuLZijTg"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "Nintendo Switch 2 Console Review",
+   "link": "https://www.youtube.com/watch?v=xxnDBGnx3dk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=xxnDBGnx3dk",
+   "video_id": "xxnDBGnx3dk",
+   "channel": {
+    "name": "GameSpot",
+    "link": "https://www.youtube.com/@gamespot",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2q8-YlqtAs3pWHamRcooAOvt_M88afnTwo7DYwqvHV9OSGlf2pBa5h3QJGeHrBkBidUjaL0mpA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 245526,
+   "length": "15:05",
+   "description": "Read GameSpot's Switch 2 review: https://www.gamespot.com/articles/nintendo-switch-2-review-its-a-switch-too/1100-6532411/\u00a0...",
+   "extensions": [
+    "1 product",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xxnDBGnx3dk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzHKX4a9qSzPww_pwgwqMR2245jg",
+    "rich": "https://i.ytimg.com/an_webp/xxnDBGnx3dk/mqdefault_6s.webp?du=3000&sqp=CKH289UG&rs=AOn4CLCK1uCH_rJPOB8Wf9Bc9T9RwKo5SA"
+   }
+  }
+ ],
+ "ads_results": [
+  {
+   "position_on_page": 4,
+   "title": "Fidelity Active ETFs can adapt to changes in market conditions to pursue outperformance.",
+   "link": "https://www.youtube.com/watch?v=pwOWvLoLJmY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=pwOWvLoLJmY",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpMmX-xm9areOO5nU0vAP1KzPkQvPr-L4iQHshqHAlRVkEAEgAGDJvtKI_KOEF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHoyqDKAqgDBMgDCqoEyAJP0NZryGupqme_0es5D_NhXaOrep-zs1lShEuDgCvfNrcdHkHr4HOFm2XhMQ4TIYhhTamHXZHKNnNXN76EO0PEaq69OcbLwM69txeL_0cp-zSe5AVDvMQCKUY_qbkcY8vPO3Du225WjIarCzLM9vG2GJD4_YJ0PszGEq08k3Cq1z_VvAp7IADqbPEXX4qSIZ_nMoACN2bXsyjtTX6SyAMv_J0Uja-N2LUTHjZnwQEKrlOOTnJAKDeKZHLUYAG6e9miGGXCp4lKs7Ci-SfSKuD3LXmHHur169g09uiUH7iAXhLaEONQ5miObPuSf3YeDGmqpGUPTZRUvanfTeE_N3GY1z5Mf-pgTn9ffmorD3oh4KVzvsXZgi3yZffdrHJlaAyv4WoTkF68xLCoFRAOsW9Jd5h1LNTmr3X22GDk1B07_WM6QjP7Hp-siAWyiYnlVpIFCAgTeNKygrYBoAahAYAHgLXftQGQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6bUsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtwd09XdkxvTEptWagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWLDk862_lpcDYAGaCTBodHRwczovL3d3dy5maWRlbGl0eS5jb20vZXRmcy9hY3RpdmUtRVRGLWFjY291bnSxCXD-XE2KYo-MyAkXyAmPAcgJwgHICZcCugs9CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQOAAgGIAgW6AwV2aWF0bNALEuALAaIMHWoWChRjb20uZmlkZWxpdHkuYW5kcm9pZHgAiAEA0gwCEAGaDQESqg0CVVPIDQHSDacEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL044MDUuMjAwOTcwMERPVUJMRUNMSUNLQklETUFOQUdFL0IzNDQ0MjEwNC40MzMxMDIwNzA7ZGNfdHJrX2FpZD02Mjc1MDI3MzI7ZGNfdHJrX2NpZD0yNDUyMjA3OTQ7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNUNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1Jc29tSjVWYW9BdWZqemdLd0FxVzN1dWdEUURzUTZMNF8zbEhSd2szcC1makd2OE1wbXVXRnlBPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBR25yMWI4TWtSSG1rZENVVUVwVC1jMkNqNGV4aENRb2U5Rk4yM1lIa0FUS2NFT3I0YThtTkZ3a0ExOWVPZExYeFg2S3NFVGMyM3IyNVZuUTtkY19wdWJpZD02P2h0dHBzOi8vd3d3LmZpZGVsaXR5LmNvbS9ldGZzL2FjdGl2ZS1FVEYtYWNjb3VudD9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjMyOTc0MTAyMjawE5fK5CG4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXk4Cu5I9D6bK6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI9_fzrb-WlwMVGaoUCB1U1jOyEAEYASAAEgLvIPD_BwE&num=1&cid=CAASqwHkaIzlD2HjXcGTOzIwcSIdC3BtSYvkuNWUgHQz1K49JceUzYmqPFbHTQdq2vuXRjhGa_rUIzYd2VmpBJcYbMg7OfJjvcReXTZSIhHqGR9fXPFWNFhoCSQWyWoqGWOTmDBAPEPKxQPDik2Q2-koPfvNAQsZqbGvnYZqfGvKik4Ms1gIVZ518SLTCZ10zGO6g3U_WgXBr-O08y1OM2e6wf_CRCmo1NVD2SJzXnM&ad_cpn=%5BCPN%5D&sig=AOD64_3F9P1DEhci5SG9nd-yuVmZKRDpzw&ctype=110&video_id=pwOWvLoLJmY&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Fidelity Investments",
+    "thumbnail": "https://yt3.ggpht.com/proxy/rYDdfS1uRZy1k5V3Bgl5zpOFzWcMxuK6xQvIr1XTzC89vv8VBxauNipnOUMaIZNdSWtSDVbOg3eEob9uthgYQYZEGi_R78PP7UPUIEfbZAF5rEk8Ggfh0s-KJAPY9UueQlv8mKPZNvSuYfnpwt38h6NkhfwMCCwxFmmniBIc3_JiyhFD76WolcNMjAb5KNfAqVW-14ltkv2XwHMlDd_HnSGZzUkG_Fv9QL6zPaHZkwUqlwkDpiAl9D23Ff6WQIR0vjja=w68-h68-nd"
+   },
+   "description": "Pursue outperformance",
+   "thumbnail": {
+    "static": "https://tpc.googlesyndication.com/simgad/6130289836296044907"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Get Pelops the Victor Legendary Champion",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CYJNz-xm9areOO5nU0vAP1KzPkQvro9XmiQGok7-kyRZkEAIgAGDJvtKI_KOEF4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHdiZ-GPqgDBMgDCqoEoAJP0NZryGupqme_0es5D_NhXaOrep-zs1lShEuDgCvfNrcdHkHr4HOFm2XhMQ4TIYhhTamHXZHKNnNXN76EO0PEaq69OcbLwM69txeL_0cp-zSe5AVDvMQCKUY_qbkcY8vPO3Du225WjIarCzLM9vG2GJD4_YJ0PszGEq08k3Cq1z_VvAp7IADqbPEXX4qSIZ_nMoACN2bXsyjtTX6SyAMv_J0Uja-N2LUTHjZnwQEKrlOOTnJAKDeKZHLUYAG6e9miGGXCp4lKs7Ci-SfSKuD3LXmHHur169g09uiUH7iAXhLaEOMN6GiObPuSJXcYN3C4p-21y2xMdaL1a_VcPiI490XkwVkH4MJDzInyLXCp7Wi0jmlesOwJh27YFy0xI7WIBauHjf5SkgUICBN4g_iP8BigBm6AB93B7-UYkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAem1LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFiw5POtv5aXA2ABmglEaHR0cHM6Ly9scHMucGxhcml1bS5jb20vZW4vZGVza3RvcC9yYWlkL3Jkby9wcGMvYnBfZ3Vlc3RfanQ0NDcyX2RhcmuxCSSbEX76Vb95yAkAyAmKApgLAboLPQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMFdmlhdGzQCxLSDAIQAZoNARKqDQJVU8gNAdINggJodHRwczovL2xwcy5wbGFyaXVtLmNvbS9lbi9kZXNrdG9wL3JhaWQvcmRvL3BwYy9icF9ndWVzdF9qdDQ0NzJfZGFyaz9wbGlkPTE2MjEwODgmcHhsPWdvb2dsZV9kZW1hbmRfZ2VuJnB1Ymxpc2hlcmlkPTE3NTQ3NzAyMDg3NiZwdWJsaXNoZXJ1cGlkPTE3NTQ3NzAyMDg3NiZwbGFjZW1lbnQ9ODIzODM4NTY1OTc4JnBsYWNlbWVudHVwaWQ9ODIzODM4NTY1OTc4XzE3NTQ3NzAyMDg3NiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjIyNzYxNjI0NzW4E____________wGIFAGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakX1AtLCq3Uo_a6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI9_fzrb-WlwMVGaoUCB1U1jOyEAEYAiAAEgLE9fD_BwE&num=2&cid=CAASqwHkaIzlD2HjXcGTOzIwcSIdC3BtSYvkuNWUgHQz1K49JceUzYmqPFbHTQdq2vuXRjhGa_rUIzYd2VmpBJcYbMg7OfJjvcReXTZSIhHqGR9fXPFWNFhoCSQWyWoqGWOTmDBAPEPKxQPDik2Q2-koPfvNAQsZqbGvnYZqfGvKik4Ms1gIVZ518SLTCZ10zGO6g3U_WgXBr-O08y1OM2e6wf_CRCmo1NVD2SJzXnM&sig=AOD64_3sMNEyv8zayJoMIRvfmwO8lZ6NoQ&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Plarium",
+    "thumbnail": "https://lh5.googleusercontent.com/proxy/OC2ujX2un6FcbbKu0NXxd_YsqvrreUyM4KfYH1OTD8wE0hN2vd7unhfJ6pI4zm7DLyIJ_Ram99NYiRHydBpugbswM1G7UK7zvRSNdocTSGtt5BMakbtNqOR65WiEPEUtyQg"
+   },
+   "description": "Get a Free Pelops the Victor Legendary Champion Download RAID now",
+   "thumbnail": {
+    "static": "https://lh5.googleusercontent.com/proxy/OC2ujX2un6FcbbKu0NXxd_YsqvrreUyM4KfYH1OTD8wE0hN2vd7unhfJ6pI4zm7DLyIJ_Ram99NYiRHydBpugbswM1G7UK7zvRSNdocTSGtt5BMakbtNqOR65WiEPEUtyQg"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 8,
+   "shorts": [
+    {
+     "title": "Is the Switch 2 Worth It?",
+     "link": "https://www.youtube.com/shorts/TCMquExKQ-M",
+     "thumbnail": "https://i.ytimg.com/vi/TCMquExKQ-M/frame0.jpg",
+     "views_original": "392K views",
+     "views": 392000,
+     "video_id": "TCMquExKQ-M"
+    },
+    {
+     "title": "Is the Switch 2 Still Worth It?",
+     "link": "https://www.youtube.com/shorts/-FnLz10j2zA",
+     "thumbnail": "https://i.ytimg.com/vi/-FnLz10j2zA/frame0.jpg",
+     "views_original": "524K views",
+     "views": 524000,
+     "video_id": "-FnLz10j2zA"
+    },
+    {
+     "title": "Nintendo Switch 2 \u2013 Is It Worth It? Here\u2019s MKBHD\u2019s Opinion",
+     "link": "https://www.youtube.com/shorts/Cg-9fsBXIE0",
+     "thumbnail": "https://i.ytimg.com/vi/Cg-9fsBXIE0/frame0.jpg",
+     "views_original": "142K views",
+     "views": 142000,
+     "video_id": "Cg-9fsBXIE0"
+    },
+    {
+     "title": "The Switch 2 is finally worth it",
+     "link": "https://www.youtube.com/shorts/xhu78BfPnXc",
+     "thumbnail": "https://i.ytimg.com/vi/xhu78BfPnXc/frame0.jpg",
+     "views_original": "2.8M views",
+     "views": 2800000,
+     "video_id": "xhu78BfPnXc"
+    },
+    {
+     "title": "Is The Nintendo Switch 2 Worth The Hype? \ud83c\udfae",
+     "link": "https://www.youtube.com/shorts/I_vRKp86iG4",
+     "thumbnail": "https://i.ytimg.com/vi/I_vRKp86iG4/frame0.jpg",
+     "views_original": "198K views",
+     "views": 198000,
+     "video_id": "I_vRKp86iG4"
+    }
+   ]
+  },
+  {
+   "position_on_page": 12,
+   "shorts": [
+    {
+     "title": "Nintendo Switch 2 6 months later Review! #gaming #switch2 #tech #nintendo #nintendoswitch2",
+     "link": "https://www.youtube.com/shorts/8pR5R2OIQfc",
+     "thumbnail": "https://i.ytimg.com/vi/8pR5R2OIQfc/frame0.jpg",
+     "views_original": "3.8K views",
+     "views": 3800,
+     "video_id": "8pR5R2OIQfc"
+    },
+    {
+     "title": "Nintendo Switch 2 after 3 Months... Honest Thoughts",
+     "link": "https://www.youtube.com/shorts/NqaKKef2g9g",
+     "thumbnail": "https://i.ytimg.com/vi/NqaKKef2g9g/frame0.jpg",
+     "views_original": "739K views",
+     "views": 739000,
+     "video_id": "NqaKKef2g9g"
+    },
+    {
+     "title": "Nintendo Switch 2 Unboxing \u2013 My First Look!",
+     "link": "https://www.youtube.com/shorts/x8EUmTOsLvc",
+     "thumbnail": "https://i.ytimg.com/vi/x8EUmTOsLvc/frame0.jpg",
+     "views_original": "14K views",
+     "views": 14000,
+     "video_id": "x8EUmTOsLvc"
+    },
+    {
+     "title": "Is The Switch 2 Worth it in 2026?",
+     "link": "https://www.youtube.com/shorts/Lpd2LQtj7Zw",
+     "thumbnail": "https://i.ytimg.com/vi/Lpd2LQtj7Zw/frame0.jpg",
+     "views_original": "33K views",
+     "views": 33000,
+     "video_id": "Lpd2LQtj7Zw"
+    },
+    {
+     "title": "Nintendo Switch 2 6 months later cons! #gaming #switch2 #tech #nintendo #nintendoswitch2",
+     "link": "https://www.youtube.com/shorts/IdiRzEWAbxk",
+     "thumbnail": "https://i.ytimg.com/vi/IdiRzEWAbxk/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "IdiRzEWAbxk"
+    },
+    {
+     "title": "Is The Switch 2 Worth It After 9 Months?",
+     "link": "https://www.youtube.com/shorts/tLVCDquJ4RY",
+     "thumbnail": "https://i.ytimg.com/vi/tLVCDquJ4RY/frame0.jpg",
+     "views_original": "60K views",
+     "views": 60000,
+     "video_id": "tLVCDquJ4RY"
+    },
+    {
+     "title": "Switch 2 vs Original Switch: The Gap Is $110",
+     "link": "https://www.youtube.com/shorts/7IAUliyAWYM",
+     "thumbnail": "https://i.ytimg.com/vi/7IAUliyAWYM/frame0.jpg",
+     "views_original": "381 views",
+     "views": 381,
+     "video_id": "7IAUliyAWYM"
+    },
+    {
+     "title": "My BRUTALLY HONEST review of the NINTENDO SWITCH 2 and MARIO KART WORLD",
+     "link": "https://www.youtube.com/shorts/dnWoylHuwy4",
+     "thumbnail": "https://i.ytimg.com/vi/dnWoylHuwy4/frame0.jpg",
+     "views_original": "197K views",
+     "views": 197000,
+     "video_id": "dnWoylHuwy4"
+    },
+    {
+     "title": "Nintendo Switch 2 Screen no good? #gaming #switch2 #tech #nintendo #nintendoswitch2",
+     "link": "https://www.youtube.com/shorts/34AEYdJ0TTU",
+     "thumbnail": "https://i.ytimg.com/vi/34AEYdJ0TTU/frame0.jpg",
+     "views_original": "1.2K views",
+     "views": 1200,
+     "video_id": "34AEYdJ0TTU"
+    },
+    {
+     "title": "Nintendo Switch 2 Review - MAS MURA NA!",
+     "link": "https://www.youtube.com/shorts/v6M5q8ppmYU",
+     "thumbnail": "https://i.ytimg.com/vi/v6M5q8ppmYU/frame0.jpg",
+     "views_original": "16K views",
+     "views": 16000,
+     "video_id": "v6M5q8ppmYU"
+    },
+    {
+     "title": "Are the Switch 2 Versions ACTUALLY Worth It?",
+     "link": "https://www.youtube.com/shorts/ntSRRyDgfNc",
+     "thumbnail": "https://i.ytimg.com/vi/ntSRRyDgfNc/frame0.jpg",
+     "views_original": "1.1M views",
+     "views": 1100000,
+     "video_id": "ntSRRyDgfNc"
+    },
+    {
+     "title": "Is the Switch 2 worth it?",
+     "link": "https://www.youtube.com/shorts/HdhkvrF9z6o",
+     "thumbnail": "https://i.ytimg.com/vi/HdhkvrF9z6o/frame0.jpg",
+     "views_original": "80K views",
+     "views": 80000,
+     "video_id": "HdhkvrF9z6o"
+    },
+    {
+     "title": "My REAL thoughts on the Switch 2 (4 weeks later) #carterpcs #tech #techtok #techfacts #switch2",
+     "link": "https://www.youtube.com/shorts/pkzYRY3eX44",
+     "thumbnail": "https://i.ytimg.com/vi/pkzYRY3eX44/frame0.jpg",
+     "views_original": "1.2M views",
+     "views": 1200000,
+     "video_id": "pkzYRY3eX44"
+    },
+    {
+     "title": "Switch 2 vs. Switch 1 - What\u2019s Changed?",
+     "link": "https://www.youtube.com/shorts/Rt-UZVNmR1w",
+     "thumbnail": "https://i.ytimg.com/vi/Rt-UZVNmR1w/frame0.jpg",
+     "views_original": "439K views",
+     "views": 439000,
+     "video_id": "Rt-UZVNmR1w"
+    },
+    {
+     "title": "Should You Buy a Switch 2 NOW?",
+     "link": "https://www.youtube.com/shorts/T-MhLzhwFHo",
+     "thumbnail": "https://i.ytimg.com/vi/T-MhLzhwFHo/frame0.jpg",
+     "views_original": "200K views",
+     "views": 200000,
+     "video_id": "T-MhLzhwFHo"
+    },
+    {
+     "title": "Nintendo Switch 2 6 months later screen! #gaming #switch2 #tech #nintendo #nintendoswitch2",
+     "link": "https://www.youtube.com/shorts/ywHU4_A0Z0g",
+     "thumbnail": "https://i.ytimg.com/vi/ywHU4_A0Z0g/frame0.jpg",
+     "views_original": "2.6K views",
+     "views": 2600,
+     "video_id": "ywHU4_A0Z0g"
+    },
+    {
+     "title": "Switch 2 Day One Impressions",
+     "link": "https://www.youtube.com/shorts/HwbsEU_QmI4",
+     "thumbnail": "https://i.ytimg.com/vi/HwbsEU_QmI4/frame0.jpg",
+     "views_original": "3.1M views",
+     "views": 3100000,
+     "video_id": "HwbsEU_QmI4"
+    },
+    {
+     "title": "Nintendo Switch 2: What's Inside?",
+     "link": "https://www.youtube.com/shorts/YU2LxLNZut8",
+     "thumbnail": "https://i.ytimg.com/vi/YU2LxLNZut8/frame0.jpg",
+     "views_original": "1.7K views",
+     "views": 1700,
+     "video_id": "YU2LxLNZut8"
+    },
+    {
+     "title": "Nintendo Switch 2 Taste Test!",
+     "link": "https://www.youtube.com/shorts/T1m56bPf7e4",
+     "thumbnail": "https://i.ytimg.com/vi/T1m56bPf7e4/frame0.jpg",
+     "views_original": "10M views",
+     "views": 10000000,
+     "video_id": "T1m56bPf7e4"
+    },
+    {
+     "title": "Is The Switch 2 Worth Buying?",
+     "link": "https://www.youtube.com/shorts/Wikq7s_h74M",
+     "thumbnail": "https://i.ytimg.com/vi/Wikq7s_h74M/frame0.jpg",
+     "views_original": "29K views",
+     "views": 29000,
+     "video_id": "Wikq7s_h74M"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=nintendo+switch+2+review&gl=us&hl=en",
+  "next": "https://www.youtube.com/results?gl=us&hl=en&search_query=nintendo%20switch%202%20review&sp=SBSCAQs1OFhpZXFXNkNPNIIBCy1OTkNjYTk3djk4ggELUXZpd2Q2N2l6NXOCAQtNTGZZZ1BiREhob4IBC2hhR0RrSnNEVU1rggELVEpDQkREUU5PclGCAQt2WXM4N2M2SUlaa4IBC2FYdXpVV3gxQW93ggELcnp1andnMzJkTjSCAQtJVUljeGszOHVVc4IBC19fRzZhcW9xY2RBggELUVFjTFZyeWZuQ1WCAQtDbGRSSHhJUzU4c4IBC1p3ZEQ2b3lkZ0RNggELRS0xRk5mZEZ2NziCAQsyZDE3bXlsU3dMUYIBC2xvRG8wZXVmRVdvggELeHhuREJHbngzZGuyAQYKBAgWEALqAQQIAhAZ",
+  "next_page_token": "SBSCAQs1OFhpZXFXNkNPNIIBCy1OTkNjYTk3djk4ggELUXZpd2Q2N2l6NXOCAQtNTGZZZ1BiREhob4IBC2hhR0RrSnNEVU1rggELVEpDQkREUU5PclGCAQt2WXM4N2M2SUlaa4IBC2FYdXpVV3gxQW93ggELcnp1andnMzJkTjSCAQtJVUljeGszOHVVc4IBC19fRzZhcW9xY2RBggELUVFjTFZyeWZuQ1WCAQtDbGRSSHhJUzU4c4IBC1p3ZEQ2b3lkZ0RNggELRS0xRk5mZEZ2NziCAQsyZDE3bXlsU3dMUYIBC2xvRG8wZXVmRVdvggELeHhuREJHbngzZGuyAQYKBAgWEALqAQQIAhAZ"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=us&hl=en&search_query=nintendo+switch+2+review",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=us&hl=en&search_query=nintendo+switch+2+review&sp=SBSCAQs1OFhpZXFXNkNPNIIBCy1OTkNjYTk3djk4ggELUXZpd2Q2N2l6NXOCAQtNTGZZZ1BiREhob4IBC2hhR0RrSnNEVU1rggELVEpDQkREUU5PclGCAQt2WXM4N2M2SUlaa4IBC2FYdXpVV3gxQW93ggELcnp1andnMzJkTjSCAQtJVUljeGszOHVVc4IBC19fRzZhcW9xY2RBggELUVFjTFZyeWZuQ1WCAQtDbGRSSHhJUzU4c4IBC1p3ZEQ2b3lkZ0RNggELRS0xRk5mZEZ2NziCAQsyZDE3bXlsU3dMUYIBC2xvRG8wZXVmRVdvggELeHhuREJHbngzZGuyAQYKBAgWEALqAQQIAhAZ",
+  "next_page_token": "SBSCAQs1OFhpZXFXNkNPNIIBCy1OTkNjYTk3djk4ggELUXZpd2Q2N2l6NXOCAQtNTGZZZ1BiREhob4IBC2hhR0RrSnNEVU1rggELVEpDQkREUU5PclGCAQt2WXM4N2M2SUlaa4IBC2FYdXpVV3gxQW93ggELcnp1andnMzJkTjSCAQtJVUljeGszOHVVc4IBC19fRzZhcW9xY2RBggELUVFjTFZyeWZuQ1WCAQtDbGRSSHhJUzU4c4IBC1p3ZEQ2b3lkZ0RNggELRS0xRk5mZEZ2NziCAQsyZDE3bXlsU3dMUYIBC2xvRG8wZXVmRVdvggELeHhuREJHbngzZGuyAQYKBAgWEALqAQQIAhAZ"
+ },
+ "_probe_latency_s": 3.59
+}

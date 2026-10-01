@@ -1,0 +1,583 @@
+{
+ "search_metadata": {
+  "id": "6abd1b9a7223f408bddb450e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/s_0srTrd36h7qPU3HoNYviiGlljVcJhDlTVdZLEnnZo/6abd1b9a7223f408bddb450e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/s_0srTrd36h7qPU3HoNYviiGlljVcJhDlTVdZLEnnZo/6abd1b9a7223f408bddb450e.md",
+  "created_at": "2026-09-30 14:24:26 UTC",
+  "processed_at": "2026-09-30 14:24:26 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=9a-3r2llDjI",
+  "raw_html_file": "https://serpapi.com/searches/s_0srTrd36h7qPU3HoNYviiGlljVcJhDlTVdZLEnnZo/6abd1b9a7223f408bddb450e.html",
+  "prettify_html_file": "https://serpapi.com/searches/s_0srTrd36h7qPU3HoNYviiGlljVcJhDlTVdZLEnnZo/6abd1b9a7223f408bddb450e.prettify",
+  "total_time_taken": 7.41
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "9a-3r2llDjI",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "so it's been one month since sony launched their new flagship headphones to 1000 x mark 5's and when they came out there was a lot of excitement a lot",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 7000,
+   "snippet": "of claims that these are the best of the best the best wireless headphones you can buy but now that it's been a month i want to talk about what it's actually",
+   "start_time_text": "0:07",
+   "start_time_label": "7 seconds"
+  },
+  {
+   "start_ms": 14000,
+   "snippet": "like to use these as i've been using them in many situations on a day-to-day basis from working out to commuting to working in an office to just hanging out",
+   "start_time_text": "0:14",
+   "start_time_label": "14 seconds"
+  },
+  {
+   "start_ms": 22000,
+   "snippet": "and listening to music and all of those i found some things that are not just based on the spec sheet so i want to spend this video talking a little bit more about the nuances of these",
+   "start_time_text": "0:22",
+   "start_time_label": "22 seconds"
+  },
+  {
+   "start_ms": 31000,
+   "snippet": "headphones to help you decide whether or not they're actually the best pair for you to buy so this is sort of like a day in the life i kind of want to break this",
+   "start_time_text": "0:31",
+   "start_time_label": "31 seconds"
+  },
+  {
+   "start_ms": 39000,
+   "snippet": "down into different categories of like when i was using them so what it's like to use them when you're working out what it's like to use them when you're commuting and i want to break it down",
+   "start_time_text": "0:39",
+   "start_time_label": "39 seconds"
+  },
+  {
+   "start_ms": 47000,
+   "snippet": "kind of in that sense so starting off with when you're working i do a lot of working i'm always editing videos and wearing headphones is a critical part of",
+   "start_time_text": "0:47",
+   "start_time_label": "47 seconds"
+  },
+  {
+   "start_ms": 55000,
+   "snippet": "that i'm always listening to music or listening to the videos i'm editing and so obviously audio quality is going to be a big one but before we get too much",
+   "start_time_text": "0:55",
+   "start_time_label": "55 seconds"
+  },
+  {
+   "start_ms": 62000,
+   "snippet": "into the audio quality sometimes when you're working in a space and people are going to come over and talk to you you want to have transparency mode on and so",
+   "start_time_text": "1:02",
+   "start_time_label": "1 minute, 2 seconds"
+  },
+  {
+   "start_ms": 69000,
+   "snippet": "with these transparency mode was pretty decent it's not quite at the level of the airpods max in my opinion meaning it doesn't sound like you have nothing on",
+   "start_time_text": "1:09",
+   "start_time_label": "1 minute, 9 seconds"
+  },
+  {
+   "start_ms": 77000,
+   "snippet": "your ears you can tell everything's a little bit more muted kind of a little bit more robotic regardless it does a decent enough job of picking up on voices and and not",
+   "start_time_text": "1:17",
+   "start_time_label": "1 minute, 17 seconds"
+  },
+  {
+   "start_ms": 86000,
+   "snippet": "always relaying all the small white noises now one of the big positives however is that you can connect to two devices at the same time but the caveat",
+   "start_time_text": "1:26",
+   "start_time_label": "1 minute, 26 seconds"
+  },
+  {
+   "start_ms": 94000,
+   "snippet": "here so personally i like connecting to my phone and to my laptop so i can work and edit and then if i get a phone call just easily switch over but the caveat",
+   "start_time_text": "1:34",
+   "start_time_label": "1 minute, 34 seconds"
+  },
+  {
+   "start_ms": 103000,
+   "snippet": "is you can't use two devices at the same time if you're using one of the higher quality codecs such as ldac now if you want to really prioritize sound quality",
+   "start_time_text": "1:43",
+   "start_time_label": "1 minute, 43 seconds"
+  },
+  {
+   "start_ms": 110000,
+   "snippet": "you can only connect to one device it makes sense of course you can have higher bit rate you can't have multiple you can't have your connection divided another thing is when i'm wearing these for a long time although they're super",
+   "start_time_text": "1:50",
+   "start_time_label": "1 minute, 50 seconds"
+  },
+  {
+   "start_ms": 119000,
+   "snippet": "comfortable they're definitely a lot better in my opinion than the x mark fours from from two years ago but i will say that your ears might get a little",
+   "start_time_text": "1:59",
+   "start_time_label": "1 minute, 59 seconds"
+  },
+  {
+   "start_ms": 127000,
+   "snippet": "bit warm personally i didn't really feel like that was a big issue for me but if you're in a warmer environment it's definitely going to catch up to you now like i said these are comfortable while",
+   "start_time_text": "2:07",
+   "start_time_label": "2 minutes, 7 seconds"
+  },
+  {
+   "start_ms": 136000,
+   "snippet": "you're wearing them they're super lightweight it's really like the softest foam ever and the fit and the feel of them really reminds me a lot of the bose",
+   "start_time_text": "2:16",
+   "start_time_label": "2 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 144000,
+   "snippet": "headphones and so ever since bose came out with their headphones that look a lot like these like they slide like that and i don't know just very similar design i always loved the bose",
+   "start_time_text": "2:24",
+   "start_time_label": "2 minutes, 24 seconds"
+  },
+  {
+   "start_ms": 152000,
+   "snippet": "headphones for comfort it feels like you don't have anything on your head but what bows lacked that these do have is a little bit more grip bows i felt like",
+   "start_time_text": "2:32",
+   "start_time_label": "2 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 159000,
+   "snippet": "would fall off my head a little bit more if i was walking around on a phone call whereas these tend to be a lot more secure something i thought was kind of interesting is that they call this vegan",
+   "start_time_text": "2:39",
+   "start_time_label": "2 minutes, 39 seconds"
+  },
+  {
+   "start_ms": 168000,
+   "snippet": "leatherette which is a hilarious marketing term for synthetic fake leather but regardless like i said very comfortable it should",
+   "start_time_text": "2:48",
+   "start_time_label": "2 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 175000,
+   "snippet": "be pretty easy to clean as well and i'll talk more about replacing the ear cups later on in the video now the last thing with regards to working like i said i'm",
+   "start_time_text": "2:55",
+   "start_time_label": "2 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 183000,
+   "snippet": "always on phone calls all the time whether that's zoom calls for meetings or just actual regular phone calls so let's get into a microphone test in several different environments so",
+   "start_time_text": "3:03",
+   "start_time_label": "3 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 192000,
+   "snippet": "starting off with the microphone test indoors you can see it does a pretty decent job and now this is the microphone with a lot of traffic behind me it's also pretty breezy out here but",
+   "start_time_text": "3:12",
+   "start_time_label": "3 minutes, 12 seconds"
+  },
+  {
+   "start_ms": 201000,
+   "snippet": "once again this microphone does a pretty decent job that's my summary of when i was wearing these while working let's talk about when you're relaxing",
+   "start_time_text": "3:21",
+   "start_time_label": "3 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 208000,
+   "snippet": "listening to music watching movies whatever it is these are going to be great for that but there are a couple things that you want to be aware of starting off with what i liked about",
+   "start_time_text": "3:28",
+   "start_time_label": "3 minutes, 28 seconds"
+  },
+  {
+   "start_ms": 216000,
+   "snippet": "these of course the audio quality is a huge positive listening to music is very pleasant with these amazing soundstage great detail really analytical and as",
+   "start_time_text": "3:36",
+   "start_time_label": "3 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 225000,
+   "snippet": "far as bluetooth wireless headphones go i mean these are are really among the best out there fantastic bitrate as well using ldac which is sony's codec with a",
+   "start_time_text": "3:45",
+   "start_time_label": "3 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 234000,
+   "snippet": "substantially higher bit rate than most other audio uh most other codecs out there now if you prioritize a wired connection instead of wireless whether",
+   "start_time_text": "3:54",
+   "start_time_label": "3 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 242000,
+   "snippet": "that is for latency reasons or just the ease of connection whatever it might be then you can first of all connect this by three and a half millimeter jack as",
+   "start_time_text": "4:02",
+   "start_time_label": "4 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 249000,
+   "snippet": "you see right there and it comes with one in the in the case which i think is really convenient and so that's going to be great if you're just hanging out playing games on your laptop or watching",
+   "start_time_text": "4:09",
+   "start_time_label": "4 minutes, 9 seconds"
+  },
+  {
+   "start_ms": 257000,
+   "snippet": "netflix or whatever it might be but if you're going to use a desktop you're probably going to want to buy a longer cable can't knock sony for that one it makes perfect sense the size of cable",
+   "start_time_text": "4:17",
+   "start_time_label": "4 minutes, 17 seconds"
+  },
+  {
+   "start_ms": 265000,
+   "snippet": "they gave us and a big positive here is that when the headphones are off you can still play music through these using the jack but one kind of drawback kind of",
+   "start_time_text": "4:25",
+   "start_time_label": "4 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 273000,
+   "snippet": "related to that and i'm not sure why sony still does this you're not able to have any kind of playback through usb type-c cables unlike a lot of other",
+   "start_time_text": "4:33",
+   "start_time_label": "4 minutes, 33 seconds"
+  },
+  {
+   "start_ms": 281000,
+   "snippet": "headphones like the sennheiser momentum threes for example where i can play music from my laptop or my desktop simply by plugging it in with a usb",
+   "start_time_text": "4:41",
+   "start_time_label": "4 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 288000,
+   "snippet": "type-c cable now the benefit there is that you can have anc or transparency on without ever killing your battery in fact they're charging these while you're",
+   "start_time_text": "4:48",
+   "start_time_label": "4 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 296000,
+   "snippet": "listening to music while you're using your microphone while you're using anc whatever it is the battery is obviously never going to die if you plug in like that so again i wish sony would do that",
+   "start_time_text": "4:56",
+   "start_time_label": "4 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 305000,
+   "snippet": "especially at this price but and of course when you're just relaxing i already said sound quality is great comfort is fantastic latency is really not that bad with these i mean they're",
+   "start_time_text": "5:05",
+   "start_time_label": "5 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 313000,
+   "snippet": "going to be perfect for a lot of things anything i talk about here is kind of i mean borderline nitpicking but i want to point out things that maybe are not the",
+   "start_time_text": "5:13",
+   "start_time_label": "5 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 321000,
+   "snippet": "best about these or things that i think i would like to see improved and the next one is really the app although i really love these headphones in almost",
+   "start_time_text": "5:21",
+   "start_time_label": "5 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 329000,
+   "snippet": "all regards the app gives you what you need but i think it feels a little outdated i think sony needs to kind of adjust maybe the ability to customize",
+   "start_time_text": "5:29",
+   "start_time_label": "5 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 336000,
+   "snippet": "your controls for one even though they're all in the right ear they're very easy to remember there are things like for example the anc button you can customize that and",
+   "start_time_text": "5:36",
+   "start_time_label": "5 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 344000,
+   "snippet": "you can double press it or triple press it but in both situations they only give you one option and it's the same option for both so if you double press you can",
+   "start_time_text": "5:44",
+   "start_time_label": "5 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 352000,
+   "snippet": "open spotify and if you triple press you could open spotify i think that's kind of a wasted feature there sony really should be adding more to that but",
+   "start_time_text": "5:52",
+   "start_time_label": "5 minutes, 52 seconds"
+  },
+  {
+   "start_ms": 359000,
+   "snippet": "regardless it is what it is and like i said the controls at least on the ear cup the touch controls super intuitive swiping up and down for volume right and",
+   "start_time_text": "5:59",
+   "start_time_label": "5 minutes, 59 seconds"
+  },
+  {
+   "start_ms": 367000,
+   "snippet": "left for forward and back song double tapping to play pause i don't know can't get much better than that and another benefit is they're only on the right ear cups you never have to remember right",
+   "start_time_text": "6:07",
+   "start_time_label": "6 minutes, 7 seconds"
+  },
+  {
+   "start_ms": 376000,
+   "snippet": "versus left which ones play which one's pause so convenient and of course if you've seen any of the reviews when it first came out you probably know these are also really easy to pair from nfc",
+   "start_time_text": "6:16",
+   "start_time_label": "6 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 385000,
+   "snippet": "pairing just tapping your phone on there or google fast pair as well like as soon as you turn them on it pops up on an android device and of course they come with no plastic or plastic free",
+   "start_time_text": "6:25",
+   "start_time_label": "6 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 393000,
+   "snippet": "packaging again great initiative for the for the environment i'm happy sony's doing that so i work all day i hang out for a little bit in the evening and i i",
+   "start_time_text": "6:33",
+   "start_time_label": "6 minutes, 33 seconds"
+  },
+  {
+   "start_ms": 401000,
+   "snippet": "know you really shouldn't do this before you go to bed but i always work out like way too late i'll start a workout like 10 or 11 p.m and just lift for a while",
+   "start_time_text": "6:41",
+   "start_time_label": "6 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 409000,
+   "snippet": "and then and then shower and go to bed not good i know but if you want to wear these headphones when you're working out this is something that i could have picture a lot of people doing you spend",
+   "start_time_text": "6:49",
+   "start_time_label": "6 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 416000,
+   "snippet": "a lot of money on a good pair of headphones and although they're not specifically marketed to working out or to a kind of a fitness crowd they're",
+   "start_time_text": "6:56",
+   "start_time_label": "6 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 424000,
+   "snippet": "still going to be a pretty solid pair there are a couple things you want to be aware of so starting off with the positives they fit really well like i said much more secure than the bose",
+   "start_time_text": "7:04",
+   "start_time_label": "7 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 433000,
+   "snippet": "headphones in my opinion so if you look at workouts in like three different levels of like head movement the first one being squatting and benching and things like that",
+   "start_time_text": "7:13",
+   "start_time_label": "7 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 441000,
+   "snippet": "i've done that these absolutely pass the test super easy they never fall off then level two would be like a run so going on run with these as long as your ears",
+   "start_time_text": "7:21",
+   "start_time_label": "7 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 449000,
+   "snippet": "don't or your head doesn't get really sweaty they definitely stay on so if it's a little cooler out they're gonna be perfect in fact in the winter they'll even keep your ears warm but in the the",
+   "start_time_text": "7:29",
+   "start_time_label": "7 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 457000,
+   "snippet": "heat of the summer i don't know if he's gonna be the best and i'll explain why in just a second but regardless they passed level two level three would be something like burpees and again i've",
+   "start_time_text": "7:37",
+   "start_time_label": "7 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 466000,
+   "snippet": "done burpees with these on and they don't fall off my head which i was really really impressed with considering how comfortable and light they feel they don't feel like they're clamping your",
+   "start_time_text": "7:46",
+   "start_time_label": "7 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 474000,
+   "snippet": "head and yet they're still on really securely but there is a caveat when it comes to working out one reason that these are not going to be ideal and",
+   "start_time_text": "7:54",
+   "start_time_label": "7 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 483000,
+   "snippet": "that's why i said you don't want to wear these when it's hot out and and you know if you're going for a run that's because they don't actually have a water resistance rating so they tell you that",
+   "start_time_text": "8:03",
+   "start_time_label": "8 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 491000,
+   "snippet": "you probably shouldn't wear these if it's raining outside or drizzling or if you're really sweaty because you could potentially damage the headphones now",
+   "start_time_text": "8:11",
+   "start_time_label": "8 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 498000,
+   "snippet": "that doesn't mean that you definitely will just from being a little sweaty but it's something that maybe you don't want to risk and if you wear these when you're working out i mean i recommend",
+   "start_time_text": "8:18",
+   "start_time_label": "8 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 506000,
+   "snippet": "cleaning them after every workout but eventually you're still going to want to be hygienic and replace the ear cups you know if they you know they might get a little smelly who knows but replacing",
+   "start_time_text": "8:26",
+   "start_time_label": "8 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 514000,
+   "snippet": "the ear cups the positive here is that they're very easy to replace and they're relatively affordable you can find them on amazon for maybe 15 or 20 dollars and",
+   "start_time_text": "8:34",
+   "start_time_label": "8 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 522000,
+   "snippet": "like i said you just pop them out it just snapped in place so a little screwdriver along the edge will just pop the snaps right off and you're ready to go and not to talk about sound quality",
+   "start_time_text": "8:42",
+   "start_time_label": "8 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 530000,
+   "snippet": "too much again but when you're working out you want something that's loud and you want something with a lot of bass capabilities or at least i do and these really check the boxes there and make it",
+   "start_time_text": "8:50",
+   "start_time_label": "8 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 539000,
+   "snippet": "very easy to get in the zone and work out and the last thing i want to talk about with working out is the gestures are very simple which makes it great for",
+   "start_time_text": "8:59",
+   "start_time_label": "8 minutes, 59 seconds"
+  },
+  {
+   "start_ms": 547000,
+   "snippet": "if you're doing if you're on a run you're working out or whatever it might be and you want to skip your song you just swipe forward it's super easy you don't have to worry about finding a small button and double pressing it or",
+   "start_time_text": "9:07",
+   "start_time_label": "9 minutes, 7 seconds"
+  },
+  {
+   "start_ms": 555000,
+   "snippet": "triple pressing it or anything like that now the last category i want to talk about is traveling or commuting so whether you're on a big trip across the",
+   "start_time_text": "9:15",
+   "start_time_label": "9 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 562000,
+   "snippet": "country and you're flying or if you're just on a bus going into the city there are some pros and some cons here the first con is that as far as portability",
+   "start_time_text": "9:22",
+   "start_time_label": "9 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 571000,
+   "snippet": "goes these are not great like they're pretty durable and all but the case is just it's large it doesn't let these fold down like the old model did and so",
+   "start_time_text": "9:31",
+   "start_time_label": "9 minutes, 31 seconds"
+  },
+  {
+   "start_ms": 580000,
+   "snippet": "that's a definitely a big negative there but regardless of the case size these are still my favorite headphones for traveling for a couple reasons one like",
+   "start_time_text": "9:40",
+   "start_time_label": "9 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 588000,
+   "snippet": "i said the battery seems to last forever i can easily use these for 25 30 hours and they never die on me and the second",
+   "start_time_text": "9:48",
+   "start_time_label": "9 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 595000,
+   "snippet": "thing probably the biggest one is the active noise cancellation these in my opinion are the best amc headphones on the market right now and i know this is",
+   "start_time_text": "9:55",
+   "start_time_label": "9 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 603000,
+   "snippet": "something that a lot of people debate and there's different there's a lot more layers to ansi than people realize it's not just the raw power of the anc but",
+   "start_time_text": "10:03",
+   "start_time_label": "10 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 610000,
+   "snippet": "rather how much white noise there is how clean it is and what frequencies are really blocked out and i think these do a great job of not just blocking out the",
+   "start_time_text": "10:10",
+   "start_time_label": "10 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 618000,
+   "snippet": "frequencies with the active noise cancellation which are generally the lower frequencies but they also have some slightly better passive noise blocking than the previous model so",
+   "start_time_text": "10:18",
+   "start_time_label": "10 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 627000,
+   "snippet": "these are going to block out higher sounds as well from crowds to voices to whatever it might be it really does a great job blocking pretty much",
+   "start_time_text": "10:27",
+   "start_time_label": "10 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 634000,
+   "snippet": "everything out there and when you're traveling in public of course you want something that looks good in my opinion these are a little bit more stylish than the x mark fours which were a little bit",
+   "start_time_text": "10:34",
+   "start_time_label": "10 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 642000,
+   "snippet": "bland these i think look a little better and a huge travel feature these have if you're on a bus or a train and you want to hear your stop is actually the palm like the",
+   "start_time_text": "10:42",
+   "start_time_label": "10 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 650000,
+   "snippet": "cupping feature so if you just go like this and hold your hand there it'll go into a transparency mode you can hear your surroundings so if you hear like the train conductor starts saying",
+   "start_time_text": "10:50",
+   "start_time_label": "10 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 658000,
+   "snippet": "something you could just go like this listen to what they're saying and then take your hand away and just goes right back to anc playing your music loud and you don't hear anything around you of",
+   "start_time_text": "10:58",
+   "start_time_label": "10 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 667000,
+   "snippet": "course you could always just take your headphones off but cool feature so that's been it that's my take on the sony wh-1000 mark fives",
+   "start_time_text": "11:07",
+   "start_time_label": "11 minutes, 7 seconds"
+  },
+  {
+   "start_ms": 675000,
+   "snippet": "arguably the best bluetooth headphones on the market or at least my favorite and like i said there's really only a few things i wish these had i wish they",
+   "start_time_text": "11:15",
+   "start_time_label": "11 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 682000,
+   "snippet": "folded up i wish they had an ip water resistance rating and i wish they were able to play music through usb type c but other than that really a fantastic",
+   "start_time_text": "11:22",
+   "start_time_label": "11 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 690000,
+   "snippet": "pair of headphones leave a comment below and let me know what your experience has been like if you've been using these headphones anything good or bad i want to see in the comments below thanks for",
+   "start_time_text": "11:30",
+   "start_time_label": "11 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 699000,
+   "snippet": "watching i'll see you next time",
+   "start_time_text": "11:39",
+   "start_time_label": "11 minutes, 39 seconds"
+  },
+  {
+   "start_ms": 702000,
+   "snippet": "[Music]",
+   "start_time_text": "11:42",
+   "start_time_label": "11 minutes, 42 seconds"
+  }
+ ],
+ "chapters": [
+  {
+   "chapter": "Chapter 1: I learned a lot this month",
+   "start_ms": 0,
+   "start_time_text": "0:00"
+  },
+  {
+   "chapter": "Chapter 2: At Work or Home Office",
+   "start_ms": 45000,
+   "start_time_text": "0:45"
+  },
+  {
+   "chapter": "Chapter 3: Relaxing, Gaming, Watching Media",
+   "start_ms": 195000,
+   "start_time_text": "3:15"
+  },
+  {
+   "chapter": "Chapter 4: Working out, running, and gym use",
+   "start_ms": 390000,
+   "start_time_text": "6:30"
+  },
+  {
+   "chapter": "Chapter 5: Commuting and Traveling",
+   "start_ms": 525000,
+   "start_time_text": "8:45"
+  }
+ ],
+ "_probe_latency_s": 7.88
+}

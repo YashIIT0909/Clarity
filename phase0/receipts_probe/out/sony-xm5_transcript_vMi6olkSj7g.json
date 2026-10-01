@@ -1,0 +1,395 @@
+{
+ "search_metadata": {
+  "id": "6abd1ba24de49ac6aa1a8e95",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/69IrdpkNmYqe15ezXx-MYMs8v8LJghpjhIqI8Z2D2vM/6abd1ba24de49ac6aa1a8e95.json",
+  "markdown_endpoint": "https://serpapi.com/searches/69IrdpkNmYqe15ezXx-MYMs8v8LJghpjhIqI8Z2D2vM/6abd1ba24de49ac6aa1a8e95.md",
+  "created_at": "2026-09-30 14:24:34 UTC",
+  "processed_at": "2026-09-30 14:24:34 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=vMi6olkSj7g",
+  "raw_html_file": "https://serpapi.com/searches/69IrdpkNmYqe15ezXx-MYMs8v8LJghpjhIqI8Z2D2vM/6abd1ba24de49ac6aa1a8e95.html",
+  "prettify_html_file": "https://serpapi.com/searches/69IrdpkNmYqe15ezXx-MYMs8v8LJghpjhIqI8Z2D2vM/6abd1ba24de49ac6aa1a8e95.prettify",
+  "total_time_taken": 8.84
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "vMi6olkSj7g",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "look I consider the Sony wh1000 xm5 the Thanos of noise cancelling headphones why you ask well because if you try to",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 7000,
+   "snippet": "go on Google or YouTube and look up the best noise cancelling headphones pretty much all websites will mention these it's inevitable but 2 years after the",
+   "start_time_text": "0:07",
+   "start_time_label": "7 seconds"
+  },
+  {
+   "start_ms": 16000,
+   "snippet": "release of these headphones there have been plenty of additions to the market and that makes me wonder are the xm5 headphones still the best overall",
+   "start_time_text": "0:16",
+   "start_time_label": "16 seconds"
+  },
+  {
+   "start_ms": 24000,
+   "snippet": "headphones around or should you look towards newer models from other brands now to make it easy I'm going to start by talking about four reasons why the",
+   "start_time_text": "0:24",
+   "start_time_label": "24 seconds"
+  },
+  {
+   "start_ms": 31000,
+   "snippet": "xm5 headphones are still considered the King of erss and at the end I'll also discuss one big reason why the xm5",
+   "start_time_text": "0:31",
+   "start_time_label": "31 seconds"
+  },
+  {
+   "start_ms": 38000,
+   "snippet": "headphones may not be the right choice for you and this could actually impact your own listening experience so make sure to stay tuned for that all right",
+   "start_time_text": "0:38",
+   "start_time_label": "38 seconds"
+  },
+  {
+   "start_ms": 46000,
+   "snippet": "let's start with the good first off Sony did an excellent job with the build quality and it still holds up to today's standards now sure it doesn't feel as",
+   "start_time_text": "0:46",
+   "start_time_label": "46 seconds"
+  },
+  {
+   "start_ms": 54000,
+   "snippet": "durable as its thicker looking predecessor but the thinner headband here and the Hollow construction makes the headphones feel really light on the",
+   "start_time_text": "0:54",
+   "start_time_label": "54 seconds"
+  },
+  {
+   "start_ms": 63000,
+   "snippet": "head and I have no problems wearing the headphones for hours on end I'd like in the comfort of the xm5 headphones to something like the Bose Qui Comfort 45",
+   "start_time_text": "1:03",
+   "start_time_label": "1 minute, 3 seconds"
+  },
+  {
+   "start_ms": 72000,
+   "snippet": "which I still consider to be the most comfortable headphones I've ever worn the ear pads also feel very plush and the ear Cup itself is deeper than the",
+   "start_time_text": "1:12",
+   "start_time_label": "1 minute, 12 seconds"
+  },
+  {
+   "start_ms": 80000,
+   "snippet": "ear cup on the xm4 so if you have larger ears or you just have a bigger head I'd highly recommend getting the XM 5S",
+   "start_time_text": "1:20",
+   "start_time_label": "1 minute, 20 seconds"
+  },
+  {
+   "start_ms": 87000,
+   "snippet": "instead of the xm4 even if if it will cost you a little extra secondly these headphones still have great software support via the Sony headphones Connect",
+   "start_time_text": "1:27",
+   "start_time_label": "1 minute, 27 seconds"
+  },
+  {
+   "start_ms": 96000,
+   "snippet": "app inside the app you get access to a ton of useful features like The Equalizer which can be used for fine-tuning the sound to your liking",
+   "start_time_text": "1:36",
+   "start_time_label": "1 minute, 36 seconds"
+  },
+  {
+   "start_ms": 103000,
+   "snippet": "Ambient sound controls adaptive sound controls for adjusting the ANC and Ambient sound depending on what you're doing and you can also use the app to",
+   "start_time_text": "1:43",
+   "start_time_label": "1 minute, 43 seconds"
+  },
+  {
+   "start_ms": 111000,
+   "snippet": "set up Sony 360 reality audio for immersive listening now despite being 2 years old the Sony wh1000 xm5 also still",
+   "start_time_text": "1:51",
+   "start_time_label": "1 minute, 51 seconds"
+  },
+  {
+   "start_ms": 118000,
+   "snippet": "have great active noise cancelling performance according to our test these headphones can reduce the loudness of outside Noise by about 84% which Falls a",
+   "start_time_text": "1:58",
+   "start_time_label": "1 minute, 58 seconds"
+  },
+  {
+   "start_ms": 127000,
+   "snippet": "little short on the performance from the Bose QC Ultra headphones but it actually does surpass thec performance of the airpods max suffice it to say that the",
+   "start_time_text": "2:07",
+   "start_time_label": "2 minutes, 7 seconds"
+  },
+  {
+   "start_ms": 136000,
+   "snippet": "XM 5S are a great option for frequent Travelers commuters or people who just work in loud office spaces these headphones can easily Quiet Sounds like",
+   "start_time_text": "2:16",
+   "start_time_label": "2 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 145000,
+   "snippet": "airplane engines subway car screeches or even chatty co-workers and we have did a deep dive into the active noise cancelling performance of these",
+   "start_time_text": "2:25",
+   "start_time_label": "2 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 152000,
+   "snippet": "headphones in this video right here so make sure to go check that one out after this one of course another arguably more",
+   "start_time_text": "2:32",
+   "start_time_label": "2 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 160000,
+   "snippet": "important reason why the Sony wh1000 xm5 still holds up to today is because it still offers great sound quality but",
+   "start_time_text": "2:40",
+   "start_time_label": "2 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 167000,
+   "snippet": "don't just take my word for it looking at our tests the frequency response of the xm5 headphones aligns pretty closely with our preference curve which is a measurement of what we think sounds good",
+   "start_time_text": "2:47",
+   "start_time_label": "2 minutes, 47 seconds"
+  },
+  {
+   "start_ms": 176000,
+   "snippet": "to most people yes there is a bit of an overemphasis in the Bas and trouble frequencies but I didn't find this to be an issue even when listening to Bas",
+   "start_time_text": "2:56",
+   "start_time_label": "2 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 184000,
+   "snippet": "heavy edmr pop tracks however over a longer listening periods my ears did feel a bit fatigued from the lowend over emphasis so if I were you I'd just go",
+   "start_time_text": "3:04",
+   "start_time_label": "3 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 192000,
+   "snippet": "into the Sony app and turn down the clear Bas slider by a notch or two for a more pleasant listening experience especially during longer listening",
+   "start_time_text": "3:12",
+   "start_time_label": "3 minutes, 12 seconds"
+  },
+  {
+   "start_ms": 200000,
+   "snippet": "periods but hey I also understand that some of you might actually like this amount of base and fortunately the headphone app and the headphones give",
+   "start_time_text": "3:20",
+   "start_time_label": "3 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 207000,
+   "snippet": "you the tools to help you dial in the sound exactly to your liking looking at the multi-dimensional audio quality score these headphones out of the box",
+   "start_time_text": "3:27",
+   "start_time_label": "3 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 216000,
+   "snippet": "got a 4.2 out of 5 and at this point anything above a four is pretty good based on these scores our virtual panel of listeners seems to like the sound of",
+   "start_time_text": "3:36",
+   "start_time_label": "3 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 224000,
+   "snippet": "the xm5 headphones and chances are that based on mdex our frequency response measurements and my personal listening experience there is a very high chance",
+   "start_time_text": "3:44",
+   "start_time_label": "3 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 233000,
+   "snippet": "that you're going to like how these headphones sound out of the box they absolutely hold up to today's standards and it's kind of hard to find a person who wouldn't like the sound of these",
+   "start_time_text": "3:53",
+   "start_time_label": "3 minutes, 53 seconds"
+  },
+  {
+   "start_ms": 242000,
+   "snippet": "headphones now I really like the xm5 headphones and I think it still holds up as a great choice for best overall headphones but there is one thing about",
+   "start_time_text": "4:02",
+   "start_time_label": "4 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 250000,
+   "snippet": "these cans that may be a deal breaker for some especially if you care deeply about audio quality but before I get into that I just want to ask if you",
+   "start_time_text": "4:10",
+   "start_time_label": "4 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 258000,
+   "snippet": "could like subscribe and leave a comment below this video on what you would like to see next all right what doesn't hold up well the one thing about the xm5",
+   "start_time_text": "4:18",
+   "start_time_label": "4 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 265000,
+   "snippet": "headphones that really shows its age has to be its connection options for those unaware these Sony xm5 headphones use",
+   "start_time_text": "4:25",
+   "start_time_label": "4 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 272000,
+   "snippet": "Bluetooth 5.2 which isn't the latest or greatest and also means that these headphones don't support things like orac cast or the lc3 codec also the",
+   "start_time_text": "4:32",
+   "start_time_label": "4 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 280000,
+   "snippet": "headphones only support a handful of Bluetooth codecs including SBC AAC and L now LD is a great inclusion especially",
+   "start_time_text": "4:40",
+   "start_time_label": "4 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 288000,
+   "snippet": "since it provides better streaming quality than SBC and AAC but it is far from the best nowadays Bose Sennheiser",
+   "start_time_text": "4:48",
+   "start_time_label": "4 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 295000,
+   "snippet": "and even newcomer Sonos are making headphones with Snapdragon sound which allow you to stream audio wirelessly using the appex lossless codec for near",
+   "start_time_text": "4:55",
+   "start_time_label": "4 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 304000,
+   "snippet": "CD like audio quality and you can't get that with the xm5 headphones and this can be a bummer for some audio purists out there who want to play back lossless",
+   "start_time_text": "5:04",
+   "start_time_label": "5 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 313000,
+   "snippet": "files on the go in addition the xm5 also lacks USBC audio which is becoming a staple for newer headphones like the",
+   "start_time_text": "5:13",
+   "start_time_label": "5 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 320000,
+   "snippet": "Beat Studio Pro saniser momentum accum headphones and even the Sonos Ace now will you hear a difference between",
+   "start_time_text": "5:20",
+   "start_time_label": "5 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 328000,
+   "snippet": "lossless and lossy audio probably not and there's a huge debate surrounding that which I am not going to get to in this video but the fact of the matter is",
+   "start_time_text": "5:28",
+   "start_time_label": "5 minutes, 28 seconds"
+  },
+  {
+   "start_ms": 336000,
+   "snippet": "that if you care about streaming CD like audio quality over Bluetooth then there are newer headphones that offer Snapdragon sound for improved wireless",
+   "start_time_text": "5:36",
+   "start_time_label": "5 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 345000,
+   "snippet": "audio again if that matters to you unfortunately these headphones are stuck with the Bluetooth radio and codex it came with 2 years ago so it's really up",
+   "start_time_text": "5:45",
+   "start_time_label": "5 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 354000,
+   "snippet": "to you whether or not that actually matters for your listening experience beyond the more limited codec options I didn't really encounter any connection",
+   "start_time_text": "5:54",
+   "start_time_label": "5 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 362000,
+   "snippet": "issues with these headphones no stutters no dropouts whether I was in a city environment or at home I thought the connection was reliable I will say",
+   "start_time_text": "6:02",
+   "start_time_label": "6 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 370000,
+   "snippet": "though most people aren't going to care with the fact that this doesn't have Apex lossless but I do acknowledge that some people actually do care about high quality audio streaming over Bluetooth",
+   "start_time_text": "6:10",
+   "start_time_label": "6 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 378000,
+   "snippet": "which is why I wanted to mention the connection option limitations in this video but back to the main question does the Sony wh1000 xm5 still hold up today",
+   "start_time_text": "6:18",
+   "start_time_label": "6 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 388000,
+   "snippet": "and should you buy it now well yes I think it definitely still holds up today so long as your priority is not lossless audio listening",
+   "start_time_text": "6:28",
+   "start_time_label": "6 minutes, 28 seconds"
+  },
+  {
+   "start_ms": 397000,
+   "snippet": "connection limitations aside the xm5 headphones still offer a great design excellent noise cancelling performance amazing app support and great sound",
+   "start_time_text": "6:37",
+   "start_time_label": "6 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 405000,
+   "snippet": "quality that will sound good to most people these headphones get the fundamentals right and if you can get these cans at a sale price then the xm5",
+   "start_time_text": "6:45",
+   "start_time_label": "6 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 414000,
+   "snippet": "headphones are absolutely worth investing in long term these are definitely not going to be the cheapest on the market have Alternatives that are",
+   "start_time_text": "6:54",
+   "start_time_label": "6 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 420000,
+   "snippet": "much lower in price over here but if you are willing to go all in for a flagship these are definitely still worth setting",
+   "start_time_text": "7:00",
+   "start_time_label": "7 minutes"
+  },
+  {
+   "start_ms": 428000,
+   "snippet": "your eyes on but if connection options are still a deal breaker for you then I'd highly recommend checking out the Sonos Ace because those headphones come",
+   "start_time_text": "7:08",
+   "start_time_label": "7 minutes, 8 seconds"
+  },
+  {
+   "start_ms": 436000,
+   "snippet": "with features that you won't find on Sony's headphones and that goes beyond just supporting Snapdragon sound the Sonos actually have a lot going for it",
+   "start_time_text": "7:16",
+   "start_time_label": "7 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 443000,
+   "snippet": "you can learn more about those headphones in our full review right here",
+   "start_time_text": "7:23",
+   "start_time_label": "7 minutes, 23 seconds"
+  }
+ ],
+ "chapters": [
+  {
+   "chapter": "Chapter 1: Sony WH-1000XM5 is Thanos",
+   "start_ms": 0,
+   "start_time_text": "0:00"
+  },
+  {
+   "chapter": "Chapter 2: Reason to buy #1 Design, build, and comfort",
+   "start_ms": 45000,
+   "start_time_text": "0:45"
+  },
+  {
+   "chapter": "Chapter 3: Reason to buy #2 App support",
+   "start_ms": 92000,
+   "start_time_text": "1:32"
+  },
+  {
+   "chapter": "Chapter 4: Reason to buy #3: Noise canceling performance",
+   "start_ms": 114000,
+   "start_time_text": "1:54"
+  },
+  {
+   "chapter": "Chapter 5: Reason to buy #4: Sound quality analysis",
+   "start_ms": 158000,
+   "start_time_text": "2:38"
+  },
+  {
+   "chapter": "Chapter 6: Reason to NOT buy: Connection options",
+   "start_ms": 264000,
+   "start_time_text": "4:24"
+  },
+  {
+   "chapter": "Chapter 7: Should you buy the Sony WH-1000XM5 in 2024?",
+   "start_ms": 382000,
+   "start_time_text": "6:22"
+  }
+ ],
+ "_probe_latency_s": 9.3
+}

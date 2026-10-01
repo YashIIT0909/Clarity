@@ -1,0 +1,19 @@
+{
+ "search_metadata": {
+  "id": "6abd1b290558c0d3b902b5bb",
+  "status": "Error",
+  "json_endpoint": "https://serpapi.com/searches/lzXRTPdd8NW8j8nm5dI60ZL5RO6sOT5LRBK-RB8HjGA/6abd1b290558c0d3b902b5bb.json",
+  "markdown_endpoint": "https://serpapi.com/searches/lzXRTPdd8NW8j8nm5dI60ZL5RO6sOT5LRBK-RB8HjGA/6abd1b290558c0d3b902b5bb.md",
+  "created_at": "2026-09-30 14:22:33 UTC",
+  "processed_at": "2026-09-30 14:22:33 UTC",
+  "walmart_product_reviews_url": "https://www.walmart.com/reviews/product/1905278151?sort=relevancy&page=1",
+  "prettify_html_file": "https://serpapi.com/searches/lzXRTPdd8NW8j8nm5dI60ZL5RO6sOT5LRBK-RB8HjGA/6abd1b290558c0d3b902b5bb.prettify",
+  "total_time_taken": 90.04
+ },
+ "search_parameters": {
+  "product_id": "1905278151",
+  "engine": "walmart_product_reviews"
+ },
+ "error": "We couldn't get valid results for this search. Please try again later.",
+ "_probe_latency_s": 90.74
+}

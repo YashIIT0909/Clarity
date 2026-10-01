@@ -1,0 +1,684 @@
+{
+ "search_metadata": {
+  "id": "6abd19e87d6e70a35c55e0f8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/CwVcQ1zNg6EtiG4YszsaD6ngan9TFbYQezXfAQhWk5E/6abd19e87d6e70a35c55e0f8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/CwVcQ1zNg6EtiG4YszsaD6ngan9TFbYQezXfAQhWk5E/6abd19e87d6e70a35c55e0f8.md",
+  "created_at": "2026-09-30 14:17:12 UTC",
+  "processed_at": "2026-09-30 14:17:12 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=sony+wh-1000xm5+review&gl=us&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/CwVcQ1zNg6EtiG4YszsaD6ngan9TFbYQezXfAQhWk5E/6abd19e87d6e70a35c55e0f8.html",
+  "total_time_taken": 2.15
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "sony wh-1000xm5 review",
+  "gl": "us",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 151013,
+  "video_results_state": "Results for exact spelling"
+ },
+ "video_results": [
+  {
+   "position_on_page": 1,
+   "title": "Sony WH-1000XM5 Review: Two Steps Forward, One Step Back!",
+   "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=6CsJZxfZsL0",
+   "video_id": "6CsJZxfZsL0",
+   "channel": {
+    "name": "Marques Brownlee",
+    "link": "https://www.youtube.com/@mkbhd",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 6541058,
+   "length": "10:13",
+   "description": "Sony's MK5 noise cancelling headphones are still king of the hill, Sony WH1000XM5: https://geni.us/F6x4cC Sony WH1000XM4:\u00a0...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6CsJZxfZsL0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuZn6d5FC-eefQ7h7M27CRHE1lcw",
+    "rich": "https://i.ytimg.com/an_webp/6CsJZxfZsL0/mqdefault_6s.webp?du=3000&sqp=CJmA9NUG&rs=AOn4CLDQuxk9VdGsrWHYdNvEuf2Z5JZcbA"
+   }
+  },
+  {
+   "position_on_page": 2,
+   "title": "Sony WH-1000XM5 Headphones Review - 6 Months Later",
+   "link": "https://www.youtube.com/watch?v=dEHYA-jACoU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=dEHYA-jACoU",
+   "video_id": "dEHYA-jACoU",
+   "channel": {
+    "name": "6 Months Later",
+    "link": "https://www.youtube.com/@6MonthsLater",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2Kiy90zc2RNKwNkAaZuMSLZAkPfP332BHsTJDjEuZc22fO7v2iwUGOEKytVkSyNtxJ6Ujcqe=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 292753,
+   "length": "7:54",
+   "description": "The Sony WH-1000XM5s are one of the best Bluetooth wireless headphones on the market, but is it a pair everyone should pick\u00a0...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/dEHYA-jACoU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc_7hjlY_l4zrgY4wlyJPXlpHTpg",
+    "rich": "https://i.ytimg.com/an_webp/dEHYA-jACoU/mqdefault_6s.webp?du=3000&sqp=CPKD9NUG&rs=AOn4CLD5_R3st17Q2av8LDUbYbw_cfZn-w"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "Sony WH-1000XM5 - The New King of Noise Canceling Headphones?",
+   "link": "https://www.youtube.com/watch?v=x-Ia18S8bvk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=x-Ia18S8bvk",
+   "video_id": "x-Ia18S8bvk",
+   "channel": {
+    "name": "Flossy Carter",
+    "link": "https://www.youtube.com/@FlossyCarter",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYM0Po5paDDCS6yYjmZRASfHQHNsv5haI-4SVmHvI3VHc=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 308445,
+   "length": "35:36",
+   "description": "Sony WH-1000XM5 Buy them here, https://amzn.to/3LGUtZZ Wanna buy some of my gadgets - http://amzn.to/1zZ2y4P Check out\u00a0...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/x-Ia18S8bvk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBecsMZ8bXoezs2ZxTZHz24NQwi8w",
+    "rich": "https://i.ytimg.com/an_webp/x-Ia18S8bvk/mqdefault_6s.webp?du=3000&sqp=CJam9NUG&rs=AOn4CLC0AO7qV6ktuPuwM-u21tTWojbfDg"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "Sony WH-1000XM5 Two-Years Later Review: Still Worth BUYING?",
+   "link": "https://www.youtube.com/watch?v=vMi6olkSj7g",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=vMi6olkSj7g",
+   "video_id": "vMi6olkSj7g",
+   "channel": {
+    "name": "SoundGuys",
+    "link": "https://www.youtube.com/@SoundGuys",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/L7GkKpqBMXLSHWbJHcy7AhBvlV-mjGOR_VhHW2zcOX0CJPnlzG5q_mhtJdsF9L5JRqvUyyQVfIU=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 130174,
+   "length": "7:30",
+   "description": "Buy at Amazon: https://soundg.co/qho9e2 The Sony WH-1000XM5 are one of the most popular noise canceling headphones on\u00a0...",
+   "extensions": [
+    "1 product",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/vMi6olkSj7g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1dmFlVFNs9QIXPuB9U-PuW34cbQ",
+    "rich": "https://i.ytimg.com/an_webp/vMi6olkSj7g/mqdefault_6s.webp?du=3000&sqp=CJiS9NUG&rs=AOn4CLCeQQaIw4_4s-n4LXR16ANjQn4rDQ"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "Sony WH-1000XM5  (Problems & Best Features after 1 Month Daily Use)",
+   "link": "https://www.youtube.com/watch?v=9a-3r2llDjI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=9a-3r2llDjI",
+   "video_id": "9a-3r2llDjI",
+   "channel": {
+    "name": "Mike O'Brien",
+    "link": "https://www.youtube.com/@MikeOBrienMedia",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSh7FIrnxkpscWtyWhHVfvQxAzwtwdtEZ-kJ6xcAGZBoE=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 836932,
+   "length": "11:55",
+   "description": "SONY WH-1000XM5 https://mikeobrienmedia.com/WH-1000XM5 Follow me on social media! (it's always just @mikeobrienn)\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9a-3r2llDjI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9MrCGNgL3PhaQzSQ9If8j5vKRfQ",
+    "rich": "https://i.ytimg.com/an_webp/9a-3r2llDjI/mqdefault_6s.webp?du=3000&sqp=CNCP9NUG&rs=AOn4CLDy3kXDB3TUNYyFrH0AbjfFuxzAvw"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "I've been SPOILED! - Sony WH-1000XM5",
+   "link": "https://www.youtube.com/watch?v=zolOnpuOHaA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=zolOnpuOHaA",
+   "video_id": "zolOnpuOHaA",
+   "channel": {
+    "name": "ShortCircuit",
+    "link": "https://www.youtube.com/@ShortCircuit",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mDZiWSYXmBc_fiS3QG-Uh5mJRdww9Z-2qUDeXtMZhGTQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 2150225,
+   "length": "13:16",
+   "description": "If you're reading this, you probably missed your chance to get a discount on all dbrand products. Use offer code FOURFOOTNINE\u00a0...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zolOnpuOHaA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSpotsJeiBltT2_zU06XvWY6vULg",
+    "rich": "https://i.ytimg.com/an_webp/zolOnpuOHaA/mqdefault_6s.webp?du=3000&sqp=CICo9NUG&rs=AOn4CLAISbDZ41vJW_AKExpvMsYlbVomUw"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "Sony WH-1000XM6 vs Sony WH-1000XM5 - Should you upgrade?",
+   "link": "https://www.youtube.com/watch?v=XIR5IfmIjQE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=XIR5IfmIjQE",
+   "video_id": "XIR5IfmIjQE",
+   "channel": {
+    "name": "SoundGuys",
+    "link": "https://www.youtube.com/@SoundGuys",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/L7GkKpqBMXLSHWbJHcy7AhBvlV-mjGOR_VhHW2zcOX0CJPnlzG5q_mhtJdsF9L5JRqvUyyQVfIU=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 167640,
+   "length": "9:40",
+   "description": "Buy at Amazon - WH-1000XM6: https://soundg.co/zdogyl WH-1000XM5: https://soundg.co/qho9e2 Sony has finally released their\u00a0...",
+   "extensions": [
+    "2 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XIR5IfmIjQE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnMFzlpBnLlOUd_VA2W36GSGpR_g",
+    "rich": "https://i.ytimg.com/an_webp/XIR5IfmIjQE/mqdefault_6s.webp?du=3000&sqp=CNqp9NUG&rs=AOn4CLB3vC7EBKE2HC8FMWdkzOac7zBAEw"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Sony WH-1000XM5 - 3 Years Later Review",
+   "link": "https://www.youtube.com/watch?v=vRc_6PgmM8M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=vRc_6PgmM8M",
+   "video_id": "vRc_6PgmM8M",
+   "channel": {
+    "name": "SoundGuys",
+    "link": "https://www.youtube.com/@SoundGuys",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/L7GkKpqBMXLSHWbJHcy7AhBvlV-mjGOR_VhHW2zcOX0CJPnlzG5q_mhtJdsF9L5JRqvUyyQVfIU=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 40383,
+   "length": "9:55",
+   "description": "Buy the Sony WH-1000XM5 on Amazon: https://soundg.co/8snhy2 [Affiliate Disclosure: As an Amazon Associate we earn from\u00a0...",
+   "extensions": [
+    "1 product",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/vRc_6PgmM8M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAipieC6aopQH85FJ-JIuA9fYWaKg",
+    "rich": "https://i.ytimg.com/an_webp/vRc_6PgmM8M/mqdefault_6s.webp?du=3000&sqp=COOu9NUG&rs=AOn4CLD2wOFQ6fPEv8-eY8dZ8_5r5otR3w"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "Sony WH-1000XM5 headphones - 3 months later | Mark Ellis Reviews",
+   "link": "https://www.youtube.com/watch?v=UZhn-Q5OhJw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=UZhn-Q5OhJw",
+   "video_id": "UZhn-Q5OhJw",
+   "channel": {
+    "name": "Mark Ellis Reviews",
+    "link": "https://www.youtube.com/@MarkEllisReviews",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nIw2H3CEqOBG2B3ZJfKfzfAhsQ5UcnDxyEdcnQXfsTpQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 454516,
+   "length": "8:43",
+   "description": "I've been using the Sony WH-1000XM5 noise-cancelling headphones solidly for around three months now. How do they fare after\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UZhn-Q5OhJw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG_bNfuVQuZ8T1bicXnIoySiuu5w",
+    "rich": "https://i.ytimg.com/an_webp/UZhn-Q5OhJw/mqdefault_6s.webp?du=3000&sqp=CNid9NUG&rs=AOn4CLD6FNtjiMo5u1apJFysBudkS_1Ueg"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "The Headphones I Keep Coming Back To | Sony XM5",
+   "link": "https://www.youtube.com/watch?v=l6bQX09Nd04",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=l6bQX09Nd04",
+   "video_id": "l6bQX09Nd04",
+   "channel": {
+    "name": "Edward Lee Films",
+    "link": "https://www.youtube.com/@edwardleefilms2",
+    "thumbnail": "https://yt3.ggpht.com/ks08leie5wXKOMQmrF-UUqp5GTDqCD4Aux5m0DxpCb1uOYZPiVGX_7RteUjQ1O-n9SAXmUC4EA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 11176,
+   "length": "13:00",
+   "description": "... Sony WH-1000XM5: https://geni.us/ObZU Credits: \u2192 Edward Lee: https://www.instagram.com/edwardleefilms/ \u2192 Torrey Merritt:\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/l6bQX09Nd04/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIwLLdXLiMp9c-Fb4rYVFI7YpoZA",
+    "rich": "https://i.ytimg.com/an_webp/l6bQX09Nd04/mqdefault_6s.webp?du=3000&sqp=CIiW9NUG&rs=AOn4CLDCCLKKE0jfRiizTADqTD0FkpU36Q"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "Sony WH-1000XM5 Headphones Review: New Design, New Superpower",
+   "link": "https://www.youtube.com/watch?v=5-nSZEtu_eg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=5-nSZEtu_eg",
+   "video_id": "5-nSZEtu_eg",
+   "channel": {
+    "name": "CNET",
+    "link": "https://www.youtube.com/@CNET",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/SGoD0SodPuysPRUSFI8jd_eqR-ZCgvxhZk905338O1NUYI5eUqMZ1lQaekFNiDggJh0lA_5kQg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 124493,
+   "length": "9:48",
+   "description": "Sony's fifth-gen flagship noise-canceling headphones have been redesigned on the outside and inside, with new drivers and a\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/5-nSZEtu_eg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1yrr94z3jkKvMi1mabQLig_S6cw",
+    "rich": "https://i.ytimg.com/an_webp/5-nSZEtu_eg/mqdefault_6s.webp?du=3000&sqp=CMiz9NUG&rs=AOn4CLABF9WtTtr2XJa9CoCPsObYFLV6eQ"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "Sony WH-1000XM5 Review | 18 Months On | Long Term Review",
+   "link": "https://www.youtube.com/watch?v=YSLaWs5FzuU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=YSLaWs5FzuU",
+   "video_id": "YSLaWs5FzuU",
+   "channel": {
+    "name": "Steven Foster",
+    "link": "https://www.youtube.com/@_stevenfoster",
+    "thumbnail": "https://yt3.ggpht.com/NLYHYo0Rb3iFb0dY1jMYNDjCw7bSmk5WS2b6jh2wlIAWEDLHv_LM1EkDr3oYRIHO_P9ApJ2doA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 16886,
+   "length": "7:07",
+   "description": "Sony WH-1000XM5: https://amzn.to/4a7yRDo Beats Studio Pro: https://amzn.to/3TXTKM3 Bose QC45: https://amzn.to/3txXuc9\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YSLaWs5FzuU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3SW_WjLBAExKecYOAQjFFLXProg",
+    "rich": "https://i.ytimg.com/an_webp/YSLaWs5FzuU/mqdefault_6s.webp?du=3000&sqp=CP7_89UG&rs=AOn4CLAKPUluO82qdRc1ApFT1l_mlQhoHA"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "Sony\u2019s WH-1000XM5 hands-on",
+   "link": "https://www.youtube.com/watch?v=PBIbsvZSp24",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=PBIbsvZSp24",
+   "video_id": "PBIbsvZSp24",
+   "channel": {
+    "name": "The Verge",
+    "link": "https://www.youtube.com/@TheVerge",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ZIj_dq7beCkAkhufNqCid_SjWW4mkv4tqIDtv7_AAKzWdhBWI-rpsRXYXB9X3mB0s0zNzNtYdQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 483003,
+   "length": "8:54",
+   "description": "Sony's new WH-1000XM5 noise-canceling headphones are the company's most advanced to date \u2014 but also the most expensive\u00a0...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PBIbsvZSp24/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3ebmBoY2x2MLomYsIqm6FTAQhDQ",
+    "rich": "https://i.ytimg.com/an_webp/PBIbsvZSp24/mqdefault_6s.webp?du=3000&sqp=CISh9NUG&rs=AOn4CLChuMTdRwPSCuH28UDzZP0JXYJNVQ"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Sony Headphones WH-1000XM5 (User Guide)",
+   "link": "https://www.youtube.com/watch?v=hmuZuZP4zfc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=hmuZuZP4zfc",
+   "video_id": "hmuZuZP4zfc",
+   "channel": {
+    "name": "How To",
+    "link": "https://www.youtube.com/@HowToPM",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kUyS0zTGpGlJ1RCCWii19RWPJt678-TDMCL63Sa1SA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 43290,
+   "length": "4:10",
+   "description": "Get your headphone here : https://geni.us/SonyWh1000XM5 I accept donations :) https://geni.us/HowToPayPalDonation Many\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/hmuZuZP4zfc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEooRDAP&rs=AOn4CLB1JNtpaueFH4hRY4kD_ff0viG4Pg",
+    "rich": "https://i.ytimg.com/an_webp/hmuZuZP4zfc/mqdefault_6s.webp?du=3000&sqp=CL6w9NUG&rs=AOn4CLDAasGwLcv-YyHVMLJyVietI6kkOA"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "THE DEFINITIVE Sony WH-1000XM5 Review & Comparison by an AUDIO ENGINEER",
+   "link": "https://www.youtube.com/watch?v=6WTHBCZBt_E",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=6WTHBCZBt_E",
+   "video_id": "6WTHBCZBt_E",
+   "channel": {
+    "name": "This is Tech Today",
+    "link": "https://www.youtube.com/@ThisIsTechToday",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kjnBLcgqKrgDM_Hfp6xks9dkbBdgDTLtv57ClrUkGrRQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 3009072,
+   "length": "28:08",
+   "description": "As an Audio Engineer, this is the definitive, in-depth, and experiential review of the Sony WH-1000XM5 and a comparison with the\u00a0...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6WTHBCZBt_E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj3w6rQ0jiuyPj5unhzPTbHnj5Yg",
+    "rich": "https://i.ytimg.com/an_webp/6WTHBCZBt_E/mqdefault_6s.webp?du=3000&sqp=CNiy9NUG&rs=AOn4CLCoam2PPFLid0UVKTIB6-3JrrZ5vw"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Sony WH-1000XM5 UNBOXING + REVIEW - The new King of Noise Cancelling!",
+   "link": "https://www.youtube.com/watch?v=D8wG67oko7E",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=D8wG67oko7E",
+   "video_id": "D8wG67oko7E",
+   "channel": {
+    "name": "Karl Conrad",
+    "link": "https://www.youtube.com/@KarlConrad",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n7S27L74hV5uI9p0v2vTY7ncsbdHyVGDCl5-ylx6sZbMk=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 331772,
+   "length": "9:15",
+   "description": "Unboxing and review of the new Sony WH1000XM5 Noise Cancelling Headphones! #Sony #WH1000XM5 #Headphones #Audio\u00a0...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/D8wG67oko7E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdMAhjdyyxaxj7ZY_BMDJMD6iqsw",
+    "rich": "https://i.ytimg.com/an_webp/D8wG67oko7E/mqdefault_6s.webp?du=3000&sqp=CJeh9NUG&rs=AOn4CLCxq4Lz5POUMcoKqdW2smpAfZXxlA"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "Sony WH-1000XM6 Review: Back on the Throne!",
+   "link": "https://www.youtube.com/watch?v=XbXXKhfvSF0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=XbXXKhfvSF0",
+   "video_id": "XbXXKhfvSF0",
+   "channel": {
+    "name": "Marques Brownlee",
+    "link": "https://www.youtube.com/@mkbhd",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 4969315,
+   "length": "9:17",
+   "description": "Sony's new noise cancelling headphones are long-awaited and awesome. When you make the best product in the category, you\u00a0...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XbXXKhfvSF0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB87KfIDb7ytn6HL5hPxD88M_ESeA",
+    "rich": "https://i.ytimg.com/an_webp/XbXXKhfvSF0/mqdefault_6s.webp?du=3000&sqp=CP-K9NUG&rs=AOn4CLD5HW0DGUDQ6X6uEzvpXT8tRUrzRg"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "Sony WF-1000XM5 Earbuds Review - 6 Months Later",
+   "link": "https://www.youtube.com/watch?v=wTjM-na6ydU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=us&hl=en&v=wTjM-na6ydU",
+   "video_id": "wTjM-na6ydU",
+   "channel": {
+    "name": "6 Months Later",
+    "link": "https://www.youtube.com/@6MonthsLater",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2Kiy90zc2RNKwNkAaZuMSLZAkPfP332BHsTJDjEuZc22fO7v2iwUGOEKytVkSyNtxJ6Ujcqe=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 583245,
+   "length": "8:38",
+   "description": "Are the Sony WF-1000XM5 Earbuds worth it after 6 Months? Why would you go with the Sony buds over the AirPods Pro,\u00a0...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wTjM-na6ydU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFcLxy1Hmt6t6TVX2J9Bi82YzBLQ",
+    "rich": "https://i.ytimg.com/an_webp/wTjM-na6ydU/mqdefault_6s.webp?du=3000&sqp=CN6z9NUG&rs=AOn4CLCafy9YYZTIBuBMSyshnDT2rVQrsQ"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 3,
+   "shorts": [
+    {
+     "title": "Sony WH-1000XM5 Review - Taylor Swift Sounds Good in These",
+     "link": "https://www.youtube.com/shorts/qnEKEI4ZoHo",
+     "thumbnail": "https://i.ytimg.com/vi/qnEKEI4ZoHo/frame0.jpg",
+     "views_original": "4.8M views",
+     "views": 4800000,
+     "video_id": "qnEKEI4ZoHo"
+    },
+    {
+     "title": "Sony WH-1000XM5: The BEST Headphones?",
+     "link": "https://www.youtube.com/shorts/LEcBOGCAQUI",
+     "thumbnail": "https://i.ytimg.com/vi/LEcBOGCAQUI/frame0.jpg",
+     "views_original": "1.4M views",
+     "views": 1400000,
+     "video_id": "LEcBOGCAQUI"
+    },
+    {
+     "title": "Sony WH-1000XM5 The Best WirelessNoise Canceling Headphones",
+     "link": "https://www.youtube.com/shorts/LxPYfP8Zfv8",
+     "thumbnail": "https://i.ytimg.com/vi/LxPYfP8Zfv8/frame0.jpg",
+     "views_original": "147K views",
+     "views": 147000,
+     "video_id": "LxPYfP8Zfv8"
+    },
+    {
+     "title": "an HONEST review on the @Sony WH-1000XM5 \ud83c\udfa7\ud83e\udd0d!",
+     "link": "https://www.youtube.com/shorts/ktQXNjsCEeo",
+     "thumbnail": "https://i.ytimg.com/vi/ktQXNjsCEeo/frame0.jpg",
+     "views_original": "22K views",
+     "views": 22000,
+     "video_id": "ktQXNjsCEeo"
+    },
+    {
+     "title": "Sony WH-1000XM5 Unboxing, Try-On, Impressions & Review | Sony WH-1000XM5 vs. Sony WH-1000XM4",
+     "link": "https://www.youtube.com/shorts/bOjQ39hSe1c",
+     "thumbnail": "https://i.ytimg.com/vi/bOjQ39hSe1c/frame0.jpg",
+     "views_original": "350K views",
+     "views": 350000,
+     "video_id": "bOjQ39hSe1c"
+    }
+   ]
+  },
+  {
+   "position_on_page": 7,
+   "shorts": [
+    {
+     "title": "159 days with the Sony WH1000XM5s #sony #headphones #audiophile",
+     "link": "https://www.youtube.com/shorts/KfIMrEg4jVU",
+     "thumbnail": "https://i.ytimg.com/vi/KfIMrEg4jVU/frame0.jpg",
+     "views_original": "721K views",
+     "views": 721000,
+     "video_id": "KfIMrEg4jVU"
+    },
+    {
+     "title": "Sound comparison of Sony WH1000xm5 vs xm6 headphones",
+     "link": "https://www.youtube.com/shorts/ucaVO3a8aJU",
+     "thumbnail": "https://i.ytimg.com/vi/ucaVO3a8aJU/frame0.jpg",
+     "views_original": "824K views",
+     "views": 824000,
+     "video_id": "ucaVO3a8aJU"
+    },
+    {
+     "title": "What It\u2019s Like to Use Sony WH-1000XM5 \ud83c\udfa7\ud83d\udd25 #SonyWH1000XM5 #NoiseCancelling #HeadphoneReview #Tech",
+     "link": "https://www.youtube.com/shorts/dvGX-pHIMV4",
+     "thumbnail": "https://i.ytimg.com/vi/dvGX-pHIMV4/frame0.jpg",
+     "views_original": "65K views",
+     "views": 65000,
+     "video_id": "dvGX-pHIMV4"
+    },
+    {
+     "title": "Sony WH-1000XM5 my thoughts after two years #sonyheadphones #xm5 #techtok",
+     "link": "https://www.youtube.com/shorts/mt1dVFNUcd8",
+     "thumbnail": "https://i.ytimg.com/vi/mt1dVFNUcd8/frame0.jpg",
+     "views_original": "3.9K views",
+     "views": 3900,
+     "video_id": "mt1dVFNUcd8"
+    },
+    {
+     "title": "my honest review on the Sony XM5 headphones after 1 month of using them",
+     "link": "https://www.youtube.com/shorts/65Wqv3BKFIs",
+     "thumbnail": "https://i.ytimg.com/vi/65Wqv3BKFIs/frame0.jpg",
+     "views_original": "44K views",
+     "views": 44000,
+     "video_id": "65Wqv3BKFIs"
+    },
+    {
+     "title": "Sony XM6 vs XM5 vs XM4: RANKED!",
+     "link": "https://www.youtube.com/shorts/IYR5PgUWP7A",
+     "thumbnail": "https://i.ytimg.com/vi/IYR5PgUWP7A/frame0.jpg",
+     "views_original": "728K views",
+     "views": 728000,
+     "video_id": "IYR5PgUWP7A"
+    },
+    {
+     "title": "The BEST thing about Sony XM5!",
+     "link": "https://www.youtube.com/shorts/9SgNyEZWyqw",
+     "thumbnail": "https://i.ytimg.com/vi/9SgNyEZWyqw/frame0.jpg",
+     "views_original": "319K views",
+     "views": 319000,
+     "video_id": "9SgNyEZWyqw"
+    },
+    {
+     "title": "WH-1000XM5 in 2025: Should you buy in 2025?",
+     "link": "https://www.youtube.com/shorts/wRb5WI2Zggg",
+     "thumbnail": "https://i.ytimg.com/vi/wRb5WI2Zggg/frame0.jpg",
+     "views_original": "3.2K views",
+     "views": 3200,
+     "video_id": "wRb5WI2Zggg"
+    },
+    {
+     "title": "Sony XM5 Headphones",
+     "link": "https://www.youtube.com/shorts/hyUeoNEPiq0",
+     "thumbnail": "https://i.ytimg.com/vi/hyUeoNEPiq0/frame0.jpg",
+     "views_original": "192K views",
+     "views": 192000,
+     "video_id": "hyUeoNEPiq0"
+    },
+    {
+     "title": "Why The Sony Wh-1000 XM5 is better than Bose Ultra?",
+     "link": "https://www.youtube.com/shorts/dgWX3wcO5Es",
+     "thumbnail": "https://i.ytimg.com/vi/dgWX3wcO5Es/frame0.jpg",
+     "views_original": "521K views",
+     "views": 521000,
+     "video_id": "dgWX3wcO5Es"
+    },
+    {
+     "title": "Sony WH-1000XM5 Noise Cancelling Headphones (Smoky Pink) Unboxing #sony #headphones",
+     "link": "https://www.youtube.com/shorts/2uGVFI5A4v8",
+     "thumbnail": "https://i.ytimg.com/vi/2uGVFI5A4v8/frame0.jpg",
+     "views_original": "25K views",
+     "views": 25000,
+     "video_id": "2uGVFI5A4v8"
+    },
+    {
+     "title": "Sony Wireless Headphones WH1000XM5",
+     "link": "https://www.youtube.com/shorts/sIMxMobdx7E",
+     "thumbnail": "https://i.ytimg.com/vi/sIMxMobdx7E/frame0.jpg",
+     "views_original": "147K views",
+     "views": 147000,
+     "video_id": "sIMxMobdx7E"
+    },
+    {
+     "title": "3 Things I DON\u2019T like about the Sony XM5 Headphones #sonyheadphones #sonyXm5 #gymheadphones",
+     "link": "https://www.youtube.com/shorts/97f0ft-KJ2E",
+     "thumbnail": "https://i.ytimg.com/vi/97f0ft-KJ2E/frame0.jpg",
+     "views_original": "357K views",
+     "views": 357000,
+     "video_id": "97f0ft-KJ2E"
+    },
+    {
+     "title": "Sony WH-1000XM4 vs Sony WH-1000XM5: Honest Comparison in 2025",
+     "link": "https://www.youtube.com/shorts/akXU3y-q7FU",
+     "thumbnail": "https://i.ytimg.com/vi/akXU3y-q7FU/frame0.jpg",
+     "views_original": "33K views",
+     "views": 33000,
+     "video_id": "akXU3y-q7FU"
+    },
+    {
+     "title": "Which Sony Headphones Are Actually Worth the Money? \ud83c\udfa7\ud83e\udd28\ud83d\udcb0",
+     "link": "https://www.youtube.com/shorts/Xw5nTsXw2QM",
+     "thumbnail": "https://i.ytimg.com/vi/Xw5nTsXw2QM/frame0.jpg",
+     "views_original": "3M views",
+     "views": 3000000,
+     "video_id": "Xw5nTsXw2QM"
+    },
+    {
+     "title": "Sony WF1000XM5 Review",
+     "link": "https://www.youtube.com/shorts/oN_HRA05bs4",
+     "thumbnail": "https://i.ytimg.com/vi/oN_HRA05bs4/frame0.jpg",
+     "views_original": "52K views",
+     "views": 52000,
+     "video_id": "oN_HRA05bs4"
+    },
+    {
+     "title": "Sony WH-1000XM5SA Review: Costco Exclusive Edition Headphones",
+     "link": "https://www.youtube.com/shorts/PLWbmMIX4Os",
+     "thumbnail": "https://i.ytimg.com/vi/PLWbmMIX4Os/frame0.jpg",
+     "views_original": "926 views",
+     "views": 926,
+     "video_id": "PLWbmMIX4Os"
+    },
+    {
+     "title": "Problems with Sony XM5",
+     "link": "https://www.youtube.com/shorts/yccu8YyKrQo",
+     "thumbnail": "https://i.ytimg.com/vi/yccu8YyKrQo/frame0.jpg",
+     "views_original": "114K views",
+     "views": 114000,
+     "video_id": "yccu8YyKrQo"
+    },
+    {
+     "title": "Buy Sony WH-1000XM6 or WH-1000XM5? Easy choice! Flash Review \u26a1",
+     "link": "https://www.youtube.com/shorts/hj6d3bYreaU",
+     "thumbnail": "https://i.ytimg.com/vi/hj6d3bYreaU/frame0.jpg",
+     "views_original": "47K views",
+     "views": 47000,
+     "video_id": "hj6d3bYreaU"
+    },
+    {
+     "title": "Not Overly Engineered and Impressive - Sony XM5",
+     "link": "https://www.youtube.com/shorts/uhz-35WmXXg",
+     "thumbnail": "https://i.ytimg.com/vi/uhz-35WmXXg/frame0.jpg",
+     "views_original": "147K views",
+     "views": 147000,
+     "video_id": "uhz-35WmXXg"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=sony+wh-1000xm5+review&gl=us&hl=en",
+  "next": "https://www.youtube.com/results?gl=us&hl=en&search_query=sony%20wh-1000xm5%20review&sp=SBSCAQs2Q3NKWnhmWnNMMIIBC2RFSFlBLWpBQ29VggELeC1JYTE4UzhidmuCAQt2TWk2b2xrU2o3Z4IBCzlhLTNyMmxsRGpJggELem9sT25wdU9IYUGCAQtYSVI1SWZtSWpRRYIBC3ZSY182UGdtTThNggELVVpobi1RNU9oSneCAQtsNmJRWDA5TmQwNIIBCzUtblNaRXR1X2VnggELWVNMYVdzNUZ6dVWCAQtQQklic3ZaU3AyNIIBC2htdVp1WlA0emZjggELNldUSEJDWkJ0X0WCAQtEOHdHNjdva283RYIBC1hiWFhLaGZ2U0YwggELd1RqTS1uYTZ5ZFWyAQYKBAgVEALqAQQIAhAZ",
+  "next_page_token": "SBSCAQs2Q3NKWnhmWnNMMIIBC2RFSFlBLWpBQ29VggELeC1JYTE4UzhidmuCAQt2TWk2b2xrU2o3Z4IBCzlhLTNyMmxsRGpJggELem9sT25wdU9IYUGCAQtYSVI1SWZtSWpRRYIBC3ZSY182UGdtTThNggELVVpobi1RNU9oSneCAQtsNmJRWDA5TmQwNIIBCzUtblNaRXR1X2VnggELWVNMYVdzNUZ6dVWCAQtQQklic3ZaU3AyNIIBC2htdVp1WlA0emZjggELNldUSEJDWkJ0X0WCAQtEOHdHNjdva283RYIBC1hiWFhLaGZ2U0YwggELd1RqTS1uYTZ5ZFWyAQYKBAgVEALqAQQIAhAZ"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=us&hl=en&search_query=sony+wh-1000xm5+review",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=us&hl=en&search_query=sony+wh-1000xm5+review&sp=SBSCAQs2Q3NKWnhmWnNMMIIBC2RFSFlBLWpBQ29VggELeC1JYTE4UzhidmuCAQt2TWk2b2xrU2o3Z4IBCzlhLTNyMmxsRGpJggELem9sT25wdU9IYUGCAQtYSVI1SWZtSWpRRYIBC3ZSY182UGdtTThNggELVVpobi1RNU9oSneCAQtsNmJRWDA5TmQwNIIBCzUtblNaRXR1X2VnggELWVNMYVdzNUZ6dVWCAQtQQklic3ZaU3AyNIIBC2htdVp1WlA0emZjggELNldUSEJDWkJ0X0WCAQtEOHdHNjdva283RYIBC1hiWFhLaGZ2U0YwggELd1RqTS1uYTZ5ZFWyAQYKBAgVEALqAQQIAhAZ",
+  "next_page_token": "SBSCAQs2Q3NKWnhmWnNMMIIBC2RFSFlBLWpBQ29VggELeC1JYTE4UzhidmuCAQt2TWk2b2xrU2o3Z4IBCzlhLTNyMmxsRGpJggELem9sT25wdU9IYUGCAQtYSVI1SWZtSWpRRYIBC3ZSY182UGdtTThNggELVVpobi1RNU9oSneCAQtsNmJRWDA5TmQwNIIBCzUtblNaRXR1X2VnggELWVNMYVdzNUZ6dVWCAQtQQklic3ZaU3AyNIIBC2htdVp1WlA0emZjggELNldUSEJDWkJ0X0WCAQtEOHdHNjdva283RYIBC1hiWFhLaGZ2U0YwggELd1RqTS1uYTZ5ZFWyAQYKBAgVEALqAQQIAhAZ"
+ },
+ "_probe_latency_s": 2.8
+}

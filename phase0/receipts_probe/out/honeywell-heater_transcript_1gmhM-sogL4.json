@@ -1,0 +1,209 @@
+{
+ "search_metadata": {
+  "id": "6abd1ba4c75443f0cfe99e18",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/eppg2biimX79fW4jCQ7gwRU2z2a8s8Ea11o8h5cIveE/6abd1ba4c75443f0cfe99e18.json",
+  "markdown_endpoint": "https://serpapi.com/searches/eppg2biimX79fW4jCQ7gwRU2z2a8s8Ea11o8h5cIveE/6abd1ba4c75443f0cfe99e18.md",
+  "created_at": "2026-09-30 14:24:36 UTC",
+  "processed_at": "2026-09-30 14:24:36 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=1gmhM-sogL4",
+  "raw_html_file": "https://serpapi.com/searches/eppg2biimX79fW4jCQ7gwRU2z2a8s8Ea11o8h5cIveE/6abd1ba4c75443f0cfe99e18.html",
+  "prettify_html_file": "https://serpapi.com/searches/eppg2biimX79fW4jCQ7gwRU2z2a8s8Ea11o8h5cIveE/6abd1ba4c75443f0cfe99e18.prettify",
+  "total_time_taken": 8.64
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "1gmhM-sogL4",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "hello and welcome to shopping with cheryl i'm sheryl and today i am showing you a space heater this isn't like a lot of them that blows",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 9000,
+   "snippet": "the heat in one direction nope this is a 360 heater so it's going to put out heat",
+   "start_time_text": "0:09",
+   "start_time_label": "9 seconds"
+  },
+  {
+   "start_ms": 18000,
+   "snippet": "all the way around so instead of it just blowing in the one direction you're getting heat all over",
+   "start_time_text": "0:18",
+   "start_time_label": "18 seconds"
+  },
+  {
+   "start_ms": 25000,
+   "snippet": "now it's fairly lightweight on the bottom is a button right here where if this gets",
+   "start_time_text": "0:25",
+   "start_time_label": "25 seconds"
+  },
+  {
+   "start_ms": 32000,
+   "snippet": "temped over uh for some reason the cat hit it the dog hit it the kids hit it it will turn off so that's one of the",
+   "start_time_text": "0:32",
+   "start_time_label": "32 seconds"
+  },
+  {
+   "start_ms": 41000,
+   "snippet": "safety features as far as the size it is just a little over 10 inches tall",
+   "start_time_text": "0:41",
+   "start_time_label": "41 seconds"
+  },
+  {
+   "start_ms": 48000,
+   "snippet": "and we're gonna go right at about eight inches seven and a half eight inches wide",
+   "start_time_text": "0:48",
+   "start_time_label": "48 seconds"
+  },
+  {
+   "start_ms": 56000,
+   "snippet": "the cord the cord is pretty long when i i know that let me get you an exact measurement",
+   "start_time_text": "0:56",
+   "start_time_label": "56 seconds"
+  },
+  {
+   "start_ms": 63000,
+   "snippet": "now there will be an affiliate link for this in the description below if you use my link and you make a purchase i may make a commission",
+   "start_time_text": "1:03",
+   "start_time_label": "1 minute, 3 seconds"
+  },
+  {
+   "start_ms": 71000,
+   "snippet": "let me pull this cord up i'm telling you we've got cord you've got 77 inches",
+   "start_time_text": "1:11",
+   "start_time_label": "1 minute, 11 seconds"
+  },
+  {
+   "start_ms": 79000,
+   "snippet": "yeah over six feet of cord i knew it was long i wasn't sure exactly how long now with this let me",
+   "start_time_text": "1:19",
+   "start_time_label": "1 minute, 19 seconds"
+  },
+  {
+   "start_ms": 87000,
+   "snippet": "get it here i gotta find my buttons there is your power button you've got high",
+   "start_time_text": "1:27",
+   "start_time_label": "1 minute, 27 seconds"
+  },
+  {
+   "start_ms": 96000,
+   "snippet": "and low you can also set your thermostat with the up down buttons it also has a timer",
+   "start_time_text": "1:36",
+   "start_time_label": "1 minute, 36 seconds"
+  },
+  {
+   "start_ms": 104000,
+   "snippet": "here that is one two four and eight hours so that makes it super handy if you wanna leave it on while you're",
+   "start_time_text": "1:44",
+   "start_time_label": "1 minute, 44 seconds"
+  },
+  {
+   "start_ms": 112000,
+   "snippet": "sleeping or whatever you can set that timer and then it will shut off all by itself so",
+   "start_time_text": "1:52",
+   "start_time_label": "1 minute, 52 seconds"
+  },
+  {
+   "start_ms": 120000,
+   "snippet": "yes it's putting out air all the way around i think that's kind of cool and as i said if you temp it over",
+   "start_time_text": "2:00",
+   "start_time_label": "2 minutes"
+  },
+  {
+   "start_ms": 129000,
+   "snippet": "there it goes let go of that button it's off so and now we're going back whenever you go",
+   "start_time_text": "2:09",
+   "start_time_label": "2 minutes, 9 seconds"
+  },
+  {
+   "start_ms": 138000,
+   "snippet": "to turn it off it will give you a countdown timer and then shut off so if you see it counting down don't worry that's what",
+   "start_time_text": "2:18",
+   "start_time_label": "2 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 147000,
+   "snippet": "it's supposed to do but this has been a great little heater i wanted to show it to you got a great handle on it so you can pick it up and move it wherever you",
+   "start_time_text": "2:27",
+   "start_time_label": "2 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 155000,
+   "snippet": "need to go like i said it's like 77 inch cord so yeah you can move it around so",
+   "start_time_text": "2:35",
+   "start_time_label": "2 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 164000,
+   "snippet": "there's a link to it in the description below check that out also check me out on amazon live there's also a link click",
+   "start_time_text": "2:44",
+   "start_time_label": "2 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 171000,
+   "snippet": "that follow button i greatly appreciate it sub here you never know what i'm going to be buying and trying out",
+   "start_time_text": "2:51",
+   "start_time_label": "2 minutes, 51 seconds"
+  },
+  {
+   "start_ms": 180000,
+   "snippet": "i didn't know i'd like this i thought well i'll see we'll buy it see if it works",
+   "start_time_text": "3:00",
+   "start_time_label": "3 minutes"
+  },
+  {
+   "start_ms": 188000,
+   "snippet": "i don't like being cold in the winter so i'm all in to making sure these heaters put out some warm air otherwise i get cold and",
+   "start_time_text": "3:08",
+   "start_time_label": "3 minutes, 8 seconds"
+  },
+  {
+   "start_ms": 196000,
+   "snippet": "then i get grumpy i'll see you in the next video",
+   "start_time_text": "3:16",
+   "start_time_label": "3 minutes, 16 seconds"
+  }
+ ],
+ "chapters": [
+  {
+   "chapter": "Chapter 1: Intro",
+   "start_ms": 0,
+   "start_time_text": "0:00"
+  },
+  {
+   "chapter": "Chapter 2: Weight",
+   "start_ms": 25000,
+   "start_time_text": "0:25"
+  },
+  {
+   "chapter": "Chapter 3: Size",
+   "start_ms": 40000,
+   "start_time_text": "0:40"
+  },
+  {
+   "chapter": "Chapter 4: Buttons",
+   "start_ms": 80000,
+   "start_time_text": "1:20"
+  },
+  {
+   "chapter": "Chapter 5: Timer",
+   "start_ms": 95000,
+   "start_time_text": "1:35"
+  },
+  {
+   "chapter": "Chapter 6: Temp Control",
+   "start_ms": 120000,
+   "start_time_text": "2:00"
+  },
+  {
+   "chapter": "Chapter 7: Closing",
+   "start_ms": 140000,
+   "start_time_text": "2:20"
+  }
+ ],
+ "_probe_latency_s": 9.12
+}

@@ -1,0 +1,585 @@
+{
+ "search_metadata": {
+  "id": "6abd1b9171a90d67f232ef91",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/dXpTGuHtzRjvTd424gCEJBXT0Po9FkXf8IwdZ_tLmco/6abd1b9171a90d67f232ef91.json",
+  "markdown_endpoint": "https://serpapi.com/searches/dXpTGuHtzRjvTd424gCEJBXT0Po9FkXf8IwdZ_tLmco/6abd1b9171a90d67f232ef91.md",
+  "created_at": "2026-09-30 14:24:17 UTC",
+  "processed_at": "2026-09-30 14:24:17 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=6CsJZxfZsL0",
+  "raw_html_file": "https://serpapi.com/searches/dXpTGuHtzRjvTd424gCEJBXT0Po9FkXf8IwdZ_tLmco/6abd1b9171a90d67f232ef91.html",
+  "prettify_html_file": "https://serpapi.com/searches/dXpTGuHtzRjvTd424gCEJBXT0Po9FkXf8IwdZ_tLmco/6abd1b9171a90d67f232ef91.prettify",
+  "total_time_taken": 7.77
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "6CsJZxfZsL0",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "(electronic music) - Hey, what's up, MKBHD here.",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 4000,
+   "snippet": "Okay, so for the past few years, Sony's flagship noise canceling headphones have been the king of the hill.",
+   "start_time_text": "0:04",
+   "start_time_label": "4 seconds"
+  },
+  {
+   "start_ms": 10000,
+   "snippet": "Of course, they've made some minor adjustments, and feature additions over the past few, so by the time they got to the Mark 3 with their comfort and noise canceling,",
+   "start_time_text": "0:10",
+   "start_time_label": "10 seconds"
+  },
+  {
+   "start_ms": 17000,
+   "snippet": "and USB type C, they were the top of the market, and then the Mark 4 added multidevice support, but they've essentially looked the same, sounded excellent, and they've been an easy recommendation as a result.",
+   "start_time_text": "0:17",
+   "start_time_label": "17 seconds"
+  },
+  {
+   "start_ms": 28000,
+   "snippet": "But these new Mark 5 on the other hand are a real departure from that formula.",
+   "start_time_text": "0:28",
+   "start_time_label": "28 seconds"
+  },
+  {
+   "start_ms": 33000,
+   "snippet": "A lot of the changes I do really like, but there is one big one that I definitely don't.",
+   "start_time_text": "0:33",
+   "start_time_label": "33 seconds"
+  },
+  {
+   "start_ms": 39000,
+   "snippet": "So the first thing you might be wondering is is there actually a sound improvement, but actually wanna just start with the new design 'cause you can see that they have this new shape that is this pretty",
+   "start_time_text": "0:39",
+   "start_time_label": "39 seconds"
+  },
+  {
+   "start_ms": 48000,
+   "snippet": "minimal, sharp and clean look, there is still a dark and a light, this light is a sort of a cream colored version, and there's a lot of good things about this design.",
+   "start_time_text": "0:48",
+   "start_time_label": "48 seconds"
+  },
+  {
+   "start_ms": 57000,
+   "snippet": "The ear cups are slightly bigger and wider, the new vegan leather material is so much softer. It is, it's kind of amazing.",
+   "start_time_text": "0:57",
+   "start_time_label": "57 seconds"
+  },
+  {
+   "start_ms": 65000,
+   "snippet": "It combines that with the super lightweight of the whole headphones to make this entire pair more comfortable to wear for long periods of time.",
+   "start_time_text": "1:05",
+   "start_time_label": "1 minute, 5 seconds"
+  },
+  {
+   "start_ms": 72000,
+   "snippet": "Honestly, I'm just gonna say this is the most comfortable pair of noise canceling headphones I've ever tried.",
+   "start_time_text": "1:12",
+   "start_time_label": "1 minute, 12 seconds"
+  },
+  {
+   "start_ms": 77000,
+   "snippet": "You still have a touch sensitive panel on the right side ear cup for skipping, pausing, et cetera.",
+   "start_time_text": "1:17",
+   "start_time_label": "1 minute, 17 seconds"
+  },
+  {
+   "start_ms": 82000,
+   "snippet": "And they actually still have on off head detection despite not having a plastic cutout in the ear cup, like the last one, and there's now twice as many slots for microphones around the outside.",
+   "start_time_text": "1:22",
+   "start_time_label": "1 minute, 22 seconds"
+  },
+  {
+   "start_ms": 92000,
+   "snippet": "It goes from four total to four on each side, eight total microphones.",
+   "start_time_text": "1:32",
+   "start_time_label": "1 minute, 32 seconds"
+  },
+  {
+   "start_ms": 97000,
+   "snippet": "And I'll get into what that does for noise cancellation and voice quality in a second, but you can see, they're fairly minimal, and hidden well in this new design.",
+   "start_time_text": "1:37",
+   "start_time_label": "1 minute, 37 seconds"
+  },
+  {
+   "start_ms": 105000,
+   "snippet": "But overall, overall, I actually still feel like this design is a downgrade for one main reason.",
+   "start_time_text": "1:45",
+   "start_time_label": "1 minute, 45 seconds"
+  },
+  {
+   "start_ms": 113000,
+   "snippet": "So what do you get noise canceling headphones for, right? Travel.",
+   "start_time_text": "1:53",
+   "start_time_label": "1 minute, 53 seconds"
+  },
+  {
+   "start_ms": 117000,
+   "snippet": "You're getting them to travel, and so these old versions were the king of the hill because they were obviously super comfortable, had great noise cancellation, and lots of features and good sound quality,",
+   "start_time_text": "1:57",
+   "start_time_label": "1 minute, 57 seconds"
+  },
+  {
+   "start_ms": 126000,
+   "snippet": "but they also folded up like this, and fit into their little case just like that, toss that in a bag, and you're good to go.",
+   "start_time_text": "2:06",
+   "start_time_label": "2 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 135000,
+   "snippet": "This new version with this new design does not fold at all.",
+   "start_time_text": "2:15",
+   "start_time_label": "2 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 140000,
+   "snippet": "So with this new sliding headband design, which is kind of like the Bose 700s, and the AirPods Max and so many others, that's the only way of adjusting the size of the headphones.",
+   "start_time_text": "2:20",
+   "start_time_label": "2 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 150000,
+   "snippet": "So they no longer fold down into a smaller size, and so as a result, the case you carry them around in is quite a bit bigger. It's kind of a cool case.",
+   "start_time_text": "2:30",
+   "start_time_label": "2 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 158000,
+   "snippet": "It looks like a modern backpack without the straps, and it's got some angular origami type seams and folds along the sides,",
+   "start_time_text": "2:38",
+   "start_time_label": "2 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 165000,
+   "snippet": "and once you get inside, there's a magnetic door over a compartment that holds your charging cable, and an audio cable, if you need one, it is a great case.",
+   "start_time_text": "2:45",
+   "start_time_label": "2 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 173000,
+   "snippet": "It's basically exactly like the Bose 700s, but yeah, now it's just huge.",
+   "start_time_text": "2:53",
+   "start_time_label": "2 minutes, 53 seconds"
+  },
+  {
+   "start_ms": 178000,
+   "snippet": "With Bose though we saw them do this new design with the 700s, but they at least kept around the quiet comfort series, so the QC 45s still fold down like they always did,",
+   "start_time_text": "2:58",
+   "start_time_label": "2 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 188000,
+   "snippet": "and the AirPods Max are notoriously annoying to travel with even though I still try to make it work, but these are WH 1000 Mark 5,",
+   "start_time_text": "3:08",
+   "start_time_label": "3 minutes, 8 seconds"
+  },
+  {
+   "start_ms": 198000,
+   "snippet": "which on paper makes it the sequel to the Mark 4, so that's a little bit dangerous, but I do know that they're keeping around the Mark 4s,",
+   "start_time_text": "3:18",
+   "start_time_label": "3 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 207000,
+   "snippet": "these new Mark 5s are gonna retail for $400, and they're gonna keep around the Mark 4s for 350, although you can already find them for like 329 or 300.",
+   "start_time_text": "3:27",
+   "start_time_label": "3 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 218000,
+   "snippet": "So these are starting to look kind of like a deal, but let's just get past that design flaw.",
+   "start_time_text": "3:38",
+   "start_time_label": "3 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 223000,
+   "snippet": "They're still premium, lightweight, comfortable noise canceling headphones, and they have yet again bumped up the noise cancellation capabilities pretty significantly.",
+   "start_time_text": "3:43",
+   "start_time_label": "3 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 233000,
+   "snippet": "So I've been saying for years, they're the king of the hill for travel because as far as white noise is concerned, like airplane engines, road noise, all that sort of stuff, they do an A+ job at canceling that.",
+   "start_time_text": "3:53",
+   "start_time_label": "3 minutes, 53 seconds"
+  },
+  {
+   "start_ms": 245000,
+   "snippet": "Right when I put these on, I immediately noticed it's even stronger.",
+   "start_time_text": "4:05",
+   "start_time_label": "4 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 249000,
+   "snippet": "It still crushes that drowning low end, but now some of the more higher frequencies are better canceled out too, appliances, whinier stuff, human voices too.",
+   "start_time_text": "4:09",
+   "start_time_label": "4 minutes, 9 seconds"
+  },
+  {
+   "start_ms": 259000,
+   "snippet": "So yeah the last Sonys did have world-class noise cancellation but these get even better, and we can thank the extra microphones and processor for that.",
+   "start_time_text": "4:19",
+   "start_time_label": "4 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 266000,
+   "snippet": "Now with any noise canceling headphones and all those mics, you also have a transparency mode, these have it again, and they have 20 levels of adjustment in the app of how much transparency gets through.",
+   "start_time_text": "4:26",
+   "start_time_label": "4 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 278000,
+   "snippet": "They're really good, they are definitely better than the Bose, but the AirPods Max are still on a completely different level, as far as transparency mode.",
+   "start_time_text": "4:38",
+   "start_time_label": "4 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 288000,
+   "snippet": "Those are the best I've ever heard in any headphones.",
+   "start_time_text": "4:48",
+   "start_time_label": "4 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 289000,
+   "snippet": "It sounds like you're not wearing headphones, you just hear everyone's voices, and everything perfectly clearly, and these just don't get that good.",
+   "start_time_text": "4:49",
+   "start_time_label": "4 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 296000,
+   "snippet": "Like these just sound like a somewhat muffled version of reality, especially with voices and the higher frequency stuff,",
+   "start_time_text": "4:56",
+   "start_time_label": "4 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 303000,
+   "snippet": "even though there is actually a specific enhanced voices toggle, it just doesn't quite reach the AirPods' level as far as hearing your own voice.",
+   "start_time_text": "5:03",
+   "start_time_label": "5 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 311000,
+   "snippet": "But then for actual musical sound quality, they are very similar to last year, which is to say excellent, and they do have a new 30 millimeter carbon fiber driver.",
+   "start_time_text": "5:11",
+   "start_time_label": "5 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 321000,
+   "snippet": "And there is still L-back support if you have the right combination of smartphone and music source, but I think I can safely say if I have an Android phone,",
+   "start_time_text": "5:21",
+   "start_time_label": "5 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 329000,
+   "snippet": "these to me are among the absolute best sounding noise canceling wireless headphones available.",
+   "start_time_text": "5:29",
+   "start_time_label": "5 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 335000,
+   "snippet": "Again, they don't sound as good, they're not as full and crisp and balanced as AirPods Max paired with an iPhone,",
+   "start_time_text": "5:35",
+   "start_time_label": "5 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 344000,
+   "snippet": "but obviously that's just for iPhone users that have $550 to burn.",
+   "start_time_text": "5:44",
+   "start_time_label": "5 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 348000,
+   "snippet": "But yeah, there's just something about really good noise canceling headphones that feels like magic.",
+   "start_time_text": "5:48",
+   "start_time_label": "5 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 353000,
+   "snippet": "Like I can be in a crowded area where my eyes tell me this is a loud area, but to hear absolute silence",
+   "start_time_text": "5:53",
+   "start_time_label": "5 minutes, 53 seconds"
+  },
+  {
+   "start_ms": 360000,
+   "snippet": "behind a perfectly isolated baseline, and hear every detail of a vocal of some song, like I'm in a live recording session is so sick.",
+   "start_time_text": "6:00",
+   "start_time_label": "6 minutes"
+  },
+  {
+   "start_ms": 368000,
+   "snippet": "That's what makes these headphones so good.",
+   "start_time_text": "6:08",
+   "start_time_label": "6 minutes, 8 seconds"
+  },
+  {
+   "start_ms": 370000,
+   "snippet": "There were some rumors about the battery life getting bumped from 30 to 40 hours, which would've been crazy, but that's not what happened.",
+   "start_time_text": "6:10",
+   "start_time_label": "6 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 377000,
+   "snippet": "They are rated for the same 30 hours of battery life as the Mark 4s, and from my experience so far, they've right about matched it.",
+   "start_time_text": "6:17",
+   "start_time_label": "6 minutes, 17 seconds"
+  },
+  {
+   "start_ms": 386000,
+   "snippet": "So 40, like would've been nice and amazing, but I still think 30, and the use I've gotten out of these is still very good.",
+   "start_time_text": "6:26",
+   "start_time_label": "6 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 393000,
+   "snippet": "The one improvement though is the charging, faster charging.",
+   "start_time_text": "6:33",
+   "start_time_label": "6 minutes, 33 seconds"
+  },
+  {
+   "start_ms": 396000,
+   "snippet": "So you can plug these in for three minutes, and get three hours of listening out of it.",
+   "start_time_text": "6:36",
+   "start_time_label": "6 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 401000,
+   "snippet": "So if you just need to plug in real quick before you go head off to some trip somewhere, that's very convenient.",
+   "start_time_text": "6:41",
+   "start_time_label": "6 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 406000,
+   "snippet": "Again, it's a travel feature, but that's what I wanna break this all back down to.",
+   "start_time_text": "6:46",
+   "start_time_label": "6 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 409000,
+   "snippet": "At the end of the day, these are travel headphones, and they no longer fold, which means they are everything about them is bigger, and more difficult to travel with than the last ones.",
+   "start_time_text": "6:49",
+   "start_time_label": "6 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 421000,
+   "snippet": "Oh, and also this might be minor, but I do have to mention it.",
+   "start_time_text": "7:01",
+   "start_time_label": "7 minutes, 1 second"
+  },
+  {
+   "start_ms": 424000,
+   "snippet": "So if you're wearing your Mark 4s like this, and you didn't wanna like do the hold to speak or listen to people and you just wanna take them off real quick, you can do that and then fold them down,",
+   "start_time_text": "7:04",
+   "start_time_label": "7 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 431000,
+   "snippet": "so they're just facing down and you can do other stuff, and they'll just sit here, the Mark 5s, if you wear them correctly, which is right side, left side, they don't fold down flat.",
+   "start_time_text": "7:11",
+   "start_time_label": "7 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 443000,
+   "snippet": "They actually only fold up, and that's, I'm definitely nitpicking, like that's a small thing, but for $400,",
+   "start_time_text": "7:23",
+   "start_time_label": "7 minutes, 23 seconds"
+  },
+  {
+   "start_ms": 452000,
+   "snippet": "that's another thing that's not in the new headphones that was nicer about the old ones.",
+   "start_time_text": "7:32",
+   "start_time_label": "7 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 457000,
+   "snippet": "So if you're actually thinking about getting these headphones, this is, here, this is a pretty nuanced recommendation, but if you are using an Android phone,",
+   "start_time_text": "7:37",
+   "start_time_label": "7 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 464000,
+   "snippet": "and your bag is big enough, and you plan on using these for travel, listening to music, phone calls, if you're working with these, all that sort of thing, these are gonna be amazing.",
+   "start_time_text": "7:44",
+   "start_time_label": "7 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 473000,
+   "snippet": "You get the Sony app, you've got all the customization in the world.",
+   "start_time_text": "7:53",
+   "start_time_label": "7 minutes, 53 seconds"
+  },
+  {
+   "start_ms": 477000,
+   "snippet": "You wanna do LDAC listening even they sound like very good headphones, and they work really well, so comfortable, love these headphones.",
+   "start_time_text": "7:57",
+   "start_time_label": "7 minutes, 57 seconds"
+  },
+  {
+   "start_ms": 483000,
+   "snippet": "But if you're really anyone else, I'm gonna bring back the Mark 4s again for this, I really think you should consider the Mark 4s, of course right?",
+   "start_time_text": "8:03",
+   "start_time_label": "8 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 493000,
+   "snippet": "Because number one, they're gonna cost much less, they, number two, actually fold down, so if you want them to take up less space in your bag, but they're also like 90% of these headphones,",
+   "start_time_text": "8:13",
+   "start_time_label": "8 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 502000,
+   "snippet": "they sound just about as good, they might not be as trendy or premium-looking as the new design, but like,",
+   "start_time_text": "8:22",
+   "start_time_label": "8 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 509000,
+   "snippet": "you're gonna get the same comfort, the same battery life, really the only thing you're missing out on is the slightly faster charging,",
+   "start_time_text": "8:29",
+   "start_time_label": "8 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 516000,
+   "snippet": "and what those extra mics and processor get you for noise cancellation. Oh wait, there is extra mics.",
+   "start_time_text": "8:36",
+   "start_time_label": "8 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 523000,
+   "snippet": "So maybe voice quality to.",
+   "start_time_text": "8:43",
+   "start_time_label": "8 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 526000,
+   "snippet": "All right, so this is an audio test of the Sony WH 1000 XM 4s, still a bad name, Sony,",
+   "start_time_text": "8:46",
+   "start_time_label": "8 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 535000,
+   "snippet": "water bottles available mkbhc.com just so you know, also there's some voices in the background, there's some various noises, but this is it. It's okay.",
+   "start_time_text": "8:55",
+   "start_time_label": "8 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 543000,
+   "snippet": "It's okay for a mic.",
+   "start_time_text": "9:03",
+   "start_time_label": "9 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 544000,
+   "snippet": "And so now this is the audio quality for the WH 1000 XM 5s.",
+   "start_time_text": "9:04",
+   "start_time_label": "9 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 550000,
+   "snippet": "I think it sounds better, it definitely isolates the voice a little bit better, against the same level of background noise, but again, the bar was pretty low for wireless headphones.",
+   "start_time_text": "9:10",
+   "start_time_label": "9 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 559000,
+   "snippet": "This is just generally good for calls, for work, for stuff where you need a mic built into the headphones. All right.",
+   "start_time_text": "9:19",
+   "start_time_label": "9 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 567000,
+   "snippet": "So my theory is Sony saw what Bose did with the 700 headphones, with this new sliding design, the magnet in the case, and they said, \"All right, we can do that too.",
+   "start_time_text": "9:27",
+   "start_time_label": "9 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 576000,
+   "snippet": "\"And we'll do our own version of it.\" And so they did an even bigger version of the same thing, sliding design, magnet in the case, and everything.",
+   "start_time_text": "9:36",
+   "start_time_label": "9 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 584000,
+   "snippet": "And I'm slightly annoyed by the much bigger footprint here, but I mean, let's be real.",
+   "start_time_text": "9:44",
+   "start_time_label": "9 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 589000,
+   "snippet": "These are really good, really comfortable, premium noise canceling headphones for 400 bucks, with a terrible name, as we'd expect from Sony, but that's about what we'd expect.",
+   "start_time_text": "9:49",
+   "start_time_label": "9 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 601000,
+   "snippet": "It's good. All right. That's been it. Thanks for watching.",
+   "start_time_text": "10:01",
+   "start_time_label": "10 minutes, 1 second"
+  },
+  {
+   "start_ms": 605000,
+   "snippet": "Catch you guys the next one Peace.",
+   "start_time_text": "10:05",
+   "start_time_label": "10 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 608000,
+   "snippet": "(upbeat electronic music ending)",
+   "start_time_text": "10:08",
+   "start_time_label": "10 minutes, 8 seconds"
+  }
+ ],
+ "chapters": [
+  {
+   "chapter": "Chapter 1: Sony XM5 introduction",
+   "start_ms": 0,
+   "start_time_text": "0:00"
+  },
+  {
+   "chapter": "Chapter 2: New design and comfort",
+   "start_ms": 39000,
+   "start_time_text": "0:39"
+  },
+  {
+   "chapter": "Chapter 3: Travel and portability concerns",
+   "start_ms": 114000,
+   "start_time_text": "1:54"
+  },
+  {
+   "chapter": "Chapter 4: Noise cancellation performance",
+   "start_ms": 223000,
+   "start_time_text": "3:43"
+  },
+  {
+   "chapter": "Chapter 5: Sound quality and features",
+   "start_ms": 311000,
+   "start_time_text": "5:11"
+  },
+  {
+   "chapter": "Chapter 6: Battery and comparison",
+   "start_ms": 370000,
+   "start_time_text": "6:10"
+  },
+  {
+   "chapter": "Chapter 7: Final verdict on buying",
+   "start_ms": 457000,
+   "start_time_text": "7:37"
+  },
+  {
+   "chapter": "Chapter 8: Microphone audio test",
+   "start_ms": 526000,
+   "start_time_text": "8:46"
+  },
+  {
+   "chapter": "Chapter 9: Final thoughts",
+   "start_ms": 566000,
+   "start_time_text": "9:26"
+  }
+ ],
+ "_probe_latency_s": 8.32
+}

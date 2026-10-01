@@ -1,0 +1,781 @@
+{
+ "search_metadata": {
+  "id": "6abd1b99abe7ec44803b4341",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/CEDpZzkdhNpjI1AKNMRiTwX_w1y-HH95EevLc0MvPqM/6abd1b99abe7ec44803b4341.json",
+  "markdown_endpoint": "https://serpapi.com/searches/CEDpZzkdhNpjI1AKNMRiTwX_w1y-HH95EevLc0MvPqM/6abd1b99abe7ec44803b4341.md",
+  "created_at": "2026-09-30 14:24:25 UTC",
+  "processed_at": "2026-09-30 14:24:25 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=-NNCca97v98",
+  "raw_html_file": "https://serpapi.com/searches/CEDpZzkdhNpjI1AKNMRiTwX_w1y-HH95EevLc0MvPqM/6abd1b99abe7ec44803b4341.html",
+  "prettify_html_file": "https://serpapi.com/searches/CEDpZzkdhNpjI1AKNMRiTwX_w1y-HH95EevLc0MvPqM/6abd1b99abe7ec44803b4341.prettify",
+  "total_time_taken": 8.58
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "-NNCca97v98",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 2000,
+   "snippet": "- Game console reviews are funny because the reason you're gonna buy a console is almost never about the actual hardware, it's about the games.",
+   "start_time_text": "0:02",
+   "start_time_label": "2 seconds"
+  },
+  {
+   "start_ms": 12000,
+   "snippet": "So new console season has always been interesting because yeah, of course we want the new one to be higher fidelity and better in every way than the old one.",
+   "start_time_text": "0:12",
+   "start_time_label": "12 seconds"
+  },
+  {
+   "start_ms": 20000,
+   "snippet": "But if you only play \"Forza,\" then you were never gonna buy a Switch in the first place.",
+   "start_time_text": "0:20",
+   "start_time_label": "20 seconds"
+  },
+  {
+   "start_ms": 25000,
+   "snippet": "But if you really wanna play \"Mario Kart World,\" well then, you were only ever gonna buy a Switch.",
+   "start_time_text": "0:25",
+   "start_time_label": "25 seconds"
+  },
+  {
+   "start_ms": 30000,
+   "snippet": "So it's not about the hardware itself, this thing is just a vehicle for playing the games. It's all about the games.",
+   "start_time_text": "0:30",
+   "start_time_label": "30 seconds"
+  },
+  {
+   "start_ms": 38000,
+   "snippet": "So what am I doing here?",
+   "start_time_text": "0:38",
+   "start_time_label": "38 seconds"
+  },
+  {
+   "start_ms": 40000,
+   "snippet": "(bright music) So I'm a tech reviewer that happens to play games sometimes.",
+   "start_time_text": "0:40",
+   "start_time_label": "40 seconds"
+  },
+  {
+   "start_ms": 49000,
+   "snippet": "I don't get a lot of downtime, but when I do, I'm watching YouTube videos and then occasionally playing a few of my favorite games, usually on PlayStation.",
+   "start_time_text": "0:49",
+   "start_time_label": "49 seconds"
+  },
+  {
+   "start_ms": 56000,
+   "snippet": "Some \"2K\" here and there, the \"Spider-Man\" game.",
+   "start_time_text": "0:56",
+   "start_time_label": "56 seconds"
+  },
+  {
+   "start_ms": 58000,
+   "snippet": "So hearing what I have to say about the Switch might not seem that interesting. But you know what's more interesting?",
+   "start_time_text": "0:58",
+   "start_time_label": "58 seconds"
+  },
+  {
+   "start_ms": 65000,
+   "snippet": "The fact that this is a second generation product. I've said this many times.",
+   "start_time_text": "1:05",
+   "start_time_label": "1 minute, 5 seconds"
+  },
+  {
+   "start_ms": 70000,
+   "snippet": "The second generation product is always the most interesting.",
+   "start_time_text": "1:10",
+   "start_time_label": "1 minute, 10 seconds"
+  },
+  {
+   "start_ms": 73000,
+   "snippet": "See, when Nintendo launched the first Switch in 2017, the concept was pretty novel.",
+   "start_time_text": "1:13",
+   "start_time_label": "1 minute, 13 seconds"
+  },
+  {
+   "start_ms": 78000,
+   "snippet": "Look, most video game consoles are either a sit down at the couch console, like a PlayStation or an Xbox, or they're a handheld on the go console, like the Nintendo 3DS or a PS Vita.",
+   "start_time_text": "1:18",
+   "start_time_label": "1 minute, 18 seconds"
+  },
+  {
+   "start_ms": 90000,
+   "snippet": "So Nintendo comes along with this fun idea of a console that can switch back and forth between a handheld console with nice screen and controls built in",
+   "start_time_text": "1:30",
+   "start_time_label": "1 minute, 30 seconds"
+  },
+  {
+   "start_ms": 98000,
+   "snippet": "and a sit down console with removable controls, so you can be on the couch and play it on a TV. It's like a two-in-one.",
+   "start_time_text": "1:38",
+   "start_time_label": "1 minute, 38 seconds"
+  },
+  {
+   "start_ms": 105000,
+   "snippet": "It's risky, but the value proposition was pretty obvious and it happened to take off.",
+   "start_time_text": "1:45",
+   "start_time_label": "1 minute, 45 seconds"
+  },
+  {
+   "start_ms": 111000,
+   "snippet": "I always say the second generation of a product is the most interesting though because that's when you get to see them, like, pick a direction and move forward with all the things they learned from trying this new idea.",
+   "start_time_text": "1:51",
+   "start_time_label": "1 minute, 51 seconds"
+  },
+  {
+   "start_ms": 121000,
+   "snippet": "(bright music) Nintendo basically has replaced both the Wii U, TV console, and the 3DS, handheld console, with one thing.",
+   "start_time_text": "2:01",
+   "start_time_label": "2 minutes, 1 second"
+  },
+  {
+   "start_ms": 132000,
+   "snippet": "So the Switch is successful as a two-in-one, which is great. But now think about designing a two-in-one console.",
+   "start_time_text": "2:12",
+   "start_time_label": "2 minutes, 12 seconds"
+  },
+  {
+   "start_ms": 138000,
+   "snippet": "Do you wanna, you know, bias it a little bit more towards mostly handheld use? You think that that's what it should be good at?",
+   "start_time_text": "2:18",
+   "start_time_label": "2 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 144000,
+   "snippet": "Or do you think people will mostly use it docked to a TV so you kind of lean more towards that direction?",
+   "start_time_text": "2:24",
+   "start_time_label": "2 minutes, 24 seconds"
+  },
+  {
+   "start_ms": 150000,
+   "snippet": "Or do you try to ride the line down the middle and try to be good at both? 'Cause two-in-ones of anything are rarely good at both.",
+   "start_time_text": "2:30",
+   "start_time_label": "2 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 158000,
+   "snippet": "And it turns out, people who got the Switch switched back and forth a lot.",
+   "start_time_text": "2:38",
+   "start_time_label": "2 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 163000,
+   "snippet": "Like there's some investor briefings that say something like 50% of Switch users do a lot of both handheld and TV gaming.",
+   "start_time_text": "2:43",
+   "start_time_label": "2 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 170000,
+   "snippet": "And then slightly more people are mostly handheld versus mostly docked. But this is a healthy mix.",
+   "start_time_text": "2:50",
+   "start_time_label": "2 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 175000,
+   "snippet": "So for the slightly larger group that's almost always using the thing handheld, they've clearly focused on improving that experience a lot for the Switch 2.",
+   "start_time_text": "2:55",
+   "start_time_label": "2 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 183000,
+   "snippet": "This is a massive new screen.",
+   "start_time_text": "3:03",
+   "start_time_label": "3 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 186000,
+   "snippet": "It's brighter, higher refresh rate, still has decent sized bezels but generally looks much better up close than the original.",
+   "start_time_text": "3:06",
+   "start_time_label": "3 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 192000,
+   "snippet": "The joy-cons also, huge improved, full width kickstand, even over the Switch OLED.",
+   "start_time_text": "3:12",
+   "start_time_label": "3 minutes, 12 seconds"
+  },
+  {
+   "start_ms": 197000,
+   "snippet": "But then for docked gaming, whether it's for more immersive longer sessions or multiplayer gaming or just for better fidelity, they've clearly improved that experience too.",
+   "start_time_text": "3:17",
+   "start_time_label": "3 minutes, 17 seconds"
+  },
+  {
+   "start_ms": 206000,
+   "snippet": "The dock does 4K60 now instead of 1080. It can do HDR output.",
+   "start_time_text": "3:26",
+   "start_time_label": "3 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 211000,
+   "snippet": "There's now a cooling fan, so performance stays better for longer gaming sessions.",
+   "start_time_text": "3:31",
+   "start_time_label": "3 minutes, 31 seconds"
+  },
+  {
+   "start_ms": 215000,
+   "snippet": "And they threw a USB type C port at the top of the console so you can plug in extra accessories even while it's docked.",
+   "start_time_text": "3:35",
+   "start_time_label": "3 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 221000,
+   "snippet": "Also adding ethernet built right to the dock, probably after seeing a ton of people add it with an adapter, underrated.",
+   "start_time_text": "3:41",
+   "start_time_label": "3 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 226000,
+   "snippet": "So if the mission was to make the Switch 2 better for both handheld only people and docked only people, I think they can claim to actually be successful here.",
+   "start_time_text": "3:46",
+   "start_time_label": "3 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 236000,
+   "snippet": "Which also means that the people who switch back and forth regularly also win.",
+   "start_time_text": "3:56",
+   "start_time_label": "3 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 240000,
+   "snippet": "Especially because the mechanism for switching is the most improved part of this console.",
+   "start_time_text": "4:00",
+   "start_time_label": "4 minutes"
+  },
+  {
+   "start_ms": 245000,
+   "snippet": "These new joy-cons with their bigger buttons, bigger joysticks, but also the extremely satisfying magnets, this is what makes the Switch the Switch, and I think they've nailed this part.",
+   "start_time_text": "4:05",
+   "start_time_label": "4 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 254000,
+   "snippet": "Instead of sliding off on rails, which is already pretty innovative in 2017, now it's magnets.",
+   "start_time_text": "4:14",
+   "start_time_label": "4 minutes, 14 seconds"
+  },
+  {
+   "start_ms": 259000,
+   "snippet": "It's just pushing this little button to start a separation and then pulling them apart and then reconnecting them is even easier with this nice color matching animation and a sound that goes with it.",
+   "start_time_text": "4:19",
+   "start_time_label": "4 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 271000,
+   "snippet": "(bright music) Niceties, that's a fun word, and it means exactly what it sounds like. Any new thing like this is gonna have its upsides.",
+   "start_time_text": "4:31",
+   "start_time_label": "4 minutes, 31 seconds"
+  },
+  {
+   "start_ms": 280000,
+   "snippet": "And there's also some downsides, which I'll get to, trust me, but the Switch 2's updates go beyond just the classic gen two improvements.",
+   "start_time_text": "4:40",
+   "start_time_label": "4 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 288000,
+   "snippet": "Like I said, the joy-cons are really what make the Switch, the Switch, and I think that was their number one learning from the first generation. That's why they're bigger, built better.",
+   "start_time_text": "4:48",
+   "start_time_label": "4 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 297000,
+   "snippet": "The SR and SL buttons are way more usable for those two player games where you're actually using those. It's dramatically more comfortable.",
+   "start_time_text": "4:57",
+   "start_time_label": "4 minutes, 57 seconds"
+  },
+  {
+   "start_ms": 305000,
+   "snippet": "The magnets are great.",
+   "start_time_text": "5:05",
+   "start_time_label": "5 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 307000,
+   "snippet": "But also, mouse mode is a new thing, and it's interesting, it doesn't actually do anything in most",
+   "start_time_text": "5:07",
+   "start_time_label": "5 minutes, 7 seconds"
+  },
+  {
+   "start_ms": 313000,
+   "snippet": "of the games I happen to play, but it is responsive and ridiculously easy to activate.",
+   "start_time_text": "5:13",
+   "start_time_label": "5 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 318000,
+   "snippet": "It works well on different types of surfaces, including my pants leg, but like I said at the beginning, it's all about the games",
+   "start_time_text": "5:18",
+   "start_time_label": "5 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 326000,
+   "snippet": "and you know there will be games eventually that support this to a deeper level than just clicking through menus.",
+   "start_time_text": "5:26",
+   "start_time_label": "5 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 332000,
+   "snippet": "Like I keep coming back to that wheelchair soccer game I saw a few weeks ago when I played it at that demo. That's still all I've been able to try with it so far.",
+   "start_time_text": "5:32",
+   "start_time_label": "5 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 340000,
+   "snippet": "But this definitely leaves the door open for some more potentially really interesting stuff in the future.",
+   "start_time_text": "5:40",
+   "start_time_label": "5 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 345000,
+   "snippet": "And then the other obvious nicety is literally just performance.",
+   "start_time_text": "5:45",
+   "start_time_label": "5 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 349000,
+   "snippet": "New console means new compute, even if you're not playing new games.",
+   "start_time_text": "5:49",
+   "start_time_label": "5 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 354000,
+   "snippet": "Just seeing the games you're already used to on a bigger screen at a higher refresh rate is already a pretty sick update.",
+   "start_time_text": "5:54",
+   "start_time_label": "5 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 361000,
+   "snippet": "There's been some pretty detailed testing now of different games that were limited on the Switch 1 seeing way more consistent frames on the Switch 2, even without any updates, which is pretty sick.",
+   "start_time_text": "6:01",
+   "start_time_label": "6 minutes, 1 second"
+  },
+  {
+   "start_ms": 370000,
+   "snippet": "This game, \"Bomb Rush Cyberfunk,\" was getting like 24 to 30 ish frames per second on the Switch 1, looking kind of choppy sometimes.",
+   "start_time_text": "6:10",
+   "start_time_label": "6 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 379000,
+   "snippet": "Now it's locked at 60 FPS on the Switch 2. It's so much better. Now \"Resident Evil 5\" is another one.",
+   "start_time_text": "6:19",
+   "start_time_label": "6 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 385000,
+   "snippet": "It looks, you know, decent on the Switch 1, but typically runs anywhere from 30 to 40 FPS. But again, the Switch 2 can run it at a clean 60.",
+   "start_time_text": "6:25",
+   "start_time_label": "6 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 394000,
+   "snippet": "Doesn't even blink, no questions asked.",
+   "start_time_text": "6:34",
+   "start_time_label": "6 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 396000,
+   "snippet": "So yes, moving through menus is faster and going through the eShop is actually kind of snappy and launching games is quicker. All that stuff is to be expected and it's nice.",
+   "start_time_text": "6:36",
+   "start_time_label": "6 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 405000,
+   "snippet": "But there's also that sort of bonus element of if you are a Switch 1 gamer, then even without buying any new games, the Switch 2",
+   "start_time_text": "6:45",
+   "start_time_label": "6 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 414000,
+   "snippet": "kind of breathes new life into a lot of your previous games, for a price.",
+   "start_time_text": "6:54",
+   "start_time_label": "6 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 420000,
+   "snippet": "(bright music) The truth is, the battery life is the only real major weak point I've been able to find with the Switch 2 in my testing.",
+   "start_time_text": "7:00",
+   "start_time_label": "7 minutes"
+  },
+  {
+   "start_ms": 430000,
+   "snippet": "And in hindsight, it probably shouldn't be a big surprise, 'cause when you take a small, handheld console and give it an even bigger display and even more frames per second",
+   "start_time_text": "7:10",
+   "start_time_label": "7 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 439000,
+   "snippet": "and an even more powerful chip, of course battery life can't possibly be amazing. My bottom line is it's very similar to the first Switch.",
+   "start_time_text": "7:19",
+   "start_time_label": "7 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 446000,
+   "snippet": "Sometimes a little better, but sometimes worse.",
+   "start_time_text": "7:26",
+   "start_time_label": "7 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 449000,
+   "snippet": "Standby time when it's just sitting around doing nothing, is fine, it's around the same, sometimes a little better than before.",
+   "start_time_text": "7:29",
+   "start_time_label": "7 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 454000,
+   "snippet": "But if you really get into a game, like a high intensity game with high brightness and just play for a while, you will see the battery percentage plummet fast.",
+   "start_time_text": "7:34",
+   "start_time_label": "7 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 465000,
+   "snippet": "Like sometimes dropping 1% literally every two minutes. So it'll fly from 100 to zero in like three hours.",
+   "start_time_text": "7:45",
+   "start_time_label": "7 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 472000,
+   "snippet": "So when you're away from an outlet, not so great.",
+   "start_time_text": "7:52",
+   "start_time_label": "7 minutes, 52 seconds"
+  },
+  {
+   "start_ms": 475000,
+   "snippet": "Like I was hoping maybe on like a four or five hour longer flight, I'd be able to just use this thing the whole time and not really think too hard about it. But you do have to think about it. So that's a bummer.",
+   "start_time_text": "7:55",
+   "start_time_label": "7 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 483000,
+   "snippet": "But the downside that's getting talked about way more is the price. So the the price tag for the new Switch 2 is $450.",
+   "start_time_text": "8:03",
+   "start_time_label": "8 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 491000,
+   "snippet": "So if you remember the first Switch, that launched at $300, so it's a 50% increase in price from the last generation.",
+   "start_time_text": "8:11",
+   "start_time_label": "8 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 500000,
+   "snippet": "And so that feels like a lot, but my take is that's, it's actually not that bad.",
+   "start_time_text": "8:20",
+   "start_time_label": "8 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 506000,
+   "snippet": "'Cause keep in mind, one, that first first Switch came out in 2017.",
+   "start_time_text": "8:26",
+   "start_time_label": "8 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 512000,
+   "snippet": "So adjusted for inflation, that's almost $400 in today's money.",
+   "start_time_text": "8:32",
+   "start_time_label": "8 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 516000,
+   "snippet": "But then also, it's been eight years since that original console came out.",
+   "start_time_text": "8:36",
+   "start_time_label": "8 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 521000,
+   "snippet": "So eight years later, getting an updated version with a bigger, better display and better compute and all this re-engineering and the new joy-cons and magnets",
+   "start_time_text": "8:41",
+   "start_time_label": "8 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 531000,
+   "snippet": "and all that doesn't feel that crazy, if you're gonna have this for four to five years at a time.",
+   "start_time_text": "8:51",
+   "start_time_label": "8 minutes, 51 seconds"
+  },
+  {
+   "start_ms": 538000,
+   "snippet": "In a world where we also have like a new $1,000 smartphone every single year, this feels maybe more aligned with the market.",
+   "start_time_text": "8:58",
+   "start_time_label": "8 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 545000,
+   "snippet": "So the console's price got talked about a lot. In my opinion, that was a little bit overblown.",
+   "start_time_text": "9:05",
+   "start_time_label": "9 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 549000,
+   "snippet": "But what's not overblown is everything else around the console also getting more expensive.",
+   "start_time_text": "9:09",
+   "start_time_label": "9 minutes, 9 seconds"
+  },
+  {
+   "start_ms": 555000,
+   "snippet": "Like microSD Express cards are faster and way better performing to launch games off of, but they are more expensive for sure.",
+   "start_time_text": "9:15",
+   "start_time_label": "9 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 563000,
+   "snippet": "Accessories across the board have also creeped up in price and games are also more expensive, up to 60, 70, $80 for a single game.",
+   "start_time_text": "9:23",
+   "start_time_label": "9 minutes, 23 seconds"
+  },
+  {
+   "start_ms": 572000,
+   "snippet": "Even the \"Welcome Tour\" game, which is not as good, by the way, as the free PS5 \"Astro's Playroom\" demo, it's $9 for some reason.",
+   "start_time_text": "9:32",
+   "start_time_label": "9 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 581000,
+   "snippet": "And it looks even worse when some game cartridges you buy are just keys, but you still need an internet connection to download the rest of the game files before you can actually play them.",
+   "start_time_text": "9:41",
+   "start_time_label": "9 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 591000,
+   "snippet": "It's crazy.",
+   "start_time_text": "9:51",
+   "start_time_label": "9 minutes, 51 seconds"
+  },
+  {
+   "start_ms": 592000,
+   "snippet": "The reason they do that is because some games apparently are too big to fit entirely on one cartridge.",
+   "start_time_text": "9:52",
+   "start_time_label": "9 minutes, 52 seconds"
+  },
+  {
+   "start_ms": 599000,
+   "snippet": "So they split it up and here's a key with some files and then download some others.",
+   "start_time_text": "9:59",
+   "start_time_label": "9 minutes, 59 seconds"
+  },
+  {
+   "start_ms": 604000,
+   "snippet": "But yeah, it looks, you can see how the headline would be kind of tough there.",
+   "start_time_text": "10:04",
+   "start_time_label": "10 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 607000,
+   "snippet": "So if you're buying a game, like a physical one, make sure you then go and install all the rest of the stuff you need while you have an internet connection",
+   "start_time_text": "10:07",
+   "start_time_label": "10 minutes, 7 seconds"
+  },
+  {
+   "start_ms": 615000,
+   "snippet": "so you don't fire it up for the first time offline on a plane and realize you don't have the whole thing. Anyway. Now, I also should mention, stick drift.",
+   "start_time_text": "10:15",
+   "start_time_label": "10 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 623000,
+   "snippet": "So this didn't happen on mine, but one of the most common issues with the original Switch was these joysticks starting to drift after a while.",
+   "start_time_text": "10:23",
+   "start_time_label": "10 minutes, 23 seconds"
+  },
+  {
+   "start_ms": 633000,
+   "snippet": "And everyone kind of assumed since it was such a big issue that Nintendo obviously knows about this and would fix it with hall effect sensors in the Switch 2.",
+   "start_time_text": "10:33",
+   "start_time_label": "10 minutes, 33 seconds"
+  },
+  {
+   "start_ms": 641000,
+   "snippet": "But these new sticks are not, in fact, hall effect. So will these also start to have drift issues over time?",
+   "start_time_text": "10:41",
+   "start_time_label": "10 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 647000,
+   "snippet": "Unknown. Only time will tell.",
+   "start_time_text": "10:47",
+   "start_time_label": "10 minutes, 47 seconds"
+  },
+  {
+   "start_ms": 650000,
+   "snippet": "(bright music) So like I said at the beginning, if you're in a purchase decision here watching this video, it really comes down to the games.",
+   "start_time_text": "10:50",
+   "start_time_label": "10 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 660000,
+   "snippet": "Like which games do you wanna play?",
+   "start_time_text": "11:00",
+   "start_time_label": "11 minutes"
+  },
+  {
+   "start_ms": 662000,
+   "snippet": "If you're a \"Call of Duty\" person, you were never gonna buy a Switch 2.",
+   "start_time_text": "11:02",
+   "start_time_label": "11 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 666000,
+   "snippet": "But if you love Mario games or Zelda or Pokemon, well then, here we are.",
+   "start_time_text": "11:06",
+   "start_time_label": "11 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 672000,
+   "snippet": "It's still early in the cycle, so people getting Switches now, you'll notice there's not really that many new games made specifically for the Switch 2 yet,",
+   "start_time_text": "11:12",
+   "start_time_label": "11 minutes, 12 seconds"
+  },
+  {
+   "start_ms": 682000,
+   "snippet": "but I mean \"Mario Kart World\" is by far and away the most popular one.",
+   "start_time_text": "11:22",
+   "start_time_label": "11 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 685000,
+   "snippet": "So you might as well get the bundle, which is 500 bucks and then you save your $30 there. But from there, it's choose your own adventure.",
+   "start_time_text": "11:25",
+   "start_time_label": "11 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 694000,
+   "snippet": "This plus a wall plug will be your vessel for whatever games you play for the next four years.",
+   "start_time_text": "11:34",
+   "start_time_label": "11 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 702000,
+   "snippet": "Now you might have also noticed I've been using a lot during this video actually these color matching joy-con skins from channel sponsored Dbrand.",
+   "start_time_text": "11:42",
+   "start_time_label": "11 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 709000,
+   "snippet": "Pretty sick.",
+   "start_time_text": "11:49",
+   "start_time_label": "11 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 710000,
+   "snippet": "But a few of us around the office have also been using their new Killswitch case since the impressions video a couple weeks ago.",
+   "start_time_text": "11:50",
+   "start_time_label": "11 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 715000,
+   "snippet": "Best part is probably these ergonomic hand grips on the joy-cons.",
+   "start_time_text": "11:55",
+   "start_time_label": "11 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 720000,
+   "snippet": "Major key if you're one of the people planning on going handheld with it a lot.",
+   "start_time_text": "12:00",
+   "start_time_label": "12 minutes"
+  },
+  {
+   "start_ms": 723000,
+   "snippet": "And like I said in the review, I appreciate bigger joy-cons this time around, but the shape is still not ideal for super long gaming sessions.",
+   "start_time_text": "12:03",
+   "start_time_label": "12 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 731000,
+   "snippet": "So the grips on the Killswitch solve that.",
+   "start_time_text": "12:11",
+   "start_time_label": "12 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 733000,
+   "snippet": "This super ergonomic handle feels like it was actually made for human hands.",
+   "start_time_text": "12:13",
+   "start_time_label": "12 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 736000,
+   "snippet": "Now if you're wondering how any of this is supposed to fit inside the OEM dock, well it doesn't, but Dbrand includes a dock adapter with every order that gives full 4K60 pass through and then doesn't affect any of the console or dock cooling.",
+   "start_time_text": "12:16",
+   "start_time_label": "12 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 747000,
+   "snippet": "But the other thing I think you guys will appreciate is this travel cover.",
+   "start_time_text": "12:27",
+   "start_time_label": "12 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 750000,
+   "snippet": "So if you're going somewhere with your Switch 2, pop it in, this little bungee cover over the back secures it in place and then the front's protected, so it's not going anywhere.",
+   "start_time_text": "12:30",
+   "start_time_label": "12 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 758000,
+   "snippet": "Plus it lets you store 10 games on the inside of this travel cover shell.",
+   "start_time_text": "12:38",
+   "start_time_label": "12 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 762000,
+   "snippet": "And then last but not least, considering Switch 2's got a non-removable plastic film applied over the glass that gets scratched super easily, you'll probably wanna pick up a screen protector.",
+   "start_time_text": "12:42",
+   "start_time_label": "12 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 771000,
+   "snippet": "Dbrand's Prism is super easy to install.",
+   "start_time_text": "12:51",
+   "start_time_label": "12 minutes, 51 seconds"
+  },
+  {
+   "start_ms": 774000,
+   "snippet": "It comes in a two pack and if you grab it alongside the Killswitch, you'll save 35 bucks.",
+   "start_time_text": "12:54",
+   "start_time_label": "12 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 778000,
+   "snippet": "So if you already have a Switch 2 or if you're gonna get one, I highly recommend checking out the Dbrand stuff. Link will be below.",
+   "start_time_text": "12:58",
+   "start_time_label": "12 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 784000,
+   "snippet": "Anyway, I'm gonna get back to playing some \"Backyard Baseball.\" Thanks for watching. Catch you guys on the next one. Peace.",
+   "start_time_text": "13:04",
+   "start_time_label": "13 minutes, 4 seconds"
+  }
+ ],
+ "chapters": [
+  {
+   "chapter": "Chapter 1: What are we doing here?",
+   "start_ms": 0,
+   "start_time_text": "0:00"
+  },
+  {
+   "chapter": "Chapter 2: Second Generation",
+   "start_ms": 121000,
+   "start_time_text": "2:01"
+  },
+  {
+   "chapter": "Chapter 3: Nice stuff",
+   "start_ms": 270000,
+   "start_time_text": "4:30"
+  },
+  {
+   "chapter": "Chapter 4: Downsides",
+   "start_ms": 422000,
+   "start_time_text": "7:02"
+  },
+  {
+   "chapter": "Chapter 5: Should you get it?",
+   "start_ms": 650000,
+   "start_time_text": "10:50"
+  }
+ ],
+ "_probe_latency_s": 9.05
+}

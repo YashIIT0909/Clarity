@@ -1,0 +1,387 @@
+{
+ "search_metadata": {
+  "id": "6abd19eb0a9156cd3aba974e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Ktbi6JvTWCRlGeM5XEA88N1bBLaQBdvqNcMAoT0abo0/6abd19eb0a9156cd3aba974e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Ktbi6JvTWCRlGeM5XEA88N1bBLaQBdvqNcMAoT0abo0/6abd19eb0a9156cd3aba974e.md",
+  "created_at": "2026-09-30 14:17:15 UTC",
+  "processed_at": "2026-09-30 14:17:15 UTC",
+  "google_forums_url": "https://www.google.com/search?q=sony+wh-1000xm5+problems&hl=en&gl=us&device=desktop&udm=18",
+  "raw_html_file": "https://serpapi.com/searches/Ktbi6JvTWCRlGeM5XEA88N1bBLaQBdvqNcMAoT0abo0/6abd19eb0a9156cd3aba974e.html",
+  "total_time_taken": 14.99
+ },
+ "search_parameters": {
+  "q": "sony wh-1000xm5 problems",
+  "engine": "google_forums",
+  "device": "desktop",
+  "gl": "us",
+  "hl": "en"
+ },
+ "search_information": {
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Wh-1000XM5 Review After 2 Years: The Good, the Bad, ...",
+   "link": "https://www.reddit.com/r/SonyHeadphones/comments/1hcq85p/wh1000xm5_review_after_2_years_the_good_the_bad/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFTw5tgQa-jwuhJNpXQ_YcbGG2UZIig0uAZDut57fCg0XBST-TAmayOECOJnmszk5kE4uPqQ4-80EdKt8okeWwUYveAurnpDnCobQc9CiZnNZF4TzSzt2KptTv2Zh1_dFq0GPbIXhdg3US4o9o_pv4iXw3OCFLk8N4aN2orforyT0IOJrTOlK_n2Bv6Bt1ToMBL0PrJEyZSDn0PzgGRUw9A&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECCMQAQ&uoh=1",
+   "displayed_meta": "140+ comments \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "Not Perfect Headband Issues: The headband can get uncomfortable during long sessions. Cushion Problems: Heat Factor: These get hot.",
+   "snippet_highlighted_words": [
+    "The headband can get uncomfortable during long sessions"
+   ],
+   "sitelinks": {
+    "list": [
+     {
+      "title": "We asked if your Sony WH-1000XM5s have failed ...",
+      "link": "https://www.reddit.com/r/SonyHeadphones/comments/1jelu2b/we_asked_if_your_sony_wh1000xm5s_have_failed/",
+      "answer_count": 36,
+      "date": "Mar 19, 2025"
+     },
+     {
+      "title": "Avoid the Sony WH1000XM5 : r/headphones - Reddit",
+      "link": "https://www.reddit.com/r/headphones/comments/1l5roqn/avoid_the_sony_wh1000xm5/",
+      "answer_count": 91,
+      "date": "Jun 7, 2025"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Not Perfect Headband Issues: The headband can get uncomfortable during long sessions. Cushion Problems: Heat Factor: These get hot.",
+     "source_info_link": "https://www.reddit.com/r/SonyHeadphones/comments/1hcq85p/wh1000xm5_review_after_2_years_the_good_the_bad/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZUdzV0Z1FhLWp3dWhKTnBYUV9ZY2JHRzJVWklpZzB1QVpEdXQ1N2ZDZzBYQlNULVRBbWF5T0VDT0pubXN6azVrRTR1UHFRNC04MEVkS3Q4b2tlV3dVWXZlQXVybnBEbkNvYlFjOUNpWm5OWkY0VHpTenQyS3B0VHYyWmgxX2RGcTBHUGJJWGhkZzNVUzRvOW9fcHY0aVh3M09DRkxrOE40YU4yb3Jmb3J5VDBJT0pyVE9sS19uMkJ2NkJ0MVRvTUJMMFBySkV5WlNEbjBQemdHUlV3OUESBBoCCAAa_wUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDZBQgAEAAYACAAKiUKBHNvbnkVELNhPxoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFaTaWUAaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FWi3VkAaCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVVE2oPRoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIy7AEvZ290bz91cmw9Q0FFU3BBRUI2enN3RlR3NXRnUWEtand1aEpOcFhRX1ljYkdHMlVaSWlnMHVBWkR1dDU3ZkNnMFhCU1QtVEFtYXlPRUNPSm5tc3prNWtFNHVQcVE0LTgwRWRLdDhva2VXd1VZdmVBdXJucERuQ29iUWM5Q2labk5aRjRUelN6dDJLcHRUdjJaaDFfZEZxMEdQYklYaGRnM1VTNG85b19wdjRpWHczT0NGTGs4TjRhTjJvcmZvcnlUMElPSnJUT2xLX24yQnY2QnQxVG9NQkwwUHJKRXlaU0RuMFB6Z0dSVXc5QTpJPGI-V2g8L2I-LTxiPjEwMDBYTTU8L2I-IFJldmlldyBBZnRlciAyIFllYXJzOiBUaGUgR29vZCwgdGhlIEJhZCwgYW5kIC4uLkKKAU5vdCBQZXJmZWN0IEhlYWRiYW5kIElzc3VlczogPGI-VGhlIGhlYWRiYW5kIGNhbiBnZXQgdW5jb21mb3J0YWJsZSBkdXJpbmcgbG9uZyBzZXNzaW9uczwvYj4uIEN1c2hpb24gUHJvYmxlbXM6IEhlYXQgRmFjdG9yOiBUaGVzZSBnZXQgaG90LiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZUdzV0Z1FhLWp3dWhKTnBYUV9ZY2JHRzJVWklpZzB1QVpEdXQ1N2ZDZzBYQlNULVRBbWF5T0VDT0pubXN6azVrRTR1UHFRNC04MEVkS3Q4b2tlV3dVWXZlQXVybnBEbkNvYlFjOUNpWm5OWkY0VHpTenQyS3B0VHYyWmgxX2RGcTBHUGJJWGhkZzNVUzRvOW9fcHY0aVh3M09DRkxrOE40YU4yb3Jmb3J5VDBJT0pyVE9sS19uMkJ2NkJ0MVRvTUJMMFBySkV5WlNEbjBQemdHUlV3OUESBBoCCAAa_wUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDZBQgAEAAYACAAKiUKBHNvbnkVELNhPxoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFaTaWUAaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FWi3VkAaCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVVE2oPRoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIy7AEvZ290bz91cmw9Q0FFU3BBRUI2enN3RlR3NXRnUWEtand1aEpOcFhRX1ljYkdHMlVaSWlnMHVBWkR1dDU3ZkNnMFhCU1QtVEFtYXlPRUNPSm5tc3prNWtFNHVQcVE0LTgwRWRLdDhva2VXd1VZdmVBdXJucERuQ29iUWM5Q2labk5aRjRUelN6dDJLcHRUdjJaaDFfZEZxMEdQYklYaGRnM1VTNG85b19wdjRpWHczT0NGTGs4TjRhTjJvcmZvcnlUMElPSnJUT2xLX24yQnY2QnQxVG9NQkwwUHJKRXlaU0RuMFB6Z0dSVXc5QTpJPGI-V2g8L2I-LTxiPjEwMDBYTTU8L2I-IFJldmlldyBBZnRlciAyIFllYXJzOiBUaGUgR29vZCwgdGhlIEJhZCwgYW5kIC4uLkKKAU5vdCBQZXJmZWN0IEhlYWRiYW5kIElzc3VlczogPGI-VGhlIGhlYWRiYW5kIGNhbiBnZXQgdW5jb21mb3J0YWJsZSBkdXJpbmcgbG9uZyBzZXNzaW9uczwvYj4uIEN1c2hpb24gUHJvYmxlbXM6IEhlYXQgRmFjdG9yOiBUaGVzZSBnZXQgaG90LiICEAFIAFgAaAA",
+   "source": "Reddit \u00b7 r/SonyHeadphones"
+  },
+  {
+   "position": 2,
+   "title": "WH-1000XM5 keeps shutting down randomly after a \"pop\".",
+   "link": "https://us.community.sony.com/s/question/0D5Dp00002K5K0IKAV/wh1000xm5-keeps-shutting-down-randomly-after-a-pop?language=en_US",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuAEB6zswFQJiijPA0TEQ_rWuRngSqdm9-cYCmsmKGs8nJKOUtULu0fTBrV7aGdAl4uKaq6tJsASZUTX_UBL-yv4ncH2VL1VEL8iYjcj1rVmm-l0Uc2KAe8E6dqPHmq_8TbgT5gOSKUQHokwHa3Kr1rn7HogXGi-WggOmV9y03J1E7C-Ck_72GRrAcc28d36QCsWoetslAqzDiNM4wHEDaC-ie1d4ii6MVl-J-0-p-pL08ytUfjbNebBd&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECCAQAQ&uoh=1",
+   "displayed_link": "https://us.community.sony.com \u203a question \u203a wh1000x...",
+   "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBgCdASocABwAPtE-tFooIigoFAEAGglpABEdTs46gG6ShxVMJiZVo2q-ZLydsuZlNN7QhedegsVWAAD-9ZAW2vn3kybVLcJlsP9kJEEUQWn1136IkvPeKaSelxoOzXpvAu-rOfBwygjKP5CfbpfM9kk297bTFdR5FdPOnbcsROYmzP-qvkgMy_csXCTUyOoD8bAbYWEerN5n1UrIc3zev5olZm4R29CtaxNyk8kbSPhhr_Pf45FDZdOir__wa_r6vZMrSLup71dHfc8dw83PI-iUmhU7P07V92kFLVesrDXil70uejEiA-XkHUs0ihMojSIT1I4g5RHpkxnZWhe8gPRI6Hj3_mnH7zoKd-fFPwlNsataMg15jWNu7HbS3elUelK6uMAAAA.webp",
+   "date": "Sep 2, 2025",
+   "snippet": "The biggest problem is that on some devices, the headphones would randomly shut off after hearing what sounds like a high-frequency \"pop\".",
+   "snippet_highlighted_words": [
+    "problem"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The biggest problem is that on some devices, the headphones would randomly shut off after hearing what sounds like a high-frequency \"pop\".",
+     "source_info_link": "https://us.community.sony.com/s/question/0D5Dp00002K5K0IKAV/wh1000xm5-keeps-shutting-down-randomly-after-a-pop?language=en_US",
+     "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBgCdASocABwAPtE-tFooIigoFAEAGglpABEdTs46gG6ShxVMJiZVo2q-ZLydsuZlNN7QhedegsVWAAD-9ZAW2vn3kybVLcJlsP9kJEEUQWn1136IkvPeKaSelxoOzXpvAu-rOfBwygjKP5CfbpfM9kk297bTFdR5FdPOnbcsROYmzP-qvkgMy_csXCTUyOoD8bAbYWEerN5n1UrIc3zev5olZm4R29CtaxNyk8kbSPhhr_Pf45FDZdOir__wa_r6vZMrSLup71dHfc8dw83PI-iUmhU7P07V92kFLVesrDXil70uejEiA-XkHUs0ihMojSIT1I4g5RHpkxnZWhe8gPRI6Hj3_mnH7zoKd-fFPwlNsataMg15jWNu7HbS3elUelK6uMAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZRSmlpalBBMFRFUV9yV3VSbmdTcWRtOS1jWUNtc21LR3M4bkpLT1V0VUx1MGZUQnJWN2FHZEFsNHVLYXE2dEpzQVNaVVRYX1VCTC15djRuY0gyVkwxVkVMOGlZamNqMXJWbW0tbDBVYzJLQWU4RTZkcVBIbXFfOFRiZ1Q1Z09TS1VRSG9rd0hhM0tyMXJuN0hvZ1hHaS1XZ2dPbVY5eTAzSjFFN0MtQ2tfNzJHUnJBY2MyOGQzNlFDc1dvZXRzbEFxekRpTk00d0hFRGFDLWllMWQ0aWk2TVZsLUotMC1wLXBMMDh5dFVmamJOZWJCZBIEGgIIABqtBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCJBggAEAAYACAAKiUKBHNvbnkVCqTeQBoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFcLDT0AaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FcLDT0AaCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVbJGfPRoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIyhgIvZ290bz91cmw9Q0FFU3VBRUI2enN3RlFKaWlqUEEwVEVRX3JXdVJuZ1NxZG05LWNZQ21zbUtHczhuSktPVXRVTHUwZlRCclY3YUdkQWw0dUthcTZ0SnNBU1pVVFhfVUJMLXl2NG5jSDJWTDFWRUw4aVlqY2oxclZtbS1sMFVjMktBZThFNmRxUEhtcV84VGJnVDVnT1NLVVFIb2t3SGEzS3Ixcm43SG9nWEdpLVdnZ09tVjl5MDNKMUU3Qy1Da183MkdSckFjYzI4ZDM2UUNzV29ldHNsQXF6RGlOTTR3SEVEYUMtaWUxZDRpaTZNVmwtSi0wLXAtcEwwOHl0VWZqYk5lYkJkOk48Yj5XSDwvYj4tPGI-MTAwMFhNNTwvYj4ga2VlcHMgc2h1dHRpbmcgZG93biByYW5kb21seSBhZnRlciBhICZxdW90O3BvcCZxdW90Oy5CmwFUaGUgYmlnZ2VzdCA8Yj5wcm9ibGVtPC9iPiBpcyB0aGF0IG9uIHNvbWUgZGV2aWNlcywgdGhlIGhlYWRwaG9uZXMgd291bGQgcmFuZG9tbHkgc2h1dCBvZmYgYWZ0ZXIgaGVhcmluZyB3aGF0IHNvdW5kcyBsaWtlIGEgaGlnaC1mcmVxdWVuY3kgJnF1b3Q7cG9wJnF1b3Q7LiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZRSmlpalBBMFRFUV9yV3VSbmdTcWRtOS1jWUNtc21LR3M4bkpLT1V0VUx1MGZUQnJWN2FHZEFsNHVLYXE2dEpzQVNaVVRYX1VCTC15djRuY0gyVkwxVkVMOGlZamNqMXJWbW0tbDBVYzJLQWU4RTZkcVBIbXFfOFRiZ1Q1Z09TS1VRSG9rd0hhM0tyMXJuN0hvZ1hHaS1XZ2dPbVY5eTAzSjFFN0MtQ2tfNzJHUnJBY2MyOGQzNlFDc1dvZXRzbEFxekRpTk00d0hFRGFDLWllMWQ0aWk2TVZsLUotMC1wLXBMMDh5dFVmamJOZWJCZBIEGgIIABqtBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCJBggAEAAYACAAKiUKBHNvbnkVCqTeQBoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFcLDT0AaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FcLDT0AaCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVbJGfPRoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIyhgIvZ290bz91cmw9Q0FFU3VBRUI2enN3RlFKaWlqUEEwVEVRX3JXdVJuZ1NxZG05LWNZQ21zbUtHczhuSktPVXRVTHUwZlRCclY3YUdkQWw0dUthcTZ0SnNBU1pVVFhfVUJMLXl2NG5jSDJWTDFWRUw4aVlqY2oxclZtbS1sMFVjMktBZThFNmRxUEhtcV84VGJnVDVnT1NLVVFIb2t3SGEzS3Ixcm43SG9nWEdpLVdnZ09tVjl5MDNKMUU3Qy1Da183MkdSckFjYzI4ZDM2UUNzV29ldHNsQXF6RGlOTTR3SEVEYUMtaWUxZDRpaTZNVmwtSi0wLXAtcEwwOHl0VWZqYk5lYkJkOk48Yj5XSDwvYj4tPGI-MTAwMFhNNTwvYj4ga2VlcHMgc2h1dHRpbmcgZG93biByYW5kb21seSBhZnRlciBhICZxdW90O3BvcCZxdW90Oy5CmwFUaGUgYmlnZ2VzdCA8Yj5wcm9ibGVtPC9iPiBpcyB0aGF0IG9uIHNvbWUgZGV2aWNlcywgdGhlIGhlYWRwaG9uZXMgd291bGQgcmFuZG9tbHkgc2h1dCBvZmYgYWZ0ZXIgaGVhcmluZyB3aGF0IHNvdW5kcyBsaWtlIGEgaGlnaC1mcmVxdWVuY3kgJnF1b3Q7cG9wJnF1b3Q7LiICEAFIAFgAaAA",
+   "source": "Sony Electronics Community"
+  },
+  {
+   "position": 3,
+   "title": "Overheating Issues With WH-1000XM5 Headphones",
+   "link": "https://ap.community.sony.com/s/question/0D5Dp00002MjPjDKAV/overheating-issues-with-wh1000xm5-headphones?language=en_US",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFTZ93YEaFUGDheEjpAR3RmXAii8R4TD0RE_77j6DKYcfde2iz5K58XowrKLfXesWoqzthe5_xYS6Ta6a81kmt4bKwhRLbpbWa6vPDrHg5_e8dwVLuuenAYwCm65hi9OATj1C1VvGGK9g5OczhFcSVyjOtnZXNAA5-3ITqZhQ3lUYEL7qjm-NQTmV61X-sTuptOcxK54-yTQ66VrXJB_ZKT4U1IGXJI9jEAtGG6h8&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://ap.community.sony.com \u203a question \u203a overheatin...",
+   "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASocABwAPtEwtFooIigoGAEAGglpABERD7688Lzv-s2sAfqSOzYZxSLLrDBEGLTB7m1WyqJ6-AAA_vdzp8CR3LL2fLUOpLMHXjfyQWbxfcV3SNBMsRrcJ5WfSfqP33soPHGkmR5_35PwliwhuVLGHD7m3s4SNL-eKGdwMN6SnoR7b_EXRvlBeZ9XLPBafg4DtyKXWIaFq6XE415mBRzxyw7urP8L73JG0O6XO0NV1Z-2FyhJLB9YsYVw_DdzSS4vHUBNxMA4VFIFd0qQFdju1X7P6b4G6Lx_QxMCzNvx-_RvaU96E3_227VfwdPQ6hhXJRjH9fBFujSnKw79MIbzmTDEQAAAAA.webp",
+   "date": "Mar 23, 2025",
+   "snippet": "I keep having problems with the headphones overheating. Simple Reset the headphones. Factory reset the headphones, fully, twice. Updated all ...",
+   "snippet_highlighted_words": [
+    "Simple Reset the headphones"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "I keep having problems with the headphones overheating. Simple Reset the headphones. Factory reset the headphones, fully, twice. Updated all ...",
+     "source_info_link": "https://ap.community.sony.com/s/question/0D5Dp00002MjPjDKAV/overheating-issues-with-wh1000xm5-headphones?language=en_US",
+     "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASocABwAPtEwtFooIigoGAEAGglpABERD7688Lzv-s2sAfqSOzYZxSLLrDBEGLTB7m1WyqJ6-AAA_vdzp8CR3LL2fLUOpLMHXjfyQWbxfcV3SNBMsRrcJ5WfSfqP33soPHGkmR5_35PwliwhuVLGHD7m3s4SNL-eKGdwMN6SnoR7b_EXRvlBeZ9XLPBafg4DtyKXWIaFq6XE415mBRzxyw7urP8L73JG0O6XO0NV1Z-2FyhJLB9YsYVw_DdzSS4vHUBNxMA4VFIFd0qQFdju1X7P6b4G6Lx_QxMCzNvx-_RvaU96E3_227VfwdPQ6hhXJRjH9fBFujSnKw79MIbzmTDEQAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZUWjkzWUVhRlVHRGhlRWpwQVIzUm1YQWlpOFI0VEQwUkVfNzdqNkRLWWNmZGUyaXo1SzU4WG93cktMZlhlc1dvcXp0aGU1X3hZUzZUYTZhODFrbXQ0Ykt3aFJMYnBiV2E2dlBEckhnNV9lOGR3Vkx1dWVuQVl3Q202NWhpOU9BVGoxQzFWdkdHSzlnNU9jemhGY1NWeWpPdG5aWE5BQTUtM0lUcVpoUTNsVVlFTDdxam0tTlFUbVY2MVgtc1R1cHRPY3hLNTQteVRRNjZWclhKQl9aS1Q0VTFJR1hKSTlqRUF0R0c2aDgSBBoCCAAamgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9gUIABAAGAAgAColCgRzb255FQ7Z4EAaDXNvbnl3aDEwMDB4bTUaCWl2O3A7c29ueSosCgJ3aBXaBJVAGg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaB2l2O3A7d2gqQQoHMTAwMHhtNRXaBJVAGgkxMDAwIHhtIDUaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoMaXY7cDsxMDAweG01KnAKCHByb2JsZW1zFUxU0T4aCmNoYWxsZW5nZXMaBmlzc3VlcxoLbm90IHdvcmtpbmcaB3Byb2JsZW0aB3Ryb3VibGUaD3Ryb3VibGVzaG9vdGluZxoFaXNzdWUaA2ZpeBoHZmFpbHVyZRoGcmVwYWlyMv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZUWjkzWUVhRlVHRGhlRWpwQVIzUm1YQWlpOFI0VEQwUkVfNzdqNkRLWWNmZGUyaXo1SzU4WG93cktMZlhlc1dvcXp0aGU1X3hZUzZUYTZhODFrbXQ0Ykt3aFJMYnBiV2E2dlBEckhnNV9lOGR3Vkx1dWVuQVl3Q202NWhpOU9BVGoxQzFWdkdHSzlnNU9jemhGY1NWeWpPdG5aWE5BQTUtM0lUcVpoUTNsVVlFTDdxam0tTlFUbVY2MVgtc1R1cHRPY3hLNTQteVRRNjZWclhKQl9aS1Q0VTFJR1hKSTlqRUF0R0c2aDg6Qk92ZXJoZWF0aW5nIDxiPklzc3VlczwvYj4gV2l0aCA8Yj5XSDwvYj4tPGI-MTAwMFhNNTwvYj4gSGVhZHBob25lc0KcAUkga2VlcCBoYXZpbmcgcHJvYmxlbXMgd2l0aCB0aGUgaGVhZHBob25lcyBvdmVyaGVhdGluZy4gPGI-U2ltcGxlIFJlc2V0IHRoZSBoZWFkcGhvbmVzPC9iPi4gRmFjdG9yeSByZXNldCB0aGUgaGVhZHBob25lcywgZnVsbHksIHR3aWNlLiBVcGRhdGVkIGFsbCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZUWjkzWUVhRlVHRGhlRWpwQVIzUm1YQWlpOFI0VEQwUkVfNzdqNkRLWWNmZGUyaXo1SzU4WG93cktMZlhlc1dvcXp0aGU1X3hZUzZUYTZhODFrbXQ0Ykt3aFJMYnBiV2E2dlBEckhnNV9lOGR3Vkx1dWVuQVl3Q202NWhpOU9BVGoxQzFWdkdHSzlnNU9jemhGY1NWeWpPdG5aWE5BQTUtM0lUcVpoUTNsVVlFTDdxam0tTlFUbVY2MVgtc1R1cHRPY3hLNTQteVRRNjZWclhKQl9aS1Q0VTFJR1hKSTlqRUF0R0c2aDgSBBoCCAAamgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9gUIABAAGAAgAColCgRzb255FQ7Z4EAaDXNvbnl3aDEwMDB4bTUaCWl2O3A7c29ueSosCgJ3aBXaBJVAGg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaB2l2O3A7d2gqQQoHMTAwMHhtNRXaBJVAGgkxMDAwIHhtIDUaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoMaXY7cDsxMDAweG01KnAKCHByb2JsZW1zFUxU0T4aCmNoYWxsZW5nZXMaBmlzc3VlcxoLbm90IHdvcmtpbmcaB3Byb2JsZW0aB3Ryb3VibGUaD3Ryb3VibGVzaG9vdGluZxoFaXNzdWUaA2ZpeBoHZmFpbHVyZRoGcmVwYWlyMv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZUWjkzWUVhRlVHRGhlRWpwQVIzUm1YQWlpOFI0VEQwUkVfNzdqNkRLWWNmZGUyaXo1SzU4WG93cktMZlhlc1dvcXp0aGU1X3hZUzZUYTZhODFrbXQ0Ykt3aFJMYnBiV2E2dlBEckhnNV9lOGR3Vkx1dWVuQVl3Q202NWhpOU9BVGoxQzFWdkdHSzlnNU9jemhGY1NWeWpPdG5aWE5BQTUtM0lUcVpoUTNsVVlFTDdxam0tTlFUbVY2MVgtc1R1cHRPY3hLNTQteVRRNjZWclhKQl9aS1Q0VTFJR1hKSTlqRUF0R0c2aDg6Qk92ZXJoZWF0aW5nIDxiPklzc3VlczwvYj4gV2l0aCA8Yj5XSDwvYj4tPGI-MTAwMFhNNTwvYj4gSGVhZHBob25lc0KcAUkga2VlcCBoYXZpbmcgcHJvYmxlbXMgd2l0aCB0aGUgaGVhZHBob25lcyBvdmVyaGVhdGluZy4gPGI-U2ltcGxlIFJlc2V0IHRoZSBoZWFkcGhvbmVzPC9iPi4gRmFjdG9yeSByZXNldCB0aGUgaGVhZHBob25lcywgZnVsbHksIHR3aWNlLiBVcGRhdGVkIGFsbCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Sony"
+  },
+  {
+   "position": 4,
+   "title": "sony wh-1000xm5 headphone connected but no audio ...",
+   "link": "https://learn.microsoft.com/en-us/answers/questions/3909254/sony-wh-1000xm5-headphone-connected-but-no-audio-d",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFc_if-AEt-465JJ-Ec1C-S7dmK9ciXLod4MgNZ4d-Wmztkj52yeeRrXKeAUhL9rzoSqdpuS374CfF6QhKs3AAEUb66qw8ckgLIDc8Kk7_BfFZn0uG8YfVxIsAuT_YFQ0zfgURFAful9QsBnam3Y9E8E2l_y4qXNrUS1YYyDVD_NSSdOTLihjThu8TYXv0_R73Wg9J_TmXRWLXLRgTdCsuOzRZIF3&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://learn.microsoft.com \u203a en-us \u203a answers \u203a questions",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABnRSTlMAAAAAAABupgeRAAAAWklEQVR4AWP4FKBEJPrip8wABrV7GOp3EYtGhgWjFoxaMGrBqAXf_OSIRD995CEWVO9hqN1FLBoOYNlnotF3iI7_O4lHQOVL3hONPo9agB2NWjBqwagFoxYAAB2zMZ7bQW2tAAAAAElFTkSuQmCC.png",
+   "date": "Jan 7, 2025",
+   "snippet": "Hi!, I was redirected from sony support to microsoft as this seems to be a driver/OS problem: My sony wh-1000xm5 connects to PC but no audio or microphone ...",
+   "about_this_result": {
+    "source": {
+     "description": "The main problem is that the headphones do not register as an output device. (We should see WH-1000XM5 here as a device we can direct the audio ...",
+     "source_info_link": "https://learn.microsoft.com/en-us/answers/questions/3909254/sony-wh-1000xm5-headphone-connected-but-no-audio-d",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABnRSTlMAAAAAAABupgeRAAAAWklEQVR4AWP4FKBEJPrip8wABrV7GOp3EYtGhgWjFoxaMGrBqAXf_OSIRD995CEWVO9hqN1FLBoOYNlnotF3iI7_O4lHQOVL3hONPo9agB2NWjBqwagFoxYAAB2zMZ7bQW2tAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZjX2lmLUFFdC00NjVKSi1FYzFDLVM3ZG1LOWNpWExvZDRNZ05aNGQtV216dGtqNTJ5ZWVSclhLZUFVaEw5cnpvU3FkcHVTMzc0Q2ZGNlFoS3MzQUFFVWI2NnF3OGNrZ0xJRGM4S2s3X0JmRlpuMHVHOFlmVnhJc0F1VF9ZRlEwemZnVVJGQWZ1bDlRc0JuYW0zWTlFOEUybF95NHFYTnJVUzFZWXlEVkRfTlNTZE9UTGloalRodThUWVh2MF9SNzNXZzlKX1RtWFJXTFhMUmdUZENzdU96UlpJRjMSBBoCCAAalAYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8AUIABAAGAAgAColCgRzb255Fe-wu0AaDXNvbnl3aDEwMDB4bTUaCWl2O3A7c29ueSosCgJ3aBUUKrFAGg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaB2l2O3A7d2gqQQoHMTAwMHhtNRUUKrFAGgkxMDAwIHhtIDUaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoMaXY7cDsxMDAweG01KnAKCHByb2JsZW1zFQAAAAAaCmNoYWxsZW5nZXMaBmlzc3VlcxoLbm90IHdvcmtpbmcaB3Byb2JsZW0aB3Ryb3VibGUaD3Ryb3VibGVzaG9vdGluZxoFaXNzdWUaA2ZpeBoHZmFpbHVyZRoGcmVwYWlyMvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZjX2lmLUFFdC00NjVKSi1FYzFDLVM3ZG1LOWNpWExvZDRNZ05aNGQtV216dGtqNTJ5ZWVSclhLZUFVaEw5cnpvU3FkcHVTMzc0Q2ZGNlFoS3MzQUFFVWI2NnF3OGNrZ0xJRGM4S2s3X0JmRlpuMHVHOFlmVnhJc0F1VF9ZRlEwemZnVVJGQWZ1bDlRc0JuYW0zWTlFOEUybF95NHFYTnJVUzFZWXlEVkRfTlNTZE9UTGloalRodThUWVh2MF9SNzNXZzlKX1RtWFJXTFhMUmdUZENzdU96UlpJRjM6RTxiPnNvbnkgd2g8L2I-LTxiPjEwMDB4bTU8L2I-IGhlYWRwaG9uZSBjb25uZWN0ZWQgYnV0IG5vIGF1ZGlvIGRldmljZUKfAVRoZSBtYWluIHByb2JsZW0gaXMgdGhhdCB0aGUgPGI-aGVhZHBob25lcyBkbyBub3QgcmVnaXN0ZXIgYXMgYW4gb3V0cHV0IGRldmljZTwvYj4uIChXZSBzaG91bGQgc2VlIFdILTEwMDBYTTUgaGVyZSBhcyBhIGRldmljZSB3ZSBjYW4gZGlyZWN0IHRoZSBhdWRpbyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZjX2lmLUFFdC00NjVKSi1FYzFDLVM3ZG1LOWNpWExvZDRNZ05aNGQtV216dGtqNTJ5ZWVSclhLZUFVaEw5cnpvU3FkcHVTMzc0Q2ZGNlFoS3MzQUFFVWI2NnF3OGNrZ0xJRGM4S2s3X0JmRlpuMHVHOFlmVnhJc0F1VF9ZRlEwemZnVVJGQWZ1bDlRc0JuYW0zWTlFOEUybF95NHFYTnJVUzFZWXlEVkRfTlNTZE9UTGloalRodThUWVh2MF9SNzNXZzlKX1RtWFJXTFhMUmdUZENzdU96UlpJRjMSBBoCCAAalAYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8AUIABAAGAAgAColCgRzb255Fe-wu0AaDXNvbnl3aDEwMDB4bTUaCWl2O3A7c29ueSosCgJ3aBUUKrFAGg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaB2l2O3A7d2gqQQoHMTAwMHhtNRUUKrFAGgkxMDAwIHhtIDUaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoMaXY7cDsxMDAweG01KnAKCHByb2JsZW1zFQAAAAAaCmNoYWxsZW5nZXMaBmlzc3VlcxoLbm90IHdvcmtpbmcaB3Byb2JsZW0aB3Ryb3VibGUaD3Ryb3VibGVzaG9vdGluZxoFaXNzdWUaA2ZpeBoHZmFpbHVyZRoGcmVwYWlyMvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZjX2lmLUFFdC00NjVKSi1FYzFDLVM3ZG1LOWNpWExvZDRNZ05aNGQtV216dGtqNTJ5ZWVSclhLZUFVaEw5cnpvU3FkcHVTMzc0Q2ZGNlFoS3MzQUFFVWI2NnF3OGNrZ0xJRGM4S2s3X0JmRlpuMHVHOFlmVnhJc0F1VF9ZRlEwemZnVVJGQWZ1bDlRc0JuYW0zWTlFOEUybF95NHFYTnJVUzFZWXlEVkRfTlNTZE9UTGloalRodThUWVh2MF9SNzNXZzlKX1RtWFJXTFhMUmdUZENzdU96UlpJRjM6RTxiPnNvbnkgd2g8L2I-LTxiPjEwMDB4bTU8L2I-IGhlYWRwaG9uZSBjb25uZWN0ZWQgYnV0IG5vIGF1ZGlvIGRldmljZUKfAVRoZSBtYWluIHByb2JsZW0gaXMgdGhhdCB0aGUgPGI-aGVhZHBob25lcyBkbyBub3QgcmVnaXN0ZXIgYXMgYW4gb3V0cHV0IGRldmljZTwvYj4uIChXZSBzaG91bGQgc2VlIFdILTEwMDBYTTUgaGVyZSBhcyBhIGRldmljZSB3ZSBjYW4gZGlyZWN0IHRoZSBhdWRpbyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Microsoft Learn"
+  },
+  {
+   "position": 5,
+   "title": "Sony wh-1000xm5 weird noise issue?",
+   "link": "https://www.facebook.com/groups/1267721040361656/posts/2219845105149240/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFXcHPbK5k0wL8lZ6dr1kfCdQD-nDV9T1ssbD-uW_w6HZmGaRS59JmK70uTD-EuImGYsEdN6GrQVDdvsvhFjC2WUHxTXkKtDfN-EIDZE28ofgv_Bn-5Sx5EvQihaFBvwMMlEq5ZHux7ZEm6ERC9XwxAewjzlkPeQID_K2kz4FJQ&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECBwQAQ&uoh=1",
+   "displayed_meta": "7 comments \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "To get your Sony WH-1000XM5 headphones repaired, it's recommended to check Sony's official website or contact their customer support",
+   "snippet_highlighted_words": [
+    "Sony WH",
+    "1000XM5",
+    "Sony's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "To get your Sony WH-1000XM5 headphones repaired, it's recommended to check Sony's official website or contact their customer support",
+     "source_info_link": "https://www.facebook.com/groups/1267721040361656/posts/2219845105149240/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZYY0hQYks1azB3TDhsWjZkcjFrZkNkUUQtbkRWOVQxc3NiRC11V193NkhabUdhUlM1OUptSzcwdVRELUV1SW1HWXNFZE42R3JRVkRkdnN2aEZqQzJXVUh4VFhrS3REZk4tRUlEWkUyOG9mZ3ZfQm4tNVN4NUV2UWloYUZCdndNTWxFcTVaSHV4N1pFbTZFUkM5WHd4QWV3anpsa1BlUUlEX0sya3o0RkpREgQaAggAGtoFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLYFCAAQABgAIAAqJQoEc29ueRVdpdtAGg1zb255d2gxMDAweG01GglpdjtwO3NvbnkqLAoCd2gV3L64QBoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgdpdjtwO3doKkEKBzEwMDB4bTUV7sLBQBoJMTAwMCB4bSA1Gg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaDGl2O3A7MTAwMHhtNSpwCghwcm9ibGVtcxUAAAAAGgpjaGFsbGVuZ2VzGgZpc3N1ZXMaC25vdCB3b3JraW5nGgdwcm9ibGVtGgd0cm91YmxlGg90cm91Ymxlc2hvb3RpbmcaBWlzc3VlGgNmaXgaB2ZhaWx1cmUaBnJlcGFpcjLAAS9nb3RvP3VybD1DQUVTZ3dFQjZ6c3dGWGNIUGJLNWswd0w4bFo2ZHIxa2ZDZFFELW5EVjlUMXNzYkQtdVdfdzZIWm1HYVJTNTlKbUs3MHVURC1FdUltR1lzRWRONkdyUVZEZHZzdmhGakMyV1VIeFRYa0t0RGZOLUVJRFpFMjhvZmd2X0JuLTVTeDVFdlFpaGFGQnZ3TU1sRXE1Wkh1eDdaRW02RVJDOVh3eEFld2p6bGtQZVFJRF9LMmt6NEZKUTo7PGI-U29ueSB3aDwvYj4tPGI-MTAwMHhtNTwvYj4gd2VpcmQgbm9pc2UgaXNzdWU_IC0gRmFjZWJvb2tCoQFUbyBnZXQgeW91ciA8Yj5Tb255IFdIPC9iPi08Yj4xMDAwWE01PC9iPiBoZWFkcGhvbmVzIHJlcGFpcmVkLCBpdCYjMzk7cyByZWNvbW1lbmRlZCB0byBjaGVjayA8Yj5Tb255JiMzOTtzPC9iPiBvZmZpY2lhbCB3ZWJzaXRlIG9yIGNvbnRhY3QgdGhlaXIgY3VzdG9tZXIgc3VwcG9ydCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZYY0hQYks1azB3TDhsWjZkcjFrZkNkUUQtbkRWOVQxc3NiRC11V193NkhabUdhUlM1OUptSzcwdVRELUV1SW1HWXNFZE42R3JRVkRkdnN2aEZqQzJXVUh4VFhrS3REZk4tRUlEWkUyOG9mZ3ZfQm4tNVN4NUV2UWloYUZCdndNTWxFcTVaSHV4N1pFbTZFUkM5WHd4QWV3anpsa1BlUUlEX0sya3o0RkpREgQaAggAGtoFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLYFCAAQABgAIAAqJQoEc29ueRVdpdtAGg1zb255d2gxMDAweG01GglpdjtwO3NvbnkqLAoCd2gV3L64QBoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgdpdjtwO3doKkEKBzEwMDB4bTUV7sLBQBoJMTAwMCB4bSA1Gg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaDGl2O3A7MTAwMHhtNSpwCghwcm9ibGVtcxUAAAAAGgpjaGFsbGVuZ2VzGgZpc3N1ZXMaC25vdCB3b3JraW5nGgdwcm9ibGVtGgd0cm91YmxlGg90cm91Ymxlc2hvb3RpbmcaBWlzc3VlGgNmaXgaB2ZhaWx1cmUaBnJlcGFpcjLAAS9nb3RvP3VybD1DQUVTZ3dFQjZ6c3dGWGNIUGJLNWswd0w4bFo2ZHIxa2ZDZFFELW5EVjlUMXNzYkQtdVdfdzZIWm1HYVJTNTlKbUs3MHVURC1FdUltR1lzRWRONkdyUVZEZHZzdmhGakMyV1VIeFRYa0t0RGZOLUVJRFpFMjhvZmd2X0JuLTVTeDVFdlFpaGFGQnZ3TU1sRXE1Wkh1eDdaRW02RVJDOVh3eEFld2p6bGtQZVFJRF9LMmt6NEZKUTo7PGI-U29ueSB3aDwvYj4tPGI-MTAwMHhtNTwvYj4gd2VpcmQgbm9pc2UgaXNzdWU_IC0gRmFjZWJvb2tCoQFUbyBnZXQgeW91ciA8Yj5Tb255IFdIPC9iPi08Yj4xMDAwWE01PC9iPiBoZWFkcGhvbmVzIHJlcGFpcmVkLCBpdCYjMzk7cyByZWNvbW1lbmRlZCB0byBjaGVjayA8Yj5Tb255JiMzOTtzPC9iPiBvZmZpY2lhbCB3ZWJzaXRlIG9yIGNvbnRhY3QgdGhlaXIgY3VzdG9tZXIgc3VwcG9ydCICEAFIAFgAaAA",
+   "source": "Facebook \u00b7 Sony Headphones Philippines \ud83c\uddf5\ud83c\udded"
+  },
+  {
+   "position": 6,
+   "title": "WH-1000XM5 Headphones Won't Turn On? Expert ...",
+   "link": "https://www.justanswer.com/electronics/uts3u-wh1000xm5-not-turning-on-power-button-stuck.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFUvqJ7fgyDOA5OPQjx3YZnDKuZlIll33_PFsvhvh4_AT2lDl_MN54dk5qi2b8iRtujSshfEWutX8wQqXq33AVqLJtiK4PiIst3_fsehyeRbGe7fJxU8WQ9pPl_cdUsVeWWZKaRdfmXrx3Ddd6wIIiZNKn8P_92agNson6g95KXL2p8REdSEaZToiv-aEApUMUdS5yw&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://www.justanswer.com \u203a Electronics Questions",
+   "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0vPZVmMtLIB2BBgOtig4F6ViIrZ72d3P1fWG-5pYCxeznkAP72B2idR2sA9FhWq6ugJikbQGqqOOjwtHRlcBciD6C-1QREedw623Kcp11kS9cTB2742h9ghO1qyMJH8m6XlTnVvfV0nEvzwPYvm6XsrovVoCGYhKt_h_nGG_ZLOdjGC-qgYl6eadcxpWXdMagKVUXsyH6MiGGHNbfeP4FGt5AdXHlr0s3kfHYAPYj2Gofa7cM-23dj5JgdXoPU5g0dBsKQbrMxCotzuM8VpQjT9q1QkOnYnBafWJdCwUKqNHceVI-RxP6Q6xg9QaOEwuBgZ6vivlwdgOUoJceWgoAAAA.webp",
+   "date": "Mar 17, 2026",
+   "snippet": "Sony WH-1000XM5 Not Turning On: Power Button Issues. WH-1000XM5 users report power button sticking and loose ear cup hinges affecting usability.",
+   "snippet_highlighted_words": [
+    "WH-1000XM5 users report power button sticking"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sony WH-1000XM5 Not Turning On: Power Button Issues. WH-1000XM5 users report power button sticking and loose ear cup hinges affecting usability.",
+     "source_info_link": "https://www.justanswer.com/electronics/uts3u-wh1000xm5-not-turning-on-power-button-stuck.html",
+     "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0vPZVmMtLIB2BBgOtig4F6ViIrZ72d3P1fWG-5pYCxeznkAP72B2idR2sA9FhWq6ugJikbQGqqOOjwtHRlcBciD6C-1QREedw623Kcp11kS9cTB2742h9ghO1qyMJH8m6XlTnVvfV0nEvzwPYvm6XsrovVoCGYhKt_h_nGG_ZLOdjGC-qgYl6eadcxpWXdMagKVUXsyH6MiGGHNbfeP4FGt5AdXHlr0s3kfHYAPYj2Gofa7cM-23dj5JgdXoPU5g0dBsKQbrMxCotzuM8VpQjT9q1QkOnYnBafWJdCwUKqNHceVI-RxP6Q6xg9QaOEwuBgZ6vivlwdgOUoJceWgoAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZVdnFKN2ZneURPQTVPUFFqeDNZWm5ES3VabElsbDMzX1BGc3Zodmg0X0FUMmxEbF9NTjU0ZGs1cWkyYjhpUnR1alNzaGZFV3V0WDh3UXFYcTMzQVZxTEp0aUs0UGlJc3QzX2ZzZWh5ZVJiR2U3Zkp4VThXUTlwUGxfY2RVc1ZlV1daS2FSZGZtWHJ4M0RkZDZ3SUlpWk5LbjhQXzkyYWdOc29uNmc5NUtYTDJwOFJFZFNFYVpUb2l2LWFFQXBVTVVkUzV5dxIEGgIIABryBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDOBQgAEAAYACAAKiUKBHNvbnkV4f78PxoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFWxBnkAaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FTrijEAaCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVbI9LPhoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIy3AEvZ290bz91cmw9Q0FFU21BRUI2enN3RlV2cUo3Zmd5RE9BNU9QUWp4M1labkRLdVpsSWxsMzNfUEZzdmh2aDRfQVQybERsX01ONTRkazVxaTJiOGlSdHVqU3NoZkVXdXRYOHdRcVhxMzNBVnFMSnRpSzRQaUlzdDNfZnNlaHllUmJHZTdmSnhVOFdROXBQbF9jZFVzVmVXV1pLYVJkZm1YcngzRGRkNndJSWlaTktuOFBfOTJhZ05zb242Zzk1S1hMMnA4UkVkU0VhWlRvaXYtYUVBcFVNVWRTNXl3OkE8Yj5XSDwvYj4tPGI-MTAwMFhNNTwvYj4gSGVhZHBob25lcyBXb24mIzM5O3QgVHVybiBPbj8gRXhwZXJ0IC4uLkKXAVNvbnkgV0gtMTAwMFhNNSBOb3QgVHVybmluZyBPbjogUG93ZXIgQnV0dG9uIElzc3Vlcy4gPGI-V0gtMTAwMFhNNSB1c2VycyByZXBvcnQgcG93ZXIgYnV0dG9uIHN0aWNraW5nPC9iPiBhbmQgbG9vc2UgZWFyIGN1cCBoaW5nZXMgYWZmZWN0aW5nIHVzYWJpbGl0eS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZVdnFKN2ZneURPQTVPUFFqeDNZWm5ES3VabElsbDMzX1BGc3Zodmg0X0FUMmxEbF9NTjU0ZGs1cWkyYjhpUnR1alNzaGZFV3V0WDh3UXFYcTMzQVZxTEp0aUs0UGlJc3QzX2ZzZWh5ZVJiR2U3Zkp4VThXUTlwUGxfY2RVc1ZlV1daS2FSZGZtWHJ4M0RkZDZ3SUlpWk5LbjhQXzkyYWdOc29uNmc5NUtYTDJwOFJFZFNFYVpUb2l2LWFFQXBVTVVkUzV5dxIEGgIIABryBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDOBQgAEAAYACAAKiUKBHNvbnkV4f78PxoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFWxBnkAaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FTrijEAaCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVbI9LPhoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIy3AEvZ290bz91cmw9Q0FFU21BRUI2enN3RlV2cUo3Zmd5RE9BNU9QUWp4M1labkRLdVpsSWxsMzNfUEZzdmh2aDRfQVQybERsX01ONTRkazVxaTJiOGlSdHVqU3NoZkVXdXRYOHdRcVhxMzNBVnFMSnRpSzRQaUlzdDNfZnNlaHllUmJHZTdmSnhVOFdROXBQbF9jZFVzVmVXV1pLYVJkZm1YcngzRGRkNndJSWlaTktuOFBfOTJhZ05zb242Zzk1S1hMMnA4UkVkU0VhWlRvaXYtYUVBcFVNVWRTNXl3OkE8Yj5XSDwvYj4tPGI-MTAwMFhNNTwvYj4gSGVhZHBob25lcyBXb24mIzM5O3QgVHVybiBPbj8gRXhwZXJ0IC4uLkKXAVNvbnkgV0gtMTAwMFhNNSBOb3QgVHVybmluZyBPbjogUG93ZXIgQnV0dG9uIElzc3Vlcy4gPGI-V0gtMTAwMFhNNSB1c2VycyByZXBvcnQgcG93ZXIgYnV0dG9uIHN0aWNraW5nPC9iPiBhbmQgbG9vc2UgZWFyIGN1cCBoaW5nZXMgYWZmZWN0aW5nIHVzYWJpbGl0eS4iAhABSABYAGgA",
+   "source": "JustAnswer",
+   "read_more_link": "https://www.justanswer.com/electronics/uts3u-wh1000xm5-not-turning-on-power-button-stuck.html#:~:text=Sony%20WH%2D1000XM5%20Not%20Turning%20On%3A,ear%20cup%20hinges%20affecting%20usability."
+  },
+  {
+   "position": 7,
+   "title": "XM5 Headphone Design Flaw",
+   "link": "https://us.community.sony.com/s/question/0D5Ps00001hs70cKAA/xm5-headphone-design-flaw?language=en_US",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFSJwwc7n7oJlgReOj4YwBO2rw81BbT0pSFsrKPGb3553ErMqaeLeNN4F7TB6UlE73-akJZQNWrHMu1nlpI82_hfX2zNaShlzAOyl3NGlnZ_Yn5oyMjzeDzCaLltI_CuLUOkqgYXuCQ0jWpJO8LI4gPNalnd1a0cOGgBgfsXs6OJc0OfzLA3gl1epTca_yL7c3gIoHpxPlP08_tY&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://us.community.sony.com \u203a question \u203a xm5-head...",
+   "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBgCdASocABwAPtE-tFooIigoFAEAGglpABEdTs46gG6ShxVMJiZVo2q-ZLydsuZlNN7QhedegsVWAAD-9ZAW2vn3kybVLcJlsP9kJEEUQWn1136IkvPeKaSelxoOzXpvAu-rOfBwygjKP5CfbpfM9kk297bTFdR5FdPOnbcsROYmzP-qvkgMy_csXCTUyOoD8bAbYWEerN5n1UrIc3zev5olZm4R29CtaxNyk8kbSPhhr_Pf45FDZdOir__wa_r6vZMrSLup71dHfc8dw83PI-iUmhU7P07V92kFLVesrDXil70uejEiA-XkHUs0ihMojSIT1I4g5RHpkxnZWhe8gPRI6Hj3_mnH7zoKd-fFPwlNsataMg15jWNu7HbS3elUelK6uMAAAA.webp",
+   "date": "Mar 30, 2026",
+   "snippet": "There is a serious design flaw with the headband, rendering the unit to break at the soft connector on the headband swivel hear the cup. Each ...",
+   "snippet_highlighted_words": [
+    "There is a serious design flaw with the headband"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "There is a serious design flaw with the headband, rendering the unit to break at the soft connector on the headband swivel hear the cup. Each ...",
+     "source_info_link": "https://us.community.sony.com/s/question/0D5Ps00001hs70cKAA/xm5-headphone-design-flaw?language=en_US",
+     "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBgCdASocABwAPtE-tFooIigoFAEAGglpABEdTs46gG6ShxVMJiZVo2q-ZLydsuZlNN7QhedegsVWAAD-9ZAW2vn3kybVLcJlsP9kJEEUQWn1136IkvPeKaSelxoOzXpvAu-rOfBwygjKP5CfbpfM9kk297bTFdR5FdPOnbcsROYmzP-qvkgMy_csXCTUyOoD8bAbYWEerN5n1UrIc3zev5olZm4R29CtaxNyk8kbSPhhr_Pf45FDZdOir__wa_r6vZMrSLup71dHfc8dw83PI-iUmhU7P07V92kFLVesrDXil70uejEiA-XkHUs0ihMojSIT1I4g5RHpkxnZWhe8gPRI6Hj3_mnH7zoKd-fFPwlNsataMg15jWNu7HbS3elUelK6uMAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZTSnd3YzduN29KbGdSZU9qNFl3Qk8ycnc4MUJiVDBwU0ZzcktQR2IzNTUzRXJNcWFlTGVOTjRGN1RCNlVsRTczLWFrSlpRTldySE11MW5scEk4Ml9oZlgyek5hU2hsekFPeWwzTkdsblpfWW41b3lNanplRHpDYUxsdElfQ3VMVU9rcWdZWHVDUTBqV3BKTzhMSTRnUE5hbG5kMWEwY09HZ0JnZnNYczZPSmMwT2Z6TEEzZ2wxZXBUY2FfeUw3YzNnSW9IcHhQbFAwOF90WRIEGgIIABrxBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDNBQgAEAAYACAAKiUKBHNvbnkV5vb0QBoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFYCgUj8aDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FYCgUj8aCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVQrQMPxoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIy5QEvZ290bz91cmw9Q0FFU253RUI2enN3RlNKd3djN243b0psZ1JlT2o0WXdCTzJydzgxQmJUMHBTRnNyS1BHYjM1NTNFck1xYWVMZU5ONEY3VEI2VWxFNzMtYWtKWlFOV3JITXUxbmxwSTgyX2hmWDJ6TmFTaGx6QU95bDNOR2xuWl9ZbjVveU1qemVEekNhTGx0SV9DdUxVT2txZ1lYdUNRMGpXcEpPOExJNGdQTmFsbmQxYTBjT0dnQmdmc1hzNk9KYzBPZnpMQTNnbDFlcFRjYV95TDdjM2dJb0hweFBsUDA4X3RZOjFYTTUgSGVhZHBob25lIERlc2lnbiBGbGF3IC0gPGI-U29ueTwvYj4gQ29tbXVuaXR5Qp0BPGI-VGhlcmUgaXMgYSBzZXJpb3VzIGRlc2lnbiBmbGF3IHdpdGggdGhlIGhlYWRiYW5kPC9iPiwgcmVuZGVyaW5nIHRoZSB1bml0IHRvIGJyZWFrIGF0IHRoZSBzb2Z0IGNvbm5lY3RvciBvbiB0aGUgaGVhZGJhbmQgc3dpdmVsIGhlYXIgdGhlIGN1cC4gRWFjaCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZTSnd3YzduN29KbGdSZU9qNFl3Qk8ycnc4MUJiVDBwU0ZzcktQR2IzNTUzRXJNcWFlTGVOTjRGN1RCNlVsRTczLWFrSlpRTldySE11MW5scEk4Ml9oZlgyek5hU2hsekFPeWwzTkdsblpfWW41b3lNanplRHpDYUxsdElfQ3VMVU9rcWdZWHVDUTBqV3BKTzhMSTRnUE5hbG5kMWEwY09HZ0JnZnNYczZPSmMwT2Z6TEEzZ2wxZXBUY2FfeUw3YzNnSW9IcHhQbFAwOF90WRIEGgIIABrxBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDNBQgAEAAYACAAKiUKBHNvbnkV5vb0QBoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFYCgUj8aDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FYCgUj8aCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVQrQMPxoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIy5QEvZ290bz91cmw9Q0FFU253RUI2enN3RlNKd3djN243b0psZ1JlT2o0WXdCTzJydzgxQmJUMHBTRnNyS1BHYjM1NTNFck1xYWVMZU5ONEY3VEI2VWxFNzMtYWtKWlFOV3JITXUxbmxwSTgyX2hmWDJ6TmFTaGx6QU95bDNOR2xuWl9ZbjVveU1qemVEekNhTGx0SV9DdUxVT2txZ1lYdUNRMGpXcEpPOExJNGdQTmFsbmQxYTBjT0dnQmdmc1hzNk9KYzBPZnpMQTNnbDFlcFRjYV95TDdjM2dJb0hweFBsUDA4X3RZOjFYTTUgSGVhZHBob25lIERlc2lnbiBGbGF3IC0gPGI-U29ueTwvYj4gQ29tbXVuaXR5Qp0BPGI-VGhlcmUgaXMgYSBzZXJpb3VzIGRlc2lnbiBmbGF3IHdpdGggdGhlIGhlYWRiYW5kPC9iPiwgcmVuZGVyaW5nIHRoZSB1bml0IHRvIGJyZWFrIGF0IHRoZSBzb2Z0IGNvbm5lY3RvciBvbiB0aGUgaGVhZGJhbmQgc3dpdmVsIGhlYXIgdGhlIGN1cC4gRWFjaCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Sony Electronics Community",
+   "read_more_link": "https://us.community.sony.com/s/question/0D5Ps00001hs70cKAA/xm5-headphone-design-flaw?language=en_US#:~:text=There%20is%20a%20serious%20design,swivel%20hear%20the%20cup.%20Each"
+  },
+  {
+   "position": 8,
+   "title": "Sony WH-1000XM5 Review",
+   "link": "https://www.avsforum.com/threads/sony-wh-1000xm5-review.3244986/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVDrUPKbrjACwU9T3cDqzjrReKpbxZVNkv7CObjo604gX3z5Jcd4fCnZVTojuf7rD7uvgDCvkVr_YtR3-ri7IQ9D0mn-iPkUflRQmUBfEzIP6WS8fPkgUsCDGJrIKeVdu-9tmq-AQWljHu0zR1UhtosP1ibX2m5Q&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://www.avsforum.com \u203a ... \u203a Audio \u203a Headphones",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQBACdASocABwAPtEutFooIagoGAEAGglAF2Zl_LTi_1mJJyS0SnLkbwAAAP71ZTYaK_J65gWm4SfJK2gnBTq1z9s9s51KrRF7-q5CfSmiV_8JbpjgYwj1ZzsKeqBzRRPgIAz68-JPwnZ6kWRTQ5QSDHP54XB90feuT2Ctb6H9emZWe2mlKgF2XP9BuVBcuI1RccF-8RCi8q9soiuyyR4CDYpdilQyQHiwL99rLNjRJoCYegA.webp",
+   "date": "May 20, 2022",
+   "snippet": "but there is a problem when playing music. Sometimes the Bluetooth connection gets lost, followed by some strange sound coming inside.",
+   "snippet_highlighted_words": [
+    "Sometimes the Bluetooth connection gets lost"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "but there is a problem when playing music. Sometimes the Bluetooth connection gets lost, followed by some strange sound coming inside.",
+     "source_info_link": "https://www.avsforum.com/threads/sony-wh-1000xm5-review.3244986/",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQBACdASocABwAPtEutFooIagoGAEAGglAF2Zl_LTi_1mJJyS0SnLkbwAAAP71ZTYaK_J65gWm4SfJK2gnBTq1z9s9s51KrRF7-q5CfSmiV_8JbpjgYwj1ZzsKeqBzRRPgIAz68-JPwnZ6kWRTQ5QSDHP54XB90feuT2Ctb6H9emZWe2mlKgF2XP9BuVBcuI1RccF-8RCi8q9soiuyyR4CDYpdilQyQHiwL99rLNjRJoCYegA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkRyVVBLYnJqQUN3VTlUM2NEcXpqclJlS3BieFpWTmt2N0NPYmpvNjA0Z1gzejVKY2Q0ZkNuWlZUb2p1ZjdyRDd1dmdEQ3ZrVnJfWXRSMy1yaTdJUTlEMG1uLWlQa1VmbFJRbVVCZkV6SVA2V1M4ZlBrZ1VzQ0RHSnJJS2VWZHUtOXRtcS1BUVdsakh1MHpSMVVodG9zUDFpYlgybTVREgQaAggAGrEFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwUIABAAGAAgAColCgRzb255FVfCmUAaDXNvbnl3aDEwMDB4bTUaCWl2O3A7c29ueSosCgJ3aBXKEU9AGg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaB2l2O3A7d2gqQQoHMTAwMHhtNRWsuXBAGgkxMDAwIHhtIDUaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoMaXY7cDsxMDAweG01KnAKCHByb2JsZW1zFQ5a_jwaCmNoYWxsZW5nZXMaBmlzc3VlcxoLbm90IHdvcmtpbmcaB3Byb2JsZW0aB3Ryb3VibGUaD3Ryb3VibGVzaG9vdGluZxoFaXNzdWUaA2ZpeBoHZmFpbHVyZRoGcmVwYWlyMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkRyVVBLYnJqQUN3VTlUM2NEcXpqclJlS3BieFpWTmt2N0NPYmpvNjA0Z1gzejVKY2Q0ZkNuWlZUb2p1ZjdyRDd1dmdEQ3ZrVnJfWXRSMy1yaTdJUTlEMG1uLWlQa1VmbFJRbVVCZkV6SVA2V1M4ZlBrZ1VzQ0RHSnJJS2VWZHUtOXRtcS1BUVdsakh1MHpSMVVodG9zUDFpYlgybTVROjA8Yj5Tb255IFdIPC9iPi08Yj4xMDAwWE01PC9iPiBSZXZpZXcgLSBBVlMgRm9ydW1CjQFidXQgdGhlcmUgaXMgYSBwcm9ibGVtIHdoZW4gcGxheWluZyBtdXNpYy4gPGI-U29tZXRpbWVzIHRoZSBCbHVldG9vdGggY29ubmVjdGlvbiBnZXRzIGxvc3Q8L2I-LCBmb2xsb3dlZCBieSBzb21lIHN0cmFuZ2Ugc291bmQgY29taW5nIGluc2lkZS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkRyVVBLYnJqQUN3VTlUM2NEcXpqclJlS3BieFpWTmt2N0NPYmpvNjA0Z1gzejVKY2Q0ZkNuWlZUb2p1ZjdyRDd1dmdEQ3ZrVnJfWXRSMy1yaTdJUTlEMG1uLWlQa1VmbFJRbVVCZkV6SVA2V1M4ZlBrZ1VzQ0RHSnJJS2VWZHUtOXRtcS1BUVdsakh1MHpSMVVodG9zUDFpYlgybTVREgQaAggAGrEFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwUIABAAGAAgAColCgRzb255FVfCmUAaDXNvbnl3aDEwMDB4bTUaCWl2O3A7c29ueSosCgJ3aBXKEU9AGg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaB2l2O3A7d2gqQQoHMTAwMHhtNRWsuXBAGgkxMDAwIHhtIDUaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoMaXY7cDsxMDAweG01KnAKCHByb2JsZW1zFQ5a_jwaCmNoYWxsZW5nZXMaBmlzc3VlcxoLbm90IHdvcmtpbmcaB3Byb2JsZW0aB3Ryb3VibGUaD3Ryb3VibGVzaG9vdGluZxoFaXNzdWUaA2ZpeBoHZmFpbHVyZRoGcmVwYWlyMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkRyVVBLYnJqQUN3VTlUM2NEcXpqclJlS3BieFpWTmt2N0NPYmpvNjA0Z1gzejVKY2Q0ZkNuWlZUb2p1ZjdyRDd1dmdEQ3ZrVnJfWXRSMy1yaTdJUTlEMG1uLWlQa1VmbFJRbVVCZkV6SVA2V1M4ZlBrZ1VzQ0RHSnJJS2VWZHUtOXRtcS1BUVdsakh1MHpSMVVodG9zUDFpYlgybTVROjA8Yj5Tb255IFdIPC9iPi08Yj4xMDAwWE01PC9iPiBSZXZpZXcgLSBBVlMgRm9ydW1CjQFidXQgdGhlcmUgaXMgYSBwcm9ibGVtIHdoZW4gcGxheWluZyBtdXNpYy4gPGI-U29tZXRpbWVzIHRoZSBCbHVldG9vdGggY29ubmVjdGlvbiBnZXRzIGxvc3Q8L2I-LCBmb2xsb3dlZCBieSBzb21lIHN0cmFuZ2Ugc291bmQgY29taW5nIGluc2lkZS4iAhABSABYAGgA",
+   "source": "AVS Forum"
+  },
+  {
+   "position": 9,
+   "title": "WH-1000XM5 Broke and Not Covered by Warranty",
+   "link": "https://community.sonylatvija.com/t5/portable-audio/wh-1000xm5-broke-and-not-covered-by-warranty/td-p/3984996",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFXwRShTd2fQJP020dWfI5c8LnDej7E1N4ep7H4rvotlqY_E7hfw6439HKWn6X25s4_soosIqv3LsDPVcZKKvqN78fTHeT77rNLHhZo_QNP88TTpT8yjttOmO03bhH4BolsUQ-2Wf1t1h8LspZxzaHNtzVPQ4OuitSTANRYM3XuoU_f7kOlJd2Wflh8iY3gghjwmwvaNnvyFmZOzmf3DeGlasHqY&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECBsQAQ&uoh=1",
+   "displayed_link": "https://community.sonylatvija.com \u203a td-p",
+   "favicon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAACwBQCdASocABwAPtE-tFooIigoFAEAGglpAAPin9F6hAHZsfIgTyhZcvyolm9zIACMo4UQ2wAA_vdzp8CR2h9TG7XEarFiqDrmKr0o1uDmLZ7ZFn-16bC8_t3sv0aAJx9Y3hbXCaWld3xW2AWL_K81Q_JpHWUXR9CZ-MeCVUDB-f5_YGPWnU9f57E-KF-6MRIqL473RJ4bnzYZoASw9TGj4-5T1a2w70W8Ms1o9hSe2LIeYuDGIDPIwc8KZ_gvpsflPM4Q72y2632FLkThDxVTRunMLDn-BEoRfkFpqpjyqN2HX2sCAlRumgAnSVbwreGWlDJUDwAAAA.webp",
+   "snippet": "I have exactly same problem... Left side hinge broke about 1 month ago and I used tape to use them until I get repair parts. Yesterday I was putting my headset ...",
+   "snippet_highlighted_words": [
+    "Left side hinge broke about 1 month ago"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "I have exactly same problem... Left side hinge broke about 1 month ago and I used tape to use them until I get repair parts. Yesterday I was putting my headset ...",
+     "source_info_link": "https://community.sonylatvija.com/t5/portable-audio/wh-1000xm5-broke-and-not-covered-by-warranty/td-p/3984996",
+     "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAACwBQCdASocABwAPtE-tFooIigoFAEAGglpAAPin9F6hAHZsfIgTyhZcvyolm9zIACMo4UQ2wAA_vdzp8CR2h9TG7XEarFiqDrmKr0o1uDmLZ7ZFn-16bC8_t3sv0aAJx9Y3hbXCaWld3xW2AWL_K81Q_JpHWUXR9CZ-MeCVUDB-f5_YGPWnU9f57E-KF-6MRIqL473RJ4bnzYZoASw9TGj4-5T1a2w70W8Ms1o9hSe2LIeYuDGIDPIwc8KZ_gvpsflPM4Q72y2632FLkThDxVTRunMLDn-BEoRfkFpqpjyqN2HX2sCAlRumgAnSVbwreGWlDJUDwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZYd1JTaFRkMmZRSlAwMjBkV2ZJNWM4TG5EZWo3RTFONGVwN0g0cnZvdGxxWV9FN2hmdzY0MzlIS1duNlgyNXM0X3Nvb3NJcXYzTHNEUFZjWktLdnFONzhmVEhlVDc3ck5MSGhab19RTlA4OFRUcFQ4eWp0dE9tTzAzYmhINEJvbHNVUS0yV2YxdDFoOExzcFp4emFITnR6VlBRNE91aXRTVEFOUllNM1h1b1VfZjdrT2xKZDJXZmxoOGlZM2dnaGp3bXd2YU5udnlGbVpPem1mM0RlR2xhc0hxWRIEGgIIABqmBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCCBggAEAAYACAAKiUKBHNvbnkV1rCFQBoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFYyHd0AaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FZLkc0AaCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVKt9xPRoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIy8QEvZ290bz91cmw9Q0FFU3FBRUI2enN3Rlh3UlNoVGQyZlFKUDAyMGRXZkk1YzhMbkRlajdFMU40ZXA3SDRydm90bHFZX0U3aGZ3NjQzOUhLV242WDI1czRfc29vc0lxdjNMc0RQVmNaS0t2cU43OGZUSGVUNzdyTkxIaFpvX1FOUDg4VFRwVDh5anR0T21PMDNiaEg0Qm9sc1VRLTJXZjF0MWg4THNwWnh6YUhOdHpWUFE0T3VpdFNUQU5SWU0zWHVvVV9mN2tPbEpkMldmbGg4aVkzZ2doandtd3ZhTm52eUZtWk96bWYzRGVHbGFzSHFZOkg8Yj5XSDwvYj4tPGI-MTAwMFhNNTwvYj4gQnJva2UgYW5kIE5vdCBDb3ZlcmVkIGJ5IFdhcnJhbnR5IC0gPGI-U29ueTwvYj5CrwFJIGhhdmUgZXhhY3RseSBzYW1lIHByb2JsZW0uLi4gPGI-TGVmdCBzaWRlIGhpbmdlIGJyb2tlIGFib3V0IDEgbW9udGggYWdvPC9iPiBhbmQgSSB1c2VkIHRhcGUgdG8gdXNlIHRoZW0gdW50aWwgSSBnZXQgcmVwYWlyIHBhcnRzLiBZZXN0ZXJkYXkgSSB3YXMgcHV0dGluZyBteSBoZWFkc2V0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZYd1JTaFRkMmZRSlAwMjBkV2ZJNWM4TG5EZWo3RTFONGVwN0g0cnZvdGxxWV9FN2hmdzY0MzlIS1duNlgyNXM0X3Nvb3NJcXYzTHNEUFZjWktLdnFONzhmVEhlVDc3ck5MSGhab19RTlA4OFRUcFQ4eWp0dE9tTzAzYmhINEJvbHNVUS0yV2YxdDFoOExzcFp4emFITnR6VlBRNE91aXRTVEFOUllNM1h1b1VfZjdrT2xKZDJXZmxoOGlZM2dnaGp3bXd2YU5udnlGbVpPem1mM0RlR2xhc0hxWRIEGgIIABqmBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCCBggAEAAYACAAKiUKBHNvbnkV1rCFQBoNc29ueXdoMTAwMHhtNRoJaXY7cDtzb255KiwKAndoFYyHd0AaDXNvbnl3aDEwMDB4bTUaCXdoMTAwMHhtNRoHaXY7cDt3aCpBCgcxMDAweG01FZLkc0AaCTEwMDAgeG0gNRoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgxpdjtwOzEwMDB4bTUqcAoIcHJvYmxlbXMVKt9xPRoKY2hhbGxlbmdlcxoGaXNzdWVzGgtub3Qgd29ya2luZxoHcHJvYmxlbRoHdHJvdWJsZRoPdHJvdWJsZXNob290aW5nGgVpc3N1ZRoDZml4GgdmYWlsdXJlGgZyZXBhaXIy8QEvZ290bz91cmw9Q0FFU3FBRUI2enN3Rlh3UlNoVGQyZlFKUDAyMGRXZkk1YzhMbkRlajdFMU40ZXA3SDRydm90bHFZX0U3aGZ3NjQzOUhLV242WDI1czRfc29vc0lxdjNMc0RQVmNaS0t2cU43OGZUSGVUNzdyTkxIaFpvX1FOUDg4VFRwVDh5anR0T21PMDNiaEg0Qm9sc1VRLTJXZjF0MWg4THNwWnh6YUhOdHpWUFE0T3VpdFNUQU5SWU0zWHVvVV9mN2tPbEpkMldmbGg4aVkzZ2doandtd3ZhTm52eUZtWk96bWYzRGVHbGFzSHFZOkg8Yj5XSDwvYj4tPGI-MTAwMFhNNTwvYj4gQnJva2UgYW5kIE5vdCBDb3ZlcmVkIGJ5IFdhcnJhbnR5IC0gPGI-U29ueTwvYj5CrwFJIGhhdmUgZXhhY3RseSBzYW1lIHByb2JsZW0uLi4gPGI-TGVmdCBzaWRlIGhpbmdlIGJyb2tlIGFib3V0IDEgbW9udGggYWdvPC9iPiBhbmQgSSB1c2VkIHRhcGUgdG8gdXNlIHRoZW0gdW50aWwgSSBnZXQgcmVwYWlyIHBhcnRzLiBZZXN0ZXJkYXkgSSB3YXMgcHV0dGluZyBteSBoZWFkc2V0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Sony Latvia",
+   "read_more_link": "https://community.sonylatvija.com/t5/portable-audio/wh-1000xm5-broke-and-not-covered-by-warranty/td-p/3984996#:~:text=I%20have%20exactly%20same%20problem...,and%20right%20side%20hinge%20cracked."
+  },
+  {
+   "position": 10,
+   "title": "Sony SH1000XM5 Hinge and Warranty",
+   "link": "https://ap.community.sony.com/s/question/0D5Dp00002j83sXKAQ/sony-sh1000xm5-hinge-and-warranty?language=en_US",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFZev8z38bGcxjw_qS6VwRlYl4zo98zY0bDoBkiuXxDAaQA4c-nUY_FN5Dy5QLVyWqq0i8H3bUSy4eHm52cEhuPwdM8Cx1zxzyOcV1ur4RsAW1o1Vxy_hwjFIxxAxfClECRpowFZXGjK2z60s1CCX0Gtir6pDxc_4vzscZCiM0xcZ3BPc1meGZ5lXMKfgmwAVuT2NzqMX21txC1swaRPMuyyNTA&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://ap.community.sony.com \u203a question \u203a sony-sh10...",
+   "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASocABwAPtEwtFooIigoGAEAGglpABERD7688Lzv-s2sAfqSOzYZxSLLrDBEGLTB7m1WyqJ6-AAA_vdzp8CR3LL2fLUOpLMHXjfyQWbxfcV3SNBMsRrcJ5WfSfqP33soPHGkmR5_35PwliwhuVLGHD7m3s4SNL-eKGdwMN6SnoR7b_EXRvlBeZ9XLPBafg4DtyKXWIaFq6XE415mBRzxyw7urP8L73JG0O6XO0NV1Z-2FyhJLB9YsYVw_DdzSS4vHUBNxMA4VFIFd0qQFdju1X7P6b4G6Lx_QxMCzNvx-_RvaU96E3_227VfwdPQ6hhXJRjH9fBFujSnKw79MIbzmTDEQAAAAA.webp",
+   "date": "Nov 26, 2025",
+   "snippet": "A quick look through these forums and other sites shows multiple reports of the same or very similar failures on the WH-1000XM5. When the ...",
+   "snippet_highlighted_words": [
+    "WH",
+    "1000XM5"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "A quick look through these forums and other sites shows multiple reports of the same or very similar failures on the WH-1000XM5. When the ...",
+     "source_info_link": "https://ap.community.sony.com/s/question/0D5Dp00002j83sXKAQ/sony-sh1000xm5-hinge-and-warranty?language=en_US",
+     "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASocABwAPtEwtFooIigoGAEAGglpABERD7688Lzv-s2sAfqSOzYZxSLLrDBEGLTB7m1WyqJ6-AAA_vdzp8CR3LL2fLUOpLMHXjfyQWbxfcV3SNBMsRrcJ5WfSfqP33soPHGkmR5_35PwliwhuVLGHD7m3s4SNL-eKGdwMN6SnoR7b_EXRvlBeZ9XLPBafg4DtyKXWIaFq6XE415mBRzxyw7urP8L73JG0O6XO0NV1Z-2FyhJLB9YsYVw_DdzSS4vHUBNxMA4VFIFd0qQFdju1X7P6b4G6Lx_QxMCzNvx-_RvaU96E3_227VfwdPQ6hhXJRjH9fBFujSnKw79MIbzmTDEQAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZaZXY4ejM4YkdjeGp3X3FTNlZ3UmxZbDR6bzk4elkwYkRvQmtpdVh4REFhUUE0Yy1uVVlfRk41RHk1UUxWeVdxcTBpOEgzYlVTeTRlSG01MmNFaHVQd2RNOEN4MXp4enlPY1YxdXI0UnNBVzFvMVZ4eV9od2pGSXh4QXhmQ2xFQ1Jwb3dGWlhHaksyejYwczFDQ1gwR3RpcjZwRHhjXzR2enNjWkNpTTB4Y1ozQlBjMW1lR1o1bFhNS2ZnbXdBVnVUMk56cU1YMjF0eEMxc3dhUlBNdXl5TlRBEgQaAggAGvYFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNIFCAAQABgAIAAqJQoEc29ueRXHXgxBGg1zb255d2gxMDAweG01GglpdjtwO3NvbnkqLAoCd2gVJ9GePxoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgdpdjtwO3doKkEKBzEwMDB4bTUVJ9GePxoJMTAwMCB4bSA1Gg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaDGl2O3A7MTAwMHhtNSpwCghwcm9ibGVtcxUAAAAAGgpjaGFsbGVuZ2VzGgZpc3N1ZXMaC25vdCB3b3JraW5nGgdwcm9ibGVtGgd0cm91YmxlGg90cm91Ymxlc2hvb3RpbmcaBWlzc3VlGgNmaXgaB2ZhaWx1cmUaBnJlcGFpcjLwAS9nb3RvP3VybD1DQUVTcHdFQjZ6c3dGWmV2OHozOGJHY3hqd19xUzZWd1JsWWw0em85OHpZMGJEb0JraXVYeERBYVFBNGMtblVZX0ZONUR5NVFMVnlXcXEwaThIM2JVU3k0ZUhtNTJjRWh1UHdkTThDeDF6eHp5T2NWMXVyNFJzQVcxbzFWeHlfaHdqRkl4eEF4ZkNsRUNScG93RlpYR2pLMno2MHMxQ0NYMEd0aXI2cER4Y180dnpzY1pDaU0weGNaM0JQYzFtZUdaNWxYTUtmZ213QVZ1VDJOenFNWDIxdHhDMXN3YVJQTXV5eU5UQTooPGI-U29ueTwvYj4gU0gxMDAwWE01IEhpbmdlIGFuZCBXYXJyYW50eUKgAUEgcXVpY2sgbG9vayB0aHJvdWdoIHRoZXNlIGZvcnVtcyBhbmQgb3RoZXIgc2l0ZXMgc2hvd3MgbXVsdGlwbGUgcmVwb3J0cyBvZiB0aGUgc2FtZSBvciB2ZXJ5IHNpbWlsYXIgZmFpbHVyZXMgb24gdGhlIDxiPldIPC9iPi08Yj4xMDAwWE01PC9iPi4gV2hlbiB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZaZXY4ejM4YkdjeGp3X3FTNlZ3UmxZbDR6bzk4elkwYkRvQmtpdVh4REFhUUE0Yy1uVVlfRk41RHk1UUxWeVdxcTBpOEgzYlVTeTRlSG01MmNFaHVQd2RNOEN4MXp4enlPY1YxdXI0UnNBVzFvMVZ4eV9od2pGSXh4QXhmQ2xFQ1Jwb3dGWlhHaksyejYwczFDQ1gwR3RpcjZwRHhjXzR2enNjWkNpTTB4Y1ozQlBjMW1lR1o1bFhNS2ZnbXdBVnVUMk56cU1YMjF0eEMxc3dhUlBNdXl5TlRBEgQaAggAGvYFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNIFCAAQABgAIAAqJQoEc29ueRXHXgxBGg1zb255d2gxMDAweG01GglpdjtwO3NvbnkqLAoCd2gVJ9GePxoNc29ueXdoMTAwMHhtNRoJd2gxMDAweG01GgdpdjtwO3doKkEKBzEwMDB4bTUVJ9GePxoJMTAwMCB4bSA1Gg1zb255d2gxMDAweG01Ggl3aDEwMDB4bTUaDGl2O3A7MTAwMHhtNSpwCghwcm9ibGVtcxUAAAAAGgpjaGFsbGVuZ2VzGgZpc3N1ZXMaC25vdCB3b3JraW5nGgdwcm9ibGVtGgd0cm91YmxlGg90cm91Ymxlc2hvb3RpbmcaBWlzc3VlGgNmaXgaB2ZhaWx1cmUaBnJlcGFpcjLwAS9nb3RvP3VybD1DQUVTcHdFQjZ6c3dGWmV2OHozOGJHY3hqd19xUzZWd1JsWWw0em85OHpZMGJEb0JraXVYeERBYVFBNGMtblVZX0ZONUR5NVFMVnlXcXEwaThIM2JVU3k0ZUhtNTJjRWh1UHdkTThDeDF6eHp5T2NWMXVyNFJzQVcxbzFWeHlfaHdqRkl4eEF4ZkNsRUNScG93RlpYR2pLMno2MHMxQ0NYMEd0aXI2cER4Y180dnpzY1pDaU0weGNaM0JQYzFtZUdaNWxYTUtmZ213QVZ1VDJOenFNWDIxdHhDMXN3YVJQTXV5eU5UQTooPGI-U29ueTwvYj4gU0gxMDAwWE01IEhpbmdlIGFuZCBXYXJyYW50eUKgAUEgcXVpY2sgbG9vayB0aHJvdWdoIHRoZXNlIGZvcnVtcyBhbmQgb3RoZXIgc2l0ZXMgc2hvd3MgbXVsdGlwbGUgcmVwb3J0cyBvZiB0aGUgc2FtZSBvciB2ZXJ5IHNpbWlsYXIgZmFpbHVyZXMgb24gdGhlIDxiPldIPC9iPi08Yj4xMDAwWE01PC9iPi4gV2hlbiB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Sony",
+   "read_more_link": "https://ap.community.sony.com/s/question/0D5Dp00002j83sXKAQ/sony-sh1000xm5-hinge-and-warranty?language=en_US#:~:text=A%20quick%20look%20through%20these,on%20the%20WH%2D1000XM5.%20When%20the"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Sony wh 1000xm5 problems reddit",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&gl=us&udm=18&hl=en&sxsrf=APpeQnuA_80QoBnrlwk__cgqXDQeHwgs6Q:1790777849945&q=Sony+wh+1000xm5+problems+reddit&sa=X&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQ1QJ6BAgKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Sony+wh+1000xm5+problems+reddit"
+  },
+  {
+   "block_position": 1,
+   "query": "Sony WH-1000XM5SA vs Sony WH-1000XM5",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&gl=us&udm=18&hl=en&sxsrf=APpeQnuA_80QoBnrlwk__cgqXDQeHwgs6Q:1790777849945&q=Sony+WH-1000XM5SA+vs+Sony+WH-1000XM5&sa=X&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQ1QJ6BAgWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Sony+WH-1000XM5SA+vs+Sony+WH-1000XM5"
+  },
+  {
+   "block_position": 1,
+   "query": "Sony WH-1000XM5 reddit audiophile",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&gl=us&udm=18&hl=en&sxsrf=APpeQnuA_80QoBnrlwk__cgqXDQeHwgs6Q:1790777849945&q=Sony+WH-1000XM5+reddit+audiophile&sa=X&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQ1QJ6BAgUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Sony+WH-1000XM5+reddit+audiophile"
+  },
+  {
+   "block_position": 1,
+   "query": "Sony WH-1000XM5 best equalizer settings",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&gl=us&udm=18&hl=en&sxsrf=APpeQnuA_80QoBnrlwk__cgqXDQeHwgs6Q:1790777849945&q=Sony+WH-1000XM5+best+equalizer+settings&sa=X&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQ1QJ6BAgREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Sony+WH-1000XM5+best+equalizer+settings"
+  },
+  {
+   "block_position": 1,
+   "query": "Sony WH-1000XM5 long term review",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&gl=us&udm=18&hl=en&sxsrf=APpeQnuA_80QoBnrlwk__cgqXDQeHwgs6Q:1790777849945&q=Sony+WH-1000XM5+long+term+review&sa=X&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQ1QJ6BAgPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Sony+WH-1000XM5+long+term+review"
+  },
+  {
+   "block_position": 1,
+   "query": "Sony WH-1000XM5 sa review",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&gl=us&udm=18&hl=en&sxsrf=APpeQnuA_80QoBnrlwk__cgqXDQeHwgs6Q:1790777849945&q=Sony+WH-1000XM5+sa+review&sa=X&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQ1QJ6BAgNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Sony+WH-1000XM5+sa+review"
+  },
+  {
+   "block_position": 1,
+   "query": "Sony WH-1000XM5 keeps disconnecting and reconnecting",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&gl=us&udm=18&hl=en&sxsrf=APpeQnuA_80QoBnrlwk__cgqXDQeHwgs6Q:1790777849945&q=Sony+WH-1000XM5+keeps+disconnecting+and+reconnecting&sa=X&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQ1QJ6BAgMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Sony+WH-1000XM5+keeps+disconnecting+and+reconnecting"
+  },
+  {
+   "block_position": 1,
+   "query": "Sony WH-1000XM5 wired sound quality",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&gl=us&udm=18&hl=en&sxsrf=APpeQnuA_80QoBnrlwk__cgqXDQeHwgs6Q:1790777849945&q=Sony+WH-1000XM5+wired+sound+quality&sa=X&ved=2ahUKEwjj_fesv5aXAxXPiSsGHTwUNQcQ1QJ6BAgLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Sony+WH-1000XM5+wired+sound+quality"
+  }
+ ],
+ "serpapi_pagination": {
+  "current": 1,
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=sony+wh-1000xm5+problems&start=10"
+ },
+ "_probe_latency_s": 15.47
+}

@@ -1,0 +1,396 @@
+{
+ "search_metadata": {
+  "id": "6abd19ff01289b4a30af073e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/PI6dBE4HlYrzNhAHJR6r3VGvJclcaEjUResa_z858n0/6abd19ff01289b4a30af073e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/PI6dBE4HlYrzNhAHJR6r3VGvJclcaEjUResa_z858n0/6abd19ff01289b4a30af073e.md",
+  "created_at": "2026-09-30 14:17:35 UTC",
+  "processed_at": "2026-09-30 14:17:35 UTC",
+  "google_forums_url": "https://www.google.com/search?q=nintendo+switch+2+problems&hl=en&gl=us&device=desktop&udm=18",
+  "raw_html_file": "https://serpapi.com/searches/PI6dBE4HlYrzNhAHJR6r3VGvJclcaEjUResa_z858n0/6abd19ff01289b4a30af073e.html",
+  "total_time_taken": 76.39
+ },
+ "search_parameters": {
+  "q": "nintendo switch 2 problems",
+  "engine": "google_forums",
+  "device": "desktop",
+  "gl": "us",
+  "hl": "en"
+ },
+ "search_information": {
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "What are the common issues with switch 2?",
+   "link": "https://www.reddit.com/r/NintendoSwitch/comments/1szjkw8/what_are_the_common_issues_with_switch_2/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFWfRm0RuzQXC_8F0hE8sSZq0Q5QiosIyLDgv_ZFzoh59zMMj5h3X_FwLMU8r8NrLFlqNsRcyK6LkUJT2jKSO_Hmu2yj-1wY0Dt21hDrmoagp3WPg6VGmadvFrBcG8uF7U_aX9uFrLlSXF-UoH-ZH8rF_OJ3TanUWiua0BYZx3PfpWz3Di1ELXVotO-09wamcnozYwKs1fuVy&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECCUQAQ&uoh=1",
+   "displayed_meta": "40+ comments \u00b7 5 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "The biggest issue with switch 2 hardware involves the screen. In handheld mode, the screen doesn't refresh quite as fast as it should which ...",
+   "snippet_highlighted_words": [
+    "switch 2"
+   ],
+   "sitelinks": {
+    "list": [
+     {
+      "title": "Is the switch 2 experiencing loads of problems? I wouldn ...",
+      "link": "https://www.reddit.com/r/Switch/comments/1lts1gw/is_the_switch_2_experiencing_loads_of_problems_i/",
+      "answer_count": 9,
+      "date": "Jul 7, 2025"
+     },
+     {
+      "title": "Everyone keeps blaming the Switch 2's hardware, but the ...",
+      "link": "https://www.reddit.com/r/NintendoSwitch/comments/1oklsv5/everyone_keeps_blaming_the_switch_2s_hardware_but/",
+      "answer_count": 665,
+      "date": "Oct 31, 2025"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The biggest issue with switch 2 hardware involves the screen. In handheld mode, the screen doesn't refresh quite as fast as it should which ...",
+     "source_info_link": "https://www.reddit.com/r/NintendoSwitch/comments/1szjkw8/what_are_the_common_issues_with_switch_2/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZXZlJtMFJ1elFYQ184RjBoRThzU1pxMFE1UWlvc0l5TERndl9aRnpvaDU5ek1NajVoM1hfRndMTVU4cjhOckxGbHFOc1JjeUs2TGtVSlQyaktTT19IbXUyeWotMXdZMER0MjFoRHJtb2FncDNXUGc2VkdtYWR2RnJCY0c4dUY3VV9hWDl1RnJMbFNYRi1Vb0gtWkg4ckZfT0ozVGFuVVdpdWEwQllaeDNQZnBXejNEaTFFTFhWb3RPLTA5d2FtY25vell3S3MxZnVWeRIEGgIIABrjBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL0FCAAQABgAIAAqRAoIbmludGVuZG8VgCmrQBoDbmVzGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGg1pdjtwO25pbnRlbmRvKjcKBnN3aXRjaBWimt9AGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKiIKATIVrGuvQBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKjYKCHByb2JsZW1zFWCSFT8aA2ZpeBoGaXNzdWVzGgdwcm9ibGVtGg90cm91Ymxlc2hvb3Rpbmcy4gEvZ290bz91cmw9Q0FFU25RRUI2enN3RldmUm0wUnV6UVhDXzhGMGhFOHNTWnEwUTVRaW9zSXlMRGd2X1pGem9oNTl6TU1qNWgzWF9Gd0xNVThyOE5yTEZscU5zUmN5SzZMa1VKVDJqS1NPX0htdTJ5ai0xd1kwRHQyMWhEcm1vYWdwM1dQZzZWR21hZHZGckJjRzh1RjdVX2FYOXVGckxsU1hGLVVvSC1aSDhyRl9PSjNUYW5VV2l1YTBCWVp4M1BmcFd6M0RpMUVMWFZvdE8tMDl3YW1jbm96WXdLczFmdVZ5OlFXaGF0IGFyZSB0aGUgY29tbW9uIDxiPmlzc3VlczwvYj4gd2l0aCBzd2l0Y2ggPGI-MjwvYj4_IDogci88Yj5OaW50ZW5kb1N3aXRjaDwvYj5CnwFUaGUgYmlnZ2VzdCBpc3N1ZSB3aXRoIDxiPnN3aXRjaCAyPC9iPiBoYXJkd2FyZSBpbnZvbHZlcyB0aGUgc2NyZWVuLiBJbiBoYW5kaGVsZCBtb2RlLCB0aGUgc2NyZWVuIGRvZXNuJiMzOTt0IHJlZnJlc2ggcXVpdGUgYXMgZmFzdCBhcyBpdCBzaG91bGQgd2hpY2gmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZXZlJtMFJ1elFYQ184RjBoRThzU1pxMFE1UWlvc0l5TERndl9aRnpvaDU5ek1NajVoM1hfRndMTVU4cjhOckxGbHFOc1JjeUs2TGtVSlQyaktTT19IbXUyeWotMXdZMER0MjFoRHJtb2FncDNXUGc2VkdtYWR2RnJCY0c4dUY3VV9hWDl1RnJMbFNYRi1Vb0gtWkg4ckZfT0ozVGFuVVdpdWEwQllaeDNQZnBXejNEaTFFTFhWb3RPLTA5d2FtY25vell3S3MxZnVWeRIEGgIIABrjBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL0FCAAQABgAIAAqRAoIbmludGVuZG8VgCmrQBoDbmVzGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGg1pdjtwO25pbnRlbmRvKjcKBnN3aXRjaBWimt9AGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKiIKATIVrGuvQBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKjYKCHByb2JsZW1zFWCSFT8aA2ZpeBoGaXNzdWVzGgdwcm9ibGVtGg90cm91Ymxlc2hvb3Rpbmcy4gEvZ290bz91cmw9Q0FFU25RRUI2enN3RldmUm0wUnV6UVhDXzhGMGhFOHNTWnEwUTVRaW9zSXlMRGd2X1pGem9oNTl6TU1qNWgzWF9Gd0xNVThyOE5yTEZscU5zUmN5SzZMa1VKVDJqS1NPX0htdTJ5ai0xd1kwRHQyMWhEcm1vYWdwM1dQZzZWR21hZHZGckJjRzh1RjdVX2FYOXVGckxsU1hGLVVvSC1aSDhyRl9PSjNUYW5VV2l1YTBCWVp4M1BmcFd6M0RpMUVMWFZvdE8tMDl3YW1jbm96WXdLczFmdVZ5OlFXaGF0IGFyZSB0aGUgY29tbW9uIDxiPmlzc3VlczwvYj4gd2l0aCBzd2l0Y2ggPGI-MjwvYj4_IDogci88Yj5OaW50ZW5kb1N3aXRjaDwvYj5CnwFUaGUgYmlnZ2VzdCBpc3N1ZSB3aXRoIDxiPnN3aXRjaCAyPC9iPiBoYXJkd2FyZSBpbnZvbHZlcyB0aGUgc2NyZWVuLiBJbiBoYW5kaGVsZCBtb2RlLCB0aGUgc2NyZWVuIGRvZXNuJiMzOTt0IHJlZnJlc2ggcXVpdGUgYXMgZmFzdCBhcyBpdCBzaG91bGQgd2hpY2gmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Reddit \u00b7 r/NintendoSwitch",
+   "read_more_link": "https://www.reddit.com/r/NintendoSwitch/comments/1szjkw8/what_are_the_common_issues_with_switch_2/#:~:text=The%20biggest%20issue%20with%20switch,constant%20but%20hard%20to%20describe"
+  },
+  {
+   "position": 2,
+   "title": "Common issues with Nintendo Switch 2?",
+   "link": "https://www.facebook.com/groups/160110789401691/posts/1192740256138734/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFfz5mcX-gmXOOunZkiGy504gypHYbf8ss3XfdaATRicTgSnLvrYm_XhDriMvNEguhXv-MtIHLWddAmf2Z9EcjTNblfvoBO0a_3pVRPx8CkPjzfSQqZ0D_zbVljj339udcf9gOtpcGhJcK-HiZphlJm4k-eUaBjqXgiyQvvda&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECB8QAQ&uoh=1",
+   "displayed_meta": "20+ comments \u00b7 6 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Thinking about getting a switch 2 for my wife. Any common issue going on with switch 2 currently",
+   "sitelinks": {
+    "list": [
+     {
+      "title": "Nintendo Switch 2 defective issues?",
+      "link": "https://www.facebook.com/groups/SwitchCommunity/posts/2239184509879143/",
+      "date": "Jul 8, 2025"
+     },
+     {
+      "title": "What problems do you have with Nintendo Switch 2?",
+      "link": "https://www.facebook.com/groups/NintendoSwitchWorld/posts/4355776644656097/",
+      "date": "Dec 24, 2025"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Most common complaints are battery life being too short and sdcard express is expensive. Edit: one more, many 3rd party physical games are ...",
+     "source_info_link": "https://www.facebook.com/groups/160110789401691/posts/1192740256138734/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZmejVtY1gtZ21YT091blpraUd5NTA0Z3lwSFliZjhzczNYZmRhQVRSaWNUZ1NuTHZyWW1fWGhEcmlNdk5FZ3VoWHYtTXRJSExXZGRBbWYyWjlFY2pUTmJsZnZvQk8wYV8zcFZSUHg4Q2tQanpmU1FxWjBEX3piVmxqajMzOXVkY2Y5Z090cGNHaEpjSy1IaVpwaGxKbTRrLWVVYUJqcVhnaXlRdnZkYRIEGgIIABqlBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCBBQgAEAAYACAAKkQKCG5pbnRlbmRvFSYvxkAaA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVljLeQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFSWl1kAaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxUX8oQ_GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZmejVtY1gtZ21YT091blpraUd5NTA0Z3lwSFliZjhzczNYZmRhQVRSaWNUZ1NuTHZyWW1fWGhEcmlNdk5FZ3VoWHYtTXRJSExXZGRBbWYyWjlFY2pUTmJsZnZvQk8wYV8zcFZSUHg4Q2tQanpmU1FxWjBEX3piVmxqajMzOXVkY2Y5Z090cGNHaEpjSy1IaVpwaGxKbTRrLWVVYUJqcVhnaXlRdnZkYTo-Q29tbW9uIDxiPmlzc3VlczwvYj4gd2l0aCA8Yj5OaW50ZW5kbyBTd2l0Y2ggMjwvYj4_IC0gRmFjZWJvb2tCmgFNb3N0IGNvbW1vbiBjb21wbGFpbnRzIGFyZSA8Yj5iYXR0ZXJ5IGxpZmUgYmVpbmcgdG9vIHNob3J0PC9iPiBhbmQgc2RjYXJkIGV4cHJlc3MgaXMgZXhwZW5zaXZlLiBFZGl0OiBvbmUgbW9yZSwgbWFueSAzcmQgcGFydHkgcGh5c2ljYWwgZ2FtZXMgYXJlJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZmejVtY1gtZ21YT091blpraUd5NTA0Z3lwSFliZjhzczNYZmRhQVRSaWNUZ1NuTHZyWW1fWGhEcmlNdk5FZ3VoWHYtTXRJSExXZGRBbWYyWjlFY2pUTmJsZnZvQk8wYV8zcFZSUHg4Q2tQanpmU1FxWjBEX3piVmxqajMzOXVkY2Y5Z090cGNHaEpjSy1IaVpwaGxKbTRrLWVVYUJqcVhnaXlRdnZkYRIEGgIIABqlBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCBBQgAEAAYACAAKkQKCG5pbnRlbmRvFSYvxkAaA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVljLeQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFSWl1kAaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxUX8oQ_GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZmejVtY1gtZ21YT091blpraUd5NTA0Z3lwSFliZjhzczNYZmRhQVRSaWNUZ1NuTHZyWW1fWGhEcmlNdk5FZ3VoWHYtTXRJSExXZGRBbWYyWjlFY2pUTmJsZnZvQk8wYV8zcFZSUHg4Q2tQanpmU1FxWjBEX3piVmxqajMzOXVkY2Y5Z090cGNHaEpjSy1IaVpwaGxKbTRrLWVVYUJqcVhnaXlRdnZkYTo-Q29tbW9uIDxiPmlzc3VlczwvYj4gd2l0aCA8Yj5OaW50ZW5kbyBTd2l0Y2ggMjwvYj4_IC0gRmFjZWJvb2tCmgFNb3N0IGNvbW1vbiBjb21wbGFpbnRzIGFyZSA8Yj5iYXR0ZXJ5IGxpZmUgYmVpbmcgdG9vIHNob3J0PC9iPiBhbmQgc2RjYXJkIGV4cHJlc3MgaXMgZXhwZW5zaXZlLiBFZGl0OiBvbmUgbW9yZSwgbWFueSAzcmQgcGFydHkgcGh5c2ljYWwgZ2FtZXMgYXJlJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Facebook \u00b7 Nintendo Switch 2"
+  },
+  {
+   "position": 3,
+   "title": "[Digital Foundry] Nintendo Switch 2 - DF Hardware Review",
+   "link": "https://famiboards.com/threads/digital-foundry-nintendo-switch-2-df-hardware-review-a-satisfying-upgrade-but-display-issues-are-problematic.14191/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEB6zswFe0mqbeCSoVG2WSRvleo3Ew4OtpM3DF4KFpZV17yui8WWGRxqLGjc6CYxKp42GPgJIoos1QFnbM5KY3aj_RzMekI9fUVdfBcCusM4dScUDxGhLnRYZCBsnK1QFhzlAV7JCS3b6YTh0r1X_7Jk4lSiYzJAzTgOj9F9OsTN2xbAPH2OUEHqQGjO81WciWntHcMy3M4syd3ILDhKdbrPvXRkjDpwY5UYtCLpOg32uPlp8HWiEfEr9zpR6d6Vtwa6PeQTfPjsZVneOaxag&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECBYQAQ&uoh=1",
+   "displayed_link": "https://famiboards.com \u203a Player's Pulse \u203a Treehouse",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcEzkKSrmMjXnLzPkAA_kCBLkAA_lBxLlExvkAA_kAA7lEhroQ0bkAA7kAA0lzHqmAAAADXRSTlMAIFE41_5eRAjmmSoS5734ugAAAHNJREFUKJHN0cEOgCAIgGFM1Mzg_R83bMmk4alL_0XdNw8iwB8LTvtAYmaycVR08hEBVzcZ5XwsUCzc6qBYptxVMdWK-FiRpWuxj1W7VdslgKZmNMmx9s0w5mywa5ye1AxSLTQVLS7G9wHfHzbPdnM64YddfEUNwrMGMYEAAAAASUVORK5CYII.png",
+   "date": "Jun 21, 2025",
+   "snippet": "But Display Issues Are Problematic. The screen is pretty abysmal for a $500 device in 2025. Between the horrid contrast and the lack of updates ...",
+   "snippet_highlighted_words": [
+    "Display Issues Are Problematic"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "But Display Issues Are Problematic. The screen is pretty abysmal for a $500 device in 2025. Between the horrid contrast and the lack of updates ...",
+     "source_info_link": "https://famiboards.com/threads/digital-foundry-nintendo-switch-2-df-hardware-review-a-satisfying-upgrade-but-display-issues-are-problematic.14191/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcEzkKSrmMjXnLzPkAA_kCBLkAA_lBxLlExvkAA_kAA7lEhroQ0bkAA7kAA0lzHqmAAAADXRSTlMAIFE41_5eRAjmmSoS5734ugAAAHNJREFUKJHN0cEOgCAIgGFM1Mzg_R83bMmk4alL_0XdNw8iwB8LTvtAYmaycVR08hEBVzcZ5XwsUCzc6qBYptxVMdWK-FiRpWuxj1W7VdslgKZmNMmx9s0w5mywa5ye1AxSLTQVLS7G9wHfHzbPdnM64YddfEUNwrMGMYEAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZlMG1xYmVDU29WRzJXU1J2bGVvM0V3NE90cE0zREY0S0ZwWlYxN3l1aThXV0dSeHFMR2pjNkNZeEtwNDJHUGdKSW9vczFRRm5iTTVLWTNhal9Sek1la0k5ZlVWZGZCY0N1c000ZFNjVUR4R2hMblJZWkNCc25LMVFGaHpsQVY3SkNTM2I2WVRoMHIxWF83Sms0bFNpWXpKQXpUZ09qOUY5T3NUTjJ4YkFQSDJPVUVIcVFHak84MVdjaVdudEhjTXkzTTRzeWQzSUxEaEtkYnJQdlhSa2pEcHdZNVVZdENMcE9nMzJ1UGxwOEhXaUVmRXI5enBSNmQ2VnR3YTZQZVFUZlBqc1pWbmVPYXhhZxIEGgIIABqRBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDtBQgAEAAYACAAKkQKCG5pbnRlbmRvFYR4lkAaA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVLPqKQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFc0LkUAaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxUwLZc-GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZlMG1xYmVDU29WRzJXU1J2bGVvM0V3NE90cE0zREY0S0ZwWlYxN3l1aThXV0dSeHFMR2pjNkNZeEtwNDJHUGdKSW9vczFRRm5iTTVLWTNhal9Sek1la0k5ZlVWZGZCY0N1c000ZFNjVUR4R2hMblJZWkNCc25LMVFGaHpsQVY3SkNTM2I2WVRoMHIxWF83Sms0bFNpWXpKQXpUZ09qOUY5T3NUTjJ4YkFQSDJPVUVIcVFHak84MVdjaVdudEhjTXkzTTRzeWQzSUxEaEtkYnJQdlhSa2pEcHdZNVVZdENMcE9nMzJ1UGxwOEhXaUVmRXI5enBSNmQ2VnR3YTZQZVFUZlBqc1pWbmVPYXhhZzo_W0RpZ2l0YWwgRm91bmRyeV0gPGI-TmludGVuZG8gU3dpdGNoIDI8L2I-IC0gREYgSGFyZHdhcmUgUmV2aWV3Qp8BQnV0IDxiPkRpc3BsYXkgSXNzdWVzIEFyZSBQcm9ibGVtYXRpYzwvYj4uIFRoZSBzY3JlZW4gaXMgcHJldHR5IGFieXNtYWwgZm9yIGEgJDUwMCBkZXZpY2UgaW4gMjAyNS4gQmV0d2VlbiB0aGUgaG9ycmlkIGNvbnRyYXN0IGFuZCB0aGUgbGFjayBvZiB1cGRhdGVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZlMG1xYmVDU29WRzJXU1J2bGVvM0V3NE90cE0zREY0S0ZwWlYxN3l1aThXV0dSeHFMR2pjNkNZeEtwNDJHUGdKSW9vczFRRm5iTTVLWTNhal9Sek1la0k5ZlVWZGZCY0N1c000ZFNjVUR4R2hMblJZWkNCc25LMVFGaHpsQVY3SkNTM2I2WVRoMHIxWF83Sms0bFNpWXpKQXpUZ09qOUY5T3NUTjJ4YkFQSDJPVUVIcVFHak84MVdjaVdudEhjTXkzTTRzeWQzSUxEaEtkYnJQdlhSa2pEcHdZNVVZdENMcE9nMzJ1UGxwOEhXaUVmRXI5enBSNmQ2VnR3YTZQZVFUZlBqc1pWbmVPYXhhZxIEGgIIABqRBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDtBQgAEAAYACAAKkQKCG5pbnRlbmRvFYR4lkAaA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVLPqKQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFc0LkUAaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxUwLZc-GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZlMG1xYmVDU29WRzJXU1J2bGVvM0V3NE90cE0zREY0S0ZwWlYxN3l1aThXV0dSeHFMR2pjNkNZeEtwNDJHUGdKSW9vczFRRm5iTTVLWTNhal9Sek1la0k5ZlVWZGZCY0N1c000ZFNjVUR4R2hMblJZWkNCc25LMVFGaHpsQVY3SkNTM2I2WVRoMHIxWF83Sms0bFNpWXpKQXpUZ09qOUY5T3NUTjJ4YkFQSDJPVUVIcVFHak84MVdjaVdudEhjTXkzTTRzeWQzSUxEaEtkYnJQdlhSa2pEcHdZNVVZdENMcE9nMzJ1UGxwOEhXaUVmRXI5enBSNmQ2VnR3YTZQZVFUZlBqc1pWbmVPYXhhZzo_W0RpZ2l0YWwgRm91bmRyeV0gPGI-TmludGVuZG8gU3dpdGNoIDI8L2I-IC0gREYgSGFyZHdhcmUgUmV2aWV3Qp8BQnV0IDxiPkRpc3BsYXkgSXNzdWVzIEFyZSBQcm9ibGVtYXRpYzwvYj4uIFRoZSBzY3JlZW4gaXMgcHJldHR5IGFieXNtYWwgZm9yIGEgJDUwMCBkZXZpY2UgaW4gMjAyNS4gQmV0d2VlbiB0aGUgaG9ycmlkIGNvbnRyYXN0IGFuZCB0aGUgbGFjayBvZiB1cGRhdGVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Famiboards"
+  },
+  {
+   "position": 4,
+   "title": "Topic: Nintendo Switch 2 Bugs and Issues",
+   "link": "https://www.nintendolife.com/forums/nintendo-switch-2/nintendo_switch_2_bugs_and_issues",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFcOhMggliHb-EYH5rsv9MK1rJjZjzwoADg5fY1nKqVDtCQLVl0oxsttB6JI74AEh5qarmCXbiwtpZt-Hew2VBP0kNxV19QnzCS_rGhaAsG1ThfDw1cyYnAxtF76Die_BJu0klI6Xucl1_4EtPZHwEX8imY9wl2DIii8cLHTV7p7bq3udZs0FuOQIpjXfdA&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://www.nintendolife.com \u203a ... \u203a Nintendo Switch 2",
+   "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAAAQBQCdASocABwAPtEutFooIagoGAEAGglkAASZ3k2ZZ_EVAZUFpZ3Wrz-fnthSPd8AAP792UPk2gQ7xqEg60zryVef9dsaohutHUFbZ1rhb75dlVu3ccbq_9vSVCQ_13_8WFZOXPbfxe2rJYrd36z8rsWsNbJS4FxUbFvt6tQk3diEYcAUDqnr3_hS-6H058G_64sb-K7H95NsR544p-_-_sxwtQnzn7X376v_0tuvNpSo3ZR6GnDWgscwFmgempzd3nqVoQ4XZH8Tt6XLn9t3XSku7lSxta19xiTWRelWmiqnZ76Ndf5_2jXIAA.webp",
+   "date": "Jun 4, 2025",
+   "snippet": "Firstly, the release button on the left joycon seems to be a bit more loose than the right joycon. The right joycon is stuck in place until you ...",
+   "snippet_highlighted_words": [
+    "release button on the left joycon seems to be a bit more loose than the right joycon"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Firstly, the release button on the left joycon seems to be a bit more loose than the right joycon. The right joycon is stuck in place until you ...",
+     "source_info_link": "https://www.nintendolife.com/forums/nintendo-switch-2/nintendo_switch_2_bugs_and_issues",
+     "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAAAQBQCdASocABwAPtEutFooIagoGAEAGglkAASZ3k2ZZ_EVAZUFpZ3Wrz-fnthSPd8AAP792UPk2gQ7xqEg60zryVef9dsaohutHUFbZ1rhb75dlVu3ccbq_9vSVCQ_13_8WFZOXPbfxe2rJYrd36z8rsWsNbJS4FxUbFvt6tQk3diEYcAUDqnr3_hS-6H058G_64sb-K7H95NsR544p-_-_sxwtQnzn7X376v_0tuvNpSo3ZR6GnDWgscwFmgempzd3nqVoQ4XZH8Tt6XLn9t3XSku7lSxta19xiTWRelWmiqnZ76Ndf5_2jXIAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZjT2hNZ2dsaUhiLUVZSDVyc3Y5TUsxckpqWmp6d29BRGc1ZlkxbktxVkR0Q1FMVmwwb3hzdHRCNkpJNzRBRWg1cWFybUNYYml3dHBadC1IZXcyVkJQMGtOeFYxOVFuekNTX3JHaGFBc0cxVGhmRHcxY3lZbkF4dEY3NkRpZV9CSnUwa2xJNlh1Y2wxXzRFdFBaSHdFWDhpbVk5d2wyRElpaThjTEhUVjdwN2JxM3VkWnMwRnVPUUlwalhmZEESBBoCCAAauAUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlAUIABAAGAAgACpECghuaW50ZW5kbxUQhc5AGgNuZXMaDm5pbnRlbmRvc3dpdGNoGg9uaW50ZW5kb3N3aXRjaDIaDWl2O3A7bmludGVuZG8qNwoGc3dpdGNoFTjF3UAaDm5pbnRlbmRvc3dpdGNoGg9uaW50ZW5kb3N3aXRjaDIaB3N3aXRjaDIqIgoBMhU4491AGg9uaW50ZW5kb3N3aXRjaDIaB3N3aXRjaDIqNgoIcHJvYmxlbXMVheXMPhoDZml4GgZpc3N1ZXMaB3Byb2JsZW0aD3Ryb3VibGVzaG9vdGluZzLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGY09oTWdnbGlIYi1FWUg1cnN2OU1LMXJKalpqendvQURnNWZZMW5LcVZEdENRTFZsMG94c3R0QjZKSTc0QUVoNXFhcm1DWGJpd3RwWnQtSGV3MlZCUDBrTnhWMTlRbnpDU19yR2hhQXNHMVRoZkR3MWN5WW5BeHRGNzZEaWVfQkp1MGtsSTZYdWNsMV80RXRQWkh3RVg4aW1ZOXdsMkRJaWk4Y0xIVFY3cDdicTN1ZFpzMEZ1T1FJcGpYZmRBOjZUb3BpYzogPGI-TmludGVuZG8gU3dpdGNoIDI8L2I-IEJ1Z3MgYW5kIDxiPklzc3VlczwvYj5CnwFGaXJzdGx5LCB0aGUgPGI-cmVsZWFzZSBidXR0b24gb24gdGhlIGxlZnQgam95Y29uIHNlZW1zIHRvIGJlIGEgYml0IG1vcmUgbG9vc2UgdGhhbiB0aGUgcmlnaHQgam95Y29uPC9iPi4gVGhlIHJpZ2h0IGpveWNvbiBpcyBzdHVjayBpbiBwbGFjZSB1bnRpbCB5b3UmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZjT2hNZ2dsaUhiLUVZSDVyc3Y5TUsxckpqWmp6d29BRGc1ZlkxbktxVkR0Q1FMVmwwb3hzdHRCNkpJNzRBRWg1cWFybUNYYml3dHBadC1IZXcyVkJQMGtOeFYxOVFuekNTX3JHaGFBc0cxVGhmRHcxY3lZbkF4dEY3NkRpZV9CSnUwa2xJNlh1Y2wxXzRFdFBaSHdFWDhpbVk5d2wyRElpaThjTEhUVjdwN2JxM3VkWnMwRnVPUUlwalhmZEESBBoCCAAauAUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlAUIABAAGAAgACpECghuaW50ZW5kbxUQhc5AGgNuZXMaDm5pbnRlbmRvc3dpdGNoGg9uaW50ZW5kb3N3aXRjaDIaDWl2O3A7bmludGVuZG8qNwoGc3dpdGNoFTjF3UAaDm5pbnRlbmRvc3dpdGNoGg9uaW50ZW5kb3N3aXRjaDIaB3N3aXRjaDIqIgoBMhU4491AGg9uaW50ZW5kb3N3aXRjaDIaB3N3aXRjaDIqNgoIcHJvYmxlbXMVheXMPhoDZml4GgZpc3N1ZXMaB3Byb2JsZW0aD3Ryb3VibGVzaG9vdGluZzLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGY09oTWdnbGlIYi1FWUg1cnN2OU1LMXJKalpqendvQURnNWZZMW5LcVZEdENRTFZsMG94c3R0QjZKSTc0QUVoNXFhcm1DWGJpd3RwWnQtSGV3MlZCUDBrTnhWMTlRbnpDU19yR2hhQXNHMVRoZkR3MWN5WW5BeHRGNzZEaWVfQkp1MGtsSTZYdWNsMV80RXRQWkh3RVg4aW1ZOXdsMkRJaWk4Y0xIVFY3cDdicTN1ZFpzMEZ1T1FJcGpYZmRBOjZUb3BpYzogPGI-TmludGVuZG8gU3dpdGNoIDI8L2I-IEJ1Z3MgYW5kIDxiPklzc3VlczwvYj5CnwFGaXJzdGx5LCB0aGUgPGI-cmVsZWFzZSBidXR0b24gb24gdGhlIGxlZnQgam95Y29uIHNlZW1zIHRvIGJlIGEgYml0IG1vcmUgbG9vc2UgdGhhbiB0aGUgcmlnaHQgam95Y29uPC9iPi4gVGhlIHJpZ2h0IGpveWNvbiBpcyBzdHVjayBpbiBwbGFjZSB1bnRpbCB5b3UmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Nintendo Life",
+   "read_more_link": "https://www.nintendolife.com/forums/nintendo-switch-2/nintendo_switch_2_bugs_and_issues#:~:text=Firstly%2C%20the%20release%20button%20on,before%20getting%20stuck%20in%20place."
+  },
+  {
+   "position": 5,
+   "title": "Nintendo switch 2 gameplay practically broken",
+   "link": "https://us.forums.blizzard.com/en/d4/t/nintendo-switch-2-gameplay-practically-broken/268065",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFWZgZ8FFiOc8BebVuli1BeUvfBfM9KDBl7guWsFMRoL8mc9PY6GfphvqmtpkaRGW9CymiReS29NACkf0wnTcigd9lSNJsA41vyeC4QsWc3MBfZqZ8PNbt8TWgCno2n97kRfTrdzoh7pzYuL2-MuPtmzoWKKLbyacCy5dpVQPFIgoH-6LvOygVR3JE91Af9ACubI&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://us.forums.blizzard.com \u203a nintendo-switch-2-gam...",
+   "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACwBQCdASocABwAPtEutFooIagoGAEAGglsAHjRxBBgBvuGBag35zBoQFhQm2avf3daLO9AogAA_vYBdojMHu2iri6ubr0uLLrTBq3M_MWzj1RRux_pkDSGad5_nCCkTP2SMR__3PeZUBEn_3FD5uQCTN9F5rY__emdbcWz-8Z-R7lIna_8Ft2SpcTsF2oeoamxOL91VI60_HhVnW24gyVqZIP9JG93QRMP-d1y-K7O-TP-rLtOkozv-0-ddXVgawRHdisIjvvi4nCD7T0AWxqvY3mlcgVs4NpEMs76jyu3aaPpbL8gEzNxM2QvQMMIJO4QePltNu5Vsskkx7l4pAAA.webp",
+   "date": "Sep 18, 2026",
+   "snippet": "UPDATE: Tree of whispers is working again. The infernal hoard in party play issue. LoH skills are now selectable in the skill tree! Nintendo ...",
+   "snippet_highlighted_words": [
+    "Tree of whispers is working again"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "UPDATE: Tree of whispers is working again. The infernal hoard in party play issue. LoH skills are now selectable in the skill tree! Nintendo ...",
+     "source_info_link": "https://us.forums.blizzard.com/en/d4/t/nintendo-switch-2-gameplay-practically-broken/268065",
+     "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACwBQCdASocABwAPtEutFooIagoGAEAGglsAHjRxBBgBvuGBag35zBoQFhQm2avf3daLO9AogAA_vYBdojMHu2iri6ubr0uLLrTBq3M_MWzj1RRux_pkDSGad5_nCCkTP2SMR__3PeZUBEn_3FD5uQCTN9F5rY__emdbcWz-8Z-R7lIna_8Ft2SpcTsF2oeoamxOL91VI60_HhVnW24gyVqZIP9JG93QRMP-d1y-K7O-TP-rLtOkozv-0-ddXVgawRHdisIjvvi4nCD7T0AWxqvY3mlcgVs4NpEMs76jyu3aaPpbL8gEzNxM2QvQMMIJO4QePltNu5Vsskkx7l4pAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXWmdaOEZGaU9jOEJlYlZ1bGkxQmVVdmZCZk05S0RCbDdndVdzRk1Sb0w4bWM5UFk2R2ZwaHZxbXRwa2FSR1c5Q3ltaVJlUzI5TkFDa2Ywd25UY2lnZDlsU05Kc0E0MXZ5ZUM0UXNXYzNNQmZacVo4UE5idDhUV2dDbm8ybjk3a1JmVHJkem9oN3B6WXVMMi1NdVB0bXpvV0tLTGJ5YWNDeTVkcFZRUEZJZ29ILTZMdk95Z1ZSM0pFOTFBZjlBQ3ViSRIEGgIIABq4BRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCUBQgAEAAYACAAKkQKCG5pbnRlbmRvFb7FkEAaA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVnDufQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFWP2pUAaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxVGLq4-GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXWmdaOEZGaU9jOEJlYlZ1bGkxQmVVdmZCZk05S0RCbDdndVdzRk1Sb0w4bWM5UFk2R2ZwaHZxbXRwa2FSR1c5Q3ltaVJlUzI5TkFDa2Ywd25UY2lnZDlsU05Kc0E0MXZ5ZUM0UXNXYzNNQmZacVo4UE5idDhUV2dDbm8ybjk3a1JmVHJkem9oN3B6WXVMMi1NdVB0bXpvV0tLTGJ5YWNDeTVkcFZRUEZJZ29ILTZMdk95Z1ZSM0pFOTFBZjlBQ3ViSTo0PGI-TmludGVuZG8gc3dpdGNoIDI8L2I-IGdhbWVwbGF5IHByYWN0aWNhbGx5IGJyb2tlbkKcAVVQREFURTogPGI-VHJlZSBvZiB3aGlzcGVycyBpcyB3b3JraW5nIGFnYWluPC9iPi4gVGhlIGluZmVybmFsIGhvYXJkIGluIHBhcnR5IHBsYXkgaXNzdWUuIExvSCBza2lsbHMgYXJlIG5vdyBzZWxlY3RhYmxlIGluIHRoZSBza2lsbCB0cmVlISBOaW50ZW5kbyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXWmdaOEZGaU9jOEJlYlZ1bGkxQmVVdmZCZk05S0RCbDdndVdzRk1Sb0w4bWM5UFk2R2ZwaHZxbXRwa2FSR1c5Q3ltaVJlUzI5TkFDa2Ywd25UY2lnZDlsU05Kc0E0MXZ5ZUM0UXNXYzNNQmZacVo4UE5idDhUV2dDbm8ybjk3a1JmVHJkem9oN3B6WXVMMi1NdVB0bXpvV0tLTGJ5YWNDeTVkcFZRUEZJZ29ILTZMdk95Z1ZSM0pFOTFBZjlBQ3ViSRIEGgIIABq4BRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCUBQgAEAAYACAAKkQKCG5pbnRlbmRvFb7FkEAaA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVnDufQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFWP2pUAaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxVGLq4-GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXWmdaOEZGaU9jOEJlYlZ1bGkxQmVVdmZCZk05S0RCbDdndVdzRk1Sb0w4bWM5UFk2R2ZwaHZxbXRwa2FSR1c5Q3ltaVJlUzI5TkFDa2Ywd25UY2lnZDlsU05Kc0E0MXZ5ZUM0UXNXYzNNQmZacVo4UE5idDhUV2dDbm8ybjk3a1JmVHJkem9oN3B6WXVMMi1NdVB0bXpvV0tLTGJ5YWNDeTVkcFZRUEZJZ29ILTZMdk95Z1ZSM0pFOTFBZjlBQ3ViSTo0PGI-TmludGVuZG8gc3dpdGNoIDI8L2I-IGdhbWVwbGF5IHByYWN0aWNhbGx5IGJyb2tlbkKcAVVQREFURTogPGI-VHJlZSBvZiB3aGlzcGVycyBpcyB3b3JraW5nIGFnYWluPC9iPi4gVGhlIGluZmVybmFsIGhvYXJkIGluIHBhcnR5IHBsYXkgaXNzdWUuIExvSCBza2lsbHMgYXJlIG5vdyBzZWxlY3RhYmxlIGluIHRoZSBza2lsbCB0cmVlISBOaW50ZW5kbyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Blizzard Forums"
+  },
+  {
+   "position": 6,
+   "title": "Any known early defects that have showed up from Switch 2 ...",
+   "link": "https://gamefaqs.gamespot.com/boards/507478-nintendo-switch-2/81027727",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFRYrDyd37dg1b0VUYG4mSy1NUH06FdVB8luzI0yvkKoAYBLfouKlMMQVJ5LeX8QduAj29L-5Oy7A_bL3DQSPruvOt31-2JCRenWAEM_ecJsFhd8Ce315Ey8t9XgrGEHFEx5svUNYk0NLASVOHUlKfYk3vpzXu8Vk1GuhpK8&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://gamefaqs.gamespot.com \u203a ... \u203a Hardware \u203a Console",
+   "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADQBgCdASogACAAPtEutFooIagoGAEAGglqAJ0gmvppXB3yx6jv0HtHdwkWs8G9LazEW37AN-iYlum8LZiFbIAA_uNJgmuWhgfDN19cJ_RXfTfgkMuuhVnNUiotrg6oj74noyCCg1zmER6DWxA_rwxNrfWs3PYSQyspPkxXGqYeIOnPXp8C_Qqz7tfjYDb0ii7fYrjBt72Bi_eYTc88bAIT0j3IXmsXFUBp2TLteLfsH1hnUTnVVf_DjwB1u6uFRuzH8G7GP_9dmQWRMl-OmtkvnYeBGhpeHw36aDWSHLkwWKWUv_PaYdGKd50qnTv8WuBqnwnoe9UE4y7bIJgae0ENvPf5PcN9JHbwROgYpgCU1-myJGDJc6-kbB2xhuKo8Ucc3GXQmdJ9OhO4lbQFgn6daudww4Z5pQOk71Cu-Nd759ET9krPkUZtEm-4ugjKG8rgFyAA.webp",
+   "date": "Aug 16, 2025",
+   "snippet": "Battery issues, like the battery not holding a charge properly, beyond the common desync most of the batteries suffer, this one is more like a ...",
+   "snippet_highlighted_words": [
+    "Battery issues"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Battery issues, like the battery not holding a charge properly, beyond the common desync most of the batteries suffer, this one is more like a ...",
+     "source_info_link": "https://gamefaqs.gamespot.com/boards/507478-nintendo-switch-2/81027727",
+     "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADQBgCdASogACAAPtEutFooIagoGAEAGglqAJ0gmvppXB3yx6jv0HtHdwkWs8G9LazEW37AN-iYlum8LZiFbIAA_uNJgmuWhgfDN19cJ_RXfTfgkMuuhVnNUiotrg6oj74noyCCg1zmER6DWxA_rwxNrfWs3PYSQyspPkxXGqYeIOnPXp8C_Qqz7tfjYDb0ii7fYrjBt72Bi_eYTc88bAIT0j3IXmsXFUBp2TLteLfsH1hnUTnVVf_DjwB1u6uFRuzH8G7GP_9dmQWRMl-OmtkvnYeBGhpeHw36aDWSHLkwWKWUv_PaYdGKd50qnTv8WuBqnwnoe9UE4y7bIJgae0ENvPf5PcN9JHbwROgYpgCU1-myJGDJc6-kbB2xhuKo8Ucc3GXQmdJ9OhO4lbQFgn6daudww4Z5pQOk71Cu-Nd759ET9krPkUZtEm-4ugjKG8rgFyAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZSWXJEeWQzN2RnMWIwVlVZRzRtU3kxTlVIMDZGZFZCOGx1ekkweXZrS29BWUJMZm91S2xNTVFWSjVMZVg4UWR1QWoyOUwtNU95N0FfYkwzRFFTUHJ1dk90MzEtMkpDUmVuV0FFTV9lY0pzRmhkOENlMzE1RXk4dDlYZ3JHRUhGRXg1c3ZVTllrME5MQVNWT0hVbEtmWWszdnB6WHU4VmsxR3VocEs4EgQaAggAGq4FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIoFCAAQABgAIAAqRAoIbmludGVuZG8VDuIXQBoDbmVzGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGg1pdjtwO25pbnRlbmRvKjcKBnN3aXRjaBWmPp9AGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKiIKATIVfUetQBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKjYKCHByb2JsZW1zFQAAAAAaA2ZpeBoGaXNzdWVzGgdwcm9ibGVtGg90cm91Ymxlc2hvb3RpbmcyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlJZckR5ZDM3ZGcxYjBWVVlHNG1TeTFOVUgwNkZkVkI4bHV6STB5dmtLb0FZQkxmb3VLbE1NUVZKNUxlWDhRZHVBajI5TC01T3k3QV9iTDNEUVNQcnV2T3QzMS0ySkNSZW5XQUVNX2VjSnNGaGQ4Q2UzMTVFeTh0OVhnckdFSEZFeDVzdlVOWWswTkxBU1ZPSFVsS2ZZazN2cHpYdThWazFHdWhwSzg6REFueSBrbm93biBlYXJseSBkZWZlY3RzIHRoYXQgaGF2ZSBzaG93ZWQgdXAgZnJvbSA8Yj5Td2l0Y2ggMjwvYj4gLi4uQp4BPGI-QmF0dGVyeSBpc3N1ZXM8L2I-LCBsaWtlIHRoZSBiYXR0ZXJ5IG5vdCBob2xkaW5nIGEgY2hhcmdlIHByb3Blcmx5LCBiZXlvbmQgdGhlIGNvbW1vbiBkZXN5bmMgbW9zdCBvZiB0aGUgYmF0dGVyaWVzIHN1ZmZlciwgdGhpcyBvbmUgaXMgbW9yZSBsaWtlIGEmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZSWXJEeWQzN2RnMWIwVlVZRzRtU3kxTlVIMDZGZFZCOGx1ekkweXZrS29BWUJMZm91S2xNTVFWSjVMZVg4UWR1QWoyOUwtNU95N0FfYkwzRFFTUHJ1dk90MzEtMkpDUmVuV0FFTV9lY0pzRmhkOENlMzE1RXk4dDlYZ3JHRUhGRXg1c3ZVTllrME5MQVNWT0hVbEtmWWszdnB6WHU4VmsxR3VocEs4EgQaAggAGq4FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIoFCAAQABgAIAAqRAoIbmludGVuZG8VDuIXQBoDbmVzGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGg1pdjtwO25pbnRlbmRvKjcKBnN3aXRjaBWmPp9AGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKiIKATIVfUetQBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKjYKCHByb2JsZW1zFQAAAAAaA2ZpeBoGaXNzdWVzGgdwcm9ibGVtGg90cm91Ymxlc2hvb3RpbmcyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlJZckR5ZDM3ZGcxYjBWVVlHNG1TeTFOVUgwNkZkVkI4bHV6STB5dmtLb0FZQkxmb3VLbE1NUVZKNUxlWDhRZHVBajI5TC01T3k3QV9iTDNEUVNQcnV2T3QzMS0ySkNSZW5XQUVNX2VjSnNGaGQ4Q2UzMTVFeTh0OVhnckdFSEZFeDVzdlVOWWswTkxBU1ZPSFVsS2ZZazN2cHpYdThWazFHdWhwSzg6REFueSBrbm93biBlYXJseSBkZWZlY3RzIHRoYXQgaGF2ZSBzaG93ZWQgdXAgZnJvbSA8Yj5Td2l0Y2ggMjwvYj4gLi4uQp4BPGI-QmF0dGVyeSBpc3N1ZXM8L2I-LCBsaWtlIHRoZSBiYXR0ZXJ5IG5vdCBob2xkaW5nIGEgY2hhcmdlIHByb3Blcmx5LCBiZXlvbmQgdGhlIGNvbW1vbiBkZXN5bmMgbW9zdCBvZiB0aGUgYmF0dGVyaWVzIHN1ZmZlciwgdGhpcyBvbmUgaXMgbW9yZSBsaWtlIGEmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "GameFAQs",
+   "read_more_link": "https://gamefaqs.gamespot.com/boards/507478-nintendo-switch-2/81027727#:~:text=Battery%20issues%2C%20like%20the%20battery,more%20like%20a%20defective%20battery."
+  },
+  {
+   "position": 7,
+   "title": "Nintendo Switch 2 Not Connecting to TV? Expert ...",
+   "link": "https://www.justanswer.com/game-systems/ux4xj-switch-2-console-not-connecting-tv.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFYsOPx3ILTe5DBvFQU1PFihC3qj1_MJ57FXPQO7WiUjMe54-2TB76WelGEAh_unIc8137Utr4suF2j_z43i9MZ44wELONa-dhPDDlLluAtneAaillQKGuuFzLljfsO4V7GJzqI6I_kcyG7TwpH6z7C2ueg8icNnjOK_wu_7DAmgV_o50uJRMulGs2nY&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://www.justanswer.com \u203a game-systems \u203a ux4xj-sw...",
+   "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0vPZVmMtLIB2BBgOtig4F6ViIrZ72d3P1fWG-5pYCxeznkAP72B2idR2sA9FhWq6ugJikbQGqqOOjwtHRlcBciD6C-1QREedw623Kcp11kS9cTB2742h9ghO1qyMJH8m6XlTnVvfV0nEvzwPYvm6XsrovVoCGYhKt_h_nGG_ZLOdjGC-qgYl6eadcxpWXdMagKVUXsyH6MiGGHNbfeP4FGt5AdXHlr0s3kfHYAPYj2Gofa7cM-23dj5JgdXoPU5g0dBsKQbrMxCotzuM8VpQjT9q1QkOnYnBafWJdCwUKqNHceVI-RxP6Q6xg9QaOEwuBgZ6vivlwdgOUoJceWgoAAAA.webp",
+   "date": "Mar 29, 2026",
+   "snippet": "If your Switch 2 console isn't first check the HDMI cable for damage or loose connections. Try using a different HDMI port on the TV.",
+   "snippet_highlighted_words": [
+    "check the HDMI cable for damage or loose connections"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "If your Switch 2 console isn't first check the HDMI cable for damage or loose connections. Try using a different HDMI port on the TV.",
+     "source_info_link": "https://www.justanswer.com/game-systems/ux4xj-switch-2-console-not-connecting-tv.html",
+     "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0vPZVmMtLIB2BBgOtig4F6ViIrZ72d3P1fWG-5pYCxeznkAP72B2idR2sA9FhWq6ugJikbQGqqOOjwtHRlcBciD6C-1QREedw623Kcp11kS9cTB2742h9ghO1qyMJH8m6XlTnVvfV0nEvzwPYvm6XsrovVoCGYhKt_h_nGG_ZLOdjGC-qgYl6eadcxpWXdMagKVUXsyH6MiGGHNbfeP4FGt5AdXHlr0s3kfHYAPYj2Gofa7cM-23dj5JgdXoPU5g0dBsKQbrMxCotzuM8VpQjT9q1QkOnYnBafWJdCwUKqNHceVI-RxP6Q6xg9QaOEwuBgZ6vivlwdgOUoJceWgoAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZZc09QeDNJTFRlNURCdkZRVTFQRmloQzNxajFfTUo1N0ZYUFFPN1dpVWpNZTU0LTJUQjc2V2VsR0VBaF91bkljODEzN1V0cjRzdUYyal96NDNpOU1aNDR3RUxPTmEtZGhQRERsTGx1QXRuZUFhaWxsUUtHdXVGekxsamZzTzRWN0dKenFJNklfa2N5RzdUd3BINno3QzJ1ZWc4aWNObmpPS193dV83REFtZ1ZfbzUwdUpSTXVsR3MyblkSBBoCCAAatgUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkgUIABAAGAAgACpECghuaW50ZW5kbxWsYY9AGgNuZXMaDm5pbnRlbmRvc3dpdGNoGg9uaW50ZW5kb3N3aXRjaDIaDWl2O3A7bmludGVuZG8qNwoGc3dpdGNoFaTPxUAaDm5pbnRlbmRvc3dpdGNoGg9uaW50ZW5kb3N3aXRjaDIaB3N3aXRjaDIqIgoBMhV6kblAGg9uaW50ZW5kb3N3aXRjaDIaB3N3aXRjaDIqNgoIcHJvYmxlbXMV4QkBPxoDZml4GgZpc3N1ZXMaB3Byb2JsZW0aD3Ryb3VibGVzaG9vdGluZzLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGWXNPUHgzSUxUZTVEQnZGUVUxUEZpaEMzcWoxX01KNTdGWFBRTzdXaVVqTWU1NC0yVEI3NldlbEdFQWhfdW5JYzgxMzdVdHI0c3VGMmpfejQzaTlNWjQ0d0VMT05hLWRoUEREbExsdUF0bmVBYWlsbFFLR3V1RnpMbGpmc080VjdHSnpxSTZJX2tjeUc3VHdwSDZ6N0MydWVnOGljTm5qT0tfd3VfN0RBbWdWX281MHVKUk11bEdzMm5ZOkY8Yj5OaW50ZW5kbyBTd2l0Y2ggMjwvYj4gTm90IENvbm5lY3RpbmcgdG8gVFY_IEV4cGVydCAuLi4gLSBKdXN0QW5zd2VyQpABSWYgeW91ciBTd2l0Y2ggMiBjb25zb2xlIGlzbiYjMzk7dCBmaXJzdCA8Yj5jaGVjayB0aGUgSERNSSBjYWJsZSBmb3IgZGFtYWdlIG9yIGxvb3NlIGNvbm5lY3Rpb25zPC9iPi4gVHJ5IHVzaW5nIGEgZGlmZmVyZW50IEhETUkgcG9ydCBvbiB0aGUgVFYuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZZc09QeDNJTFRlNURCdkZRVTFQRmloQzNxajFfTUo1N0ZYUFFPN1dpVWpNZTU0LTJUQjc2V2VsR0VBaF91bkljODEzN1V0cjRzdUYyal96NDNpOU1aNDR3RUxPTmEtZGhQRERsTGx1QXRuZUFhaWxsUUtHdXVGekxsamZzTzRWN0dKenFJNklfa2N5RzdUd3BINno3QzJ1ZWc4aWNObmpPS193dV83REFtZ1ZfbzUwdUpSTXVsR3MyblkSBBoCCAAatgUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkgUIABAAGAAgACpECghuaW50ZW5kbxWsYY9AGgNuZXMaDm5pbnRlbmRvc3dpdGNoGg9uaW50ZW5kb3N3aXRjaDIaDWl2O3A7bmludGVuZG8qNwoGc3dpdGNoFaTPxUAaDm5pbnRlbmRvc3dpdGNoGg9uaW50ZW5kb3N3aXRjaDIaB3N3aXRjaDIqIgoBMhV6kblAGg9uaW50ZW5kb3N3aXRjaDIaB3N3aXRjaDIqNgoIcHJvYmxlbXMV4QkBPxoDZml4GgZpc3N1ZXMaB3Byb2JsZW0aD3Ryb3VibGVzaG9vdGluZzLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGWXNPUHgzSUxUZTVEQnZGUVUxUEZpaEMzcWoxX01KNTdGWFBRTzdXaVVqTWU1NC0yVEI3NldlbEdFQWhfdW5JYzgxMzdVdHI0c3VGMmpfejQzaTlNWjQ0d0VMT05hLWRoUEREbExsdUF0bmVBYWlsbFFLR3V1RnpMbGpmc080VjdHSnpxSTZJX2tjeUc3VHdwSDZ6N0MydWVnOGljTm5qT0tfd3VfN0RBbWdWX281MHVKUk11bEdzMm5ZOkY8Yj5OaW50ZW5kbyBTd2l0Y2ggMjwvYj4gTm90IENvbm5lY3RpbmcgdG8gVFY_IEV4cGVydCAuLi4gLSBKdXN0QW5zd2VyQpABSWYgeW91ciBTd2l0Y2ggMiBjb25zb2xlIGlzbiYjMzk7dCBmaXJzdCA8Yj5jaGVjayB0aGUgSERNSSBjYWJsZSBmb3IgZGFtYWdlIG9yIGxvb3NlIGNvbm5lY3Rpb25zPC9iPi4gVHJ5IHVzaW5nIGEgZGlmZmVyZW50IEhETUkgcG9ydCBvbiB0aGUgVFYuIgIQAUgAWABoAA",
+   "source": "JustAnswer"
+  },
+  {
+   "position": 8,
+   "title": "What are some other hardware flaws plaguing the ...",
+   "link": "https://www.quora.com/What-are-some-other-hardware-flaws-plaguing-the-Nintendo-Switch-2-besides-stick-drift",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFak09J-uTYxSNH6cVlrwpzOJyH6Gp1_PNVrELuJkoj1frOHPNxhxPHBnKKojSzx2E9dmDkBDJ8nxEoEz5aS2AK282smn29BmXgumdXEoGu2DRKiCbqjhecwdsw8m6JQXLt8IgLDjz6jp4uoKYFAnI_Byz8QAXuv1L-BsHwYzZn4Ty5qbAlO0W_GIXQiT0dLdypj-FhLcOwHu1Uz85RLj1YX8&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECCAQAQ&uoh=1",
+   "displayed_meta": "30+ answers \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+   "snippet": "What are some other hardware flaws plaguing the Nintendo Switch 2 besides stick drift?",
+   "about_this_result": {
+    "source": {
+     "description": "I heard a lot of people are experiencing battery issues. It is a pretty series problem if a handheld needs to be constantly near a power ...",
+     "source_info_link": "https://www.quora.com/What-are-some-other-hardware-flaws-plaguing-the-Nintendo-Switch-2-besides-stick-drift",
+     "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhazA5Si11VFl4U05INmNWbHJ3cHpPSnlINkdwMV9QTlZyRUx1SmtvajFmck9IUE54aHhQSEJuS0tvalN6eDJFOWRtRGtCREo4bnhFb0V6NWFTMkFLMjgyc21uMjlCbVhndW1kWEVvR3UyRFJLaUNicWpoZWN3ZHN3OG02SlFYTHQ4SWdMRGp6NmpwNHVvS1lGQW5JX0J5ejhRQVh1djFMLUJzSHdZelpuNFR5NXFiQWxPMFdfR0lYUWlUMGRMZHlwai1GaExjT3dIdTFVejg1UkxqMVlYOBIEGgIIABrYBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC0BQgAEAAYACAAKkQKCG5pbnRlbmRvFWTvpkAaA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVkqCuQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFSjZp0AaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxWgKa09GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhazA5Si11VFl4U05INmNWbHJ3cHpPSnlINkdwMV9QTlZyRUx1SmtvajFmck9IUE54aHhQSEJuS0tvalN6eDJFOWRtRGtCREo4bnhFb0V6NWFTMkFLMjgyc21uMjlCbVhndW1kWEVvR3UyRFJLaUNicWpoZWN3ZHN3OG02SlFYTHQ4SWdMRGp6NmpwNHVvS1lGQW5JX0J5ejhRQVh1djFMLUJzSHdZelpuNFR5NXFiQWxPMFdfR0lYUWlUMGRMZHlwai1GaExjT3dIdTFVejg1UkxqMVlYODpDV2hhdCBhcmUgc29tZSBvdGhlciBoYXJkd2FyZSBmbGF3cyBwbGFndWluZyB0aGUgPGI-TmludGVuZG88L2I-IC4uLkKYAUkgaGVhcmQgYSBsb3Qgb2YgcGVvcGxlIGFyZSBleHBlcmllbmNpbmcgPGI-YmF0dGVyeSBpc3N1ZXM8L2I-LiBJdCBpcyBhIHByZXR0eSBzZXJpZXMgcHJvYmxlbSBpZiBhIGhhbmRoZWxkIG5lZWRzIHRvIGJlIGNvbnN0YW50bHkgbmVhciBhIHBvd2VyJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhazA5Si11VFl4U05INmNWbHJ3cHpPSnlINkdwMV9QTlZyRUx1SmtvajFmck9IUE54aHhQSEJuS0tvalN6eDJFOWRtRGtCREo4bnhFb0V6NWFTMkFLMjgyc21uMjlCbVhndW1kWEVvR3UyRFJLaUNicWpoZWN3ZHN3OG02SlFYTHQ4SWdMRGp6NmpwNHVvS1lGQW5JX0J5ejhRQVh1djFMLUJzSHdZelpuNFR5NXFiQWxPMFdfR0lYUWlUMGRMZHlwai1GaExjT3dIdTFVejg1UkxqMVlYOBIEGgIIABrYBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC0BQgAEAAYACAAKkQKCG5pbnRlbmRvFWTvpkAaA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVkqCuQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFSjZp0AaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxWgKa09GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhazA5Si11VFl4U05INmNWbHJ3cHpPSnlINkdwMV9QTlZyRUx1SmtvajFmck9IUE54aHhQSEJuS0tvalN6eDJFOWRtRGtCREo4bnhFb0V6NWFTMkFLMjgyc21uMjlCbVhndW1kWEVvR3UyRFJLaUNicWpoZWN3ZHN3OG02SlFYTHQ4SWdMRGp6NmpwNHVvS1lGQW5JX0J5ejhRQVh1djFMLUJzSHdZelpuNFR5NXFiQWxPMFdfR0lYUWlUMGRMZHlwai1GaExjT3dIdTFVejg1UkxqMVlYODpDV2hhdCBhcmUgc29tZSBvdGhlciBoYXJkd2FyZSBmbGF3cyBwbGFndWluZyB0aGUgPGI-TmludGVuZG88L2I-IC4uLkKYAUkgaGVhcmQgYSBsb3Qgb2YgcGVvcGxlIGFyZSBleHBlcmllbmNpbmcgPGI-YmF0dGVyeSBpc3N1ZXM8L2I-LiBJdCBpcyBhIHByZXR0eSBzZXJpZXMgcHJvYmxlbSBpZiBhIGhhbmRoZWxkIG5lZWRzIHRvIGJlIGNvbnN0YW50bHkgbmVhciBhIHBvd2VyJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Quora"
+  },
+  {
+   "position": 9,
+   "title": "Topic: Is the Switch 2 screen really that bad?",
+   "link": "https://www.digitalfoundry.net/forums/games-tech/is_the_switch_2_screen_really_that_bad",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFd2wwlnipJRhWlpvs1WfSejouKjhAPC8N-6o2LHoR1jLLf9gkVrERwBTlj8E4JN_IB0ePESyoE68d5fPWIQrH1X9g2l8V_ey1wDIKYEqHmuvOKw0zAdQztVJF8go8_wkQWp0FbHbCg6kj-ejgiqzYzQFxEaColaYYrnH4yGD7MfiaA7Oi7m2bSPUudjNug&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECBUQAQ&uoh=1",
+   "displayed_link": "https://www.digitalfoundry.net \u203a ... \u203a Games and Tech",
+   "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBQCdASocABwAPtEutFooIagoGAEAGgliAMDfLsYAVSy32xX5y7gZ1gPawdi-A-8bPJBc7vCDIAD-5ExjhwhxJWY6-3DZiZ5dCLtXCn6hy9-EpEo97FWCRCje71pRdTl9ffK_voY7FcTdViZktpDccBmVVNc8fOEbsqs4-iyFbneF8AJJrxa5_TgkHbZveRroe_KW8aWioFnlW-eMOJYvUzW9fBPBsphYItM69lj_3Uu_d47pb7AfhhonxE9tAVfHHNl9AQt3r3UPN5HMIsrmfvovL7herjlcgfYWudhtWbrr0cBUuC-GUAdUUebf-C75SoqPq52WQ2eyLaHNvuex7-aYkV__i1N-3tREC3VQP-RcMref_X5uixrItstcanjessb4DOWkxfO_Y8Njfc24e4bgj65yby3RSxW5YNfxmfG7YgeAAA.webp",
+   "date": "Feb 6, 2026",
+   "snippet": "It's pretty bad, especially if you play alot 2D games. Ghosting is very noticable on side scrolling games. I was excited to finally play ...",
+   "snippet_highlighted_words": [
+    "It's pretty bad"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "It's pretty bad, especially if you play alot 2D games. Ghosting is very noticable on side scrolling games. I was excited to finally play ...",
+     "source_info_link": "https://www.digitalfoundry.net/forums/games-tech/is_the_switch_2_screen_really_that_bad",
+     "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBQCdASocABwAPtEutFooIagoGAEAGgliAMDfLsYAVSy32xX5y7gZ1gPawdi-A-8bPJBc7vCDIAD-5ExjhwhxJWY6-3DZiZ5dCLtXCn6hy9-EpEo97FWCRCje71pRdTl9ffK_voY7FcTdViZktpDccBmVVNc8fOEbsqs4-iyFbneF8AJJrxa5_TgkHbZveRroe_KW8aWioFnlW-eMOJYvUzW9fBPBsphYItM69lj_3Uu_d47pb7AfhhonxE9tAVfHHNl9AQt3r3UPN5HMIsrmfvovL7herjlcgfYWudhtWbrr0cBUuC-GUAdUUebf-C75SoqPq52WQ2eyLaHNvuex7-aYkV__i1N-3tREC3VQP-RcMref_X5uixrItstcanjessb4DOWkxfO_Y8Njfc24e4bgj65yby3RSxW5YNfxmfG7YgeAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZkMnd3bG5pcEpSaFdscHZzMVdmU2Vqb3VLamhBUEM4Ti02bzJMSG9SMWpMTGY5Z2tWckVSd0JUbGo4RTRKTl9JQjBlUEVTeW9FNjhkNWZQV0lRckgxWDlnMmw4Vl9leTF3RElLWUVxSG11dk9LdzB6QWRRenRWSkY4Z284X3drUVdwMEZiSGJDZzZrai1lamdpcXpZelFGeEVhQ29sYVlZcm5INHlHRDdNZmlhQTdPaTdtMmJTUFV1ZGpOdWcSBBoCCAAayAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCiBQgAEAAYACAAKkQKCG5pbnRlbmRvFZJhmT8aA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVl7iEQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFdJbdEAaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxX9XEQ9GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZkMnd3bG5pcEpSaFdscHZzMVdmU2Vqb3VLamhBUEM4Ti02bzJMSG9SMWpMTGY5Z2tWckVSd0JUbGo4RTRKTl9JQjBlUEVTeW9FNjhkNWZQV0lRckgxWDlnMmw4Vl9leTF3RElLWUVxSG11dk9LdzB6QWRRenRWSkY4Z284X3drUVdwMEZiSGJDZzZrai1lamdpcXpZelFGeEVhQ29sYVlZcm5INHlHRDdNZmlhQTdPaTdtMmJTUFV1ZGpOdWc6R1RvcGljOiBJcyB0aGUgPGI-U3dpdGNoIDI8L2I-IHNjcmVlbiByZWFsbHkgdGhhdCBiYWQ_IC0gRGlnaXRhbCBGb3VuZHJ5QpwBPGI-SXQmIzM5O3MgcHJldHR5IGJhZDwvYj4sIGVzcGVjaWFsbHkgaWYgeW91IHBsYXkgYWxvdCAyRCBnYW1lcy4gR2hvc3RpbmcgaXMgdmVyeSBub3RpY2FibGUgb24gc2lkZSBzY3JvbGxpbmcgZ2FtZXMuIEkgd2FzIGV4Y2l0ZWQgdG8gZmluYWxseSBwbGF5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZkMnd3bG5pcEpSaFdscHZzMVdmU2Vqb3VLamhBUEM4Ti02bzJMSG9SMWpMTGY5Z2tWckVSd0JUbGo4RTRKTl9JQjBlUEVTeW9FNjhkNWZQV0lRckgxWDlnMmw4Vl9leTF3RElLWUVxSG11dk9LdzB6QWRRenRWSkY4Z284X3drUVdwMEZiSGJDZzZrai1lamdpcXpZelFGeEVhQ29sYVlZcm5INHlHRDdNZmlhQTdPaTdtMmJTUFV1ZGpOdWcSBBoCCAAayAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCiBQgAEAAYACAAKkQKCG5pbnRlbmRvFZJhmT8aA25lcxoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoNaXY7cDtuaW50ZW5kbyo3CgZzd2l0Y2gVl7iEQBoObmludGVuZG9zd2l0Y2gaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMioiCgEyFdJbdEAaD25pbnRlbmRvc3dpdGNoMhoHc3dpdGNoMio2Cghwcm9ibGVtcxX9XEQ9GgNmaXgaBmlzc3VlcxoHcHJvYmxlbRoPdHJvdWJsZXNob290aW5nMtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZkMnd3bG5pcEpSaFdscHZzMVdmU2Vqb3VLamhBUEM4Ti02bzJMSG9SMWpMTGY5Z2tWckVSd0JUbGo4RTRKTl9JQjBlUEVTeW9FNjhkNWZQV0lRckgxWDlnMmw4Vl9leTF3RElLWUVxSG11dk9LdzB6QWRRenRWSkY4Z284X3drUVdwMEZiSGJDZzZrai1lamdpcXpZelFGeEVhQ29sYVlZcm5INHlHRDdNZmlhQTdPaTdtMmJTUFV1ZGpOdWc6R1RvcGljOiBJcyB0aGUgPGI-U3dpdGNoIDI8L2I-IHNjcmVlbiByZWFsbHkgdGhhdCBiYWQ_IC0gRGlnaXRhbCBGb3VuZHJ5QpwBPGI-SXQmIzM5O3MgcHJldHR5IGJhZDwvYj4sIGVzcGVjaWFsbHkgaWYgeW91IHBsYXkgYWxvdCAyRCBnYW1lcy4gR2hvc3RpbmcgaXMgdmVyeSBub3RpY2FibGUgb24gc2lkZSBzY3JvbGxpbmcgZ2FtZXMuIEkgd2FzIGV4Y2l0ZWQgdG8gZmluYWxseSBwbGF5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Digital Foundry",
+   "read_more_link": "https://www.digitalfoundry.net/forums/games-tech/is_the_switch_2_screen_really_that_bad#:~:text=It's%20pretty%20bad%2C%20especially%20if,ghosting%20and%20couldn't%20stand%20it."
+  },
+  {
+   "position": 10,
+   "title": "My Switch 2 just cut to black for a second, then I was back ...",
+   "link": "https://www.resetera.com/threads/my-switch-2-just-cut-to-black-for-a-second-then-i-was-back-on-the-home-screen-and-my-game-had-closed-no-error-message-anyone-ever-encounter-this.1399051/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES9gEB6zswFWuZbfxbhc9N7FJSz-KxaUYNozoCfS_iPTRJT8CGZaqQkuUnbn08d5z6dQHlxWe6HYKJlEVLpli6EEzU4GeFpAKcPCVAOI9qW5xezHnrjzPP_0YmgHLyUr7Ct6WhcauzUMZEAScVK7d4-fjUDgNqSK7u4y5UAAqhP4SNRe06K3gjt5smGPTxHvWCWuoymg5bKkAWx-i9RVqeJoZ29IlrSGxroJCJ-kEAwuww761ebtHaSzjcguEfnbD1cDLggvh9BC2MqfOzdhUFLh8GLYEG8lDbp1WG5fNQ76oSv32uEF73gcLhUHQBBz75yK4xa-AEY2o&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://www.resetera.com \u203a Discussion \u203a Gaming Forum",
+   "favicon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAABwBACdASocABwAPtE-tFooIigoFAEAGgloALbIVmjkBzCTkY3pycm9dPDQAAD-ud91ghkUJ9v0kfT8vlKa1TsOs-i8kN_wZZZpc8FZdT19_4K_7xG3kO5NXW8NtDZ5WvNtSxaxlojh8VGsYJoiyczJ1QAY9ya4DvRrIfFPWvmoSU7Gd5m62SEaYg69Dbsw2NlnmJlE0Oi8tcVmY1cY0G-d6BuUwmG1pPMpd90XikabwVbIQde4kErgGPK_l3-j_hc8Jk7D7WPbX35m7NT5uQ9q61mAAA.webp",
+   "date": "Jan 7, 2026",
+   "snippet": "Between issues like these, charging/charging indicator issues, the system full on freezing itself in the dock until you hard reboot it (Nintendo ...",
+   "snippet_highlighted_words": [
+    "charging/charging indicator issues"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Between issues like these, charging/charging indicator issues, the system full on freezing itself in the dock until you hard reboot it (Nintendo ...",
+     "source_info_link": "https://www.resetera.com/threads/my-switch-2-just-cut-to-black-for-a-second-then-i-was-back-on-the-home-screen-and-my-game-had-closed-no-error-message-anyone-ever-encounter-this.1399051/",
+     "icon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAABwBACdASocABwAPtE-tFooIigoFAEAGgloALbIVmjkBzCTkY3pycm9dPDQAAD-ud91ghkUJ9v0kfT8vlKa1TsOs-i8kN_wZZZpc8FZdT19_4K_7xG3kO5NXW8NtDZ5WvNtSxaxlojh8VGsYJoiyczJ1QAY9ya4DvRrIfFPWvmoSU7Gd5m62SEaYg69Dbsw2NlnmJlE0Oi8tcVmY1cY0G-d6BuUwmG1pPMpd90XikabwVbIQde4kErgGPK_l3-j_hc8Jk7D7WPbX35m7NT5uQ9q61mAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkCL2dvdG8_dXJsPUNBRVM5Z0VCNnpzd0ZXdVpiZnhiaGM5TjdGSlN6LUt4YVVZTm96b0NmU19pUFRSSlQ4Q0daYXFRa3VVbmJuMDhkNXo2ZFFIbHhXZTZIWUtKbEVWTHBsaTZFRXpVNEdlRnBBS2NQQ1ZBT0k5cVc1eGV6SG5yanpQUF8wWW1nSEx5VXI3Q3Q2V2hjYXV6VU1aRUFTY1ZLN2Q0LWZqVURnTnFTSzd1NHk1VUFBcWhQNFNOUmUwNkszZ2p0NXNtR1BUeEh2V0NXdW95bWc1YktrQVd4LWk5UlZxZUpvWjI5SWxyU0d4cm9KQ0ota0VBd3V3dzc2MWVidEhhU3pqY2d1RWZuYkQxY0RMZ2d2aDlCQzJNcWZPemRoVUZMaDhHTFlFRzhsRGJwMVdHNWZOUTc2b1N2MzJ1RUY3M2djTGhVSFFCQno3NXlLNHhhLUFFWTJvEgQaAggAGtEGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQK0GCAAQABgAIAAqRAoIbmludGVuZG8V_l84PxoDbmVzGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGg1pdjtwO25pbnRlbmRvKjcKBnN3aXRjaBVoMYRAGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKiIKATIVemSBQBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKjYKCHByb2JsZW1zFR_kUD4aA2ZpeBoGaXNzdWVzGgdwcm9ibGVtGg90cm91Ymxlc2hvb3Rpbmcy2QIvZ290bz91cmw9Q0FFUzlnRUI2enN3Rld1WmJmeGJoYzlON0ZKU3otS3hhVVlOb3pvQ2ZTX2lQVFJKVDhDR1phcVFrdVVuYm4wOGQ1ejZkUUhseFdlNkhZS0psRVZMcGxpNkVFelU0R2VGcEFLY1BDVkFPSTlxVzV4ZXpIbnJqelBQXzBZbWdITHlVcjdDdDZXaGNhdXpVTVpFQVNjVks3ZDQtZmpVRGdOcVNLN3U0eTVVQUFxaFA0U05SZTA2SzNnanQ1c21HUFR4SHZXQ1d1b3ltZzViS2tBV3gtaTlSVnFlSm9aMjlJbHJTR3hyb0pDSi1rRUF3dXd3NzYxZWJ0SGFTempjZ3VFZm5iRDFjRExnZ3ZoOUJDMk1xZk96ZGhVRkxoOEdMWUVHOGxEYnAxV0c1Zk5RNzZvU3YzMnVFRjczZ2NMaFVIUUJCejc1eUs0eGEtQUVZMm86SU15IDxiPlN3aXRjaCAyPC9iPiBqdXN0IGN1dCB0byBibGFjayBmb3IgYSBzZWNvbmQsIHRoZW4gSSB3YXMgYmFjayBvbiAuLi5CoAFCZXR3ZWVuIGlzc3VlcyBsaWtlIHRoZXNlLCA8Yj5jaGFyZ2luZy9jaGFyZ2luZyBpbmRpY2F0b3IgaXNzdWVzPC9iPiwgdGhlIHN5c3RlbSBmdWxsIG9uIGZyZWV6aW5nIGl0c2VsZiBpbiB0aGUgZG9jayB1bnRpbCB5b3UgaGFyZCByZWJvb3QgaXQgKE5pbnRlbmRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkCL2dvdG8_dXJsPUNBRVM5Z0VCNnpzd0ZXdVpiZnhiaGM5TjdGSlN6LUt4YVVZTm96b0NmU19pUFRSSlQ4Q0daYXFRa3VVbmJuMDhkNXo2ZFFIbHhXZTZIWUtKbEVWTHBsaTZFRXpVNEdlRnBBS2NQQ1ZBT0k5cVc1eGV6SG5yanpQUF8wWW1nSEx5VXI3Q3Q2V2hjYXV6VU1aRUFTY1ZLN2Q0LWZqVURnTnFTSzd1NHk1VUFBcWhQNFNOUmUwNkszZ2p0NXNtR1BUeEh2V0NXdW95bWc1YktrQVd4LWk5UlZxZUpvWjI5SWxyU0d4cm9KQ0ota0VBd3V3dzc2MWVidEhhU3pqY2d1RWZuYkQxY0RMZ2d2aDlCQzJNcWZPemRoVUZMaDhHTFlFRzhsRGJwMVdHNWZOUTc2b1N2MzJ1RUY3M2djTGhVSFFCQno3NXlLNHhhLUFFWTJvEgQaAggAGtEGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQK0GCAAQABgAIAAqRAoIbmludGVuZG8V_l84PxoDbmVzGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGg1pdjtwO25pbnRlbmRvKjcKBnN3aXRjaBVoMYRAGg5uaW50ZW5kb3N3aXRjaBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKiIKATIVemSBQBoPbmludGVuZG9zd2l0Y2gyGgdzd2l0Y2gyKjYKCHByb2JsZW1zFR_kUD4aA2ZpeBoGaXNzdWVzGgdwcm9ibGVtGg90cm91Ymxlc2hvb3Rpbmcy2QIvZ290bz91cmw9Q0FFUzlnRUI2enN3Rld1WmJmeGJoYzlON0ZKU3otS3hhVVlOb3pvQ2ZTX2lQVFJKVDhDR1phcVFrdVVuYm4wOGQ1ejZkUUhseFdlNkhZS0psRVZMcGxpNkVFelU0R2VGcEFLY1BDVkFPSTlxVzV4ZXpIbnJqelBQXzBZbWdITHlVcjdDdDZXaGNhdXpVTVpFQVNjVks3ZDQtZmpVRGdOcVNLN3U0eTVVQUFxaFA0U05SZTA2SzNnanQ1c21HUFR4SHZXQ1d1b3ltZzViS2tBV3gtaTlSVnFlSm9aMjlJbHJTR3hyb0pDSi1rRUF3dXd3NzYxZWJ0SGFTempjZ3VFZm5iRDFjRExnZ3ZoOUJDMk1xZk96ZGhVRkxoOEdMWUVHOGxEYnAxV0c1Zk5RNzZvU3YzMnVFRjczZ2NMaFVIUUJCejc1eUs0eGEtQUVZMm86SU15IDxiPlN3aXRjaCAyPC9iPiBqdXN0IGN1dCB0byBibGFjayBmb3IgYSBzZWNvbmQsIHRoZW4gSSB3YXMgYmFjayBvbiAuLi5CoAFCZXR3ZWVuIGlzc3VlcyBsaWtlIHRoZXNlLCA8Yj5jaGFyZ2luZy9jaGFyZ2luZyBpbmRpY2F0b3IgaXNzdWVzPC9iPiwgdGhlIHN5c3RlbSBmdWxsIG9uIGZyZWV6aW5nIGl0c2VsZiBpbiB0aGUgZG9jayB1bnRpbCB5b3UgaGFyZCByZWJvb3QgaXQgKE5pbnRlbmRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "ResetEra",
+   "read_more_link": "https://www.resetera.com/threads/my-switch-2-just-cut-to-black-for-a-second-then-i-was-back-on-the-home-screen-and-my-game-had-closed-no-error-message-anyone-ever-encounter-this.1399051/#:~:text=Between%20issues%20like%20these%2C%20charging%2Fcharging,it%20should%2C%20plus%20other%20things."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Nintendo switch 2 problems reddit",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&hl=en&udm=18&gl=us&sxsrf=APpeQnuyOle4aq54h5UnTY8Zhi-CzT_iYQ:1790777930702&q=Nintendo+switch+2+problems+reddit&sa=X&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQ1QJ6BAgIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Nintendo+switch+2+problems+reddit"
+  },
+  {
+   "block_position": 1,
+   "query": "Nintendo Switch 2 pros and cons",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&hl=en&udm=18&gl=us&sxsrf=APpeQnuyOle4aq54h5UnTY8Zhi-CzT_iYQ:1790777930702&q=Nintendo+Switch+2+pros+and+cons&sa=X&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQ1QJ6BAgREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Nintendo+Switch+2+pros+and+cons"
+  },
+  {
+   "block_position": 1,
+   "query": "Switch 2 controversy",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&hl=en&udm=18&gl=us&sxsrf=APpeQnuyOle4aq54h5UnTY8Zhi-CzT_iYQ:1790777930702&q=Switch+2+controversy&sa=X&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQ1QJ6BAgPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Switch+2+controversy"
+  },
+  {
+   "block_position": 1,
+   "query": "Nintendo Switch 2 performance comparison",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&hl=en&udm=18&gl=us&sxsrf=APpeQnuyOle4aq54h5UnTY8Zhi-CzT_iYQ:1790777930702&q=Nintendo+Switch+2+performance+comparison&sa=X&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQ1QJ6BAgOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Nintendo+Switch+2+performance+comparison"
+  },
+  {
+   "block_position": 1,
+   "query": "Switch 2 is bad Reddit",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&hl=en&udm=18&gl=us&sxsrf=APpeQnuyOle4aq54h5UnTY8Zhi-CzT_iYQ:1790777930702&q=Switch+2+is+bad+Reddit&sa=X&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQ1QJ6BAgNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Switch+2+is+bad+Reddit"
+  },
+  {
+   "block_position": 1,
+   "query": "Switch 2 games",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&hl=en&udm=18&gl=us&sxsrf=APpeQnuyOle4aq54h5UnTY8Zhi-CzT_iYQ:1790777930702&q=Switch+2+games&sa=X&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQ1QJ6BAgMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Switch+2+games"
+  },
+  {
+   "block_position": 1,
+   "query": "Nintendo Switch 2 feedback",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&hl=en&udm=18&gl=us&sxsrf=APpeQnuyOle4aq54h5UnTY8Zhi-CzT_iYQ:1790777930702&q=Nintendo+Switch+2+feedback&sa=X&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQ1QJ6BAgLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Nintendo+Switch+2+feedback"
+  },
+  {
+   "block_position": 1,
+   "query": "Nintendo Switch issues",
+   "link": "https://www.google.com/search?sca_esv=c859baa1cb7a8e85&hl=en&udm=18&gl=us&sxsrf=APpeQnuyOle4aq54h5UnTY8Zhi-CzT_iYQ:1790777930702&q=Nintendo+Switch+issues&sa=X&ved=2ahUKEwiKgrnTv5aXAxWJk2oFHebRHqIQ1QJ6BAgJEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=Nintendo+Switch+issues"
+  }
+ ],
+ "serpapi_pagination": {
+  "current": 1,
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google_forums&gl=us&hl=en&q=nintendo+switch+2+problems&start=10"
+ },
+ "_probe_latency_s": 77.73
+}

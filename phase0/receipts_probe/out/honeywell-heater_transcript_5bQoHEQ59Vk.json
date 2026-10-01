@@ -1,0 +1,340 @@
+{
+ "search_metadata": {
+  "id": "6abd1b9127c2b08aa6dff529",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/uYG8cJ-9EiWU9JKsCUpWL72SnO2kJ_o6OX4BH3Pmgwg/6abd1b9127c2b08aa6dff529.json",
+  "markdown_endpoint": "https://serpapi.com/searches/uYG8cJ-9EiWU9JKsCUpWL72SnO2kJ_o6OX4BH3Pmgwg/6abd1b9127c2b08aa6dff529.md",
+  "created_at": "2026-09-30 14:24:17 UTC",
+  "processed_at": "2026-09-30 14:24:17 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=5bQoHEQ59Vk",
+  "raw_html_file": "https://serpapi.com/searches/uYG8cJ-9EiWU9JKsCUpWL72SnO2kJ_o6OX4BH3Pmgwg/6abd1b9127c2b08aa6dff529.html",
+  "prettify_html_file": "https://serpapi.com/searches/uYG8cJ-9EiWU9JKsCUpWL72SnO2kJ_o6OX4BH3Pmgwg/6abd1b9127c2b08aa6dff529.prettify",
+  "total_time_taken": 9.34
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "5bQoHEQ59Vk",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "today I going to show you this heater that I just got it's a honey well here",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 7000,
+   "snippet": "we just take a look at the box here this is a honey well heater and uh what I really like about",
+   "start_time_text": "0:07",
+   "start_time_label": "7 seconds"
+  },
+  {
+   "start_ms": 14000,
+   "snippet": "this heater is it this is the surround 360 heat and um unlike a lot of heaters",
+   "start_time_text": "0:14",
+   "start_time_label": "14 seconds"
+  },
+  {
+   "start_ms": 22000,
+   "snippet": "where the heat just comes from one side here you see it comes all around so you can place this in the middle of a room",
+   "start_time_text": "0:22",
+   "start_time_label": "22 seconds"
+  },
+  {
+   "start_ms": 30000,
+   "snippet": "room and and the heat uh will fill up the room uh it has a really neat little little handle here see that look at that",
+   "start_time_text": "0:30",
+   "start_time_label": "30 seconds"
+  },
+  {
+   "start_ms": 37000,
+   "snippet": "little handle there very nice so we want to pick it up and move it around it um it's a very simple heater it doesn't",
+   "start_time_text": "0:37",
+   "start_time_label": "37 seconds"
+  },
+  {
+   "start_ms": 45000,
+   "snippet": "have a timer on it or anything like that it's inexpensive heater it's the $30 from Walmart and uh I like the white color",
+   "start_time_text": "0:45",
+   "start_time_label": "45 seconds"
+  },
+  {
+   "start_ms": 54000,
+   "snippet": "the white with the black I I like the shape of it I think this is much more appealing than the the square boxy ones",
+   "start_time_text": "0:54",
+   "start_time_label": "54 seconds"
+  },
+  {
+   "start_ms": 61000,
+   "snippet": "it's not that big it doesn't take up a lot of space um and let's see what else oh",
+   "start_time_text": "1:01",
+   "start_time_label": "1 minute, 1 second"
+  },
+  {
+   "start_ms": 68000,
+   "snippet": "that's the Spanish side I can't read that okay 360 all around new and improved 25% warmer more quiet",
+   "start_time_text": "1:08",
+   "start_time_label": "1 minute, 8 seconds"
+  },
+  {
+   "start_ms": 79000,
+   "snippet": "um I I have a little studio apartment so this this is fine for me um I'm going to go ahead and plug it in so let's take a",
+   "start_time_text": "1:19",
+   "start_time_label": "1 minute, 19 seconds"
+  },
+  {
+   "start_ms": 87000,
+   "snippet": "look at how it uh how it runs it's uh not real loud it's a little",
+   "start_time_text": "1:27",
+   "start_time_label": "1 minute, 27 seconds"
+  },
+  {
+   "start_ms": 95000,
+   "snippet": "bit you know you definitely know it's on but it's not something that's a big rattly sound it has this feature so that",
+   "start_time_text": "1:35",
+   "start_time_label": "1 minute, 35 seconds"
+  },
+  {
+   "start_ms": 102000,
+   "snippet": "if it tips turns",
+   "start_time_text": "1:42",
+   "start_time_label": "1 minute, 42 seconds"
+  },
+  {
+   "start_ms": 115000,
+   "snippet": "off which is nice that way you don't burn up something uh um and and it and it'll say",
+   "start_time_text": "1:55",
+   "start_time_label": "1 minute, 55 seconds"
+  },
+  {
+   "start_ms": 122000,
+   "snippet": "you have it set it'll turn off so if you have it set on this and once it hits of course the desired um uh temperature of",
+   "start_time_text": "2:02",
+   "start_time_label": "2 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 130000,
+   "snippet": "that setting it then it'll it'll it'll turn itself off and then turn itself on when it gets cold again you don't have like say some heaters that will actually",
+   "start_time_text": "2:10",
+   "start_time_label": "2 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 139000,
+   "snippet": "have the exact tell you I want it to be 70\u00b0 it doesn't have that uh although this is an inexpensive",
+   "start_time_text": "2:19",
+   "start_time_label": "2 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 146000,
+   "snippet": "heater I don't need uh all those extra features I don't need a uh remote control or any of",
+   "start_time_text": "2:26",
+   "start_time_label": "2 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 154000,
+   "snippet": "that so that's uh there not really a lot to say about it it's uh I just like it a lot I like the",
+   "start_time_text": "2:34",
+   "start_time_label": "2 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 162000,
+   "snippet": "design I like the price it's approximately was I think it was $330 now I want to show you something",
+   "start_time_text": "2:42",
+   "start_time_label": "2 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 169000,
+   "snippet": "here I'm going to unplug this well let's",
+   "start_time_text": "2:49",
+   "start_time_label": "2 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 175000,
+   "snippet": "see okay turn that off okay I want to show you this is actually the previous heater",
+   "start_time_text": "2:55",
+   "start_time_label": "2 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 182000,
+   "snippet": "that I've had go here let me go back to the boxes this is the earlier",
+   "start_time_text": "3:02",
+   "start_time_label": "3 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 190000,
+   "snippet": "model of this heater the earlier model is here I like to keep the heater boxes",
+   "start_time_text": "3:10",
+   "start_time_label": "3 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 196000,
+   "snippet": "so that in offseason like summer um I I put it in the closet but I still have the box for it this is the older Design",
+   "start_time_text": "3:16",
+   "start_time_label": "3 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 205000,
+   "snippet": "This is the newer one let me show you what the older one and and I'm going to explain why the reason why I",
+   "start_time_text": "3:25",
+   "start_time_label": "3 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 214000,
+   "snippet": "replaced had to buy this new one was not the fault of the heater but the fault of",
+   "start_time_text": "3:34",
+   "start_time_label": "3 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 222000,
+   "snippet": "me my fault I burned up this heater heater's kind of",
+   "start_time_text": "3:42",
+   "start_time_label": "3 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 228000,
+   "snippet": "dirty we'll compare these two this heater has been used a lot so it's not that clean it's getting ready to put up",
+   "start_time_text": "3:48",
+   "start_time_label": "3 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 237000,
+   "snippet": "be put out in the trash actually right now after I do this video we'll compare the",
+   "start_time_text": "3:57",
+   "start_time_label": "3 minutes, 57 seconds"
+  },
+  {
+   "start_ms": 244000,
+   "snippet": "difference on the older and the mic this was is was a really good heater it's exactly very that has the same",
+   "start_time_text": "4:04",
+   "start_time_label": "4 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 253000,
+   "snippet": "features of of low and high and the same thing you see the dials are very different similar and the heat comes from here they both are surround they",
+   "start_time_text": "4:13",
+   "start_time_label": "4 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 262000,
+   "snippet": "both are round um they've just improved the design so they are about the same height",
+   "start_time_text": "4:22",
+   "start_time_label": "4 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 272000,
+   "snippet": "so this is a little more attractive it's a little more brilliant white with black this is a more a little more of a beigy white with gray and I do like the black",
+   "start_time_text": "4:32",
+   "start_time_label": "4 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 281000,
+   "snippet": "and white better so this I've had this since I think I got it I got it somewhere in",
+   "start_time_text": "4:41",
+   "start_time_label": "4 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 289000,
+   "snippet": "2012 great heater it also was the same price of uh $30 and the reason why I'm replacing it",
+   "start_time_text": "4:49",
+   "start_time_label": "4 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 298000,
+   "snippet": "is a fault of my own with these heaters when you plug them in you need to plug it into the wall I guess if you do have",
+   "start_time_text": "4:58",
+   "start_time_label": "4 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 306000,
+   "snippet": "an extension cord it has to be one that's designed to handle uh something like a heater power strip something that's a that's",
+   "start_time_text": "5:06",
+   "start_time_label": "5 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 315000,
+   "snippet": "more than this kind of this cheap well it's very it's a cheap a cheap extension cord not",
+   "start_time_text": "5:15",
+   "start_time_label": "5 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 324000,
+   "snippet": "designed for hair dryers or heaters or anything like that I was using this extension cord with this heater and then",
+   "start_time_text": "5:24",
+   "start_time_label": "5 minutes, 24 seconds"
+  },
+  {
+   "start_ms": 332000,
+   "snippet": "it stopped and then I looked and I saw here know if you can see it here it uh",
+   "start_time_text": "5:32",
+   "start_time_label": "5 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 342000,
+   "snippet": "melted in here you might be see it melted into the the um it's now fused",
+   "start_time_text": "5:42",
+   "start_time_label": "5 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 351000,
+   "snippet": "it's fused in there melted uh and pretty much I blew up the heater with that I'm lucky I didn't start a fire it wasn't for me",
+   "start_time_text": "5:51",
+   "start_time_label": "5 minutes, 51 seconds"
+  },
+  {
+   "start_ms": 360000,
+   "snippet": "this would still be going strong so anybody who wonders about it say well this is a cheap pater it's not",
+   "start_time_text": "6:00",
+   "start_time_label": "6 minutes"
+  },
+  {
+   "start_ms": 367000,
+   "snippet": "worth it this has been I've had this for years has worked great so I'm expecting that I'm sure",
+   "start_time_text": "6:07",
+   "start_time_label": "6 minutes, 7 seconds"
+  },
+  {
+   "start_ms": 375000,
+   "snippet": "that this will continue to work great for years just don't plug it into a FN this",
+   "start_time_text": "6:15",
+   "start_time_label": "6 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 382000,
+   "snippet": "day is trash day so this sucker has to go out to the trash well this pretty much",
+   "start_time_text": "6:22",
+   "start_time_label": "6 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 390000,
+   "snippet": "concludes uh this little um demo and review of the uh honey well 360 surround",
+   "start_time_text": "6:30",
+   "start_time_label": "6 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 397000,
+   "snippet": "heater thank you very much for watching my video and have a great day",
+   "start_time_text": "6:37",
+   "start_time_label": "6 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 403000,
+   "snippet": "[Music]",
+   "start_time_text": "6:43",
+   "start_time_label": "6 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 418000,
+   "snippet": "bye",
+   "start_time_text": "6:58",
+   "start_time_label": "6 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 421000,
+   "snippet": "[Music]",
+   "start_time_text": "7:01",
+   "start_time_label": "7 minutes, 1 second"
+  }
+ ],
+ "_probe_latency_s": 9.8
+}
