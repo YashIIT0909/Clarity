@@ -1,0 +1,34 @@
+{
+ "maps": [
+  {
+   "label": 4,
+   "thread": 0,
+   "grounded": false
+  },
+  {
+   "label": "new: random shutdown after pop",
+   "thread": 1,
+   "grounded": true
+  },
+  {
+   "label": 4,
+   "thread": 2,
+   "grounded": true
+  },
+  {
+   "label": 27,
+   "thread": 5,
+   "grounded": false
+  },
+  {
+   "label": "new: bluetooth connection drops",
+   "thread": 6,
+   "grounded": true
+  },
+  {
+   "label": 27,
+   "thread": 7,
+   "grounded": false
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "answers": [
+  {
+   "point_id": "v0",
+   "supports": "no",
+   "cited_segment": null,
+   "grounded": false
+  },
+  {
+   "point_id": "v1",
+   "supports": "no",
+   "cited_segment": null,
+   "grounded": false
+  },
+  {
+   "point_id": "v2",
+   "supports": "yes",
+   "cited_segment": 152,
+   "grounded": false
+  },
+  {
+   "point_id": "v3",
+   "supports": "no",
+   "cited_segment": null,
+   "grounded": false
+  },
+  {
+   "point_id": "v4",
+   "supports": "yes",
+   "cited_segment": 81,
+   "grounded": false
+  },
+  {
+   "point_id": "v5",
+   "supports": "yes",
+   "cited_segment": 81,
+   "grounded": false
+  },
+  {
+   "point_id": "v6",
+   "supports": "no",
+   "cited_segment": null,
+   "grounded": false
+  }
+ ]
+}

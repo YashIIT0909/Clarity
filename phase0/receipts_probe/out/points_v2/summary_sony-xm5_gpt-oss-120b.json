@@ -1,0 +1,921 @@
+{
+ "known_issues": [
+  {
+   "kind": "issue",
+   "label": "non\u2011foldable design",
+   "label_display": "Non-foldable design",
+   "type": "criticism",
+   "source_count": 2,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 135,
+     "quote": "This new version with this new design does not fold at all.",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=135s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 431,
+     "quote": "you wear them correctly, which is right side, left side, they don't fold down flat.",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=431s"
+    },
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 571,
+     "quote": "case is just it's large it doesn't let these fold down like the old model",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=571s"
+    },
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 571,
+     "quote": "pretty durable and all but the case is just it's large it doesn't let these",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=571s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "no usb\u2011c audio",
+   "label_display": "No USB-C audio",
+   "type": "criticism",
+   "source_count": 2,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 273,
+     "quote": "this you're not able to have any kind of playback through usb type-c cables unlike",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=273s"
+    },
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 313,
+     "quote": "in addition the xm5 also lacks USBC audio which is becoming a staple for newer",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=313s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  }
+ ],
+ "known_praise": [
+  {
+   "kind": "praise",
+   "label": "high comfort",
+   "label_display": "High comfort",
+   "type": "praise",
+   "source_count": 3,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 72,
+     "quote": "gonna say this is the most comfortable pair of noise canceling headphones I've ever tried.",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=72s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 589,
+     "quote": "These are really good, really comfortable, premium noise canceling headphones for 400 bucks, with a",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=589s"
+    },
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 136,
+     "quote": "you're wearing them they're super lightweight it's really like the softest foam ever and the",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=136s"
+    },
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 63,
+     "quote": "head and I have no problems wearing the headphones for hours on end I'd like",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=63s"
+    },
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 72,
+     "quote": "headphones I've ever worn the ear pads also feel very plush and the ear Cup",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=72s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "strong anc performance",
+   "label_display": "Strong ANC performance",
+   "type": "praise",
+   "source_count": 3,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 259,
+     "quote": "these get even better, and we can thank the extra microphones and processor for that.",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=259s"
+    },
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 595,
+     "quote": "active noise cancellation these in my opinion are the best amc headphones on the market",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=595s"
+    },
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 118,
+     "quote": "these headphones can reduce the loudness of outside Noise by about 84% which Falls a",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=118s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  }
+ ],
+ "forum_reported": [],
+ "mentioned_once": [
+  {
+   "kind": "issue",
+   "label": "large case size",
+   "label_display": "Large case size",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 150,
+     "quote": "result, the case you carry them around in is quite a bit bigger. It's kind",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=150s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 584,
+     "quote": "I'm slightly annoyed by the much bigger footprint here, but I mean, let's be real.",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=584s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "weak transparency mode",
+   "label_display": "Weak transparency mode",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 69,
+     "quote": "with these transparency mode was pretty decent it's not quite at the level of the",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=69s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": [
+    {
+     "kind": "issue",
+     "label": "transparency inferior",
+     "quote": "Like these just sound like a somewhat muffled version of reality, especially with voices and",
+     "segment_start_s": 296,
+     "segment": 39,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "6CsJZxfZsL0",
+     "channel": "Marques Brownlee",
+     "model": "confirmed",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "issue",
+   "label": "battery life unchanged",
+   "label_display": "Battery life unchanged",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 377,
+     "quote": "They are rated for the same 30 hours of battery life as the Mark 4s,",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=377s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "ears get warm",
+   "label_display": "Ears get warm",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 119,
+     "quote": "i will say that your ears might get a little bit warm personally i didn't",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=119s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": [
+    {
+     "type": "forum",
+     "title": "Overheating Issues With WH-1000XM5 Headphones",
+     "link": "https://ap.community.sony.com/s/question/0D5Dp00002MjPjDKAV/overheating-issues-with-wh1000xm5-headphones?language=en_US",
+     "source": "Sony",
+     "date": "Mar 23, 2025",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "issue",
+   "label": "outdated app ui",
+   "label_display": "Outdated app UI",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 329,
+     "quote": "the app gives you what you need but i think it feels a little outdated",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=329s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "limited anc button customization",
+   "label_display": "Limited ANC button customization",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 344,
+     "quote": "situations they only give you one option and it's the same option for both so",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=344s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "limited bluetooth codec support",
+   "label_display": "Limited bluetooth codec support",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 280,
+     "quote": "headphones only support a handful of Bluetooth codecs including SBC AAC and L now LD",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=280s"
+    },
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 304,
+     "quote": "audio quality and you can't get that with the xm5 headphones and this can be",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=304s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "lack of water resistance",
+   "label_display": "Lack of water resistance",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 483,
+     "quote": "a run that's because they don't actually have a water resistance rating so they tell",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=483s"
+    },
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 491,
+     "quote": "you probably shouldn't wear these if it's raining outside or drizzling or if you're really",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=491s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "softer vegan leather",
+   "label_display": "Softer vegan leather",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 57,
+     "quote": "bigger and wider, the new vegan leather material is so much softer. It is, it's",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=57s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "adjustable transparency levels",
+   "label_display": "Adjustable transparency levels",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 266,
+     "quote": "again, and they have 20 levels of adjustment in the app of how much transparency",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=266s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "fast charging",
+   "label_display": "Fast charging",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 396,
+     "quote": "So you can plug these in for three minutes, and get three hours of listening",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=396s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "carbon fiber driver",
+   "label_display": "Carbon fiber driver",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 311,
+     "quote": "is to say excellent, and they do have a new 30 millimeter carbon fiber driver.",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=311s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "touch controls",
+   "label_display": "Touch controls",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 359,
+     "quote": "ear cup the touch controls super intuitive swiping up and down for volume right and",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=359s"
+    },
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 547,
+     "quote": "to skip your song you just swipe forward it's super easy you don't have to",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=547s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": [
+    {
+     "kind": "praise",
+     "label": "touch panel & head detection",
+     "quote": "still have a touch sensitive panel on the right side ear cup for skipping, pausing,",
+     "segment_start_s": 77,
+     "segment": 11,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "6CsJZxfZsL0",
+     "channel": "Marques Brownlee",
+     "model": "confirmed",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "praise",
+   "label": "better grip than bose",
+   "label_display": "Better grip than bose",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 159,
+     "quote": "a phone call whereas these tend to be a lot more secure something i thought",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=159s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "dual\u2011device connectivity",
+   "label_display": "Dual-device connectivity",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 86,
+     "quote": "however is that you can connect to two devices at the same time but the",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=86s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "high\u2011resolution ldac audio",
+   "label_display": "High-resolution LDAC audio",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 225,
+     "quote": "best out there fantastic bitrate as well using ldac which is sony's codec with a",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=225s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "wired audio support",
+   "label_display": "Wired audio support",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 242,
+     "quote": "then you can first of all connect this by three and a half millimeter jack",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=242s"
+    },
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 265,
+     "quote": "when the headphones are off you can still play music through these using the jack",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=265s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "easy nfc/fast pair pairing",
+   "label_display": "Easy nfc/fast pair pairing",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 376,
+     "quote": "these are also really easy to pair from nfc pairing just tapping your phone on",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=376s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "eco\u2011friendly packaging",
+   "label_display": "Eco-friendly packaging",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 385,
+     "quote": "of course they come with no plastic or plastic free packaging again great initiative for",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=385s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "easy ear\u2011cup replacement",
+   "label_display": "Easy ear-cup replacement",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 514,
+     "quote": "here is that they're very easy to replace and they're relatively affordable you can find",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=514s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "strong bass",
+   "label_display": "Strong bass",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 530,
+     "quote": "that's loud and you want something with a lot of bass capabilities or at least",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=530s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "light construction",
+   "label_display": "Light construction",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 54,
+     "quote": "thinner headband here and the Hollow construction makes the headphones feel really light on the",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=54s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "bass fatigue",
+   "label_display": "Bass fatigue",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 184,
+     "quote": "a longer listening periods my ears did feel a bit fatigued from the lowend over",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=184s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "less durable headband",
+   "label_display": "Less durable headband",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 46,
+     "quote": "to today's standards now sure it doesn't feel as durable as its thicker looking predecessor",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=46s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "traveler\u2011friendly",
+   "label_display": "Traveler-friendly",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 136,
+     "quote": "XM 5S are a great option for frequent Travelers commuters or people who just work",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=136s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "feature\u2011rich app",
+   "label_display": "Feature-rich app",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 96,
+     "quote": "the app you get access to a ton of useful features like The Equalizer which",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=96s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "great design",
+   "label_display": "Great design",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "SoundGuys",
+     "video_id": "vMi6olkSj7g",
+     "model": "confirmed",
+     "timestamp_s": 397,
+     "quote": "xm5 headphones still offer a great design excellent noise cancelling performance amazing app support and",
+     "link": "https://www.youtube.com/watch?v=vMi6olkSj7g&t=397s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "premium noise canceling",
+   "label_display": "Premium noise canceling",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "6CsJZxfZsL0",
+     "model": "confirmed",
+     "timestamp_s": 589,
+     "quote": "These are really good, really comfortable, premium noise canceling headphones for 400 bucks, with a",
+     "link": "https://www.youtube.com/watch?v=6CsJZxfZsL0&t=589s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "long battery life",
+   "label_display": "Long battery life",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Mike O'Brien",
+     "video_id": "9a-3r2llDjI",
+     "model": "confirmed",
+     "timestamp_s": 588,
+     "quote": "to last forever i can easily use these for 25 30 hours and they never",
+     "link": "https://www.youtube.com/watch?v=9a-3r2llDjI&t=588s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  }
+ ],
+ "forum_only": [
+  {
+   "kind": "issue",
+   "label": "random shutdown after pop",
+   "label_display": "Random shutdown after pop",
+   "type": "concern",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "forum",
+     "title": "WH-1000XM5 keeps shutting down randomly after a \"pop\".",
+     "link": "https://us.community.sony.com/s/question/0D5Dp00002K5K0IKAV/wh1000xm5-keeps-shutting-down-randomly-after-a-pop?language=en_US",
+     "source": "Sony Electronics Community",
+     "date": "Sep 2, 2025"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "bluetooth connection drops",
+   "label_display": "Bluetooth connection drops",
+   "type": "concern",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "forum",
+     "title": "Sony WH-1000XM5 Review",
+     "link": "https://www.avsforum.com/threads/sony-wh-1000xm5-review.3244986/",
+     "source": "AVS Forum",
+     "date": "May 20, 2022"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  }
+ ],
+ "audit": {
+  "threads": 10,
+  "threads_kept": 8,
+  "threads_rejected": [
+   {
+    "title": "WH-1000XM5 Headphones Won't Turn On? Expert ...",
+    "why": "search-bait site"
+   },
+   {
+    "title": "Sony SH1000XM5 Hinge and Warranty",
+    "why": "title doesn't name this model"
+   }
+  ],
+  "confirmed_videos": 3,
+  "videos": 3,
+  "forum_dropped": [
+   {
+    "thread": 0,
+    "label": 4,
+    "why": "words not in the thread title/URL/snippet"
+   },
+   {
+    "thread": 5,
+    "label": 27,
+    "why": "words not in the thread title/URL/snippet"
+   },
+   {
+    "thread": 7,
+    "label": 27,
+    "why": "words not in the thread title/URL/snippet"
+   }
+  ],
+  "market_dropped": []
+ },
+ "status": "found",
+ "mismatch": {
+  "rating": 4.1,
+  "ratings": 12534,
+  "known_issues": 2
+ }
+}

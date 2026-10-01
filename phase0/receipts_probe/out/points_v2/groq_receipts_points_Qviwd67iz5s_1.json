@@ -1,0 +1,109 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "dock pricey",
+   "thing": "dock price",
+   "anchor": "original dock was what, like $80",
+   "segment": 78
+  },
+  {
+   "kind": "issue",
+   "label": "4K capped 60Hz",
+   "thing": "4K refresh rate",
+   "anchor": "capped at, I believe, 60 Hz",
+   "segment": 72
+  },
+  {
+   "kind": "issue",
+   "label": "dock fan unclear",
+   "thing": "dock fan",
+   "anchor": "there is a fan in here",
+   "segment": 74
+  },
+  {
+   "kind": "issue",
+   "label": "USB-A on dock",
+   "thing": "USB-A ports",
+   "anchor": "odd that they put USB type A ports",
+   "segment": 76
+  },
+  {
+   "kind": "issue",
+   "label": "upgrade fees",
+   "thing": "game upgrade cost",
+   "anchor": "option to upgrade to the Switch 2",
+   "segment": 85
+  },
+  {
+   "kind": "issue",
+   "label": "simulation slower",
+   "thing": "season simulation speed",
+   "anchor": "runs slower on the Switch 2",
+   "segment": 102
+  },
+  {
+   "kind": "issue",
+   "label": "battery lower than claim",
+   "thing": "battery life claim",
+   "anchor": "up to 6 and 1/2 hours",
+   "segment": 123
+  },
+  {
+   "kind": "praise",
+   "label": "color contrast",
+   "thing": "display color contrast",
+   "anchor": "Color contrast is great",
+   "segment": 71
+  },
+  {
+   "kind": "praise",
+   "label": "handheld 120Hz",
+   "thing": "handheld refresh rate",
+   "anchor": "handheld mode, again, 120 Hz capable",
+   "segment": 81
+  },
+  {
+   "kind": "praise",
+   "label": "4K output",
+   "thing": "docked 4K output",
+   "anchor": "getting 4K, which is really nice",
+   "segment": 81
+  },
+  {
+   "kind": "praise",
+   "label": "dock HDMI Ethernet",
+   "thing": "dock connectivity ports",
+   "anchor": "got an HDMI out port",
+   "segment": 75
+  },
+  {
+   "kind": "praise",
+   "label": "smooth performance",
+   "thing": "game performance",
+   "anchor": "everything runs incredibly smoothly",
+   "segment": 84
+  },
+  {
+   "kind": "praise",
+   "label": "backwards compatibility",
+   "thing": "compatibility support",
+   "anchor": "backwards compatibility has been good",
+   "segment": 88
+  },
+  {
+   "kind": "praise",
+   "label": "better ergonomics",
+   "thing": "handheld ergonomics",
+   "anchor": "way better than the original Switch",
+   "segment": 118
+  },
+  {
+   "kind": "praise",
+   "label": "travel friendly",
+   "thing": "portability",
+   "anchor": "device that I travel with more",
+   "segment": 110
+  }
+ ]
+}

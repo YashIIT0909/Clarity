@@ -1,0 +1,34 @@
+{
+ "maps": [
+  {
+   "label": 20,
+   "thread": 0,
+   "grounded": true
+  },
+  {
+   "label": 4,
+   "thread": 2,
+   "grounded": false
+  },
+  {
+   "label": "new: joycon button looseness",
+   "thread": 3,
+   "grounded": false
+  },
+  {
+   "label": 0,
+   "thread": 5,
+   "grounded": true
+  },
+  {
+   "label": 20,
+   "thread": 7,
+   "grounded": false
+  },
+  {
+   "label": "new: system freezing",
+   "thread": 8,
+   "grounded": false
+  }
+ ]
+}

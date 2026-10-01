@@ -1,0 +1,34 @@
+{
+ "maps": [
+  {
+   "label": 14,
+   "words": "heat output",
+   "insight": 0
+  },
+  {
+   "label": 5,
+   "words": "compact size",
+   "insight": 2
+  },
+  {
+   "label": 10,
+   "words": "value for money",
+   "insight": 4
+  },
+  {
+   "label": 11,
+   "words": "noise level",
+   "insight": 5
+  },
+  {
+   "label": 3,
+   "words": "thermostat control",
+   "insight": 6
+  },
+  {
+   "label": 2,
+   "words": "plug melts",
+   "insight": 7
+  }
+ ]
+}

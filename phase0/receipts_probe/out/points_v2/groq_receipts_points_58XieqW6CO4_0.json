@@ -1,0 +1,109 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "Joy-Con drift",
+   "thing": "Joy-Con controllers",
+   "anchor": "Joy-Con controllers, which appear to still be susceptible to drifting",
+   "segment": 11
+  },
+  {
+   "kind": "issue",
+   "label": "joystick rubber skirt",
+   "thing": "Joy-Con joysticks",
+   "anchor": "rubber skirt that's meant to prevent dust and debris",
+   "segment": 38
+  },
+  {
+   "kind": "issue",
+   "label": "locked refresh rate",
+   "thing": "variable refresh rate support",
+   "anchor": "built-in screen supports variable refresh rate, which reduces tearing artifacts",
+   "segment": 44
+  },
+  {
+   "kind": "issue",
+   "label": "LCD brightness lower",
+   "thing": "LCD screen",
+   "anchor": "One area where it clearly falls behind a well-tuned OLED display",
+   "segment": 74
+  },
+  {
+   "kind": "issue",
+   "label": "repair difficulty",
+   "thing": "console chassis",
+   "anchor": "it seems like they've delivered a pretty rugged, albeit difficult to repair console",
+   "segment": 10
+  },
+  {
+   "kind": "praise",
+   "label": "HDR screen",
+   "thing": "display",
+   "anchor": "new HDR screen absolutely dwarfs the original Switch",
+   "segment": 2
+  },
+  {
+   "kind": "praise",
+   "label": "premium feel",
+   "thing": "overall build",
+   "anchor": "whole device feels significantly more premium",
+   "segment": 3
+  },
+  {
+   "kind": "praise",
+   "label": "magnetic detachment",
+   "thing": "Joy-Con attachment",
+   "anchor": "much better magnetic detachment mechanism for the Joy-Cons",
+   "segment": 4
+  },
+  {
+   "kind": "praise",
+   "label": "bigger joysticks",
+   "thing": "Joy-Con joysticks",
+   "anchor": "bigger joysticks",
+   "segment": 4
+  },
+  {
+   "kind": "praise",
+   "label": "CPU/GPU boost",
+   "thing": "performance",
+   "anchor": "double the CPU core count, triple the amount of usable RAM",
+   "segment": 13
+  },
+  {
+   "kind": "praise",
+   "label": "sharp graphics",
+   "thing": "visual quality",
+   "anchor": "appear much sharper because they no longer require dynamic resolution scaling",
+   "segment": 16
+  },
+  {
+   "kind": "praise",
+   "label": "faster load times",
+   "thing": "storage",
+   "anchor": "faster flash storage ... make noticeable improvements to load times",
+   "segment": 32
+  },
+  {
+   "kind": "praise",
+   "label": "UI snappiness",
+   "thing": "system UI",
+   "anchor": "make noticeable improvements to ... the UI snappiness",
+   "segment": 33
+  },
+  {
+   "kind": "praise",
+   "label": "120\u202fHz refresh",
+   "thing": "display refresh rate",
+   "anchor": "120 Hz refresh rate which was both a surprise",
+   "segment": 75
+  },
+  {
+   "kind": "praise",
+   "label": "Pro Controller compatibility",
+   "thing": "controller ecosystem",
+   "anchor": "Your old Pro Controller is forward compatible",
+   "segment": 41
+  }
+ ]
+}

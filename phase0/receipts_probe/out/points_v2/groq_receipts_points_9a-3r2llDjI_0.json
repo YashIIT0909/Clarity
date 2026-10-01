@@ -1,0 +1,109 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "transparency weaker than AirPods Max",
+   "thing": "transparency mode",
+   "anchor": "transparency mode was pretty decent",
+   "segment": 9
+  },
+  {
+   "kind": "issue",
+   "label": "no dual\u2011device LDAC",
+   "thing": "multi\u2011point with LDAC codec",
+   "anchor": "you can't use two devices at the same time if you're using one of the higher quality codecs such as ldac",
+   "segment": 13
+  },
+  {
+   "kind": "issue",
+   "label": "ears get warm",
+   "thing": "ear cup temperature",
+   "anchor": "your ears might get a little bit warm",
+   "segment": 15
+  },
+  {
+   "kind": "issue",
+   "label": "no USB\u2011C audio playback",
+   "thing": "USB\u2011C audio input",
+   "anchor": "you're not able to have any kind of playback through usb type-c cables",
+   "segment": 34
+  },
+  {
+   "kind": "issue",
+   "label": "app feels outdated",
+   "thing": "Sony Headphones Connect app UI",
+   "anchor": "the app gives you what you need but i think it feels a little outdated",
+   "segment": 41
+  },
+  {
+   "kind": "issue",
+   "label": "limited ANC button customization",
+   "thing": "ANC button double/triple press actions",
+   "anchor": "they only give you one option and it's the same option for both",
+   "segment": 43
+  },
+  {
+   "kind": "praise",
+   "label": "comfortable lightweight design",
+   "thing": "overall comfort",
+   "anchor": "they're super lightweight it's really like the softest foam ever",
+   "segment": 16
+  },
+  {
+   "kind": "praise",
+   "label": "better grip than Bose",
+   "thing": "headband grip",
+   "anchor": "these tend to be a lot more secure",
+   "segment": 19
+  },
+  {
+   "kind": "praise",
+   "label": "dual\u2011device connectivity",
+   "thing": "multipoint Bluetooth",
+   "anchor": "you can connect to two devices at the same time",
+   "segment": 11
+  },
+  {
+   "kind": "praise",
+   "label": "high\u2011resolution audio via LDAC",
+   "thing": "wireless bitrate",
+   "anchor": "fantastic bitrate as well using ldac which is sony's codec",
+   "segment": 28
+  },
+  {
+   "kind": "praise",
+   "label": "3.5\u202fmm wired jack",
+   "thing": "wired connection option",
+   "anchor": "you can first of all connect this by three and a half millimeter jack",
+   "segment": 30
+  },
+  {
+   "kind": "praise",
+   "label": "audio playback while off",
+   "thing": "jack playback when headphones off",
+   "anchor": "when the headphones are off you can still play music through these using the jack",
+   "segment": 33
+  },
+  {
+   "kind": "praise",
+   "label": "intuitive touch controls",
+   "thing": "ear\u2011cup touch interface",
+   "anchor": "the touch controls super intuitive swiping up and down for volume",
+   "segment": 45
+  },
+  {
+   "kind": "praise",
+   "label": "easy NFC/fast pair pairing",
+   "thing": "pairing process",
+   "anchor": "they're also really easy to pair from nfc pairing just tapping your phone on there",
+   "segment": 47
+  },
+  {
+   "kind": "praise",
+   "label": "eco\u2011friendly packaging",
+   "thing": "packaging material",
+   "anchor": "they come with no plastic or plastic free packaging again great initiative",
+   "segment": 48
+  }
+ ]
+}

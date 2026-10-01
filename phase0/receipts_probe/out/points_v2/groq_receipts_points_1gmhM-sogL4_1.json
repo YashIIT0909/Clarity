@@ -1,0 +1,43 @@
+{
+ "points": [
+  {
+   "kind": "praise",
+   "label": "360 heat distribution",
+   "thing": "omnidirectional heating",
+   "anchor": "this is a 360 heater so it's going to put out heat",
+   "segment": 1
+  },
+  {
+   "kind": "praise",
+   "label": "auto shut\u2011off safety",
+   "thing": "temperature\u2011triggered power\u2011off",
+   "anchor": "if this gets temped over uh for some reason the cat hit it the dog hit it the kids hit it it will turn off",
+   "segment": 4
+  },
+  {
+   "kind": "praise",
+   "label": "long power cord",
+   "thing": "77\u2011inch cord length",
+   "anchor": "we've got cord you've got 77 inches",
+   "segment": 9
+  },
+  {
+   "": {
+    "kind": "praise",
+    "label": "timer function",
+    "thing": "preset shut\u2011off timer",
+    "anchor": "it also has a timer here that is one two four and eight hours",
+    "segment": 12
+   }
+  },
+  {
+   "": {
+    "kind": "praise",
+    "label": "portable handle",
+    "thing": "carry handle",
+    "anchor": "got a great handle on it so you can pick it up and move it wherever you need to go",
+    "segment": 18
+   }
+  }
+ ]
+}

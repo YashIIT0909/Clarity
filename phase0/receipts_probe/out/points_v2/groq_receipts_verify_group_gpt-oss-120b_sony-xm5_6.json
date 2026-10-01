@@ -1,0 +1,34 @@
+{
+ "answers": [
+  {
+   "point_id": "v0",
+   "supports": "yes",
+   "cited_segment": 10,
+   "grounded": false
+  },
+  {
+   "point_id": "v1",
+   "supports": "yes",
+   "cited_segment": 82,
+   "grounded": false
+  },
+  {
+   "point_id": "v2",
+   "supports": "yes",
+   "cited_segment": 16,
+   "grounded": false
+  },
+  {
+   "point_id": "v3",
+   "supports": "yes",
+   "cited_segment": 9,
+   "grounded": false
+  },
+  {
+   "point_id": "v4",
+   "supports": "yes",
+   "cited_segment": 9,
+   "grounded": false
+  }
+ ]
+}

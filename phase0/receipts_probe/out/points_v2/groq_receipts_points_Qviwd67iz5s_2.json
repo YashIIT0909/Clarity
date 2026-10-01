@@ -1,0 +1,109 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "price high",
+   "thing": "price",
+   "anchor": "price. This is not a cheap device",
+   "segment": 139
+  },
+  {
+   "kind": "issue",
+   "label": "game price high",
+   "thing": "first\u2011party game price",
+   "anchor": "first party ones, $80",
+   "segment": 141
+  },
+  {
+   "kind": "issue",
+   "label": "short battery life",
+   "thing": "battery runtime",
+   "anchor": "when I do, it's about 3 hours",
+   "segment": 127
+  },
+  {
+   "kind": "issue",
+   "label": "no OLED screen",
+   "thing": "display type",
+   "anchor": "Yes, it's not an OLED",
+   "segment": 152
+  },
+  {
+   "kind": "issue",
+   "label": "lack of exclusives",
+   "thing": "exclusive games",
+   "anchor": "maybe you really want a game that is exclusive to the Switch 2",
+   "segment": 145
+  },
+  {
+   "kind": "praise",
+   "label": "great portability",
+   "thing": "travel friendliness",
+   "anchor": "as a travel device, the Nintendo Switch 2 is very hard to beat",
+   "segment": 127
+  },
+  {
+   "kind": "praise",
+   "label": "easy to pack",
+   "thing": "bag convenience",
+   "anchor": "incredibly easy to throw in a bag",
+   "segment": 128
+  },
+  {
+   "kind": "praise",
+   "label": "removable Joy\u2011Cons",
+   "thing": "Joy\u2011Con detachability",
+   "anchor": "removable Joy-Cons, ... we can pull off the JoyCons and play",
+   "segment": 129
+  },
+  {
+   "kind": "praise",
+   "label": "backwards compatible catalog",
+   "thing": "backwards compatibility",
+   "anchor": "backwards compatible on this device",
+   "segment": 132
+  },
+  {
+   "kind": "praise",
+   "label": "larger screen resolution",
+   "thing": "screen size and resolution",
+   "anchor": "The screen is bigger, the resolution is great",
+   "segment": 152
+  },
+  {
+   "kind": "praise",
+   "label": "ergonomics better",
+   "thing": "ergonomic design",
+   "anchor": "ergonomics significantly better",
+   "segment": 152
+  },
+  {
+   "kind": "praise",
+   "label": "strong functionality",
+   "thing": "overall functionality",
+   "anchor": "functionality of it, which I think is what",
+   "segment": 131
+  },
+  {
+   "kind": "praise",
+   "label": "powerful enough for years",
+   "thing": "performance longevity",
+   "anchor": "powerful enough, and any game that releases",
+   "segment": 150
+  },
+  {
+   "kind": "praise",
+   "label": "decent battery life",
+   "thing": "battery endurance",
+   "anchor": "The battery life is decent",
+   "segment": 152
+  },
+  {
+   "kind": "praise",
+   "label": "great portable/home console",
+   "thing": "versatile console type",
+   "anchor": "It's a great portable device. It's a great home console",
+   "segment": 132
+  }
+ ]
+}

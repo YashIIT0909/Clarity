@@ -1,0 +1,88 @@
+{
+ "answers": [
+  {
+   "grounded": false,
+   "point_id": "v0",
+   "supports": "yes",
+   "cited_segment": 27
+  },
+  {
+   "grounded": false,
+   "point_id": "v1",
+   "supports": "yes",
+   "cited_segment": 29
+  },
+  {
+   "grounded": false,
+   "point_id": "v2",
+   "supports": "yes",
+   "cited_segment": 30
+  },
+  {
+   "grounded": false,
+   "point_id": "v3",
+   "supports": "yes",
+   "cited_segment": 31
+  },
+  {
+   "grounded": false,
+   "point_id": "v4",
+   "supports": "yes",
+   "cited_segment": 32
+  },
+  {
+   "grounded": false,
+   "point_id": "v5",
+   "supports": "yes",
+   "cited_segment": 38
+  },
+  {
+   "grounded": false,
+   "point_id": "v6",
+   "supports": "yes",
+   "cited_segment": 38
+  },
+  {
+   "grounded": false,
+   "point_id": "v7",
+   "supports": "yes",
+   "cited_segment": 44
+  },
+  {
+   "grounded": false,
+   "point_id": "v8",
+   "supports": "yes",
+   "cited_segment": 44
+  },
+  {
+   "grounded": false,
+   "point_id": "v9",
+   "supports": "yes",
+   "cited_segment": 55
+  },
+  {
+   "grounded": false,
+   "point_id": "v10",
+   "supports": "yes",
+   "cited_segment": 58
+  },
+  {
+   "grounded": false,
+   "point_id": "v11",
+   "supports": "yes",
+   "cited_segment": 13
+  },
+  {
+   "grounded": false,
+   "point_id": "v12",
+   "supports": "yes",
+   "cited_segment": 15
+  },
+  {
+   "grounded": false,
+   "point_id": "v13",
+   "supports": "yes",
+   "cited_segment": 42
+  }
+ ]
+}

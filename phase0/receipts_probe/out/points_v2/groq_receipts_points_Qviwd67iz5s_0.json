@@ -1,0 +1,109 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "price high",
+   "thing": "retail price",
+   "anchor": "full retail price of this device is $449",
+   "segment": 17
+  },
+  {
+   "kind": "issue",
+   "label": "no OLED",
+   "thing": "display type",
+   "anchor": "not OLED like the Nintendo Switch 1 OLED",
+   "segment": 65
+  },
+  {
+   "kind": "issue",
+   "label": "big bezels",
+   "thing": "bezels",
+   "anchor": "bezels still seem bigger than I think",
+   "segment": 69
+  },
+  {
+   "kind": "issue",
+   "label": "expensive microSD",
+   "thing": "microSD Express cards",
+   "anchor": "They're really expensive, though",
+   "segment": 51
+  },
+  {
+   "kind": "issue",
+   "label": "joystick drift",
+   "thing": "joysticks",
+   "anchor": "joysticks still may have to deal with drift",
+   "segment": 47
+  },
+  {
+   "kind": "issue",
+   "label": "game card taste",
+   "thing": "game cards",
+   "anchor": "They still taste terrible, though",
+   "segment": 41
+  },
+  {
+   "kind": "issue",
+   "label": "weight unchanged",
+   "thing": "weight",
+   "anchor": "I wouldn't say it's lighter weight",
+   "segment": 38
+  },
+  {
+   "kind": "praise",
+   "label": "rounded edges",
+   "thing": "edges",
+   "anchor": "soften the edges, too, which make it more comfortable",
+   "segment": 15
+  },
+  {
+   "kind": "praise",
+   "label": "adjustable kickstand",
+   "thing": "kickstand",
+   "anchor": "improved the kickstand on the back, it's adjustable",
+   "segment": 38
+  },
+  {
+   "kind": "praise",
+   "label": "thin design",
+   "thing": "thickness",
+   "anchor": "device is still very, very thin",
+   "segment": 37
+  },
+  {
+   "kind": "praise",
+   "label": "magnetic connection",
+   "thing": "Joy-Con attachment",
+   "anchor": "Joy-Cons ... are connected with a magnet, which has a really nice click sound",
+   "segment": 42
+  },
+  {
+   "kind": "praise",
+   "label": "bigger display",
+   "thing": "screen size",
+   "anchor": "1080p 7.9 in LCD display",
+   "segment": 65
+  },
+  {
+   "kind": "praise",
+   "label": "HDR10 VRR",
+   "thing": "display features",
+   "anchor": "screen does come with HDR10 support and you've got VRR up to 120 Hz",
+   "segment": 68
+  },
+  {
+   "kind": "praise",
+   "label": "strong rumble",
+   "thing": "rumble",
+   "anchor": "Joy-Cons still have an amazing rumble feature",
+   "segment": 58
+  },
+  {
+   "kind": "praise",
+   "label": "mouse mode",
+   "thing": "mouse attachment",
+   "anchor": "new play feature, which is the mouse mode",
+   "segment": 52
+  }
+ ]
+}

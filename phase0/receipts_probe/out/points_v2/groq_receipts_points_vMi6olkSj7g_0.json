@@ -1,0 +1,95 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "limited Bluetooth codecs",
+   "thing": "Bluetooth codec support",
+   "anchor": "only support a handful of Bluetooth codecs",
+   "segment": 34
+  },
+  {
+   "kind": "issue",
+   "label": "no aptX lossless",
+   "thing": "lossless Bluetooth codec",
+   "anchor": "can't get that with the xm5 headphones",
+   "segment": 38
+  },
+  {
+   "kind": "issue",
+   "label": "no USB-C audio",
+   "thing": "USB-C audio support",
+   "anchor": "lacks USBC audio which is becoming",
+   "segment": 39
+  },
+  {
+   "kind": "issue",
+   "label": "bass overemphasis fatigue",
+   "thing": "bass tuning",
+   "anchor": "ears did feel a bit fatigued",
+   "segment": 23
+  },
+  {
+   "kind": "issue",
+   "label": "less durable headband",
+   "thing": "headband durability",
+   "anchor": "doesn't feel as durable",
+   "segment": 6
+  },
+  {
+   "kind": "praise",
+   "label": "light construction",
+   "thing": "overall build",
+   "anchor": "headphones feel really light",
+   "segment": 7
+  },
+  {
+   "kind": "praise",
+   "label": "comfortable long wear",
+   "thing": "comfort",
+   "anchor": "no problems wearing the headphones for hours",
+   "segment": 8
+  },
+  {
+   "kind": "praise",
+   "label": "plush ear pads",
+   "thing": "ear pads",
+   "anchor": "ear pads also feel very plush",
+   "segment": 9
+  },
+  {
+   "kind": "praise",
+   "label": "84% noise reduction",
+   "thing": "ANC performance",
+   "anchor": "reduce the loudness of outside Noise by about 84%",
+   "segment": 15
+  },
+  {
+   "kind": "praise",
+   "label": "accurate frequency response",
+   "thing": "sound tuning",
+   "anchor": "frequency response aligns pretty closely",
+   "segment": 21
+  },
+  {
+   "kind": "praise",
+   "label": "feature-rich app",
+   "thing": "Sony Headphones Connect app",
+   "anchor": "access to a ton of useful features",
+   "segment": 12
+  },
+  {
+   "kind": "praise",
+   "label": "great design",
+   "thing": "overall design",
+   "anchor": "great design excellent noise cancelling",
+   "segment": 49
+  },
+  {
+   "kind": "praise",
+   "label": "traveler-friendly",
+   "thing": "use case",
+   "anchor": "great option for frequent Travelers",
+   "segment": 17
+  }
+ ]
+}

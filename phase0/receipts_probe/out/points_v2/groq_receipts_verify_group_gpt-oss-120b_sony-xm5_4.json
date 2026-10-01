@@ -1,0 +1,16 @@
+{
+ "answers": [
+  {
+   "point_id": "v0",
+   "supports": "yes",
+   "cited_segment": 15,
+   "grounded": false
+  },
+  {
+   "point_id": "t0",
+   "supports": "no",
+   "cited_segment": null,
+   "grounded": true
+  }
+ ]
+}

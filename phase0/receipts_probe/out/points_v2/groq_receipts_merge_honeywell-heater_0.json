@@ -1,0 +1,97 @@
+{
+ "groups": [
+  {
+   "label": "360\u00b0 heat coverage",
+   "members": [
+    0,
+    5
+   ]
+  },
+  {
+   "label": "Long power cord",
+   "members": [
+    1
+   ]
+  },
+  {
+   "label": "Extension cord melt",
+   "members": [
+    2
+   ]
+  },
+  {
+   "label": "Imprecise temperature control",
+   "members": [
+    3
+   ]
+  },
+  {
+   "label": "No timer feature",
+   "members": [
+    4
+   ]
+  },
+  {
+   "label": "Compact size",
+   "members": [
+    6
+   ]
+  },
+  {
+   "label": "Tip\u2011over shutoff",
+   "members": [
+    7,
+    13
+   ]
+  },
+  {
+   "label": "Quiet operation",
+   "members": [
+    8
+   ]
+  },
+  {
+   "label": "Portability & handle",
+   "members": [
+    9,
+    17
+   ]
+  },
+  {
+   "label": "Attractive design",
+   "members": [
+    10
+   ]
+  },
+  {
+   "label": "Low price",
+   "members": [
+    11
+   ]
+  },
+  {
+   "label": "Noise louder than expected",
+   "members": [
+    12
+   ]
+  },
+  {
+   "label": "Overheat sensor",
+   "members": [
+    14
+   ]
+  },
+  {
+   "label": "Cool\u2011touch housing",
+   "members": [
+    15
+   ]
+  },
+  {
+   "label": "High wattage",
+   "members": [
+    16
+   ]
+  }
+ ]
+}

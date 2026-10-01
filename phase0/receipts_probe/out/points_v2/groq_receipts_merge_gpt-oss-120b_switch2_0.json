@@ -1,0 +1,178 @@
+{
+ "groups": [
+  {
+   "label": "short battery life",
+   "members": [
+    0,
+    58,
+    68
+   ]
+  },
+  {
+   "label": "high price",
+   "members": [
+    1,
+    38
+   ]
+  },
+  {
+   "label": "joy\u2011con drift issues",
+   "members": [
+    15,
+    16,
+    42
+   ]
+  },
+  {
+   "label": "dock limitations",
+   "members": [
+    52,
+    53,
+    54,
+    55
+   ]
+  },
+  {
+   "label": "LCD vs OLED drawbacks",
+   "members": [
+    39,
+    69,
+    19
+   ]
+  },
+  {
+   "label": "large bezels",
+   "members": [
+    40
+   ]
+  },
+  {
+   "label": "portability regression",
+   "members": [
+    28
+   ]
+  },
+  {
+   "label": "design ergonomics",
+   "members": [
+    45,
+    46,
+    47,
+    65,
+    37
+   ]
+  },
+  {
+   "label": "screen size & resolution praise",
+   "members": [
+    2,
+    48,
+    73,
+    49,
+    60,
+    61,
+    59
+   ]
+  },
+  {
+   "label": "display quality praise",
+   "members": [
+    3,
+    21,
+    26,
+    33,
+    34,
+    35,
+    36,
+    50,
+    51,
+    63,
+    64,
+    72,
+    74,
+    75,
+    76,
+    77
+   ]
+  },
+  {
+   "label": "hardware upgrades praise",
+   "members": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    24,
+    25,
+    27
+   ]
+  },
+  {
+   "label": "expensive microSD",
+   "members": [
+    41
+   ]
+  },
+  {
+   "label": "weight unchanged",
+   "members": [
+    44
+   ]
+  },
+  {
+   "label": "game price high",
+   "members": [
+    67
+   ]
+  },
+  {
+   "label": "small launch library",
+   "members": [
+    30
+   ]
+  },
+  {
+   "label": "policy concerns",
+   "members": [
+    32
+   ]
+  },
+  {
+   "label": "outlet dependence",
+   "members": [
+    29
+   ]
+  },
+  {
+   "label": "upgrade fees",
+   "members": [
+    56
+   ]
+  },
+  {
+   "label": "simulation slower",
+   "members": [
+    57
+   ]
+  },
+  {
+   "label": "joystick rubber skirt",
+   "members": [
+    17
+   ]
+  },
+  {
+   "label": "locked refresh rate",
+   "members": [
+    18
+   ]
+  }
+ ]
+}

@@ -1,0 +1,441 @@
+{
+ "known_issues": [],
+ "known_praise": [],
+ "forum_reported": [],
+ "mentioned_once": [
+  {
+   "kind": "praise",
+   "label": "360\u00b0 heat coverage",
+   "label_display": "360\u00b0 heat coverage",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Shopping with Sheryl",
+     "video_id": "1gmhM-sogL4",
+     "model": "not confirmed",
+     "timestamp_s": 9,
+     "quote": "one direction nope this is a 360 heater so it's going to put out heat",
+     "link": "https://www.youtube.com/watch?v=1gmhM-sogL4&t=9s"
+    },
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 22,
+     "quote": "where the heat just comes from one side here you see it comes all around",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=22s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "long power cord",
+   "label_display": "Long power cord",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Shopping with Sheryl",
+     "video_id": "1gmhM-sogL4",
+     "model": "not confirmed",
+     "timestamp_s": 71,
+     "quote": "me pull this cord up i'm telling you we've got cord you've got 77 inches",
+     "link": "https://www.youtube.com/watch?v=1gmhM-sogL4&t=71s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "extension cord melt",
+   "label_display": "Extension cord melt",
+   "type": "concern",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 342,
+     "quote": "melted in here you might be see it melted into the the um it's now",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=342s"
+    }
+   ],
+   "marketplace": [
+    {
+     "site": "Amazon",
+     "title": "Durability",
+     "sentiment": "negative",
+     "mentions": {
+      "total": 86,
+      "negative": 61,
+      "positive": 25
+     },
+     "links": [
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R1HDV6EJ30X7UP",
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R29D12USMY7QKT"
+     ]
+    }
+   ],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "imprecise temperature control",
+   "label_display": "Imprecise temperature control",
+   "type": "criticism",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 139,
+     "quote": "want it to be 70\u00b0 it doesn't have that uh although this is an inexpensive",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=139s"
+    }
+   ],
+   "marketplace": [
+    {
+     "site": "Amazon",
+     "title": "Thermostat control",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 82,
+      "negative": 30,
+      "positive": 52
+     },
+     "links": [
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R3J0RTTVKBBXB7",
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R1ZUFUH9ZTFFBL"
+     ]
+    }
+   ],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "no timer feature",
+   "label_display": "No timer feature",
+   "type": "criticism",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 37,
+     "quote": "a very simple heater it doesn't have a timer on it or anything like that",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=37s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "compact size",
+   "label_display": "Compact size",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 61,
+     "quote": "it's not that big it doesn't take up a lot of space um and let's",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=61s"
+    }
+   ],
+   "marketplace": [
+    {
+     "site": "Amazon",
+     "title": "Size",
+     "sentiment": "positive",
+     "mentions": {
+      "total": 82,
+      "negative": 13,
+      "positive": 69
+     },
+     "links": [
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R3AJ7TTS8QC2WS",
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R3B4QB7HFTVDZ0"
+     ]
+    }
+   ],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "tip\u2011over shutoff",
+   "label_display": "Tip-over shutoff",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 102,
+     "quote": "if it tips turns off which is nice that way you don't burn up something",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=102s"
+    },
+    {
+     "type": "video",
+     "channel": "Skywind007",
+     "video_id": "qBAFwTnaLI4",
+     "model": "not confirmed",
+     "timestamp_s": 208,
+     "quote": "turns off when you tip it over",
+     "link": "https://www.youtube.com/watch?v=qBAFwTnaLI4&t=208s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "quiet operation",
+   "label_display": "Quiet operation",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 87,
+     "quote": "at how it uh how it runs it's uh not real loud it's a little",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=87s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "portability & handle",
+   "label_display": "Portability & handle",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 30,
+     "quote": "up the room uh it has a really neat little little handle here see that",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=30s"
+    },
+    {
+     "type": "video",
+     "channel": "Skywind007",
+     "video_id": "qBAFwTnaLI4",
+     "model": "not confirmed",
+     "timestamp_s": 487,
+     "quote": "place and that's it this one is very lightweight and it even has a handle",
+     "link": "https://www.youtube.com/watch?v=qBAFwTnaLI4&t=487s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "attractive design",
+   "label_display": "Attractive design",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 272,
+     "quote": "this is a little more attractive it's a little more brilliant white with black this",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=272s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "low price",
+   "label_display": "Low price",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Merry Cottage",
+     "video_id": "5bQoHEQ59Vk",
+     "model": "not confirmed",
+     "timestamp_s": 45,
+     "quote": "it or anything like that it's inexpensive heater it's the $30 from Walmart and uh",
+     "link": "https://www.youtube.com/watch?v=5bQoHEQ59Vk&t=45s"
+    }
+   ],
+   "marketplace": [
+    {
+     "site": "Amazon",
+     "title": "Value for money",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 195,
+      "negative": 59,
+      "positive": 136
+     },
+     "links": [
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R2H8N7SRLISV7M",
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R18HZKYZCQAQ9A"
+     ]
+    }
+   ],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "noise louder than expected",
+   "label_display": "Noise louder than expected",
+   "type": "criticism",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Skywind007",
+     "video_id": "qBAFwTnaLI4",
+     "model": "not confirmed",
+     "timestamp_s": 530,
+     "quote": "so i would say that's probably average average to a little bit loud",
+     "link": "https://www.youtube.com/watch?v=qBAFwTnaLI4&t=530s"
+    }
+   ],
+   "marketplace": [
+    {
+     "site": "Amazon",
+     "title": "Noise level",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 182,
+      "negative": 102,
+      "positive": 80
+     },
+     "links": [
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R17XQEK48AIXO5",
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R3ATCWGFVEQYDQ"
+     ]
+    }
+   ],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "overheat sensor",
+   "label_display": "Overheat sensor",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Skywind007",
+     "video_id": "qBAFwTnaLI4",
+     "model": "not confirmed",
+     "timestamp_s": 116,
+     "quote": "temperature reaches a certain point it'll automatically turn off because it'll detect that you put",
+     "link": "https://www.youtube.com/watch?v=qBAFwTnaLI4&t=116s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "cool\u2011touch housing",
+   "label_display": "Cool-touch housing",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Skywind007",
+     "video_id": "qBAFwTnaLI4",
+     "model": "not confirmed",
+     "timestamp_s": 38,
+     "quote": "gonna get on any kind of heater it has a cool touch plastic housing so",
+     "link": "https://www.youtube.com/watch?v=qBAFwTnaLI4&t=38s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "high wattage",
+   "label_display": "High wattage",
+   "type": "praise",
+   "source_count": 0,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Skywind007",
+     "video_id": "qBAFwTnaLI4",
+     "model": "not confirmed",
+     "timestamp_s": 31,
+     "quote": "stop and it has a 1500 watt fan force heat so that's the maximum you're",
+     "link": "https://www.youtube.com/watch?v=qBAFwTnaLI4&t=31s"
+    }
+   ],
+   "marketplace": [
+    {
+     "site": "Amazon",
+     "title": "Heat output",
+     "sentiment": "positive",
+     "mentions": {
+      "total": 514,
+      "negative": 109,
+      "positive": 405
+     },
+     "links": [
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R2DZ091HOKVFGL",
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R3KBCIDYM62A11"
+     ]
+    }
+   ],
+   "left_group": []
+  }
+ ],
+ "forum_only": [],
+ "audit": {
+  "threads": 0,
+  "threads_kept": 0,
+  "threads_rejected": [],
+  "confirmed_videos": 0,
+  "videos": 3,
+  "forum_dropped": [],
+  "market_dropped": []
+ },
+ "status": "unavailable",
+ "why": "0 of 3 review videos confirmed as Honeywell 360 (HHF360V); 0 forum threads name it",
+ "mismatch": {
+  "rating": 4.4,
+  "ratings": 5558,
+  "known_issues": 0
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "no water resistance",
+   "thing": "water resistance rating",
+   "anchor": "they don't actually have a water resistance rating",
+   "segment": 60
+  },
+  {
+   "kind": "issue",
+   "label": "case too large",
+   "thing": "carrying case size",
+   "anchor": "the case is just it's large",
+   "segment": 71
+  },
+  {
+   "kind": "issue",
+   "label": "cannot fold",
+   "thing": "foldability",
+   "anchor": "it doesn't let these fold down",
+   "segment": 71
+  },
+  {
+   "": {
+    "kind": "issue",
+    "label": "no USB\u2011C audio",
+    "thing": "USB\u2011C audio playback",
+    "anchor": "play music through usb type c",
+    "segment": 85
+   }
+  },
+  {
+   "kind": "issue",
+   "label": "potential sweat damage",
+   "thing": "sweat exposure risk",
+   "anchor": "you probably shouldn't wear these if it's raining",
+   "segment": 61
+  },
+  {
+   "kind": "praise",
+   "label": "easy ear\u2011cup replacement",
+   "thing": "ear cup replacement",
+   "anchor": "they're very easy to replace and they're relatively affordable",
+   "segment": 64
+  },
+  {
+   "kind": "praise",
+   "label": "strong bass",
+   "thing": "bass performance",
+   "anchor": "you want something with a lot of bass capabilities",
+   "segment": 66
+  },
+  {
+   "kind": "praise",
+   "label": "simple gesture control",
+   "thing": "gesture controls",
+   "anchor": "you just swipe forward it's super easy",
+   "segment": 68
+  },
+  {
+   "kind": "praise",
+   "label": "long battery life",
+   "thing": "battery duration",
+   "anchor": "i can easily use these for 25 30 hours",
+   "segment": 73
+  },
+  {
+   "kind": "praise",
+   "label": "top ANC performance",
+   "thing": "active noise cancellation",
+   "anchor": "these in my opinion are the best amc headphones",
+   "segment": 74
+  }
+ ]
+}

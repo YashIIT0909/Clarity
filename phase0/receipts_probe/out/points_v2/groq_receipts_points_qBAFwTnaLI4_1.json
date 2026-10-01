@@ -1,0 +1,46 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "noise level",
+   "thing": "sound output",
+   "anchor": "average to a little bit loud",
+   "segment": 57
+  },
+  {
+   "kind": "praise",
+   "label": "tip\u2011over protection",
+   "thing": "tip\u2011over shutoff",
+   "anchor": "turns off when you tip it over",
+   "segment": 23
+  },
+  {
+   "kind": "praise",
+   "label": "overheat sensor",
+   "thing": "automatic shutoff sensor",
+   "anchor": "automatically turn off because",
+   "segment": 13
+  },
+  {
+   "kind": "praise",
+   "label": "cool\u2011touch housing",
+   "thing": "plastic housing temperature",
+   "anchor": "cool touch plastic housing",
+   "segment": 4
+  },
+  {
+   "kind": "praise",
+   "label": "high wattage",
+   "thing": "1500\u202fW output",
+   "anchor": "1500 watt fan force heat",
+   "segment": 3
+  },
+  {
+   "kind": "praise",
+   "label": "portability",
+   "thing": "lightweight with handle",
+   "anchor": "very lightweight and it even has a handle",
+   "segment": 52
+  }
+ ]
+}

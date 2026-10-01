@@ -1,0 +1,74 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "portability regression",
+   "thing": "size/portability",
+   "anchor": "regression in portability here. It is still slim",
+   "segment": 86
+  },
+  {
+   "kind": "issue",
+   "label": "outlet dependence",
+   "thing": "power requirement",
+   "anchor": "selecting your gaming seat based on proximity to an outlet",
+   "segment": 83
+  },
+  {
+   "kind": "issue",
+   "label": "small launch library",
+   "thing": "game library size",
+   "anchor": "library of exclusive launch titles extremely small",
+   "segment": 100
+  },
+  {
+   "kind": "issue",
+   "label": "subscription cost",
+   "thing": "Nintendo Switch Online fee",
+   "anchor": "add that to your bill along with their iconically never on sale library",
+   "segment": 98
+  },
+  {
+   "kind": "issue",
+   "label": "policy concerns",
+   "thing": "hardware repair restrictions",
+   "anchor": "breaking consoles for stepping out of line",
+   "segment": 95
+  },
+  {
+   "kind": "praise",
+   "label": "high refresh rates",
+   "thing": "display refresh rate",
+   "anchor": "high refresh rates in those cases really cut down on the latency",
+   "segment": 81
+  },
+  {
+   "kind": "praise",
+   "label": "better haptics",
+   "thing": "vibration feedback",
+   "anchor": "the haptics, even the speakers, they sound so much better",
+   "segment": 105
+  },
+  {
+   "kind": "praise",
+   "label": "improved speakers",
+   "thing": "audio output",
+   "anchor": "the speakers, they sound so much better",
+   "segment": 105
+  },
+  {
+   "kind": "praise",
+   "label": "overall hardware upgrade",
+   "thing": "general hardware quality",
+   "anchor": "better than my old one in just about every meaningful way",
+   "segment": 105
+  },
+  {
+   "kind": "praise",
+   "label": "slim form factor",
+   "thing": "device thickness",
+   "anchor": "It is still slim, which is really nice",
+   "segment": 86
+  }
+ ]
+}

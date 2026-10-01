@@ -1,0 +1,208 @@
+{
+ "groups": [
+  {
+   "label": "Non\u2011foldable design",
+   "members": [
+    0,
+    2,
+    31,
+    30
+   ]
+  },
+  {
+   "label": "Large case size",
+   "members": [
+    1,
+    12,
+    30
+   ]
+  },
+  {
+   "label": "Weak transparency mode",
+   "members": [
+    3,
+    15
+   ]
+  },
+  {
+   "label": "Battery life unchanged",
+   "members": [
+    4
+   ]
+  },
+  {
+   "label": "Ears get warm",
+   "members": [
+    16
+   ]
+  },
+  {
+   "label": "No USB\u2011C audio",
+   "members": [
+    17,
+    40
+   ]
+  },
+  {
+   "label": "Outdated app UI",
+   "members": [
+    18
+   ]
+  },
+  {
+   "label": "Limited ANC button customization",
+   "members": [
+    19
+   ]
+  },
+  {
+   "label": "Limited Bluetooth codec support",
+   "members": [
+    38,
+    39
+   ]
+  },
+  {
+   "label": "Lack of water resistance",
+   "members": [
+    29,
+    32
+   ]
+  },
+  {
+   "label": "High comfort",
+   "members": [
+    5,
+    13,
+    20,
+    44,
+    45
+   ]
+  },
+  {
+   "label": "Softer vegan leather",
+   "members": [
+    6
+   ]
+  },
+  {
+   "label": "Strong ANC performance",
+   "members": [
+    7,
+    37,
+    46
+   ]
+  },
+  {
+   "label": "Adjustable transparency levels",
+   "members": [
+    8
+   ]
+  },
+  {
+   "label": "Fast charging",
+   "members": [
+    9
+   ]
+  },
+  {
+   "label": "Carbon fiber driver",
+   "members": [
+    10
+   ]
+  },
+  {
+   "label": "Touch controls",
+   "members": [
+    11,
+    26,
+    35
+   ]
+  },
+  {
+   "label": "Better grip than Bose",
+   "members": [
+    21
+   ]
+  },
+  {
+   "label": "Dual\u2011device connectivity",
+   "members": [
+    22
+   ]
+  },
+  {
+   "label": "High\u2011resolution LDAC audio",
+   "members": [
+    23
+   ]
+  },
+  {
+   "label": "Wired audio support",
+   "members": [
+    24,
+    25
+   ]
+  },
+  {
+   "label": "Easy NFC/fast pair pairing",
+   "members": [
+    27
+   ]
+  },
+  {
+   "label": "Eco\u2011friendly packaging",
+   "members": [
+    28
+   ]
+  },
+  {
+   "label": "Easy ear\u2011cup replacement",
+   "members": [
+    33
+   ]
+  },
+  {
+   "label": "Strong bass",
+   "members": [
+    34
+   ]
+  },
+  {
+   "label": "Light construction",
+   "members": [
+    43
+   ]
+  },
+  {
+   "label": "Bass fatigue",
+   "members": [
+    41
+   ]
+  },
+  {
+   "label": "Less durable headband",
+   "members": [
+    42
+   ]
+  },
+  {
+   "label": "Traveler\u2011friendly",
+   "members": [
+    49
+   ]
+  },
+  {
+   "label": "Feature\u2011rich app",
+   "members": [
+    47
+   ]
+  },
+  {
+   "label": "Great design",
+   "members": [
+    48
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "non\u2011foldable design",
+   "thing": "headphone frame",
+   "anchor": "does not fold at all",
+   "segment": 19
+  },
+  {
+   "kind": "issue",
+   "label": "larger travel case",
+   "thing": "carrying case size",
+   "anchor": "case you carry them around in is quite a bit bigger",
+   "segment": 21
+  },
+  {
+   "kind": "issue",
+   "label": "no flat fold",
+   "thing": "headband mechanism",
+   "anchor": "they don't fold down flat",
+   "segment": 60
+  },
+  {
+   "kind": "issue",
+   "label": "transparency inferior",
+   "thing": "transparency mode quality",
+   "anchor": "sound like a somewhat muffled version of reality",
+   "segment": 39
+  },
+  {
+   "kind": "issue",
+   "label": "battery unchanged",
+   "thing": "battery life duration",
+   "anchor": "rated for the same 30 hours",
+   "segment": 51
+  },
+  {
+   "kind": "praise",
+   "label": "top comfort",
+   "thing": "ear cup padding",
+   "anchor": "most comfortable pair of noise canceling headphones",
+   "segment": 10
+  },
+  {
+   "kind": "praise",
+   "label": "softer vegan leather",
+   "thing": "ear cup material",
+   "anchor": "new vegan leather material is so much softer",
+   "segment": 8
+  },
+  {
+   "kind": "praise",
+   "label": "improved ANC",
+   "thing": "noise cancellation performance",
+   "anchor": "extra microphones and processor",
+   "segment": 34
+  },
+  {
+   "kind": "praise",
+   "label": "20 transparency levels",
+   "thing": "app transparency control",
+   "anchor": "20 levels of adjustment in the app",
+   "segment": 35
+  },
+  {
+   "kind": "praise",
+   "label": "fast charging",
+   "thing": "charging speed",
+   "anchor": "plug these in for three minutes, and get three hours",
+   "segment": 54
+  },
+  {
+   "kind": "praise",
+   "label": "carbon fiber driver",
+   "thing": "audio driver",
+   "anchor": "new 30 millimeter carbon fiber driver",
+   "segment": 41
+  },
+  {
+   "kind": "praise",
+   "label": "touch panel & head detection",
+   "thing": "controls and sensors",
+   "anchor": "touch sensitive panel on the right side ear cup",
+   "segment": 11
+  }
+ ]
+}

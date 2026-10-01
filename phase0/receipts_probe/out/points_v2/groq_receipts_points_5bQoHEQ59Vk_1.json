@@ -1,0 +1,74 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "extension cord melt",
+   "thing": "extension cord used with heater",
+   "anchor": "melted in here you might be see",
+   "segment": 42
+  },
+  {
+   "kind": "issue",
+   "label": "no precise temperature control",
+   "thing": "temperature setting accuracy",
+   "anchor": "it doesn't have that uh although",
+   "segment": 17
+  },
+  {
+   "kind": "issue",
+   "label": "no timer feature",
+   "thing": "timer function",
+   "anchor": "it doesn't have a timer on it",
+   "segment": 5
+  },
+  {
+   "kind": "praise",
+   "label": "360\u00b0 surround heat",
+   "thing": "heat distribution",
+   "anchor": "heat just comes from one side",
+   "segment": 3
+  },
+  {
+   "kind": "praise",
+   "label": "compact size",
+   "thing": "physical dimensions",
+   "anchor": "it's not that big it doesn't take up",
+   "segment": 8
+  },
+  {
+   "kind": "praise",
+   "label": "tip\u2011over auto shutoff",
+   "thing": "safety feature",
+   "anchor": "if it tips turns off which is nice",
+   "segment": 13
+  },
+  {
+   "kind": "praise",
+   "label": "quiet operation",
+   "thing": "noise level",
+   "anchor": "it's not real loud it's a little",
+   "segment": 11
+  },
+  {
+   "kind": "praise",
+   "label": "handy handle",
+   "thing": "carry handle",
+   "anchor": "it has a really neat little little handle",
+   "segment": 4
+  },
+  {
+   "kind": "praise",
+   "label": "attractive design",
+   "thing": "aesthetic appearance",
+   "anchor": "more attractive it's a little more brilliant white",
+   "segment": 34
+  },
+  {
+   "kind": "praise",
+   "label": "low price",
+   "thing": "cost",
+   "anchor": "it's inexpensive heater it's the $30",
+   "segment": 6
+  }
+ ]
+}

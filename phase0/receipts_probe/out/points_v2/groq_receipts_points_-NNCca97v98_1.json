@@ -1,0 +1,11 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "joystick drift risk",
+   "thing": "joystick sticks",
+   "anchor": "these new sticks are not, in fact, hall effect",
+   "segment": 95
+  }
+ ]
+}

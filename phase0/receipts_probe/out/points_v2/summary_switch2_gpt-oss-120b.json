@@ -1,0 +1,1230 @@
+{
+ "known_issues": [
+  {
+   "kind": "issue",
+   "label": "short battery life",
+   "label_display": "Short battery life",
+   "type": "criticism",
+   "source_count": 2,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 420,
+     "quote": "(bright music) The truth is, the battery life is the only real major weak point",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=420s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 910,
+     "quote": "on Nintendo's website they say up to 6 and 1/2 hours. I've never gotten that",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=910s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 941,
+     "quote": "fully to zero, but when I do, it's about 3 hours. But overall, as a",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=941s"
+    }
+   ],
+   "marketplace": [
+    {
+     "site": "Amazon",
+     "title": "Battery life",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 77,
+      "negative": 37,
+      "positive": 40
+     },
+     "links": [
+      "https://www.amazon.com/portal/customer-reviews/srp/-/RL5ZPHFJ11EVZ",
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R214KSY3OJPH84"
+     ]
+    }
+   ],
+   "left_group": [
+    {
+     "type": "forum",
+     "title": "Any known early defects that have showed up from Switch 2 ...",
+     "link": "https://gamefaqs.gamespot.com/boards/507478-nintendo-switch-2/81027727",
+     "source": "GameFAQs",
+     "date": "Aug 16, 2025",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "issue",
+   "label": "high price",
+   "label_display": "High price",
+   "type": "criticism",
+   "source_count": 2,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 483,
+     "quote": "is the price. So the the price tag for the new Switch 2 is $450.",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=483s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 147,
+     "quote": "full retail price of this device is $449 with the potential of the price going",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=147s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "joy\u2011con drift issues",
+   "label_display": "Joy-Con drift",
+   "type": "concern",
+   "source_count": 2,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 84,
+     "quote": "Joy-Con controllers, which appear to still be susceptible to drifting. More on that later. First,",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=84s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 375,
+     "quote": "buttons are bigger. The joysticks still may have to deal with drift eventually, but we",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=375s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": [
+    {
+     "kind": "issue",
+     "label": "joystick drift risk",
+     "quote": "But these new sticks are not, in fact, hall effect. So will these also start",
+     "segment_start_s": 641,
+     "segment": 95,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": true,
+     "video_id": "-NNCca97v98",
+     "channel": "Marques Brownlee",
+     "model": "confirmed",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "issue",
+   "label": "lcd vs oled drawbacks",
+   "label_display": "LCD vs OLED",
+   "type": "criticism",
+   "source_count": 2,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 500,
+     "quote": "in LCD display, which unfortunately, no, is not OLED like the Nintendo Switch 1 OLED",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=500s"
+    },
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 563,
+     "quote": "in HDR. One area where it clearly falls behind a well-tuned OLED display, though, is",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=563s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": [
+    {
+     "kind": "issue",
+     "label": "no oled screen",
+     "quote": "bigger, the resolution is great. Yes, it's not an OLED, but I'm sure there's going",
+     "segment_start_s": 1127,
+     "segment": 152,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    }
+   ]
+  }
+ ],
+ "known_praise": [
+  {
+   "kind": "praise",
+   "label": "display quality praise",
+   "label_display": "Display quality",
+   "type": "praise",
+   "source_count": 3,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 186,
+     "quote": "It's brighter, higher refresh rate, still has decent sized bezels but generally looks much better",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=186s"
+    },
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 16,
+     "quote": "were extremely positive. The new HDR screen absolutely dwarfs the original Switch and even the",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=16s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 632,
+     "quote": "expect for firstp party Nintendo games, everything runs incredibly smoothly. The one thing that's interesting",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=632s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 1113,
+     "quote": "the new one. It's powerful enough, and any game that releases on the Switch 2",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=1113s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 1127,
+     "quote": "be an OLED version in the future. The battery life is decent. The ergonomics significantly",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=1127s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": [
+    {
+     "kind": "praise",
+     "label": "120\u202fhz refresh",
+     "quote": "spec is the 120 Hz refresh rate which was both a surprise for me personally",
+     "segment_start_s": 578,
+     "segment": 75,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "58XieqW6CO4",
+     "channel": "Linus Tech Tips",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "high refresh rates",
+     "quote": "high refresh rates in those cases really cut down on the latency, turning it from",
+     "segment_start_s": 626,
+     "segment": 81,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "58XieqW6CO4",
+     "channel": "Linus Tech Tips",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "better haptics",
+     "quote": "way. I mean, the haptics, even the speakers, they sound so much better to the",
+     "segment_start_s": 810,
+     "segment": 105,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "58XieqW6CO4",
+     "channel": "Linus Tech Tips",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "improved speakers",
+     "quote": "mean, the haptics, even the speakers, they sound so much better to the point where",
+     "segment_start_s": 810,
+     "segment": 105,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "58XieqW6CO4",
+     "channel": "Linus Tech Tips",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "overall hardware upgrade",
+     "quote": "better than my old one in just about every meaningful way. I mean, the haptics,",
+     "segment_start_s": 810,
+     "segment": 105,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "58XieqW6CO4",
+     "channel": "Linus Tech Tips",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "strong rumble",
+     "quote": "of course, the Joy-Cons still have an amazing rumble feature. It's awesome.",
+     "segment_start_s": 450,
+     "segment": 58,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "mouse mode",
+     "quote": "on the Nintendo Switch 2 is this new play feature, which is the mouse mode.",
+     "segment_start_s": 412,
+     "segment": 52,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "backwards compatibility",
+     "quote": "And across the board, backwards compatibility has been good. Now, Nintendo actually has this thing",
+     "segment_start_s": 682,
+     "segment": 90,
+     "match": 1.0,
+     "how": "re-anchored",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "backwards compatible catalog",
+     "quote": "one games, which are still backwards compatible on this device. So, you've got a huge",
+     "segment_start_s": 983,
+     "segment": 133,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "strong functionality",
+     "quote": "the Switch is the functionality of it, which I think is what made it such",
+     "segment_start_s": 967,
+     "segment": 131,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "great portable/home console",
+     "quote": "It's a great portable device. It's a great home console. It's great for multiplayer. It's",
+     "segment_start_s": 975,
+     "segment": 132,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "praise",
+   "label": "hardware upgrades praise",
+   "label_display": "Hardware upgrades",
+   "type": "praise",
+   "source_count": 2,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 192,
+     "quote": "The joy-cons also, huge improved, full width kickstand, even over the Switch OLED.",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=192s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 206,
+     "quote": "The dock does 4K60 now instead of 1080. It can do HDR output.",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=206s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 211,
+     "quote": "There's now a cooling fan, so performance stays better for longer gaming sessions.",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=211s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 215,
+     "quote": "And they threw a USB type C port at the top of the console so",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=215s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 221,
+     "quote": "Also adding ethernet built right to the dock, probably after seeing a ton of people",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=221s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 245,
+     "quote": "These new joy-cons with their bigger buttons, bigger joysticks, but also the extremely satisfying magnets,",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=245s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 254,
+     "quote": "Instead of sliding off on rails, which is already pretty innovative in 2017, now it's",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=254s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 297,
+     "quote": "The SR and SL buttons are way more usable for those two player games where",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=297s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 307,
+     "quote": "But also, mouse mode is a new thing, and it's interesting, it doesn't actually do",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=307s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 361,
+     "quote": "pretty detailed testing now of different games that were limited on the Switch 1 seeing",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=361s"
+    },
+    {
+     "type": "video",
+     "channel": "Marques Brownlee",
+     "video_id": "-NNCca97v98",
+     "model": "confirmed",
+     "timestamp_s": 396,
+     "quote": "So yes, moving through menus is faster and going through the eShop is actually kind",
+     "link": "https://www.youtube.com/watch?v=-NNCca97v98&t=396s"
+    },
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 99,
+     "quote": "is. With double the CPU core count, triple the amount of usable RAM, and 10",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=99s"
+    },
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 132,
+     "quote": "appear much sharper because they no longer require dynamic resolution scaling. And I haven't even",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=132s"
+    },
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 322,
+     "quote": "bother you as much. Your old Pro Controller is forward compatible, which is super nice.",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=322s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  }
+ ],
+ "forum_reported": [],
+ "mentioned_once": [
+  {
+   "kind": "issue",
+   "label": "dock limitations",
+   "label_display": "Dock limitations",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 594,
+     "quote": "is that even though the original dock was what, like $80 to $90 if you",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=594s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 549,
+     "quote": "4K resolution. Now, that is capped at, I believe, 60 Hz, which is a little",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=549s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 565,
+     "quote": "it does anything else, but there is a fan in here. In addition to gaining",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=565s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 580,
+     "quote": "typeA ports, which is odd that they put USB type A ports on something in",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=580s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "large bezels",
+   "label_display": "Large bezels",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 528,
+     "quote": "it's bigger. While the bezels still seem bigger than I think that they should be",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=528s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "portability regression",
+   "label_display": "Portability regression",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 664,
+     "quote": "I'll also discuss the regression in portability here. It is still slim, which is really",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=664s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "design ergonomics",
+   "label_display": "Design ergonomics",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 131,
+     "quote": "size. They also soften the edges, too, which make it more comfortable in the hand.",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=131s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 306,
+     "quote": "to travel with. They've improved the kickstand on the back, it's adjustable, like the Nintendo",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=306s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 298,
+     "quote": "did. Not only that, the device is still very, very thin, which means that compared",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=298s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 872,
+     "quote": "it's excellent. Again, ergonomically, it's way better than the original Switch. The screen size is",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=872s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": [
+    {
+     "kind": "praise",
+     "label": "slim form factor",
+     "quote": "regression in portability here. It is still slim, which is really nice, but I was",
+     "segment_start_s": 664,
+     "segment": 86,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "58XieqW6CO4",
+     "channel": "Linus Tech Tips",
+     "model": "confirmed",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "praise",
+   "label": "screen size & resolution praise",
+   "label_display": "Screen size & resolution",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 1127,
+     "quote": "The screen is bigger, the resolution is great. Yes, it's not an OLED, but I'm",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=1127s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 617,
+     "quote": "In handheld mode, again, 120 Hz capable, 1080p display looks great. When you plug it",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=617s"
+    },
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 617,
+     "quote": "120 Hz, but you are getting 4K, which is really nice. Not everything is 4K,",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=617s"
+    }
+   ],
+   "marketplace": [
+    {
+     "site": "Amazon",
+     "title": "Screen size",
+     "sentiment": "positive",
+     "mentions": {
+      "total": 50,
+      "negative": 6,
+      "positive": 44
+     },
+     "links": [
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R1SVVIZ1JU38LP",
+      "https://www.amazon.com/portal/customer-reviews/srp/-/R15L2NCIKUMKVE"
+     ]
+    }
+   ],
+   "left_group": [
+    {
+     "kind": "praise",
+     "label": "bigger screen",
+     "quote": "This is a massive new screen.",
+     "segment_start_s": 183,
+     "segment": 27,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "-NNCca97v98",
+     "channel": "Marques Brownlee",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "bigger display",
+     "quote": "is used to power the 1080p 7.9 in LCD display, which unfortunately, no, is not",
+     "segment_start_s": 500,
+     "segment": 65,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "hdr10 vrr",
+     "quote": "The screen does come with HDR10 support and you've got VRR up to 120 Hz.",
+     "segment_start_s": 524,
+     "segment": 68,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    },
+    {
+     "kind": "praise",
+     "label": "color contrast",
+     "quote": "Color contrast is great. It's a very sharp display. It's really difficult to pixel peep.",
+     "segment_start_s": 541,
+     "segment": 71,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "Qviwd67iz5s",
+     "channel": "Tech Fowler",
+     "model": "confirmed",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "issue",
+   "label": "expensive microsd",
+   "label_display": "Expensive microSD",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 404,
+     "quote": "They're really expensive, though, so I don't feel the need to upgrade. I just delete",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=404s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "weight unchanged",
+   "label_display": "Weight unchanged",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 306,
+     "quote": "OLED. It uses less metal. I wouldn't say it's lighter weight, but it's it's a",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=306s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "game price high",
+   "label_display": "Game price high",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 1047,
+     "quote": "that, games are more expensive. Nintendo Switch 2 games specifically, the first party ones, $80.",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=1047s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "small launch library",
+   "label_display": "Small launch library",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 769,
+     "quote": "Not only is the library of exclusive launch titles extremely small, and I got to",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=769s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "policy concerns",
+   "label_display": "Policy",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 732,
+     "quote": "breaking consoles for stepping out of line, even if that stepping out of line is",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=732s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "outlet dependence",
+   "label_display": "Outlet dependence",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 640,
+     "quote": "to have you selecting your gaming seat based on proximity to an outlet rather than",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=640s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "upgrade fees",
+   "label_display": "Upgrade fees",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 655,
+     "quote": "they do give you the option to upgrade to the Switch 2 version. In some",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=655s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "simulation slower",
+   "label_display": "Simulation slower",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 774,
+     "quote": "actually jumping into the games, runs slower on the Switch 2 than it does on",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=774s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "joystick rubber skirt",
+   "label_display": "Joystick rubber skirt",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 297,
+     "quote": "due to the rubber skirt that's meant to prevent dust and debris from finding a",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=297s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "locked refresh rate",
+   "label_display": "Locked refresh rate",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "forum",
+     "title": "What are the common issues with switch 2?",
+     "link": "https://www.reddit.com/r/NintendoSwitch/comments/1szjkw8/what_are_the_common_issues_with_switch_2/",
+     "source": "Reddit \u00b7 r/NintendoSwitch",
+     "date": null
+    }
+   ],
+   "marketplace": [],
+   "left_group": [
+    {
+     "kind": "issue",
+     "label": "locked refresh rate",
+     "quote": "96 Exit. While the built-in screen supports variable refresh rate, which reduces tearing artifacts and",
+     "segment_start_s": 344,
+     "segment": 44,
+     "match": 1.0,
+     "how": "cited",
+     "hedged": false,
+     "video_id": "58XieqW6CO4",
+     "channel": "Linus Tech Tips",
+     "model": "confirmed",
+     "why": "verifier: no"
+    }
+   ]
+  },
+  {
+   "kind": "issue",
+   "label": "repair difficulty",
+   "label_display": "Repair difficulty",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 76,
+     "quote": "protector, it seems like they've delivered a pretty rugged, albeit difficult to repair console here.",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=76s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "premium feel",
+   "label_display": "Premium feel",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 23,
+     "quote": "original Switch and even the Switch OLED. And the whole device feels significantly more premium",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=23s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "magnetic detachment",
+   "label_display": "Magnetic detachment",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 30,
+     "quote": "with a much better magnetic detachment mechanism for the Joy-Cons, soft touch plastics, more tactile",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=30s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "subscription cost",
+   "label_display": "Subscription cost",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Linus Tech Tips",
+     "video_id": "58XieqW6CO4",
+     "model": "confirmed",
+     "timestamp_s": 755,
+     "quote": "to add that to your bill along with their iconically never on sale library of",
+     "link": "https://www.youtube.com/watch?v=58XieqW6CO4&t=755s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "issue",
+   "label": "game card taste",
+   "label_display": "Game card taste",
+   "type": "criticism",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 328,
+     "quote": "are on the Switch 1. They still taste terrible, though. Don't ask me how I",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=328s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "dock hdmi ethernet",
+   "label_display": "Dock HDMI ethernet",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 565,
+     "quote": "on the dock, you also get an HDMI out port. You've also got an Ethernet",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=565s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "travel friendly",
+   "label_display": "Travel friendly",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 816,
+     "quote": "This is actually the device that I travel with more than any other device.",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=816s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "great portability",
+   "label_display": "Great portability",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 941,
+     "quote": "overall, as a travel device, the Nintendo Switch 2 is very hard to beat, especially",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=941s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  },
+  {
+   "kind": "praise",
+   "label": "easy to pack",
+   "label_display": "Easy to pack",
+   "type": "praise",
+   "source_count": 1,
+   "sources": [
+    {
+     "type": "video",
+     "channel": "Tech Fowler",
+     "video_id": "Qviwd67iz5s",
+     "model": "confirmed",
+     "timestamp_s": 949,
+     "quote": "incredibly easy to throw in a bag. And if you get like a small I",
+     "link": "https://www.youtube.com/watch?v=Qviwd67iz5s&t=949s"
+    }
+   ],
+   "marketplace": [],
+   "left_group": []
+  }
+ ],
+ "forum_only": [],
+ "audit": {
+  "threads": 10,
+  "threads_kept": 9,
+  "threads_rejected": [
+   {
+    "title": "Nintendo Switch 2 Not Connecting to TV? Expert ...",
+    "why": "search-bait site"
+   }
+  ],
+  "confirmed_videos": 3,
+  "videos": 3,
+  "forum_dropped": [
+   {
+    "thread": 2,
+    "label": 4,
+    "why": "words not in the thread title/URL/snippet"
+   },
+   {
+    "thread": 3,
+    "label": "new: joycon button looseness",
+    "why": "words not in the thread title/URL/snippet"
+   },
+   {
+    "thread": 7,
+    "label": 20,
+    "why": "words not in the thread title/URL/snippet"
+   },
+   {
+    "thread": 8,
+    "label": "new: system freezing",
+    "why": "words not in the thread title/URL/snippet"
+   }
+  ],
+  "market_dropped": []
+ },
+ "status": "found",
+ "mismatch": {
+  "rating": 4.5,
+  "ratings": 5595,
+  "known_issues": 4
+ }
+}

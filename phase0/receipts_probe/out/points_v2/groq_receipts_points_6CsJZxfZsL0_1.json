@@ -1,0 +1,25 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "big footprint",
+   "thing": "size/footprint",
+   "anchor": "much bigger footprint here but",
+   "segment": 81
+  },
+  {
+   "kind": "praise",
+   "label": "comfortable fit",
+   "thing": "ear cushions",
+   "anchor": "really good really comfortable",
+   "segment": 82
+  },
+  {
+   "kind": "praise",
+   "label": "premium noise canceling",
+   "thing": "ANC performance",
+   "anchor": "premium noise canceling headphones",
+   "segment": 82
+  }
+ ]
+}

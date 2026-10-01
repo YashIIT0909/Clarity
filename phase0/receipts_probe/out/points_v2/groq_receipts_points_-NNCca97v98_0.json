@@ -1,0 +1,109 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "short battery life",
+   "thing": "battery life",
+   "anchor": "the battery life is the only",
+   "segment": 63
+  },
+  {
+   "kind": "issue",
+   "label": "high price",
+   "thing": "price tag",
+   "anchor": "the price tag for the new",
+   "segment": 72
+  },
+  {
+   "kind": "praise",
+   "label": "bigger screen",
+   "thing": "screen size",
+   "anchor": "This is a massive new screen",
+   "segment": 27
+  },
+  {
+   "kind": "praise",
+   "label": "brighter higher refresh",
+   "thing": "display refresh rate",
+   "anchor": "brighter, higher refresh rate, still",
+   "segment": 28
+  },
+  {
+   "kind": "praise",
+   "label": "improved kickstand",
+   "thing": "kickstand design",
+   "anchor": "full width kickstand, even over",
+   "segment": 29
+  },
+  {
+   "kind": "praise",
+   "label": "dock 4K60 HDR",
+   "thing": "dock output",
+   "anchor": "dock does 4K60 now instead",
+   "segment": 31
+  },
+  {
+   "kind": "praise",
+   "label": "cooling fan added",
+   "thing": "thermal solution",
+   "anchor": "There's now a cooling fan",
+   "segment": 32
+  },
+  {
+   "kind": "praise",
+   "label": "USB\u2011C accessory port",
+   "thing": "top USB\u2011C port",
+   "anchor": "USB type C port at the top",
+   "segment": 33
+  },
+  {
+   "kind": "praise",
+   "label": "built\u2011in ethernet",
+   "thing": "dock ethernet",
+   "anchor": "adding ethernet built right to the dock",
+   "segment": 34
+  },
+  {
+   "kind": "praise",
+   "label": "bigger joy\u2011cons buttons",
+   "thing": "joy\u2011con button size",
+   "anchor": "new joy-cons with their bigger buttons",
+   "segment": 38
+  },
+  {
+   "kind": "praise",
+   "label": "magnetic attachment",
+   "thing": "joy\u2011con magnets",
+   "anchor": "instead of sliding off on rails",
+   "segment": 39
+  },
+  {
+   "kind": "praise",
+   "label": "more usable SR/SL",
+   "thing": "SR and SL buttons",
+   "anchor": "SR and SL buttons are way",
+   "segment": 44
+  },
+  {
+   "kind": "praise",
+   "label": "mouse mode responsive",
+   "thing": "mouse mode feature",
+   "anchor": "mouse mode is a new thing",
+   "segment": 46
+  },
+  {
+   "kind": "praise",
+   "label": "consistent 60\u202fFPS",
+   "thing": "frame rate performance",
+   "anchor": "different games that were limited",
+   "segment": 55
+  },
+  {
+   "kind": "praise",
+   "label": "faster UI navigation",
+   "thing": "menu loading speed",
+   "anchor": "menus is faster and going",
+   "segment": 60
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "maps": [
+  {
+   "label": 0,
+   "words": "Battery life",
+   "insight": 7
+  },
+  {
+   "label": 8,
+   "words": "Screen size",
+   "insight": 6
+  }
+ ]
+}
