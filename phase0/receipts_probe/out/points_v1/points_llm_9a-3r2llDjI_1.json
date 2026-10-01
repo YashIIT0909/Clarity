@@ -1,0 +1,105 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "no water resistance",
+   "thing": "water resistance rating",
+   "segments": [
+    60
+   ],
+   "quote": "they don't actually have a water resistance rating"
+  },
+  {
+   "kind": "issue",
+   "label": "case too large",
+   "thing": "carrying case size",
+   "segments": [
+    71
+   ],
+   "quote": "the case is just it's large it doesn't let these fold down"
+  },
+  {
+   "kind": "issue",
+   "label": "potential water damage",
+   "thing": "exposure to sweat/rain",
+   "segments": [
+    61
+   ],
+   "quote": "you could potentially damage the headphones"
+  },
+  {
+   "kind": "issue",
+   "label": "no USB\u2011C audio",
+   "thing": "audio playback via USB\u2011C",
+   "segments": [
+    85
+   ],
+   "quote": "i wish they were able to play music through usb type c"
+  },
+  {
+   "kind": "praise",
+   "label": "easy ear\u2011cup replacement",
+   "thing": "ear cup replaceability",
+   "segments": [
+    64
+   ],
+   "quote": "they're very easy to replace and they're relatively affordable"
+  },
+  {
+   "kind": "praise",
+   "label": "long battery life",
+   "thing": "battery runtime",
+   "segments": [
+    73
+   ],
+   "quote": "i can easily use these for 25 30 hours and they never die on me"
+  },
+  {
+   "kind": "praise",
+   "label": "top ANC performance",
+   "thing": "active noise cancellation",
+   "segments": [
+    74
+   ],
+   "quote": "these in my opinion are the best anc headphones on the market"
+  },
+  {
+   "kind": "praise",
+   "label": "simple gesture control",
+   "thing": "touch gestures",
+   "segments": [
+    67,
+    68
+   ],
+   "quote": "the gestures are very simple which makes it great for ... you just swipe forward"
+  },
+  {
+   "kind": "praise",
+   "label": "strong bass output",
+   "thing": "bass capability",
+   "segments": [
+    66
+   ],
+   "quote": "when you're working out you want something that's loud and you want something with a lot of bass capabilities ... these really check the boxes"
+  },
+  {
+   "kind": "praise",
+   "label": "hand\u2011activated transparency",
+   "thing": "transparency mode activation",
+   "segments": [
+    80,
+    81
+   ],
+   "quote": "if you just go like this and hold your hand there it'll go into a transparency mode"
+  },
+  {
+   "kind": "praise",
+   "label": "stylish design",
+   "thing": "aesthetic appearance",
+   "segments": [
+    79
+   ],
+   "quote": "these are a little bit more stylish than the x mark fours"
+  }
+ ]
+}

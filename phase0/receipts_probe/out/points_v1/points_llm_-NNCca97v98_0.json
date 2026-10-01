@@ -1,0 +1,134 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "short battery life",
+   "thing": "battery life",
+   "segments": [
+    63,
+    64
+   ],
+   "quote": "battery life is the only real major weak point"
+  },
+  {
+   "kind": "issue",
+   "label": "high price",
+   "thing": "price",
+   "segments": [
+    72,
+    73
+   ],
+   "quote": "price tag for the new Switch 2 is $450"
+  },
+  {
+   "kind": "praise",
+   "label": "brighter screen",
+   "thing": "display",
+   "segments": [
+    27,
+    28
+   ],
+   "quote": "massive new screen. It's brighter, higher refresh rate"
+  },
+  {
+   "kind": "praise",
+   "label": "4K dock output",
+   "thing": "dock video output",
+   "segments": [
+    31
+   ],
+   "quote": "dock does 4K60 now instead of 1080"
+  },
+  {
+   "kind": "praise",
+   "label": "cooling fan",
+   "thing": "thermal solution",
+   "segments": [
+    32
+   ],
+   "quote": "there's now a cooling fan, so performance stays better"
+  },
+  {
+   "kind": "praise",
+   "label": "USB\u2011C port",
+   "thing": "top port",
+   "segments": [
+    33
+   ],
+   "quote": "threw a USB type C port at the top"
+  },
+  {
+   "kind": "praise",
+   "label": "built\u2011in ethernet",
+   "thing": "dock ethernet",
+   "segments": [
+    34
+   ],
+   "quote": "adding ethernet built right to the dock"
+  },
+  {
+   "kind": "praise",
+   "label": "magnetic attachment",
+   "thing": "joy\u2011con magnets",
+   "segments": [
+    39
+   ],
+   "quote": "instead of sliding off on rails, now it's magnets"
+  },
+  {
+   "kind": "praise",
+   "label": "bigger buttons",
+   "thing": "joy\u2011con design",
+   "segments": [
+    38
+   ],
+   "quote": "new joy-cons with their bigger buttons, bigger joysticks"
+  },
+  {
+   "kind": "praise",
+   "label": "improved SR/SL buttons",
+   "thing": "SR/SL buttons",
+   "segments": [
+    44
+   ],
+   "quote": "SR and SL buttons are way more usable"
+  },
+  {
+   "kind": "praise",
+   "label": "mouse mode responsive",
+   "thing": "mouse mode",
+   "segments": [
+    46
+   ],
+   "quote": "mouse mode is a new thing, it\u2019s responsive"
+  },
+  {
+   "kind": "praise",
+   "label": "consistent 60\u202ffps",
+   "thing": "performance",
+   "segments": [
+    58,
+    59
+   ],
+   "quote": "Switch 2 can run it at a clean 60"
+  },
+  {
+   "kind": "praise",
+   "label": "faster UI",
+   "thing": "menus and launch speed",
+   "segments": [
+    60
+   ],
+   "quote": "menus are faster and launching games is quicker"
+  },
+  {
+   "kind": "praise",
+   "label": "snappy eShop",
+   "thing": "eShop navigation",
+   "segments": [
+    60
+   ],
+   "quote": "menus are faster and launching games is quicker"
+  }
+ ]
+}

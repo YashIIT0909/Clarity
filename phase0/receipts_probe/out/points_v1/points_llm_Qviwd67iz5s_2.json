@@ -1,0 +1,98 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "high price",
+   "thing": "console price",
+   "segments": [
+    139,
+    140
+   ],
+   "quote": "price. This is not a cheap device. It's $450 to start"
+  },
+  {
+   "kind": "issue",
+   "label": "expensive games",
+   "thing": "first\u2011party game price",
+   "segments": [
+    141
+   ],
+   "quote": "first party ones, $80"
+  },
+  {
+   "kind": "issue",
+   "label": "battery lower than spec",
+   "thing": "battery life",
+   "segments": [
+    123,
+    124,
+    125
+   ],
+   "quote": "I've never gotten that personally... dayto\u2011day, I'd say I get about 2 and 1 half to 3 hours"
+  },
+  {
+   "kind": "praise",
+   "label": "travel portability",
+   "thing": "size/weight",
+   "segments": [
+    127,
+    128
+   ],
+   "quote": "incredibly easy to throw in a bag... takes up barely any space"
+  },
+  {
+   "kind": "praise",
+   "label": "better ergonomics",
+   "thing": "handheld comfort",
+   "segments": [
+    118
+   ],
+   "quote": "ergonomically, it's way better than the original Switch"
+  },
+  {
+   "kind": "praise",
+   "label": "larger screen",
+   "thing": "screen size",
+   "segments": [
+    118
+   ],
+   "quote": "The screen size is better"
+  },
+  {
+   "kind": "praise",
+   "label": "removable Joy\u2011Cons",
+   "thing": "Joy\u2011Cons",
+   "segments": [
+    129
+   ],
+   "quote": "with the removable Joy\u2011Cons... we can pull off the JoyCons and play"
+  },
+  {
+   "kind": "praise",
+   "label": "fast charging",
+   "thing": "charging time",
+   "segments": [
+    125
+   ],
+   "quote": "you can go from zero to 100% in about 3 hours"
+  },
+  {
+   "kind": "praise",
+   "label": "multiplayer friendly",
+   "thing": "multiplayer",
+   "segments": [
+    112
+   ],
+   "quote": "the Switch 2 is the only one I ever play multiplayer on"
+  },
+  {
+   "kind": "praise",
+   "label": "handheld mode",
+   "thing": "handheld usage",
+   "segments": [
+    115
+   ],
+   "quote": "I play this in handheld mode almost exclusively"
+  }
+ ]
+}

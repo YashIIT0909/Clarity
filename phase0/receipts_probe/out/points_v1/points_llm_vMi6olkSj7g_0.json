@@ -1,0 +1,94 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "limited Bluetooth codecs",
+   "thing": "Bluetooth codec support",
+   "segments": [
+    34,
+    36
+   ],
+   "quote": "Bluetooth 5.2 ... don't support ... aptX or the lc3 codec ... only support ... SBC AAC and LD"
+  },
+  {
+   "kind": "issue",
+   "label": "no USB\u2011C audio",
+   "thing": "USB\u2011C audio port",
+   "segments": [
+    39,
+    40
+   ],
+   "quote": "xm5 also lacks USBC audio which is becoming a staple"
+  },
+  {
+   "kind": "issue",
+   "label": "bass overemphasis fatigue",
+   "thing": "Bass tuning",
+   "segments": [
+    22,
+    24
+   ],
+   "quote": "overemphasis in the Bass ... my ears did feel a bit fatigued"
+  },
+  {
+   "kind": "issue",
+   "label": "less durable than predecessor",
+   "thing": "Build durability",
+   "segments": [
+    6,
+    7
+   ],
+   "quote": "doesn't feel as durable as its thicker looking predecessor"
+  },
+  {
+   "kind": "praise",
+   "label": "light headband",
+   "thing": "Headband weight",
+   "segments": [
+    6,
+    8
+   ],
+   "quote": "thinner headband ... makes the headphones feel really light on the head"
+  },
+  {
+   "kind": "praise",
+   "label": "plush ear pads",
+   "thing": "Ear pad material",
+   "segments": [
+    9,
+    10
+   ],
+   "quote": "ear pads also feel very plush and the ear Cup itself is deeper"
+  },
+  {
+   "kind": "praise",
+   "label": "strong ANC performance",
+   "thing": "Active noise cancelling",
+   "segments": [
+    15,
+    16
+   ],
+   "quote": "can reduce the loudness of outside Noise by about 84%"
+  },
+  {
+   "kind": "praise",
+   "label": "sound matches preference curve",
+   "thing": "Frequency response",
+   "segments": [
+    21,
+    23
+   ],
+   "quote": "frequency response ... aligns pretty closely with our preference curve"
+  },
+  {
+   "kind": "praise",
+   "label": "feature\u2011rich app",
+   "thing": "Sony Headphones Connect app",
+   "segments": [
+    12,
+    13
+   ],
+   "quote": "app you get access to ... Equalizer ... Ambient sound controls adaptive sound controls"
+  }
+ ]
+}

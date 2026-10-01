@@ -1,0 +1,101 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "noise level",
+   "thing": "sound",
+   "segments": [
+    55,
+    58
+   ],
+   "quote": "fairly average to a little bit loud"
+  },
+  {
+   "kind": "praise",
+   "label": "high power",
+   "thing": "1500\u202fW output",
+   "segments": [
+    26
+   ],
+   "quote": "it's a 1500 watt heater"
+  },
+  {
+   "kind": "praise",
+   "label": "tip\u2011over safety",
+   "thing": "tip\u2011over shutoff",
+   "segments": [
+    23,
+    24
+   ],
+   "quote": "turns off when you tip it over"
+  },
+  {
+   "kind": "praise",
+   "label": "overheat protection",
+   "thing": "overheat sensor & fuse",
+   "segments": [
+    5,
+    6
+   ],
+   "quote": "two times overheat shut off protection which includes an overheat sensor and a backup cut off fuse"
+  },
+  {
+   "kind": "praise",
+   "label": "cool\u2011touch housing",
+   "thing": "plastic housing",
+   "segments": [
+    4
+   ],
+   "quote": "it has a cool touch plastic housing so it doesn't get hot"
+  },
+  {
+   "kind": "praise",
+   "label": "adjustable thermostat",
+   "thing": "thermostat control",
+   "segments": [
+    2,
+    9
+   ],
+   "quote": "adjustable thermostat"
+  },
+  {
+   "kind": "praise",
+   "label": "two heat settings",
+   "thing": "heat levels",
+   "segments": [
+    2
+   ],
+   "quote": "it has two heat settings"
+  },
+  {
+   "kind": "praise",
+   "label": "strong fan",
+   "thing": "fan speed",
+   "segments": [
+    46,
+    50
+   ],
+   "quote": "it has a stronger fan so i think it'll heat up the room a lot faster"
+  },
+  {
+   "kind": "praise",
+   "label": "portable design",
+   "thing": "weight & handle",
+   "segments": [
+    52,
+    53
+   ],
+   "quote": "very lightweight and it even has a handle"
+  },
+  {
+   "kind": "praise",
+   "label": "quiet operation",
+   "thing": "sound compared to competitor",
+   "segments": [
+    44,
+    45
+   ],
+   "quote": "this one is quieter"
+  }
+ ]
+}

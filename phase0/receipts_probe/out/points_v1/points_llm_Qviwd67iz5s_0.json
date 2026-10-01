@@ -1,0 +1,97 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "joystick drift risk",
+   "thing": "joysticks",
+   "segments": [
+    47
+   ],
+   "quote": "The joysticks still may have to deal with drift eventually"
+  },
+  {
+   "kind": "issue",
+   "label": "microSD capacity low",
+   "thing": "microSD storage",
+   "segments": [
+    50,
+    51
+   ],
+   "quote": "I wish I had gotten because the 256 is really not enough"
+  },
+  {
+   "kind": "issue",
+   "label": "joy\u2011con wiggle",
+   "thing": "joy\u2011con connection",
+   "segments": [
+    46
+   ],
+   "quote": "It wiggles a little bit, which means that there is some give"
+  },
+  {
+   "kind": "praise",
+   "label": "bigger screen",
+   "thing": "screen size",
+   "segments": [
+    35
+   ],
+   "quote": "it's bigger. And for me, that's a good thing"
+  },
+  {
+   "kind": "praise",
+   "label": "rounded edges comfort",
+   "thing": "edges",
+   "segments": [
+    35,
+    36
+   ],
+   "quote": "The edges on the back of the device are rounded in this really nice way"
+  },
+  {
+   "kind": "praise",
+   "label": "thin portable",
+   "thing": "thickness",
+   "segments": [
+    37
+   ],
+   "quote": "device is still very, very thin, which means that compared to really any other"
+  },
+  {
+   "kind": "praise",
+   "label": "adjustable kickstand",
+   "thing": "kickstand",
+   "segments": [
+    38
+   ],
+   "quote": "They've improved the kickstand on the back, it's adjustable"
+  },
+  {
+   "kind": "praise",
+   "label": "magnet click sound",
+   "thing": "joy\u2011con attachment",
+   "segments": [
+    42,
+    44
+   ],
+   "quote": "magnet, which has a really nice click sound to it"
+  },
+  {
+   "kind": "praise",
+   "label": "bigger buttons",
+   "thing": "buttons",
+   "segments": [
+    47
+   ],
+   "quote": "The buttons are bigger on the Switch 2"
+  },
+  {
+   "kind": "praise",
+   "label": "mouse mode",
+   "thing": "play feature",
+   "segments": [
+    52
+   ],
+   "quote": "new play feature, which is the mouse mode"
+  }
+ ]
+}

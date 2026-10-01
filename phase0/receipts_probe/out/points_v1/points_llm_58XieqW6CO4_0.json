@@ -1,0 +1,150 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "screen fragile",
+   "thing": "screen durability",
+   "segments": [
+    8
+   ],
+   "quote": "The screen on the Switch 2 is not tough"
+  },
+  {
+   "kind": "issue",
+   "label": "joy\u2011con drift",
+   "thing": "Joy\u2011Con controllers",
+   "segments": [
+    11
+   ],
+   "quote": "Joy\u2011Con controllers, which appear to still be susceptible to drifting"
+  },
+  {
+   "kind": "issue",
+   "label": "joystick rubber skirt",
+   "thing": "Joy\u2011Con joysticks",
+   "segments": [
+    38,
+    39
+   ],
+   "quote": "the rubber skirt ... seems to fold over occasionally, making them feel kind of off"
+  },
+  {
+   "kind": "issue",
+   "label": "variable refresh not via dock",
+   "thing": "HDMI output",
+   "segments": [
+    44,
+    45
+   ],
+   "quote": "built\u2011in screen supports variable refresh rate ... this feature is not supported via the DAW"
+  },
+  {
+   "kind": "issue",
+   "label": "LCD low min brightness",
+   "thing": "LCD screen",
+   "segments": [
+    73,
+    74
+   ],
+   "quote": "One area where it clearly falls behind a well\u2011tuned OLED display, though, is in minimum brightness"
+  },
+  {
+   "kind": "praise",
+   "label": "HDR screen",
+   "thing": "display",
+   "segments": [
+    2,
+    3
+   ],
+   "quote": "The new HDR screen absolutely dwarfs the original Switch"
+  },
+  {
+   "kind": "praise",
+   "label": "premium feel",
+   "thing": "overall build",
+   "segments": [
+    3,
+    4
+   ],
+   "quote": "the whole device feels significantly more premium"
+  },
+  {
+   "kind": "praise",
+   "label": "magnetic detachment",
+   "thing": "Joy\u2011Con attachment",
+   "segments": [
+    4
+   ],
+   "quote": "much better magnetic detachment mechanism for the Joy\u2011Cons"
+  },
+  {
+   "kind": "praise",
+   "label": "bigger joysticks",
+   "thing": "Joy\u2011Con joysticks",
+   "segments": [
+    4
+   ],
+   "quote": "bigger joysticks"
+  },
+  {
+   "kind": "praise",
+   "label": "pro controller compatibility",
+   "thing": "Pro Controller",
+   "segments": [
+    41,
+    42
+   ],
+   "quote": "Your old Pro Controller is forward compatible"
+  },
+  {
+   "kind": "praise",
+   "label": "performance leap",
+   "thing": "CPU/GPU",
+   "segments": [
+    13,
+    14,
+    15
+   ],
+   "quote": "double the CPU core count, triple the amount of usable RAM, and 10 times the graphics processing"
+  },
+  {
+   "kind": "praise",
+   "label": "load time improvement",
+   "thing": "flash storage",
+   "segments": [
+    32,
+    33
+   ],
+   "quote": "faster flash storage ... make noticeable improvements to load times"
+  },
+  {
+   "kind": "praise",
+   "label": "UI snappiness",
+   "thing": "system UI",
+   "segments": [
+    33
+   ],
+   "quote": "make noticeable improvements to ... the UI snappiness"
+  },
+  {
+   "kind": "praise",
+   "label": "LCD quality",
+   "thing": "LCD screen",
+   "segments": [
+    68,
+    69,
+    70
+   ],
+   "quote": "LCD screen you get is pretty darn good ... exhibits almost no distracting motion blur"
+  },
+  {
+   "kind": "praise",
+   "label": "120\u202fHz refresh",
+   "thing": "display refresh rate",
+   "segments": [
+    75
+   ],
+   "quote": "The last big spec is the 120\u202fHz refresh rate which was both a surprise"
+  }
+ ]
+}

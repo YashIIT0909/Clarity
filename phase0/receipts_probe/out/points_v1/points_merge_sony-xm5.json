@@ -1,0 +1,186 @@
+{
+ "groups": [
+  {
+   "label": "does not fold",
+   "members": [
+    0,
+    2,
+    26
+   ]
+  },
+  {
+   "label": "large travel case",
+   "members": [
+    1
+   ]
+  },
+  {
+   "label": "bigger footprint",
+   "members": [
+    11
+   ]
+  },
+  {
+   "label": "weaker transparency mode",
+   "members": [
+    14
+   ]
+  },
+  {
+   "label": "ears get warm",
+   "members": [
+    15
+   ]
+  },
+  {
+   "label": "no USB\u2011C audio playback",
+   "members": [
+    16,
+    28,
+    34
+   ]
+  },
+  {
+   "label": "app feels outdated",
+   "members": [
+    17
+   ]
+  },
+  {
+   "label": "no water resistance",
+   "members": [
+    25
+   ]
+  },
+  {
+   "label": "potential water damage",
+   "members": [
+    27
+   ]
+  },
+  {
+   "label": "less durable than predecessor",
+   "members": [
+    35
+   ]
+  },
+  {
+   "label": "softer vegan leather",
+   "members": [
+    4
+   ]
+  },
+  {
+   "label": "most comfortable headphones",
+   "members": [
+    5,
+    12,
+    13
+   ]
+  },
+  {
+   "label": "lightweight design",
+   "members": [
+    6
+   ]
+  },
+  {
+   "label": "20 transparency levels",
+   "members": [
+    7
+   ]
+  },
+  {
+   "label": "faster charging",
+   "members": [
+    8
+   ]
+  },
+  {
+   "label": "30\u2011hour battery life",
+   "members": [
+    9,
+    30
+   ]
+  },
+  {
+   "label": "new carbon\u2011fiber driver",
+   "members": [
+    10
+   ]
+  },
+  {
+   "label": "secure fit",
+   "members": [
+    18
+   ]
+  },
+  {
+   "label": "excellent audio quality",
+   "members": [
+    19
+   ]
+  },
+  {
+   "label": "high\u2011bitrate LDAC",
+   "members": [
+    20
+   ]
+  },
+  {
+   "label": "wired jack works when off",
+   "members": [
+    21
+   ]
+  },
+  {
+   "label": "intuitive touch controls",
+   "members": [
+    22
+   ]
+  },
+  {
+   "label": "easy NFC pairing",
+   "members": [
+    23
+   ]
+  },
+  {
+   "label": "eco\u2011friendly packaging",
+   "members": [
+    24
+   ]
+  },
+  {
+   "label": "easy ear\u2011cup replacement",
+   "members": [
+    29
+   ]
+  },
+  {
+   "label": "top ANC performance",
+   "members": [
+    31,
+    37
+   ]
+  },
+  {
+   "label": "hand\u2011activated transparency",
+   "members": [
+    32
+   ]
+  },
+  {
+   "label": "stylish design",
+   "members": [
+    33
+   ]
+  },
+  {
+   "label": "plush ear pads",
+   "members": [
+    36
+   ]
+  }
+ ]
+}

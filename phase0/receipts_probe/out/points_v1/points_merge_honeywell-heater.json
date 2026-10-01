@@ -1,0 +1,103 @@
+{
+ "groups": [
+  {
+   "label": "360\u00b0 surround heating",
+   "members": [
+    0,
+    8
+   ]
+  },
+  {
+   "label": "lightweight portable",
+   "members": [
+    1,
+    17
+   ]
+  },
+  {
+   "label": "extra-long cord",
+   "members": [
+    2
+   ]
+  },
+  {
+   "label": "adjustable thermostat",
+   "members": [
+    3
+   ]
+  },
+  {
+   "label": "countdown shutdown",
+   "members": [
+    4
+   ]
+  },
+  {
+   "label": "carry handle",
+   "members": [
+    5
+   ]
+  },
+  {
+   "label": "overall performance",
+   "members": [
+    6
+   ]
+  },
+  {
+   "label": "imprecise temperature control",
+   "members": [
+    7
+   ]
+  },
+  {
+   "label": "low price",
+   "members": [
+    9
+   ]
+  },
+  {
+   "label": "compact size",
+   "members": [
+    10
+   ]
+  },
+  {
+   "label": "quiet operation",
+   "members": [
+    11,
+    18
+   ]
+  },
+  {
+   "label": "simple design no timer",
+   "members": [
+    12
+   ]
+  },
+  {
+   "label": "high power",
+   "members": [
+    13
+   ]
+  },
+  {
+   "label": "tip-over safety",
+   "members": [
+    14
+   ]
+  },
+  {
+   "label": "overheat protection",
+   "members": [
+    15
+   ]
+  },
+  {
+   "label": "two heat settings",
+   "members": [
+    16
+   ]
+  }
+ ]
+}

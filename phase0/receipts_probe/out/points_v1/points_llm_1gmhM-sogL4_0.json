@@ -1,0 +1,100 @@
+{
+ "points": [
+  {
+   "kind": "praise",
+   "label": "360 surround heat",
+   "thing": "heat distribution",
+   "segments": [
+    1,
+    2
+   ],
+   "quote": "this is a 360 heater so it's going to put out heat all the way around"
+  },
+  {
+   "kind": "praise",
+   "label": "lightweight design",
+   "thing": "weight",
+   "segments": [
+    3
+   ],
+   "quote": "now it's fairly lightweight"
+  },
+  {
+   "kind": "praise",
+   "label": "auto\u2011off safety",
+   "thing": "safety button",
+   "segments": [
+    4,
+    5
+   ],
+   "quote": "if this gets temped over ... it will turn off"
+  },
+  {
+   "kind": "praise",
+   "label": "compact size",
+   "thing": "dimensions",
+   "segments": [
+    5,
+    6
+   ],
+   "quote": "just a little over 10 inches tall ... eight inches wide"
+  },
+  {
+   "kind": "praise",
+   "label": "extra\u2011long cord",
+   "thing": "cord length",
+   "segments": [
+    9,
+    10
+   ],
+   "quote": "we've got cord you've got 77 inches"
+  },
+  {
+   "kind": "praise",
+   "label": "adjustable thermostat",
+   "thing": "thermostat control",
+   "segments": [
+    12
+   ],
+   "quote": "you can also set your thermostat with the up down buttons"
+  },
+  {
+   "kind": "praise",
+   "label": "multiple timer settings",
+   "thing": "timer options",
+   "segments": [
+    12,
+    14
+   ],
+   "quote": "timer here that is one two four and eight hours"
+  },
+  {
+   "kind": "praise",
+   "label": "countdown shutdown indicator",
+   "thing": "shutdown timer",
+   "segments": [
+    16,
+    17
+   ],
+   "quote": "it will give you a countdown timer and then shut off"
+  },
+  {
+   "kind": "praise",
+   "label": "handy carry handle",
+   "thing": "handle",
+   "segments": [
+    18
+   ],
+   "quote": "got a great handle on it so you can pick it up and move it"
+  },
+  {
+   "kind": "praise",
+   "label": "overall performance",
+   "thing": "general impression",
+   "segments": [
+    18
+   ],
+   "quote": "this has been a great little heater"
+  }
+ ]
+}

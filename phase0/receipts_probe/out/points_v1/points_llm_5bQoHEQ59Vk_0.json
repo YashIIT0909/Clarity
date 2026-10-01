@@ -1,0 +1,125 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "needs proper extension cord",
+   "thing": "extension cord rating",
+   "segments": [
+    38,
+    40
+   ],
+   "quote": "you need to plug it into the wall I guess if you do have an extension cord it has to be one that's designed to handle uh something like a heater"
+  },
+  {
+   "kind": "issue",
+   "label": "cord melted and damaged heater",
+   "thing": "cord melting",
+   "segments": [
+    41,
+    44
+   ],
+   "quote": "it melted in here ... fused in there melted ... pretty much I blew up the heater"
+  },
+  {
+   "kind": "issue",
+   "label": "no precise temperature control",
+   "thing": "temperature setting",
+   "segments": [
+    17,
+    18
+   ],
+   "quote": "it doesn't have that uh although this is an inexpensive heater I don't need all those extra features"
+  },
+  {
+   "kind": "praise",
+   "label": "360\u00b0 surround heating",
+   "thing": "heat distribution",
+   "segments": [
+    2,
+    3
+   ],
+   "quote": "heat just comes from one side here you see it comes all around so you can place this in the middle of a room"
+  },
+  {
+   "kind": "praise",
+   "label": "convenient handle",
+   "thing": "handle design",
+   "segments": [
+    4,
+    5
+   ],
+   "quote": "it has a really neat little little handle here ... very nice so we want to pick it up and move it around"
+  },
+  {
+   "kind": "praise",
+   "label": "low price",
+   "thing": "price",
+   "segments": [
+    6,
+    7
+   ],
+   "quote": "it's inexpensive heater it's the $30 from Walmart and uh I like the white color"
+  },
+  {
+   "kind": "praise",
+   "label": "compact size",
+   "thing": "size",
+   "segments": [
+    8
+   ],
+   "quote": "it's not that big it doesn't take up a lot of space"
+  },
+  {
+   "kind": "praise",
+   "label": "quiet operation",
+   "thing": "noise level",
+   "segments": [
+    11,
+    12
+   ],
+   "quote": "it's not real loud it's a little bit you know you definitely know it's on but it's not something that's a big rattly sound"
+  },
+  {
+   "": {
+    "kind": "praise",
+    "label": "tip\u2011over auto shutoff",
+    "thing": "safety feature",
+    "segments": [
+     13,
+     16
+    ],
+    "quote": "if it tips turns off which is nice that way you don't burn up something ... it will turn itself off and then turn itself on when it gets cold again"
+   }
+  },
+  {
+   "kind": "praise",
+   "label": "simple design no timer",
+   "thing": "feature simplicity",
+   "segments": [
+    5,
+    6
+   ],
+   "quote": "it's a very simple heater it doesn't have a timer on it or anything like that"
+  },
+  {
+   "kind": "praise",
+   "label": "appealing white/black look",
+   "thing": "color design",
+   "segments": [
+    6,
+    7
+   ],
+   "quote": "I like the white with the black ... much more appealing than the square boxy ones"
+  },
+  {
+   "kind": "praise",
+   "label": "durable long\u2011term use",
+   "thing": "longevity",
+   "segments": [
+    45,
+    46
+   ],
+   "quote": "I had this for years has worked great ... I'm sure this will continue to work great for years"
+  }
+ ]
+}

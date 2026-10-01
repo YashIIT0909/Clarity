@@ -1,0 +1,140 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "does not fold",
+   "thing": "headphone folding mechanism",
+   "segments": [
+    19,
+    20
+   ],
+   "quote": "This new version ... does not fold at all"
+  },
+  {
+   "kind": "issue",
+   "label": "larger travel case",
+   "thing": "carrying case size",
+   "segments": [
+    21,
+    22
+   ],
+   "quote": "the case you carry them around in is quite a bit bigger"
+  },
+  {
+   "kind": "issue",
+   "label": "only folds up",
+   "thing": "headband folding direction",
+   "segments": [
+    60,
+    61
+   ],
+   "quote": "they don't fold down flat. They actually only fold up"
+  },
+  {
+   "kind": "issue",
+   "label": "no plastic cutout detection",
+   "thing": "on\u2011off head detection design",
+   "segments": [
+    12
+   ],
+   "quote": "they actually still have on off head detection despite not having a plastic cutout"
+  },
+  {
+   "kind": "praise",
+   "label": "softer vegan leather",
+   "thing": "ear cup material",
+   "segments": [
+    8
+   ],
+   "quote": "the new vegan leather material is so much softer"
+  },
+  {
+   "kind": "praise",
+   "label": "most comfortable headphones",
+   "thing": "overall comfort",
+   "segments": [
+    10
+   ],
+   "quote": "most comfortable pair of noise canceling headphones I've ever tried"
+  },
+  {
+   "kind": "praise",
+   "label": "lightweight design",
+   "thing": "overall weight",
+   "segments": [
+    9
+   ],
+   "quote": "super lightweight of the whole headphones to make this entire pair more comfortable"
+  },
+  {
+   "": {
+    "kind": "praise",
+    "label": "improved ANC",
+    "thing": "noise cancellation performance",
+    "segments": [
+     32,
+     33
+    ],
+    "quote": "Right when I put these on, I immediately noticed it's even stronger"
+   }
+  },
+  {
+   "kind": "praise",
+   "label": "more microphones",
+   "thing": "mic count",
+   "segments": [
+    12,
+    13
+   ],
+   "quote": "now twice as many slots for microphones ... eight total microphones"
+  },
+  {
+   "kind": "praise",
+   "label": "20 transparency levels",
+   "thing": "transparency mode control",
+   "segments": [
+    35
+   ],
+   "quote": "20 levels of adjustment in the app of how much transparency gets through"
+  },
+  {
+   "kind": "praise",
+   "label": "faster charging",
+   "thing": "quick charge speed",
+   "segments": [
+    53,
+    54
+   ],
+   "quote": "plug these in for three minutes, and get three hours of listening out of it"
+  },
+  {
+   "kind": "praise",
+   "label": "30\u2011hour battery",
+   "thing": "battery life rating",
+   "segments": [
+    50,
+    51
+   ],
+   "quote": "rated for the same 30 hours of battery life as the Mark 4s"
+  },
+  {
+   "kind": "praise",
+   "label": "new carbon\u2011fiber driver",
+   "thing": "driver technology",
+   "segments": [
+    41
+   ],
+   "quote": "new 30 millimeter carbon fiber driver"
+  },
+  {
+   "kind": "praise",
+   "label": "excellent sound quality",
+   "thing": "audio performance",
+   "segments": [
+    44,
+    45
+   ],
+   "quote": "among the absolute best sounding noise canceling wireless headphones available"
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "transparency mode weaker",
+   "thing": "Transparency mode",
+   "segments": [
+    9,
+    10
+   ],
+   "quote": "transparency mode was pretty decent it's not quite at the level of the airpods max"
+  },
+  {
+   "kind": "issue",
+   "label": "no dual\u2011device LDAC",
+   "thing": "Multi\u2011device connection with LDAC",
+   "segments": [
+    11,
+    13
+   ],
+   "quote": "you can't use two devices at the same time if you're using one of the higher quality codecs such as ldac"
+  },
+  {
+   "kind": "issue",
+   "label": "ears get warm",
+   "thing": "Ear warmth during long wear",
+   "segments": [
+    15,
+    16
+   ],
+   "quote": "your ears might get a little bit warm personally i didn't really feel like that was a big issue"
+  },
+  {
+   "kind": "issue",
+   "label": "no USB\u2011C audio playback",
+   "thing": "USB\u2011C audio input",
+   "segments": [
+    34,
+    35
+   ],
+   "quote": "you're not able to have any kind of playback through usb type-c cables unlike a lot of other headphones"
+  },
+  {
+   "kind": "issue",
+   "label": "app feels outdated",
+   "thing": "Sony Headphones Connect app UI",
+   "segments": [
+    40,
+    41
+   ],
+   "quote": "the app gives you what you need but i think it feels a little outdated"
+  },
+  {
+   "kind": "issue",
+   "label": "limited button customization",
+   "thing": "ANC button double/triple press actions",
+   "segments": [
+    42,
+    44
+   ],
+   "quote": "they only give you one option and it's the same option for both so if you double press you can open spotify and if you triple press you could open spotify"
+  },
+  {
+   "kind": "issue",
+   "label": "no charging while using USB\u2011C audio",
+   "thing": "Charging via USB\u2011C during playback",
+   "segments": [
+    36,
+    37
+   ],
+   "quote": "i wish sony would do that especially at this price"
+  },
+  {
+   "kind": "praise",
+   "label": "very comfortable",
+   "thing": "Overall comfort and weight",
+   "segments": [
+    15,
+    17
+   ],
+   "quote": "they're super lightweight it's really like the softest foam ever"
+  },
+  {
+   "kind": "praise",
+   "label": "secure fit",
+   "thing": "Headband grip",
+   "segments": [
+    19,
+    20
+   ],
+   "quote": "these tend to be a lot more secure something i thought was kind of interesting"
+  },
+  {
+   "kind": "praise",
+   "label": "excellent audio quality",
+   "thing": "Soundstage and detail",
+   "segments": [
+    27,
+    28
+   ],
+   "quote": "listening to music is very pleasant with these amazing soundstage great detail really analytical"
+  },
+  {
+   "kind": "praise",
+   "label": "high\u2011bitrate LDAC",
+   "thing": "Bluetooth codec bitrate",
+   "segments": [
+    28,
+    29
+   ],
+   "quote": "using ldac which is sony's codec with a substantially higher bit rate than most other codecs"
+  },
+  {
+   "kind": "praise",
+   "label": "wired jack works when off",
+   "thing": "3.5\u202fmm jack playback",
+   "segments": [
+    33,
+    34
+   ],
+   "quote": "when the headphones are off you can still play music through these using the jack"
+  },
+  {
+   "kind": "praise",
+   "label": "intuitive touch controls",
+   "thing": "Ear\u2011cup touch interface",
+   "segments": [
+    45,
+    46
+   ],
+   "quote": "the touch controls super intuitive swiping up and down for volume right and left for forward and back song"
+  },
+  {
+   "kind": "praise",
+   "label": "easy NFC pairing",
+   "thing": "Bluetooth pairing method",
+   "segments": [
+    47,
+    48
+   ],
+   "quote": "they're also really easy to pair from nfc pairing just tapping your phone on there"
+  },
+  {
+   "kind": "praise",
+   "label": "eco\u2011friendly packaging",
+   "thing": "Packaging material",
+   "segments": [
+    48,
+    49
+   ],
+   "quote": "they come with no plastic or plastic free packaging again great initiative for the environment"
+  },
+  {
+   "kind": "praise",
+   "label": "secure during workouts",
+   "thing": "Fit during exercise",
+   "segments": [
+    53,
+    58
+   ],
+   "quote": "they fit really well much more secure than the bose headphones ... they never fall off my head"
+  }
+ ]
+}

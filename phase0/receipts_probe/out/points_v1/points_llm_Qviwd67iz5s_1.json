@@ -1,0 +1,128 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "no OLED display",
+   "thing": "display",
+   "segments": [
+    65
+   ],
+   "quote": "is not OLED like the Nintendo Switch 1 OLED"
+  },
+  {
+   "kind": "issue",
+   "label": "expensive dock",
+   "thing": "dock price",
+   "segments": [
+    78
+   ],
+   "quote": "this new one is like $125, which seems like a lot"
+  },
+  {
+   "kind": "issue",
+   "label": "USB\u2011A ports odd",
+   "thing": "USB ports",
+   "segments": [
+    76
+   ],
+   "quote": "odd that they put USB type A ports on something in 2025"
+  },
+  {
+   "kind": "issue",
+   "label": "large bezels",
+   "thing": "screen bezels",
+   "segments": [
+    69
+   ],
+   "quote": "bezels still seem bigger than I think that they should be"
+  },
+  {
+   "kind": "issue",
+   "label": "4K limited to 60Hz",
+   "thing": "4K output",
+   "segments": [
+    72
+   ],
+   "quote": "capped at, I believe, 60 Hz, which is a little disappointing"
+  },
+  {
+   "kind": "issue",
+   "label": "mouse attachment plastic",
+   "thing": "mouse accessory",
+   "segments": [
+    53
+   ],
+   "quote": "you can move it around like a mouse"
+  },
+  {
+   "kind": "praise",
+   "label": "mouse improves RTS",
+   "thing": "mouse accessory",
+   "segments": [
+    53,
+    54
+   ],
+   "quote": "you can move it around like a mouse ... works for RTS games"
+  },
+  {
+   "kind": "praise",
+   "label": "better industrial design",
+   "thing": "overall design",
+   "segments": [
+    56,
+    57
+   ],
+   "quote": "Nintendo Switch 2 is definitely an improvement ... a much better handheld experience"
+  },
+  {
+   "kind": "praise",
+   "label": "best rumble",
+   "thing": "Joy\u2011Con rumble",
+   "segments": [
+    58,
+    59
+   ],
+   "quote": "Joy\u2011Cons still have an amazing rumble feature. Truly the best rumble"
+  },
+  {
+   "kind": "praise",
+   "label": "powerful chipset & RAM",
+   "thing": "CPU/GPU and memory",
+   "segments": [
+    64,
+    65
+   ],
+   "quote": "custom Nvidia chipset ... 12 gigabytes of LPDDR5X RAM"
+  },
+  {
+   "kind": "praise",
+   "label": "HDR10 + VRR 120Hz display",
+   "thing": "screen",
+   "segments": [
+    68,
+    71
+   ],
+   "quote": "screen does come with HDR10 support and you've got VRR up to 120 Hz ... very bright"
+  },
+  {
+   "kind": "praise",
+   "label": "dock adds fan & ports",
+   "thing": "dock features",
+   "segments": [
+    73,
+    75
+   ],
+   "quote": "dock does provide consistent power ... it also has a fan ... HDMI out port ... Ethernet port"
+  },
+  {
+   "kind": "praise",
+   "label": "smooth backwards compatibility",
+   "thing": "backwards compatibility",
+   "segments": [
+    88,
+    89
+   ],
+   "quote": "everything runs really smooth ... it still runs pretty smooth"
+  }
+ ]
+}

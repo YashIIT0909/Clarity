@@ -1,0 +1,74 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "joystick drift risk",
+   "thing": "joy-cons",
+   "segments": [
+    92,
+    93
+   ],
+   "quote": "stick drift... one of the most common issues with the original Switch was these joysticks starting to drift"
+  },
+  {
+   "kind": "issue",
+   "label": "no hall\u2011effect sensors",
+   "thing": "joy\u2011cons",
+   "segments": [
+    95,
+    96
+   ],
+   "quote": "these new sticks are not, in fact, hall effect"
+  },
+  {
+   "kind": "praise",
+   "label": "bigger joy\u2011cons",
+   "thing": "joy\u2011cons",
+   "segments": [
+    110,
+    111
+   ],
+   "quote": "I appreciate bigger joy\u2011cons this time around"
+  },
+  {
+   "kind": "praise",
+   "label": "ergonomic hand grips",
+   "thing": "joy\u2011cons accessories",
+   "segments": [
+    108,
+    112
+   ],
+   "quote": "Best part is probably these ergonomic hand grips on the joy\u2011cons"
+  },
+  {
+   "kind": "praise",
+   "label": "travel cover protects",
+   "thing": "travel cover",
+   "segments": [
+    114,
+    115
+   ],
+   "quote": "pop it in, this little bungee cover over the back secures it in place"
+  },
+  {
+   "kind": "praise",
+   "label": "dock adapter 4K60",
+   "thing": "dock adapter",
+   "segments": [
+    113,
+    113
+   ],
+   "quote": "gives full 4K60 pass through and then doesn't affect any of the console or dock cooling"
+  },
+  {
+   "kind": "praise",
+   "label": "screen\u2011film scratches easily",
+   "thing": "plastic film",
+   "segments": [
+    117,
+    117
+   ],
+   "quote": "Switch 2's got a non\u2011removable plastic film applied over the glass that gets scratched super easily"
+  }
+ ]
+}

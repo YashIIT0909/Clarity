@@ -1,0 +1,64 @@
+{
+ "points": [
+  {
+   "kind": "issue",
+   "label": "short battery life",
+   "thing": "battery life",
+   "segments": [
+    83,
+    84
+   ],
+   "quote": "Switch 2 uh is going to have you selecting your gaming seat based on proximity to an outlet rather than based on comfort"
+  },
+  {
+   "kind": "issue",
+   "label": "larger size",
+   "thing": "portability",
+   "segments": [
+    86,
+    87
+   ],
+   "quote": "regression in portability here. It is still slim, which is really nice, but ... no pocket large enough to accommodate it"
+  },
+  {
+   "kind": "issue",
+   "label": "uncomfortable JoyCons",
+   "thing": "JoyCons",
+   "segments": [
+    114,
+    115
+   ],
+   "quote": "Those JoyCons not super comfortable to hold for a long time"
+  },
+  {
+   "kind": "issue",
+   "label": "worse than OLED",
+   "thing": "overall performance",
+   "segments": [
+    84,
+    85
+   ],
+   "quote": "falls well short of the Switch OLED, which is going to feel like a major step back"
+  },
+  {
+   "kind": "praise",
+   "label": "improved haptics & speakers",
+   "thing": "haptics and speakers",
+   "segments": [
+    105,
+    106
+   ],
+   "quote": "the haptics, even the speakers, they sound so much better"
+  },
+  {
+   "kind": "praise",
+   "label": "overall hardware upgrade",
+   "thing": "overall hardware",
+   "segments": [
+    104,
+    105
+   ],
+   "quote": "better than my old one in just about every meaningful way"
+  }
+ ]
+}

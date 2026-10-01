@@ -1,0 +1,202 @@
+{
+ "groups": [
+  {
+   "label": "short battery life",
+   "members": [
+    0,
+    23
+   ]
+  },
+  {
+   "label": "high price",
+   "members": [
+    1,
+    40
+   ]
+  },
+  {
+   "label": "enhanced screen",
+   "members": [
+    2,
+    18,
+    31
+   ]
+  },
+  {
+   "label": "screen issues",
+   "members": [
+    14,
+    17,
+    25,
+    36,
+    38
+   ]
+  },
+  {
+   "label": "bigger Joy\u2011Cons",
+   "members": [
+    7,
+    12
+   ]
+  },
+  {
+   "label": "improved SR/SL buttons",
+   "members": [
+    8
+   ]
+  },
+  {
+   "label": "magnetic detachment",
+   "members": [
+    20
+   ]
+  },
+  {
+   "label": "better ergonomics",
+   "members": [
+    42
+   ]
+  },
+  {
+   "label": "Joy\u2011Con drift",
+   "members": [
+    10,
+    15,
+    28
+   ]
+  },
+  {
+   "label": "joystick feel issues",
+   "members": [
+    16,
+    30
+   ]
+  },
+  {
+   "label": "no hall\u2011effect sensors",
+   "members": [
+    11
+   ]
+  },
+  {
+   "label": "cooling fan",
+   "members": [
+    4
+   ]
+  },
+  {
+   "label": "USB\u2011C port",
+   "members": [
+    5
+   ]
+  },
+  {
+   "label": "USB\u2011A ports odd",
+   "members": [
+    37
+   ]
+  },
+  {
+   "label": "built\u2011in Ethernet",
+   "members": [
+    6
+   ]
+  },
+  {
+   "label": "120\u202fHz refresh",
+   "members": [
+    22
+   ]
+  },
+  {
+   "label": "4K dock output",
+   "members": [
+    3
+   ]
+  },
+  {
+   "label": "adjustable kickstand",
+   "members": [
+    34
+   ]
+  },
+  {
+   "label": "mouse mode",
+   "members": [
+    35
+   ]
+  },
+  {
+   "label": "mouse attachment issue",
+   "members": [
+    39
+   ]
+  },
+  {
+   "label": "microSD capacity low",
+   "members": [
+    29
+   ]
+  },
+  {
+   "label": "expensive games",
+   "members": [
+    41
+   ]
+  },
+  {
+   "label": "premium feel",
+   "members": [
+    19
+   ]
+  },
+  {
+   "label": "thin portable",
+   "members": [
+    33
+   ]
+  },
+  {
+   "label": "rounded edges comfort",
+   "members": [
+    32
+   ]
+  },
+  {
+   "label": "Pro controller compatibility",
+   "members": [
+    21
+   ]
+  },
+  {
+   "label": "travel cover protects",
+   "members": [
+    13
+   ]
+  },
+  {
+   "label": "overall hardware upgrade",
+   "members": [
+    27
+   ]
+  },
+  {
+   "label": "consistent 60\u202ffps",
+   "members": [
+    9
+   ]
+  },
+  {
+   "label": "uncomfortable Joy\u2011Cons",
+   "members": [
+    24
+   ]
+  },
+  {
+   "label": "multiplayer friendly",
+   "members": [
+    43
+   ]
+  }
+ ]
+}
