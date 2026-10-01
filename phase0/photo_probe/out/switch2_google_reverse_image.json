@@ -1,0 +1,335 @@
+{
+ "search_metadata": {
+  "id": "6abb9b7969819d9e392aff38",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_wm8XZdKT1QZi_RjUWRH7dAJFloEcKrk4uBXcgxDER0/6abb9b7969819d9e392aff38.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_wm8XZdKT1QZi_RjUWRH7dAJFloEcKrk4uBXcgxDER0/6abb9b7969819d9e392aff38.md",
+  "created_at": "2026-09-29 11:05:29 UTC",
+  "processed_at": "2026-09-29 11:05:29 UTC",
+  "google_reverse_image_url": "https://www.google.com/searchbyimage?image_url=https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg&sbisrc=cr_1_5_2",
+  "raw_html_file": "https://serpapi.com/searches/_wm8XZdKT1QZi_RjUWRH7dAJFloEcKrk4uBXcgxDER0/6abb9b7969819d9e392aff38.html",
+  "total_time_taken": 3.06
+ },
+ "search_parameters": {
+  "engine": "google_reverse_image",
+  "image_url": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg",
+  "google_domain": "google.com",
+  "device": "desktop"
+ },
+ "search_information": {
+  "total_results": 670000,
+  "time_taken_displayed": 1.15,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "image_results": [
+  {
+   "position": 1,
+   "title": "Nintendo Switch 2 System",
+   "link": "https://www.amazon.com/clp/B0F3GWXLTS",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVxCGDT5EN4MA2hJWx-FbhlZtK_5i5lDYqygFhdSHIoJOaF7nT02DCcvL88rwblZbdevuSSr_KHXTGiT5P7tW-dN-ZjuZdu5vDJLXi5j3XJN9YVG-5-lLMhb8VgA&ved=2ahUKEwj3hdHJ0pOXAxUcmGoFHaOgE_wQFnoFCM8DEAE&uoh=1",
+   "displayed_link": "https://www.amazon.com \u203a clp",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsrwfO7hx64rKtAsyAApoNalRYXRCpKXf9plqIAXD_-fImT1rDQFpq&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Retro Handheld Game Console, Portable Gaming Console with 20,000+ Classic Games, 4.2\u201d IPS Screen, Linux Handheld Emulator, 128GB TF Card, WiFi Multiplayer",
+   "snippet_highlighted_words": [
+    "Retro Handheld Game Console"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.5,
+      "day_returns": 30
+     },
+     "extensions": [
+      "4.5",
+      "store rating (9.1K)",
+      "Free delivery",
+      "30-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Retro Handheld Game Console, Portable Gaming Console with 20,000+ Classic Games, 4.2\u201d IPS Screen, Linux Handheld Emulator, 128GB TF Card, WiFi Multiplayer",
+     "source_info_link": "https://www.amazon.com/clp/B0F3GWXLTS",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnhDR0RUNUVONE1BMmhKV3gtRmJobFp0S181aTVsRFlxeWdGaGRTSElvSk9hRjduVDAyRENjdkw4OHJ3YmxaYmRldnVTU3JfS0hYVEdpVDVQN3RXLWROLVpqdVpkdTV2REpMWGk1ajNYSk45WVZHLTUtbExNaGI4VmdBEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnhDR0RUNUVONE1BMmhKV3gtRmJobFp0S181aTVsRFlxeWdGaGRTSElvSk9hRjduVDAyRENjdkw4OHJ3YmxaYmRldnVTU3JfS0hYVEdpVDVQN3RXLWROLVpqdVpkdTV2REpMWGk1ajNYSk45WVZHLTUtbExNaGI4VmdBEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 2,
+   "title": "Best Nintendo Switch 2 Consoles",
+   "link": "https://www.amazon.com/Best-Sellers-Nintendo-Switch-2-Consoles/zgbs/videogames/206234612011",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFUQKcVTfSipMmJmpanLQT9CbYHemkKQ-a2uJr1Aph1B9Vqakzv5Tqsm1iP9NafsPfOJlLm3N78usa9T5j-KP0AF0q54dLsc2VyPwxTQK-W3_RKdFyffmgUKeKL2XiKRqTFyj16BP2jH_UDFYfX98SLPXlp41x_k_m1d6bqxeiEpTVQ1q2kKIr-6jqAPWvwotQ54&ved=2ahUKEwj3hdHJ0pOXAxUcmGoFHaOgE_wQFnoFCMsDEAE&uoh=1",
+   "displayed_link": "https://www.amazon.com \u203a zgbs \u203a videogames",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUS4rpwZaYBCOvX1-VHYwoh4Ze2RLJ0_93zgd8lULEzIMzMnGDu2T-4QMAPOScNlhvb8i&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Consoles #1 Nintendo Switch 2 System. Nintendo Switch 2 + Mario Kart World Bundle. Drop Protection, Dockable, Ergonomic Non-Slip Grip, Nintendo SwitchTM 2 + ...",
+   "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUS4rpwZaYBCOvX1-VHYwoh4Ze2RLJ0_93zgd8lULEzIMzMnGDu2T-4QMAPOScNlhvb8i&s"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Consoles #1 Nintendo Switch 2 System. Nintendo Switch 2 + Mario Kart World Bundle. Drop Protection, Dockable, Ergonomic Non-Slip Grip, Nintendo SwitchTM 2 + ...",
+     "source_info_link": "https://www.amazon.com/Best-Sellers-Nintendo-Switch-2-Consoles/zgbs/videogames/206234612011",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZVUUtjVlRmU2lwTW1KbXBhbkxRVDlDYllIZW1rS1EtYTJ1SnIxQXBoMUI5VnFha3p2NVRxc20xaVA5TmFmc1BmT0psTG0zTjc4dXNhOVQ1ai1LUDBBRjBxNTRkTHNjMlZ5UHd4VFFLLVczX1JLZEZ5ZmZtZ1VLZUtMMlhpS1JxVEZ5ajE2QlAyakhfVURGWWZYOThTTFBYbHA0MXhfa19tMWQ2YnF4ZWlFcFRWUTFxMmtLSXItNmpxQVBXdndvdFE1NBIEGgIIABokEgIIABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZVUUtjVlRmU2lwTW1KbXBhbkxRVDlDYllIZW1rS1EtYTJ1SnIxQXBoMUI5VnFha3p2NVRxc20xaVA5TmFmc1BmT0psTG0zTjc4dXNhOVQ1ai1LUDBBRjBxNTRkTHNjMlZ5UHd4VFFLLVczX1JLZEZ5ZmZtZ1VLZUtMMlhpS1JxVEZ5ajE2QlAyakhfVURGWWZYOThTTFBYbHA0MXhfa19tMWQ2YnF4ZWlFcFRWUTFxMmtLSXItNmpxQVBXdndvdFE1NBIEGgIIABokEgIIABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 3,
+   "title": "Nintendo Switch 2 Console System",
+   "link": "https://www.target.com/p/nintendo-switch-2-console/-/A-94693225",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVSPotnzwR7lVKGPCCLLAHpWuDrdoUFAR-hRlFD5f1SVgJuRJuqxlfHRhYx_o95S11g1aCWp9OR2GqbDkYKI6Klee1vnsk1TuF2YVTWh7wRPpe9MU-SrF4RbzaEKkqUllyiWEvTWuHWo5kg9FcZZxO5_PwgjNo&ved=2ahUKEwj3hdHJ0pOXAxUcmGoFHaOgE_wQFnoFCM0DEAE&uoh=1",
+   "displayed_link": "https://www.target.com \u203a nintendo-switch-2-console",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh6w2vhWWKaVPGRgDAgHsdh0k2prTx-lKuU0SZMizSLY3Et68Wvtl6&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMAADLAADKAADJAADIAADSPDzkmZnvw8P02dnWVFT34OD____rs7Pyz8_56enYXV3hiIjfgoLwyMgzbyPyAAAAsUlEQVR4Aa1ShQGAMAyrzHH-P5YOdw-6ZU0V_gASCwj3KKWNdc4arTY0-5D0CJ6XnEqTGVK14LJuN8-7bzZjubVzhRIUrrUdldHHddkFgqqMK4-DaIicnCVmEp3IBtVxqKOmLLiq60rOqKisO1My8l8gcNbGwoCFfA114Vj5V0BVF2lFoORjuSNFJVfAdUfWDEoycufkuex5QOepnBfhvHznhT9v2Xmzz8fkfMDOR_MxGoruDjVyTTuYAAAAAElFTkSuQmCC.png",
+   "snippet": "The next evolution of Nintendo Switch One system, three play modes: TV, Tabletop, and Handheld Larger, vivid, 7.9\u201d LCD touch screen with support for HDR and up ...",
+   "snippet_highlighted_words": [
+    "three play modes: TV, Tabletop, and Handheld Larger"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.7,
+      "reviews": 978,
+      "price": 499.99,
+      "currency": "$",
+      "day_returns": 30
+     },
+     "extensions": [
+      "3.7(978)",
+      "$499.99",
+      "In stock",
+      "Free delivery",
+      "30-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The next evolution of Nintendo Switch One system, three play modes: TV, Tabletop, and Handheld Larger, vivid, 7.9\u201d LCD touch screen with support for HDR and up ...",
+     "source_info_link": "https://www.target.com/p/nintendo-switch-2-console/-/A-94693225",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMAADLAADKAADJAADIAADSPDzkmZnvw8P02dnWVFT34OD____rs7Pyz8_56enYXV3hiIjfgoLwyMgzbyPyAAAAsUlEQVR4Aa1ShQGAMAyrzHH-P5YOdw-6ZU0V_gASCwj3KKWNdc4arTY0-5D0CJ6XnEqTGVK14LJuN8-7bzZjubVzhRIUrrUdldHHddkFgqqMK4-DaIicnCVmEp3IBtVxqKOmLLiq60rOqKisO1My8l8gcNbGwoCFfA114Vj5V0BVF2lFoORjuSNFJVfAdUfWDEoycufkuex5QOepnBfhvHznhT9v2Xmzz8fkfMDOR_MxGoruDjVyTTuYAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlNQb3RuendSN2xWS0dQQ0NMTEFIcFd1RHJkb1VGQVItaFJsRkQ1ZjFTVmdKdVJKdXF4bGZIUmhZeF9vOTVTMTFnMWFDV3A5T1IyR3FiRGtZS0k2S2xlZTF2bnNrMVR1RjJZVlRXaDd3UlBwZTlNVS1TckY0UmJ6YUVLa3FVbGx5aVdFdlRXdUhXbzVrZzlGY1paeE81X1B3Z2pObxIEGgIIABokEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlNQb3RuendSN2xWS0dQQ0NMTEFIcFd1RHJkb1VGQVItaFJsRkQ1ZjFTVmdKdVJKdXF4bGZIUmhZeF9vOTVTMTFnMWFDV3A5T1IyR3FiRGtZS0k2S2xlZTF2bnNrMVR1RjJZVlRXaDd3UlBwZTlNVS1TckY0UmJ6YUVLa3FVbGx5aVdFdlRXdUhXbzVrZzlGY1paeE81X1B3Z2pObxIEGgIIABokEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Target"
+  },
+  {
+   "position": 4,
+   "title": "Nintendo Switch\u2122 2 System",
+   "link": "https://www.walmart.com/ip/Nintendo-Switch-2-System/15949610846",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVhWlqKfgxNGIgSd42Rp3lkQUnf0_FiJH4IxXLpiC3Umwy-QPSuE_pkMTh0b47P3_CKPcxI_zMq7VuiHwqLkSx3D1O9dZnGVwqNBvW40pbUlCyEseazK6nEO3UprDmsdkf_PGYP2nUFg-6EUiCitgFjzrUyCiW&ved=2ahUKEwj3hdHJ0pOXAxUcmGoFHaOgE_wQFnoFCMwDEAE&uoh=1",
+   "displayed_link": "https://www.walmart.com \u203a Nintendo-Switch-2-System",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUdU2TqN_JaeAHQaqc2FBXg9_uyWuCPrwf4UUCrfrYJwe28ROWdbh&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp",
+   "snippet": "The next evolution of Nintendo Switch; One system, three play modes: TV, Tabletop, and Handheld; Larger, vivid, 7.9\u201d LCD touch screen with support for HDR ...",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.6,
+      "reviews": 11146,
+      "price_from": 449.0,
+      "price_to": 672.0,
+      "currency": "$",
+      "free_day_returns": 90
+     },
+     "extensions": [
+      "4.6(11,146)",
+      "$449.00 to $672.00",
+      "In stock",
+      "Free delivery",
+      "Free 90-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The next evolution of Nintendo Switch; One system, three play modes: TV, Tabletop, and Handheld; Larger, vivid, 7.9\u201d LCD touch screen with support for HDR ...",
+     "source_info_link": "https://www.walmart.com/ip/Nintendo-Switch-2-System/15949610846",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmhXbHFLZmd4TkdJZ1NkNDJScDNsa1FVbmYwX0ZpSkg0SXhYTHBpQzNVbXd5LVFQU3VFX3BrTVRoMGI0N1AzX0NLUGN4SV96TXE3VnVpSHdxTGtTeDNEMU85ZFpuR1Z3cU5Cdlc0MHBiVWxDeUVzZWF6SzZuRU8zVXByRG1zZGtmX1BHWVAyblVGZy02RVVpQ2l0Z0ZqenJVeUNpVxIEGgIIABokEgIIABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmhXbHFLZmd4TkdJZ1NkNDJScDNsa1FVbmYwX0ZpSkg0SXhYTHBpQzNVbXd5LVFQU3VFX3BrTVRoMGI0N1AzX0NLUGN4SV96TXE3VnVpSHdxTGtTeDNEMU85ZFpuR1Z3cU5Cdlc0MHBiVWxDeUVzZWF6SzZuRU8zVXByRG1zZGtmX1BHWVAyblVGZy02RVVpQ2l0Z0ZqenJVeUNpVxIEGgIIABokEgIIABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Walmart",
+   "read_more_link": "https://www.walmart.com/ip/Nintendo-Switch-2-System/15949610846#:~:text=The%20next%20evolution%20of%20Nintendo,and%20up%20to%20120%20fps"
+  },
+  {
+   "position": 5,
+   "title": "Nintendo - Switch 2 System",
+   "link": "https://www.bestbuy.com/product/switch-2-system/J7GSL57TGH/sku/6614313",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFSOF-BNZEd1rP0-dwFRveC3LAABDdslGxpabb8XP2vNUmMi22VHE9GuJ1N8c3FQqYTBK6Y9Ta9DkxPksYps4cm3lVJ4oc0BJAKV3lP_LoaMqvbMChp4mp7IhBZ65sJ2c-zmUXw4DYzvWk1EdOju_YqUyhTH5LriU_7_Qqwk&ved=2ahUKEwj3hdHJ0pOXAxUcmGoFHaOgE_wQFnoFCNUDEAE&uoh=1",
+   "displayed_link": "https://www.bestbuy.com \u203a switch-2-system \u203a sku",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcoH7BsfO27LexPnOcsTz0LnQuttJko_DNu5BHALjXyAptXacR4bJ&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp",
+   "snippet": "The Nintendo Switch 2 has 256 GB of internal storage***. Nintendo Switch 2 plays both physical and digital Nintendo Switch games. 7.9\u201d 1080p screen \u30fb ...",
+   "snippet_highlighted_words": [
+    "Nintendo Switch 2"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.8,
+      "reviews": 4024,
+      "price": 499.99,
+      "currency": "$",
+      "day_returns": 15
+     },
+     "extensions": [
+      "4.8(4,024)",
+      "$499.99",
+      "In stock",
+      "Free delivery",
+      "15-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The Nintendo Switch 2 has 256 GB of internal storage***. Nintendo Switch 2 plays both physical and digital Nintendo Switch games. 7.9\u201d 1080p screen \u30fb ...",
+     "source_info_link": "https://www.bestbuy.com/product/switch-2-system/J7GSL57TGH/sku/6614313",
+     "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZTT0YtQk5aRWQxclAwLWR3RlJ2ZUMzTEFBQkRkc2xHeHBhYmI4WFAydk5VbU1pMjJWSEU5R3VKMU44YzNGUXFZVEJLNlk5VGE5RGt4UGtzWXBzNGNtM2xWSjRvYzBCSkFLVjNsUF9Mb2FNcXZiTUNocDRtcDdJaEJaNjVzSjJjLXptVVh3NERZenZXazFFZE9qdV9ZcVV5aFRINUxyaVVfN19RcXdrEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZTT0YtQk5aRWQxclAwLWR3RlJ2ZUMzTEFBQkRkc2xHeHBhYmI4WFAydk5VbU1pMjJWSEU5R3VKMU44YzNGUXFZVEJLNlk5VGE5RGt4UGtzWXBzNGNtM2xWSjRvYzBCSkFLVjNsUF9Mb2FNcXZiTUNocDRtcDdJaEJaNjVzSjJjLXptVVh3NERZenZXazFFZE9qdV9ZcVV5aFRINUxyaVVfN19RcXdrEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Best Buy"
+  },
+  {
+   "position": 6,
+   "title": "Nintendo Switch 2 REVEALED! Honest Thoughts",
+   "link": "https://www.youtube.com/watch?v=x8EA6yfQ6QA",
+   "displayed_link": "2K+ views \u00b7 1 year ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFYgTejdQz8GwgWsbSl26I4nDB_xCzEVe3ziBEWuAtq4FIK1hiN2R1Q&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Nintendo FINALLY Officially announced the Nintendo Swtich 2 and Here's What to Expect.",
+   "duration": "5:22",
+   "about_this_result": {
+    "source": {
+     "description": "Nintendo FINALLY Officially announced the Nintendo Swtich 2 and Here's What to Expect.",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlRVZ1dDYkxEeWx2ZUl5X0tGVzlhTWZrN3ZGMVZuU3lPVy1CZEFFOVk0ZUlzazN0NHpIMTRjUTg3dW1wLTRvUDVyNXFuZ201NE5QNzdSMHdJTE5nVi1FaE04ZndJSFlwelFwWkoxcFFEOUtCbHhkbmJRaTRoQVY5MWRJejNZOGhTMXcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlRVZ1dDYkxEeWx2ZUl5X0tGVzlhTWZrN3ZGMVZuU3lPVy1CZEFFOVk0ZUlzazN0NHpIMTRjUTg3dW1wLTRvUDVyNXFuZ201NE5QNzdSMHdJTE5nVi1FaE04ZndJSFlwelFwWkoxcFFEOUtCbHhkbmJRaTRoQVY5MWRJejNZOGhTMXcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSa3r_2bvfdZZ04rqytk0DYs_-AVV9SNOt2mw",
+   "source": "YouTube \u00b7 CJKnowsTECH"
+  },
+  {
+   "position": 7,
+   "title": "Nintendo Switch\u2122 2 System - Nintendo Official Site",
+   "link": "https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/?srsltid=AU7gw4XaBeqLY7uwlvgof-Ukj8RE6mhfJzTb7q_wowVnxD3L866BLXJ8",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFWZ4yNm-3CMB96v6GkX2KLPqcCq5WiOcOsRKu226noTnaM1iR1eoTmtYK7JOORbOa-UCPwoDB4uOpLRmfd8SXNdtPFPFBHifyhsBBvqPq6UjrdIaKMkA6XxlrsgFUL4fX4l4zvlSgjygDmFiReTIKbvF8pBsCyIETne2O7lITk-rJy8-8P9MoPOaA3MvWQ5quDP-dWJPjqFpJVcgmXBEU55KRKz4dMvX3nVti2eV_vbMKTFfumwEON8BTgQ28oHVzeWM6w&ved=2ahUKEwj3hdHJ0pOXAxUcmGoFHaOgE_wQFnoFCMkDEAE&uoh=1",
+   "displayed_link": "https://www.nintendo.com \u203a Store \u203a Hardware",
+   "favicon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASocABwAPtEwtFooIigoGAEAGglsAKwAId_AEV-Z9C61Ig_DWAAA_tiMpRpENEQEdx1NqSPkax697w1zQy2CEWzqnlmcK9l__nEv_1t_t1PaYgkeDqkc_QaAxBZHNOGHsn4zLuf8_w5eqGb-UlQsf-S8o8wfhOwUUf3XG8CAb5qbpF_GT35XEo9g7is92otaFEZj3b5MnDtx5Ih1dSowAAAA.webp",
+   "snippet": "Ultra-portable. Fan-favorite characters. play and connect like never before on a Nintendo system. Experience games how you want, whenever you want with three ...",
+   "snippet_highlighted_words": [
+    "play and connect like never before on a Nintendo system"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.7,
+      "price": 499.99,
+      "currency": "$",
+      "day_returns": 30
+     },
+     "extensions": [
+      "4.7",
+      "$499.99",
+      "In stock",
+      "(13,880)",
+      "Free delivery",
+      "30-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Ultra-portable. Fan-favorite characters. play and connect like never before on a Nintendo system. Experience games how you want, whenever you want with three ...",
+     "source_info_link": "https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/?srsltid=AU7gw4XaBeqLY7uwlvgof-Ukj8RE6mhfJzTb7q_wowVnxD3L866BLXJ8",
+     "icon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASocABwAPtEwtFooIigoGAEAGglsAKwAId_AEV-Z9C61Ig_DWAAA_tiMpRpENEQEdx1NqSPkax697w1zQy2CEWzqnlmcK9l__nEv_1t_t1PaYgkeDqkc_QaAxBZHNOGHsn4zLuf8_w5eqGb-UlQsf-S8o8wfhOwUUf3XG8CAb5qbpF_GT35XEo9g7is92otaFEZj3b5MnDtx5Ih1dSowAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZXWjR5Tm0tM0NNQjk2djZHa1gyS0xQcWNDcTVXaU9jT3NSS3UyMjZub1RuYU0xaVIxZW9UbXRZSzdKT09SYk9hLVVDUHdvREI0dU9wTFJtZmQ4U1hOZHRQRlBGQkhpZnloc0JCdnFQcTZVanJkSWFLTWtBNlh4bHJzZ0ZVTDRmWDRsNHp2bFNnanlnRG1GaVJlVElLYnZGOHBCc0N5SUVUbmUyTzdsSVRrLXJKeTgtOFA5TW9QT2FBM012V1E1cXVEUC1kV0pQanFGcEpWY2dtWEJFVTU1S1JLejRkTXZYM25WdGkyZVZfdmJNS1RGZnVtd0VPTjhCVGdRMjhvSFZ6ZVdNNncSBBoCCAAaJBICCAAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZXWjR5Tm0tM0NNQjk2djZHa1gyS0xQcWNDcTVXaU9jT3NSS3UyMjZub1RuYU0xaVIxZW9UbXRZSzdKT09SYk9hLVVDUHdvREI0dU9wTFJtZmQ4U1hOZHRQRlBGQkhpZnloc0JCdnFQcTZVanJkSWFLTWtBNlh4bHJzZ0ZVTDRmWDRsNHp2bFNnanlnRG1GaVJlVElLYnZGOHBCc0N5SUVUbmUyTzdsSVRrLXJKeTgtOFA5TW9QT2FBM012V1E1cXVEUC1kV0pQanFGcEpWY2dtWEJFVTU1S1JLejRkTXZYM25WdGkyZVZfdmJNS1RGZnVtd0VPTjhCVGdRMjhvSFZ6ZVdNNncSBBoCCAAaJBICCAAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Nintendo"
+  },
+  {
+   "position": 8,
+   "title": "What to know about the Nintendo Switch 2: Price, features",
+   "link": "https://www-cdn.abcnews.com/Business/nintendo-switch-2-price-features/story?id=122483071",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFbGfNNSt3aDA-_zfaZidBn6nPJiP6_meVN7pnpcgHvJtXLNgPnFf5VEpzKNXTs55D8cocXKeTuPte64fNXXB3fzMWZMOO-MFc6NxgzRQ8Ip7bRJQ-l2z5aQmHhnt3_F4BQ0abR2JJN20Ju5Xb8_M6PBn4bwBM8u9YojvJiG90cidR_dOCCtUycE3KgUHT88&ved=2ahUKEwj3hdHJ0pOXAxUcmGoFHaOgE_wQFnoFCMoDEAE&uoh=1",
+   "displayed_link": "https://www-cdn.abcnews.com \u203a Business \u203a story",
+   "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAAAQCACdASogACAAPrkurlcnIacnG_DgFwlpAAzOmZiggOUAzfKg_6s9VH0M_2AKf_Yl7QQJdttwTb_TcTZOa-LqaxgeVZlve0yAAP738Thx7SNpDDLjC3EINsNnJ-UaBL2rHon9YspQYbGRMNCdJ9VkF0fy8T4X-6zO4O-JsOW_e75sp4YuTUykOv6dMlPFZOpvWZbx-x_4S9952eUJIzHiIdMzJ0PrAUYOsDmg-pS8I7rvQkHK71FdiVlK9xhVW206t9DOrl0yT6WER9u74bAnJe6rIfAAV8_m8XCrSnDV__3k4jJ2SF96W1ypLZf50HFU8rI8XJUSjZY8nbH_hsK7XrsfxsJG7tFSzLl-ns3KGO0yRLTsr30fevOcu-M4JE2Yk3_l_wfJ6xXz63k2TD9U6nmaBemriOQw03MeQdZ2y8-WT3Y_4Jsilx7X2HOoEvYMWRxw_9X6qeNs8vHF-fDWyIsc5wLq-xa-U95ErxIKEg3b_mQT-Ske0Uzl981kty7M3lMzdwZ_mPsLyaTye_Pmao5MFAAA.webp",
+   "date": "Jun 4, 2025",
+   "snippet": "The sequel device boasts improved graphics, modified controllers and new games, while remaining compatible with most offerings on the original ...",
+   "snippet_highlighted_words": [
+    "improved graphics, modified controllers and new games"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The sequel device boasts improved graphics, modified controllers and new games, while remaining compatible with most offerings on the original ...",
+     "source_info_link": "https://www-cdn.abcnews.com/Business/nintendo-switch-2-price-features/story?id=122483071",
+     "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAAAQCACdASogACAAPrkurlcnIacnG_DgFwlpAAzOmZiggOUAzfKg_6s9VH0M_2AKf_Yl7QQJdttwTb_TcTZOa-LqaxgeVZlve0yAAP738Thx7SNpDDLjC3EINsNnJ-UaBL2rHon9YspQYbGRMNCdJ9VkF0fy8T4X-6zO4O-JsOW_e75sp4YuTUykOv6dMlPFZOpvWZbx-x_4S9952eUJIzHiIdMzJ0PrAUYOsDmg-pS8I7rvQkHK71FdiVlK9xhVW206t9DOrl0yT6WER9u74bAnJe6rIfAAV8_m8XCrSnDV__3k4jJ2SF96W1ypLZf50HFU8rI8XJUSjZY8nbH_hsK7XrsfxsJG7tFSzLl-ns3KGO0yRLTsr30fevOcu-M4JE2Yk3_l_wfJ6xXz63k2TD9U6nmaBemriOQw03MeQdZ2y8-WT3Y_4Jsilx7X2HOoEvYMWRxw_9X6qeNs8vHF-fDWyIsc5wLq-xa-U95ErxIKEg3b_mQT-Ske0Uzl981kty7M3lMzdwZ_mPsLyaTye_Pmao5MFAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZiR2ZOTlN0M2FEQS1femZhWmlkQm42blBKaVA2X21lVk43cG5wY2dIdkp0WExOZ1BuRmY1VkVwektOWFRzNTVEOGNvY1hLZVR1UHRlNjRmTlhYQjNmek1XWk1PTy1NRmM2TnhnelJROElwN2JSSlEtbDJ6NWFRbUhobnQzX0Y0QlEwYWJSMkpKTjIwSnU1WGI4X002UEJuNGJ3Qk04dTlZb2p2SmlHOTBjaWRSX2RPQ0N0VXljRTNLZ1VIVDg4EgQaAggAGiASABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZiR2ZOTlN0M2FEQS1femZhWmlkQm42blBKaVA2X21lVk43cG5wY2dIdkp0WExOZ1BuRmY1VkVwektOWFRzNTVEOGNvY1hLZVR1UHRlNjRmTlhYQjNmek1XWk1PTy1NRmM2TnhnelJROElwN2JSSlEtbDJ6NWFRbUhobnQzX0Y0QlEwYWJSMkpKTjIwSnU1WGI4X002UEJuNGJ3Qk04dTlZb2p2SmlHOTBjaWRSX2RPQ0N0VXljRTNLZ1VIVDg4EgQaAggAGiASABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "read_more_link": "https://www-cdn.abcnews.com/Business/nintendo-switch-2-price-features/story?id=122483071#:~:text=The%20sequel%20device%20boasts%20improved,offerings%20on%20the%20original%20system."
+  }
+ ],
+ "_probe_latency_s": 3.65
+}

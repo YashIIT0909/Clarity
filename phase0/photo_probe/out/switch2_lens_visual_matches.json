@@ -1,0 +1,135 @@
+{
+ "search_metadata": {
+  "id": "6abb9b7231a601f4595d2a33",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/S5JDImzFRe-mEa7L_kf0pAHMAFcRdIfKbhSLtT25zeM/6abb9b7231a601f4595d2a33.json",
+  "markdown_endpoint": "https://serpapi.com/searches/S5JDImzFRe-mEa7L_kf0pAHMAFcRdIfKbhSLtT25zeM/6abb9b7231a601f4595d2a33.md",
+  "created_at": "2026-09-29 11:05:22 UTC",
+  "processed_at": "2026-09-29 11:05:22 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F714-Fh3ngmL._SL1500_.jpg",
+  "raw_html_file": "https://serpapi.com/searches/S5JDImzFRe-mEa7L_kf0pAHMAFcRdIfKbhSLtT25zeM/6abb9b7231a601f4595d2a33.html",
+  "total_time_taken": 2.71
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg",
+  "type": "visual_matches"
+ },
+ "visual_matches": [
+  {
+   "position": 1,
+   "title": "Nintendo Switch 2: Choose Your Game Bundle - Nintendo Official Site",
+   "link": "https://www.nintendo.com/us/store/products/nintendo-switch-2-choose-bundle-128060/",
+   "source": "Nintendo",
+   "source_icon": "https://serpapi.com/searches/6abb9b7231a601f4595d2a33/images/G5WNwSxytlKc6yfBwGVpNINtx_3_rr-uF9-vHrNglvc.png",
+   "rating": 4.8,
+   "reviews": 830,
+   "price": {
+    "value": "$500*",
+    "extracted_value": 500.0,
+    "currency": "$"
+   },
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkSvR9uQ1NRvbV50W3FHPRPJeM1s-UlzG-DeT2il_zXQ8h3qcy",
+   "thumbnail_width": 168,
+   "thumbnail_height": 299,
+   "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/hardware/05.2026 - Hardware/128060-Nintendo-Switch-Choose-One-Bundle-US-3001x2719",
+   "image_width": 698,
+   "image_height": 1240,
+   "exact_matches": true,
+   "serpapi_exact_matches_link": "https://serpapi.com/search.json?engine=google_lens&type=exact_matches&url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F714-Fh3ngmL._SL1500_.jpg"
+  },
+  {
+   "position": 2,
+   "title": "Game on, next level! \ud83c\udfae\ud83d\udd25 Nintendo Switch 2 is NOW available at LuLu Connect across #LuLuSA stores in KSA \u2013 for just 2,149 SAR! \ud83d\udd79\ufe0f\u2728 Next-gen fun, anytime, anywhere. Grab yours before",
+   "link": "https://www.facebook.com/LuLuHypermarketSA/posts/game-on-next-level-nintendo-switch-2-is-now-available-at-lulu-connect-across-lul/1402813248542778/",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jn8kK12pK0QABy-s-x070qjbcX2ap8Iepeduiz98YzNewz9k",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1402813235209446",
+   "image_width": 1080,
+   "image_height": 1080
+  },
+  {
+   "position": 3,
+   "title": "Nintendo Switch 2 Release Date And Price Confirmed | Nintendo Insider",
+   "link": "https://www.nintendo-insider.com/nintendo-switch-2-release-date-and-price-confirmed/",
+   "source": "Nintendo Insider",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEXvGib____vFiP-9PTwJzHvN0DvHSr-8vP--_vwLznuAAjuABLuAADxV13vDx7_-PnwIy76wcP1kJT2lZn96Or6z9H84eLvARjzf4T2pKj0hovwTlXvMTv87O381tj5tLfyXmTxR075vL8wGh9NAAAAsElEQVQ4je3RbRKCIBAGYBYVEpAV08zKyO5_yMACayb0APX-YBZ4-Bgg5JdC30qX0MbIWstQly6hjfMN8r2aV1DWIras4IhjHvagLAOArtdzzQE4K3YA2QJyD-BQ9usAsBLrAOCoNgAMgiTBCb3oVBKcL6MXbZYClWTX10EJoKmy64AQ1WwAom7fAQZA5OSuiqzw77aA2hpjpmdX94MZdHk3xtbxw6lwiVwK-Tnyj8sDx2gJXtsp4yQAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMJ5HRabCOT7RSvFObPy5sm6yne7hsCsj0Ktlq0ZE-b8tfrRY0",
+   "thumbnail_width": 168,
+   "thumbnail_height": 299,
+   "image": "https://www.nintendo-insider.com/wp-content/uploads/2025/04/nintendo_switch_2_final_key_art-1160x653.jpg",
+   "image_width": 653,
+   "image_height": 1160
+  },
+  {
+   "position": 4,
+   "title": "Big W Buy Nintendo Switch Console Australia Nintendo Switch The Legend Of Zelda 40th Anniversary Edition",
+   "link": "https://kaim-inc.com/?y=3361687041260",
+   "source": "kaim-inc.com",
+   "source_icon": "https://serpapi.com/searches/6abb9b7231a601f4595d2a33/images/mJLvHb3F0PHfePz4jItPPxgRKBhT_zWCvL0Hhe65GVg.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1p2esYYo0a8ZrVJ3E9FkZsJ19YHASQ40Ni9BrmWtu_VGhOQc5",
+   "thumbnail_width": 168,
+   "thumbnail_height": 300,
+   "image": "https://images.squarespace-cdn.com/content/v1/5c95f8d416b640656eb7765a/1744028573875-A2O3U4OHSWDVMI1DIWZ5/Switch+2+Australia+Pre+Order.jpg?format=2500w",
+   "image_width": 1080,
+   "image_height": 1920
+  },
+  {
+   "position": 5,
+   "title": "Console Buy Switch Buy Nintendo Switch Console, New 2025 Slim, With Joy-Con Controller, Black Online",
+   "link": "https://caponechauffeur.com/?y=18736494051410",
+   "source": "caponechauffeur.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAApVBMVEUeHh7___8bGxscHBwdHR0hISEjIyP39_eSkpLZ2dmOjo7y8vI6OjpUVFSioqL7-_tJSUm_v795eXlERERhYWGHh4czMzMoKCiBgYHPz8-amprq6urh4eGwsLBzc3PKysppaWlSUlK1tbWpqakuLi5cXFxHISIoHh49HR6QJyhSISExHByIJyegKSleJiepKSpyIiN5ODmCKSqIWlqQd3dHLCxVTE2aJeP6AAABz0lEQVQ4jb2SWXfbIBCFNQNIAiEE2vcNK03SxU3T9v__tCKf2rGdvLZzODxw72GGj-t5_7UIUrc8RpF8KHsy1tmWb3m-ZT7ey5TqMCxUsZSVFqJVG7u9hVZ1U7QmZ0gp0-sgGlWSG1119dBo9BgyD0vTFL2Rbw7qt0k4dDF64xoOYYWSN0Vk3u4gYzK1SUHpgQNAtCDmwWqhZWdd8kD0vETUkTPAiOivSdhH29-34NJPCkIia2Un3gxKaDKDsdF46ZHNPNnYAIGt07rtgJdlH43av0yJS9BLGg882qs3o-8bqK9g4QhTRQkrsziOtXQcqQJFrww1GP_0G3vtnVHAyu4NFNnpzHeWe8PeAstROXq0agtJsb1tEbsh5wYiTR8-OVp9cVhvhpQbD_IJINgen55lD9C5gzG7kNTcWAjbHeLnLw87TjMnk-3OoIjsA9Hx2Qni8evznACk1qEO8nMTkoJpQSiA9dvxuwCY5sg4EBeSLg5Ja7qxAf5y_LFCN0-87qarQJCD7YRp0iZ4Pb70XWp52jTZdaRIJXhoTT38fHodUrumxsq7UHqLUiLM5a_fqXLpnf130UeW5fMe-kVvukJ6r5--ymM-czv5UP5n9QfzWCLO5GH2iAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk0hlbZ4o9B49u5i1E9xbj9xHygZtQyi85lrkwpXeTw6GIm9ne",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cdn.mafrservices.com/pim-content/UAE/media/product/2245824/1752735490/2245824_main.jpg?im=Resize=376",
+   "image_width": 376,
+   "image_height": 376
+  },
+  {
+   "position": 6,
+   "title": "Switch Games Renting Nintendo Switch Rent Nintendo Switch With Mario Kart A Controllers From Lawrence S,",
+   "link": "https://unifront.mx/?q=7557933071970",
+   "source": "unifront",
+   "source_icon": "https://serpapi.com/searches/6abb9b7231a601f4595d2a33/images/IQSvyufCRpQTGLTDrJiVfr_ryoPNPj187dOKQKK-7TY.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW67WTxsWqk80FofuiwI3TcVBb3lETMUtFW39N7LuL2moVQaGZ",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://hygglo.imgix.net/products/41aaaf45-c27e-48ac-b799-6095d8104dd7.jpg?h=298&w=397&dpr=2.6&fit=crop&auto=compress&auto=enhance&auto=format&q=85",
+   "image_width": 775,
+   "image_height": 1032
+  },
+  {
+   "position": 7,
+   "title": "Nintendo Consoles Nintendo Switch For 100 Dollars On Nintendo Switch Console With Neon Blue And Neon",
+   "link": "https://www.campusdinamo.es/?j=1976048011890",
+   "source": "campusdinamo.es",
+   "source_icon": "https://serpapi.com/searches/6abb9b7231a601f4595d2a33/images/QJ1uP001WcylrZKA2Wqc8CmYNexSk6j9XzEGEBizMRM.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmJzL44hRynN8HfT_TgB_B6nTTHCmRmJZ_DoZNkNG0Igtxk4-5",
+   "thumbnail_width": 168,
+   "thumbnail_height": 300,
+   "image": "https://d.techtimes.com/en/full/457578/unofficial-nintendo-switch-2-ebay-listing-image-concept-box.jpg?w=1600&h=900&q=88&f=49ce063cc169f357343f1d5fcc73bd0e",
+   "image_width": 900,
+   "image_height": 1600
+  }
+ ],
+ "related_content": [
+  {
+   "query": "Nintendo Switch",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQnvJGx1C_0pil_MJgyT-b6jwJS0_wA:1790679925076&q=Nintendo+Switch&kgmid=/g/11hf00yspg&sa=X&ved=2ahUKEwjButzG0pOXAxXtoSsGHT9yISIQ9_gLKAB6BAg1EAE",
+   "thumbnail": "https://serpapi.com/searches/6abb9b7231a601f4595d2a33/images/Kjg0WB0xrm3a-EHloSB5rDDqLAzZcg9kELA40PeUBbQ.jpeg",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11hf00yspg&q=Nintendo+Switch"
+  },
+  {
+   "query": "Joy-Con",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQnvJGx1C_0pil_MJgyT-b6jwJS0_wA:1790679925076&q=Joy-Con&kgmid=/g/11c1xfh618&sa=X&ved=2ahUKEwjButzG0pOXAxXtoSsGHT9yISIQ9_gLKAF6BAg1EAM",
+   "thumbnail": "https://serpapi.com/searches/6abb9b7231a601f4595d2a33/images/Kjg0WB0xrm3a-EHloSB5rPAQpd6siGi8EnKNBuERNaA.jpeg",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11c1xfh618&q=Joy-Con"
+  }
+ ],
+ "_probe_latency_s": 3.2
+}

@@ -1,0 +1,151 @@
+{
+ "search_metadata": {
+  "id": "6abb9b37a204ab7bc8bfe3b0",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/9uQsYHaV8cYsG2kuWFbU147dKkTjPWEMVI5e7iTRHTo/6abb9b37a204ab7bc8bfe3b0.json",
+  "markdown_endpoint": "https://serpapi.com/searches/9uQsYHaV8cYsG2kuWFbU147dKkTjPWEMVI5e7iTRHTo/6abb9b37a204ab7bc8bfe3b0.md",
+  "created_at": "2026-09-29 11:04:23 UTC",
+  "processed_at": "2026-09-29 11:04:23 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61O3iMlnJIL._AC_SL1500_.jpg",
+  "raw_html_file": "https://serpapi.com/searches/9uQsYHaV8cYsG2kuWFbU147dKkTjPWEMVI5e7iTRHTo/6abb9b37a204ab7bc8bfe3b0.html",
+  "total_time_taken": 4.14
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://m.media-amazon.com/images/I/61O3iMlnJIL._AC_SL1500_.jpg",
+  "type": "visual_matches"
+ },
+ "visual_matches": [
+  {
+   "position": 1,
+   "title": "Amazon.com: Sony WH-1000XM5 Noise Canceling Wireless Headphones - 30hr Battery Life - Over-Ear Style - Optimized for Alexa and Google Assistant - Built-in mic for Calls - Charcoal - International Version : Electronics",
+   "link": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Wireless-Headphones/dp/B09Z2QYYD1",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCZwYFGfPCsPHQkFfzq96AH0cdcBnYM54nsLIFV8ez9JybLJTG",
+   "thumbnail_width": 240,
+   "thumbnail_height": 210,
+   "image": "https://images-na.ssl-images-amazon.com/images/I/511c23mDjoL._AC_UL495_SR435,495_.jpg",
+   "image_width": 495,
+   "image_height": 435,
+   "exact_matches": true,
+   "serpapi_exact_matches_link": "https://serpapi.com/search.json?engine=google_lens&type=exact_matches&url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61O3iMlnJIL._AC_SL1500_.jpg"
+  },
+  {
+   "position": 2,
+   "title": "Sony WH 1000XM6 Best Wireless Noise Canceling Headphones + Pro Stand Kit Black - Best Buy",
+   "link": "https://www.bestbuy.com/product/sony-wh-1000xm6-best-wireless-noise-canceling-headphones-pro-stand-kit-black/JJG3SJPHZK",
+   "source": "Best Buy",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+   "rating": 4.4,
+   "reviews": 17,
+   "price": {
+    "value": "$458*",
+    "extracted_value": 458.0,
+    "currency": "$"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYfpZU_IB6ccdqndlaDVtAwCeg_Bm2mKfP-GjfMNjRguKadqV",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/af6a616e-4d75-4db8-9131-fdd7cce0d1ed.jpg",
+   "image_width": 1000,
+   "image_height": 1000
+  },
+  {
+   "position": 3,
+   "title": "Sony 1000X THE COLLEXION Wireless Noise Canceling Headphones Black - Best Buy",
+   "link": "https://www.bestbuy.com/product/sony-1000x-the-collexion-wireless-noise-canceling-headphones-black/J7XSRH5W8X/sku/12819900",
+   "source": "Best Buy",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+   "rating": 4.6,
+   "reviews": 585,
+   "price": {
+    "value": "$648*",
+    "extracted_value": 648.0,
+    "currency": "$"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_pirtfTg7Id-NqpaumqQFJyRTpr5utYmdmk-qHh-zgBkJ3qO",
+   "thumbnail_width": 269,
+   "thumbnail_height": 187,
+   "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/a599a172-85de-4cba-9077-cad93cb342aa.jpg",
+   "image_width": 2186,
+   "image_height": 1525
+  },
+  {
+   "position": 4,
+   "title": "Anc Headphones Sony Best Noise Cancelling Headphones Sony 1000X Review: The Best Of Bose Worlds The",
+   "link": "http://www.jytypudasjarvi.fi/product/category/25560742011150",
+   "source": "www.jytypudasjarvi.fi",
+   "source_icon": "https://serpapi.com/searches/6abb9b37a204ab7bc8bfe3b0/images/v1cnleTyMhMr9LqXXD6OOqgfQnvF58fkR9-WEp6sKVY.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuzqswV4miKIln1NrZFtWW58vDdDoqzD4eUQR_eb1TLVheG-SD",
+   "thumbnail_width": 172,
+   "thumbnail_height": 293,
+   "image": "https://i.ebayimg.com/images/g/b5QAAOSw6e5n9~BV/s-l1200.png",
+   "image_width": 704,
+   "image_height": 1200
+  },
+  {
+   "position": 5,
+   "title": "Wh 1000xm5 Audifonos Inalambricos Sony Amazon WH-1000XM5 Aud\u00edfonos Inal\u00e1mbricos Con Noise Cancelling Sony",
+   "link": "https://www.waterfestivaltucson.org/product-similar-image/?28889693011330",
+   "source": "www.waterfestivaltucson.org",
+   "source_icon": "https://serpapi.com/searches/6abb9b37a204ab7bc8bfe3b0/images/RYUTjHYTlc71JzhnXmeb8hHgxznbDbfaUP4PiXJxEKQ.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhI0Bn573KVZJFMyh0NCXUzCLQhCWKAS8aTLRjQcBEPlj7b-ui",
+   "thumbnail_width": 201,
+   "thumbnail_height": 251,
+   "image": "https://hiraoka.com.pe/media/catalog/product/w/h/wh-1000xm5_black.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=700&canvas=700:560",
+   "image_width": 560,
+   "image_height": 700
+  },
+  {
+   "position": 6,
+   "title": "Sony Headphones Difference Between Noise Cancelling And Ambient Sound Does Ambient Sound Mode Consume More Battery",
+   "link": "https://www.framover.no/product-similar-image/?8924068061920",
+   "source": "www.framover.no",
+   "source_icon": "https://serpapi.com/searches/6abb9b37a204ab7bc8bfe3b0/images/PRYArZQBcNVTfW2vCI1V13yx2Dm8eYVfElqCmJIJ1LA.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtXFaR8BvqaNZceTx3xIZ888qPhi23-Xa0Oy9ocB70q7AKKdvE",
+   "thumbnail_width": 329,
+   "thumbnail_height": 153,
+   "image": "https://i.redd.it/3qbe6ej804je1.jpeg",
+   "image_width": 2313,
+   "image_height": 1080
+  },
+  {
+   "position": 7,
+   "title": "Wh 1000xm5 Google Assistant Button On Sony Headphones Sony WH-1000XM5 Wireless Noise-canceling Headphones What",
+   "link": "https://famfer.com/?c=16814290071800",
+   "source": "famfer.com",
+   "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6IyszRD8sQzQ5OjcBCgoKDQ0NGg8PGjglHyU3Nzc3NzctLTcrNzc4Ny4tNTc1NzctNzU1NjctLTcvLTc3NC0uMTc3Nys3Ky03LSstM__AABEIACAAIAMBEQACEQEDEQH_xAAaAAACAgMAAAAAAAAAAAAAAAAABgUHAQID_8QALBAAAQMDAgIJBQAAAAAAAAAAAQIDBAAFERIhBhMHMlFhdIGRwcIiMTZBcf_EABsBAAICAwEAAAAAAAAAAAAAAAMFAQQAAgYH_8QAKBEAAgEDAQYHAQAAAAAAAAAAAAECAwQRMQUhQVFxkRIiMjNhgbET_9oADAMBAAIRAxEAPwCwq8lHvDeQHG97dsFgdmRkpMhS0tNahkBSv2R3AGmmyrONzWxPRAK83CO41g2G4MPQ5LvEFwfeQsKkodWC04MHKQgAY3I37qJcXtv5qcaEVya17msKUtfExhpOWFyCsJK96WIksWoSTcXDFVKaSmHyk6Uqwfq1dYn7-tdTsCrSy4_z341y9_1oUrpPmNdqttyiSOZMvj85rQRyXI7aBnbBykZ296U3lzbzbjCiovnlv9DU4TWrJelnEMFQTwErpa_F2vGtfKuh2B7kuhVufSOieqP5SOt62WI6GaEbBUmCxx_aJ19tLUG3tIKw-h1S3HQlICc7dud-ynOybqjbScqr7Jsr14SnoMcdTimUF5sNrxugK1Y86WV_A6jcHldMBo5wdKC_glH_2Q.jpeg",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIe2ROyfM6M1I3n3XnYezmCk8UD_KZxLdNltCER6L-S534sKI9",
+   "thumbnail_width": 196,
+   "thumbnail_height": 257,
+   "image": "https://images.equipboard.com/uploads/item/image/124191/sony-wh-1000xm5-wireless-noise-canceling-headphones-xl.webp?v=1782019821",
+   "image_width": 687,
+   "image_height": 900
+  },
+  {
+   "position": 8,
+   "title": "Sony WH-1000XM5 Noise-Canceling Headphones On Sale For Lowest Price Yet - GameSpot",
+   "link": "https://www.gamespot.com/articles/prime-day-sony-bose-bluetooth-headphones-and-earbuds-deals/1100-6509437/",
+   "source": "GameSpot",
+   "source_icon": "https://serpapi.com/searches/6abb9b37a204ab7bc8bfe3b0/images/FblydDnQPlExkj_z-ea3aMa9iy4zvf5tTHsmXbjVylc.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQuI8NE668mRHM37He7ofko_HEYqrPkHoRow7bPNVN5UJu8FD",
+   "thumbnail_width": 168,
+   "thumbnail_height": 300,
+   "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4067282-sony-headset-2.jpg",
+   "image_width": 720,
+   "image_height": 1280
+  }
+ ],
+ "related_content": [
+  {
+   "query": "Sony WH-1000XM5 Noise Canceling Wireless Headphones",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQntTaPz70gjmj2b6MpIGtb3jJnMUGA:1790679866854&q=Sony+WH-1000XM5+Noise+Canceling+Wireless+Headphones&kgmid=/g/11t026kz8w&sa=X&ved=2ahUKEwiS3_qq0pOXAxVyFzQIHSbJOXIQ9_gLKAB6BAg-EAE",
+   "thumbnail": "https://serpapi.com/searches/6abb9b37a204ab7bc8bfe3b0/images/GbalhG1R_TPtmsj-gUSaVF4NfhQFagk0922SmMuO3zg.jpeg",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11t026kz8w&q=Sony+WH-1000XM5+Noise+Canceling+Wireless+Headphones"
+  }
+ ],
+ "_probe_latency_s": 4.63
+}

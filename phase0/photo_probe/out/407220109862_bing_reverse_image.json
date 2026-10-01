@@ -1,0 +1,4524 @@
+{
+ "search_metadata": {
+  "id": "6abb9f9ad0a88fc2cb00b0ff",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/McjfSlq6z1ZWB73_Wk1KbpnGMntUsB4Yet4oNP_KOXk/6abb9f9ad0a88fc2cb00b0ff.json",
+  "markdown_endpoint": "https://serpapi.com/searches/McjfSlq6z1ZWB73_Wk1KbpnGMntUsB4Yet4oNP_KOXk/6abb9f9ad0a88fc2cb00b0ff.md",
+  "created_at": "2026-09-29 11:23:06 UTC",
+  "processed_at": "2026-09-29 11:23:06 UTC",
+  "bing_reverse_image_url": "https://www.bing.com/images/search?q=imgurl:https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2Fr3gAAeSwH-Bqpa1h%2Fs-l960.jpg&view=detailv2&iss=sbi",
+  "raw_html_file": "https://serpapi.com/searches/McjfSlq6z1ZWB73_Wk1KbpnGMntUsB4Yet4oNP_KOXk/6abb9f9ad0a88fc2cb00b0ff.html",
+  "prettify_html_file": "https://serpapi.com/searches/McjfSlq6z1ZWB73_Wk1KbpnGMntUsB4Yet4oNP_KOXk/6abb9f9ad0a88fc2cb00b0ff.prettify",
+  "total_time_taken": 1.51
+ },
+ "search_parameters": {
+  "engine": "bing_reverse_image",
+  "image_url": "https://i.ebayimg.com/images/g/r3gAAeSwH-Bqpa1h/s-l960.jpg"
+ },
+ "search_information": {
+  "total_estimated_matches": 411
+ },
+ "image_info": {
+  "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO",
+  "source": "https://i.ebayimg.com/images/g/r3gAAeSwH-Bqpa1h/s-l960.jpg",
+  "original": "https://i.ebayimg.com/images/g/r3gAAeSwH-Bqpa1h/s-l960.jpg",
+  "domain": "i.ebayimg.com",
+  "width": 960,
+  "height": 927,
+  "format": "jpeg",
+  "file_size": "104913 B"
+ },
+ "related_content": [
+  {
+   "position": 1,
+   "title": "Airpods Pro Second Gen Case could ship same day - Depop",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=C3899C890671CAD71ABCBF5134420468BA1DAF3B&simid=608033797188244646",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.cgdd8nKC1xb68c_EKb1svwHaHa?r=0&pid=Api",
+   "date": "2024-02-08T05:14:00Z",
+   "source": "https://www.depop.com/products/camcoomes-airpods-pro-second-gen-case/",
+   "original": "https://media-photos.depop.com/b1/45009432/1753328660_76b6534331df4c209854637e520204c3/P0.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.72075df27282d716faf1cfc429bd6cbf?rik=O68dumgEQjRRvw&pid=ImgRaw&r=0",
+   "domain": "media-photos.depop.com",
+   "width": 1280,
+   "height": 1280,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "103515 B"
+  },
+  {
+   "position": 2,
+   "title": "Apple airpods pro (2nd Gen) MagSafe, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=B526D047D0FF368708281F94D8285E6D51AFD05D&simid=608047390748577354",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.OyKpD4Wl4Re_g1Gw-KIYcAHaJ4?r=0&pid=Api",
+   "date": "2023-11-27T14:12:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2nd-gen-magsafe-1267993703/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/27/apple_airpods_pro_2nd_gen_mags_1701065617_051e3aca_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.3b22a90f85a5e117bf8351b0f8a21870?rik=XdCvUW1eKNiUHw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "82582 B"
+  },
+  {
+   "position": 3,
+   "title": "Airpods Pro 2 USB-C Authenticity check : r/AreMyAirpodsAuthentic",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=5B8CBD7536B805DD46798B11BBB539B28A021A24&simid=608008718830426046",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.3GAYl5pk6fTFvpUZWrqs2gHaHd?r=0&pid=Api",
+   "date": "2023-10-16T19:31:00Z",
+   "source": "https://www.reddit.com/r/AreMyAirpodsAuthentic/comments/179ec84/airpods_pro_2_usbc_authenticity_check/",
+   "original": "https://preview.redd.it/airpods-pro-2-usb-c-authenticity-check-v0-uzv9p3am8mub1.jpg?width=2902&format=pjpg&auto=webp&s=c259e1200e917d6d480f28d015e85e22b25572bc",
+   "cdn_original": "https://th.bing.com/th/id/R.dc6018979a64e9f4c5be95195abaacda?rik=JBoCirI5tbsRiw&pid=ImgRaw&r=0",
+   "domain": "preview.redd.it",
+   "width": 2902,
+   "height": 2924,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 477,
+   "file_size": "779729 B"
+  },
+  {
+   "position": 4,
+   "title": "Apple AirPods Pro 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=782787ED0CFCC9DBAA4A423BD9CFCAAF4418DA91&simid=608002267842808125",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.SokECvd-1aopzWFOeVITJgHaJ4?r=0&pid=Api",
+   "date": "2023-11-26T04:26:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2-1267545803/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/24/apple_airpods_pro_2_1700868883_214dcd77_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.4a89040af77ed5aa29cd614e79521326?rik=kdoYRK%2fKz9k7Qg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "112613 B"
+  },
+  {
+   "position": 5,
+   "title": "AirPod pros gen 2 Dm before buying please - Depop",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=26C3CE1790074D0BCCA04DE318088352B270CA87&simid=608006017324288093",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.VLOkdFbmvxzVUUNghAjjsAHaHa?r=0&pid=Api",
+   "date": "2024-07-10T09:38:00Z",
+   "source": "https://www.depop.com/products/jackphillie-airpod-pros-gen-2-dm-9138/",
+   "original": "https://media-photos.depop.com/b1/24626051/1931518999_36d4aa2624714c21b34f90cafa11fe99/P0.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.54b3a47456e6bf1cd55143608408e3b0?rik=h8pwslKDCBjjTQ&pid=ImgRaw&r=0",
+   "domain": "media-photos.depop.com",
+   "width": 1280,
+   "height": 1280,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "129360 B"
+  },
+  {
+   "position": 6,
+   "title": "White AirPods Pro2 with case #AirPodsPro2 | Depop",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=C25B0F7CB852B647D0ACE07AFF4489AEF7D78935&simid=608050358565414162",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.kyBg2Y74jzQ1IEu8EY6DpQHaHa?r=0&pid=Api",
+   "date": "2025-05-03T02:38:00Z",
+   "source": "https://www.depop.com/products/iloveraccoons1492-white-airpods-pro2-with-case/",
+   "original": "https://media-photos.depop.com/b1/262981041/2575084852_2bcdb76e37e941ef912b7cc0e1caeed0/P0.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.932060d98ef88f3435204bbc118e83a5?rik=NYnX966JRP964A&pid=ImgRaw&r=0",
+   "domain": "media-photos.depop.com",
+   "width": 1280,
+   "height": 1280,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "197617 B"
+  },
+  {
+   "position": 7,
+   "title": "Airpod pro 2nd gen, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=10CD57057486D164E83357C3CD3C4A001B14897F&simid=608045762936519498",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.eLKJSf3rysPifUjaWWgg_AHaJ4?r=0&pid=Api",
+   "date": "2023-12-22T06:41:00Z",
+   "source": "https://www.carousell.sg/p/airpod-pro-2nd-gen-1272392501/",
+   "original": "https://media.karousell.com/media/photos/products/2023/12/18/airpod_pro_2nd_gen_1702902104_ef3186ef_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.78b28949fdebcac3e27d48da596820fc?rik=f4kUGwBKPM3DVw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "142707 B"
+  },
+  {
+   "position": 8,
+   "title": "Airpods Pro 2 - 2nd gen, Audio, Headphones & Headsets on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=DC2102D68F651ABDFCB54BA60A31F77436DB6A3C&simid=608039994785012940",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.wrzpl-uKnSR2fb6O6DjKIwHaJ4?r=0&pid=Api",
+   "date": "2023-10-03T23:15:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-2-2nd-gen-1257518615/",
+   "original": "https://media.karousell.com/media/photos/products/2023/9/30/airpods_pro_2__2nd_gen_1696040384_b0a3e3ae.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.c2bce997eb8a9d24767dbe8ee838ca23?rik=PGrbNnT3MQqmSw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "100075 B"
+  },
+  {
+   "position": 9,
+   "title": "Apple AirPods Pro 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=670036293FDD7800EC81AD8C80AEC0C00C20D242&simid=608034175131797691",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.KMd_dft9kYAPUCt-aWXEugHaJ4?r=0&pid=Api",
+   "date": "2023-08-25T12:39:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2-1251040239/",
+   "original": "https://media.karousell.com/media/photos/products/2023/8/25/apple_airpods_pro_2_1692965009_f021da8b_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.28c77f75fb7d91800f502b7e6965c4ba?rik=QtIgDMDAroCMrQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "98724 B"
+  },
+  {
+   "position": 10,
+   "title": "AirPods Pro 2nd Gen, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=39819C87B8EDE0BA4F24113910C425BF0FB53A0C&simid=608020925161738807",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.SXibgrX4JKjdhyTpF36w_gHaJ4?r=0&pid=Api",
+   "date": "2023-10-06T23:17:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-2nd-gen-1258525926/",
+   "original": "https://media.karousell.com/media/photos/products/2023/10/5/airpods_pro_2nd_gen_1696519652_761bd4b5_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.49789b82b5f824a8dd8724e9177eb0fe?rik=DDq1D78lxBA5EQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "78652 B"
+  },
+  {
+   "position": 11,
+   "title": "AirPod pro 2nd generation with MagSafe charging case USB-c, Audio ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=EF037031C05824807D1BD056ACDCF9D8505C4E23&simid=608035682628871705",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.N8u6vMp7E3g8w0LYUuNtcAHaJ4?r=0&pid=Api",
+   "date": "2024-01-19T16:27:00Z",
+   "source": "https://www.carousell.sg/p/airpod-pro-2nd-generation-with-magsafe-charging-case-usb-c-1280596353/",
+   "original": "https://media.karousell.com/media/photos/products/2024/1/19/airpod_pro_2nd_generation_with_1705627293_35e78ffe_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.37cbbabcca7b13783cc342d852e36d70?rik=I05cUNj53KxW0A&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "73977 B"
+  },
+  {
+   "position": 12,
+   "title": "Apple AirPods Pro 2nd Gen USB-C model/ Pro Gen 2 AirPods / Apple ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=384CD07069E36D1174EE81263B9F8E245B9BBFFF&simid=608044989820663442",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.pAdzL9wtgUeHwzFDR8bTnAHaNL?r=0&pid=Api",
+   "date": "2024-01-26T01:25:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2nd-gen-usb-c-model-pro-gen-2-airpods-apple-airpods-pro-2nd-generation-usb-c-type-c-pro-gen-2-apple-airpods-1281641517/",
+   "original": "https://media.karousell.com/media/photos/products/2024/1/24/apple_airpods_pro_2nd_gen_usbc_1706064243_4f31c388",
+   "cdn_original": "https://th.bing.com/th/id/R.a407732fdc2d814787c3314347c6d39c?rik=%2f7%2bbWySOnzsmgQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 607,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 843,
+   "file_size": "80494 B"
+  },
+  {
+   "position": 13,
+   "title": "AirPods Pro 2nd gen, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=72876F7CD7D3860C35466E4F896512D84991D697&simid=608041605425354359",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.EaZ6XKZ--r_j1ax3tWZhLQHaJ4?r=0&pid=Api",
+   "date": "2023-12-29T16:59:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-2nd-gen-1274440370/",
+   "original": "https://media.karousell.com/media/photos/products/2023/12/27/airpods_pro_2nd_gen_1703651434_f388e185_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.11a67a5ca67efabfe3d5ac77b566612d?rik=l9aRSdgSZYlPbg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "128342 B"
+  },
+  {
+   "position": 14,
+   "title": "AirPods Pro (2nd Gen), Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=AD1D9217B5D2C4658932BF1EDA66713D209AC8CE&simid=608024915171608146",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.T6xcivTxiHqdqdyKEnqohQHaHa?r=0&pid=Api",
+   "date": "2023-11-20T11:04:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-2nd-gen-1266624372/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/19/airpods_pro_2nd_gen_1700420172_72fd6aa2_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.4fac5c8af4f1887a9da9dc8a127aa885?rik=zsiaID1xZtoevw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1080,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "124639 B"
+  },
+  {
+   "position": 15,
+   "title": "Apple Airpod Pro Gen 2 USB-C Charging, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=032BE495EC26C712055AF33E4EFBFF4E56345A17&simid=608022484193728535",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.F5VsPMu20OFmBoDbpZ_skQHaJ4?r=0&pid=Api",
+   "date": "2023-11-22T13:05:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpod-pro-gen-2-usb-c-charging-1267118047/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/22/apple_airpod_pro_gen_2_usbc_ch_1700652774_c5f2b096.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.17956c3ccbb6d0e1660680dba59fec91?rik=F1o0Vk7%2f%2b04%2b8w&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "117558 B"
+  },
+  {
+   "position": 16,
+   "title": "Brand New Apple Airpod Pro Gen 2 (MagSafe Lightning charging), Audio ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=8892CD6BAA81B5F6DAFA7511728FA1647E83BFA7&simid=608024666033624598",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.Ki5w60H1kG6ckyviLpYWIgHaHx?r=0&pid=Api",
+   "date": "2023-10-10T14:42:00Z",
+   "source": "https://www.carousell.sg/p/brand-new-apple-airpod-pro-gen-2-magsafe-lightning-charging-1258782645/",
+   "original": "https://media.karousell.com/media/photos/products/2023/10/7/brand_new_apple_airpod_pro_gen_1696664171_f4277ab3_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.2a2e70eb41f5906e9c932be22e961622?rik=p7%2bDfmShj3IRdQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1028,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 497,
+   "file_size": "102340 B"
+  },
+  {
+   "position": 17,
+   "title": "brand new(sealed) valid serial number comes with... - Depop",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=91551AB0BA4C27B815895C492C46DE3E91EA3E26&simid=608038332648487804",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.odL2YjQ5N7tZofeGTrXRgQHaHa?r=0&pid=Api",
+   "date": "2024-04-10T22:50:00Z",
+   "source": "https://www.depop.com/products/4434883-brand-newsealed-with-receipt-proof/",
+   "original": "https://media-photos.depop.com/b1/47173405/1796474796_b4404000dfb349948815132695c37076/P0.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.a1d2f662343937bb59a1f7864eb5d181?rik=Jj7qkT7eRixJXA&pid=ImgRaw&r=0",
+   "domain": "media-photos.depop.com",
+   "width": 1280,
+   "height": 1280,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "170572 B"
+  },
+  {
+   "position": 18,
+   "title": "New Apple Airpods Pro 2, Audio, Headphones & Headsets on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=119B890C70EC96412D58EFC8968EDB570C3A2E77&simid=608000532637897698",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.pvWjqhp5dcz4uOfs4dN-8gHaJ4?r=0&pid=Api",
+   "date": "2024-09-02T16:40:00Z",
+   "source": "https://www.carousell.com.my/p/new-apple-airpods-pro-2-1321777588/",
+   "original": "https://media.karousell.com/media/photos/products/2024/8/24/new_apple_airpods_pro_2_1724505620_077d996f.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.a6f5a3aa1a7975ccf8b8e7ece1d37ef2?rik=dy46DFfbjpbI7w&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "150704 B"
+  },
+  {
+   "position": 19,
+   "title": "Apple Airpods Pro (2nd Gen), Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=E81659241A868118E1A680B9AA48C792109789AD&simid=608046523157840219",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.FDYV_ja3rCJ-C6KF_XwdAgHaJ4?r=0&pid=Api",
+   "date": "2023-11-27T14:53:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2nd-gen-1267976758/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/27/apple_airpods_pro_2nd_gen_1701060057_5363dd2e_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.143615fe36b7ac227e0ba285fd7c1d02?rik=rYmXEJLHSKq5gA&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "115039 B"
+  },
+  {
+   "position": 20,
+   "title": "Airpods pro ( 2nd gen ) type C, Mobile Phones & Gadgets, Wearables ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=64AF65F1415D51FD0F45FEBD9486F727AAC2C8BD&simid=608008431081507735",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.llBPCQ0SHEpZA4UoydoTLwHaHK?r=0&pid=Api",
+   "date": "2023-12-22T06:41:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-2nd-gen-type-c-1273201446/",
+   "original": "https://media.karousell.com/media/photos/products/2023/12/22/airpods_pro__2nd_gen__type_c_1703225738_a0978d3b.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.96504f090d121c4a59038528c9da132f?rik=vcjCqif3hpS9%2fg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1080,
+   "height": 1045,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 458,
+   "file_size": "195075 B"
+  },
+  {
+   "position": 21,
+   "title": "Airpods Pro 2nd Gen (USB-C) Authenticity Check : r/AreMyAirpodsAuthentic",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=8403B02F1EEF5DABDC8FCAAA86D31B3A55D67079&simid=607986698561653356",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.lhqUppxG46aFXB54byw4yQHaJ4?r=0&pid=Api",
+   "date": "2023-10-20T16:46:00Z",
+   "source": "https://www.reddit.com/r/AreMyAirpodsAuthentic/comments/17cfm5g/airpods_pro_2nd_gen_usbc_authenticity_check/",
+   "original": "https://preview.redd.it/airpods-pro-2nd-gen-usb-c-authenticity-check-v0-nz5mm8srydvb1.jpg?width=4284&format=pjpg&auto=webp&s=61126fc2583dcf1433dc68241e29ac550e5ab5b7",
+   "cdn_original": "https://th.bing.com/th/id/R.961a94a69c46e3a6855c1e786f2c38c9?rik=eXDWVTob04aqyg&pid=ImgRaw&r=0",
+   "domain": "preview.redd.it",
+   "width": 4284,
+   "height": 5712,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "1269497 B"
+  },
+  {
+   "position": 22,
+   "title": "Apple AirPods Pro gen 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=A6114FB3EE46A59E9D9189F12714E9CF23B6CC29&simid=608040823718116284",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.2-thdlKPQPdRTCWTwdoayAHaJ4?r=0&pid=Api",
+   "date": "2024-01-12T20:14:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-gen-2-1271031315/",
+   "original": "https://media.karousell.com/media/photos/products/2023/12/13/apple_airpods_pro_gen_2_1702432855_aaf45d21_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.dbeb6176528f40f7514c2593c1da1ac8?rik=Kcy2I8%2fpFCfxiQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "95701 B"
+  },
+  {
+   "position": 23,
+   "title": "\u00c2irpod's Pros 2nd G\u00ea\u00f1\u00ear\u00e2ti\u00f3n photo shows what's... | Depop",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=DE6C4A22E43BAA8EE8723E190DD527B36102FD65&simid=608026173586230582",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.n2IPOSdBEc7bjSpjhIZxngHaHa?r=0&pid=Api",
+   "date": "2025-01-01T01:47:00Z",
+   "source": "https://www.depop.com/products/audi0creep-airpods-pros-2nd-generation-photo-24aa/",
+   "original": "https://media-photos.depop.com/b1/43183850/2381844759_0b839b9d90c3406cac2112a3c7a27f1b/P0.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.9f620f39274111cedb8d2a638486719e?rik=Zf0CYbMn1Q0ZPg&pid=ImgRaw&r=0",
+   "domain": "media-photos.depop.com",
+   "width": 1280,
+   "height": 1280,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "144571 B"
+  },
+  {
+   "position": 24,
+   "title": "AirPods Pro (2nd generation) with MagSafe Charging Case (USB-C ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=861ABB9A4A734A30D50F77F84946512F669C872D&simid=608043490917046672",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.2PUVBytqIFnay_TlM3L6cwAAAA?r=0&pid=Api",
+   "date": "2025-02-16T06:34:00Z",
+   "source": "https://www.olx.com.pk/item/airpods-pro-2nd-generation-with-magsafe-charging-case-usb-c-iid-1098520859",
+   "original": "https://images.olx.com.pk/thumbnails/521038793-400x300.jpeg",
+   "cdn_original": "https://th.bing.com/th/id/R.d8f515072b6a2059dacbf4e53372fa73?rik=LYecZi9RRkn4dw&pid=ImgRaw&r=0",
+   "domain": "images.olx.com.pk",
+   "width": 400,
+   "height": 533,
+   "format": "jpeg",
+   "thumbnail_width": 400,
+   "thumbnail_height": 533,
+   "file_size": "23131 B"
+  },
+  {
+   "position": 25,
+   "title": "BNIB Apple AirPods Pro 2 (USB-C) [1 Year warranty], Audio, Earphones on ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=E44F6807E1AAC80EE5F6C3D8839563933A224119&simid=608030571634890686",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.XVWL4jp6xtjn-Uv3ovgbZgHaJ4?r=0&pid=Api",
+   "date": "2025-03-01T06:50:00Z",
+   "source": "https://www.carousell.sg/p/bnib-apple-airpods-pro-2-usb-c-1-year-warranty-1355216618/",
+   "original": "https://media.karousell.com/media/photos/products/2025/2/26/bnib_apple_airpods_pro_2_usbc__1740573480_728f4928.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.5d558be23a7ac6d8e7f94bf7a2f81b66?rik=GUEiOpNjlYPYww&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "150792 B"
+  },
+  {
+   "position": 26,
+   "title": "Airpods Pro Gen 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=A0B9B28115A521B5868FE737E7E36D5665F88CA7&simid=608011613673111365",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.SaNDwi9TcZaVo4iiypuywwHaJ4?r=0&pid=Api",
+   "date": "2023-12-10T15:27:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-gen-2-1267279932/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/23/airpods_pro_gen_2_1700730568_bfc115d5.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.49a343c22f53719695a388a2ca9bb2c3?rik=p4z4ZVZt4%2bc35w&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "113399 B"
+  },
+  {
+   "position": 27,
+   "title": "Apple Airpods 2nd Gen with Magsafe, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=639A58AEA9D44C92CE6C45A0847EFC3F2D69C18C&simid=607992475336255105",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.YevkvBGJpNckBYb0S-St7AHaMW?r=0&pid=Api",
+   "date": "2024-01-11T06:03:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-2nd-gen-with-magsafe-1277217708/",
+   "original": "https://media.karousell.com/media/photos/products/2024/1/6/apple_airpods_2nd_gen_with_mag_1704534735_d5be3227.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.61ebe4bc1189a4d7240586f44be4adec?rik=jMFpLT%2f8foSgRQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 648,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 790,
+   "file_size": "100522 B"
+  },
+  {
+   "position": 28,
+   "title": "*Brand New* A\u00efrpo\u0111s Pr\u00f3 2n\u0111 Ge\u00f1er\u00e4tio\u00f1 SHIPS SAME... - Depop",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=B6EBCEE2BD8B2344E48296237954C5CA0628B06F&simid=608007864166999713",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.MlJMzuSXWj5h8mLB8S857QHaHa?r=0&pid=Api",
+   "date": "2025-01-08T21:12:00Z",
+   "source": "https://www.depop.com/products/jovaaaa-brand-new-airpos-pro-2n-21c8/",
+   "original": "https://media-photos.depop.com/b1/50165511/2388875300_1c77398a73c74670979ffd7248473e7c/P0.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.32524ccee4975a3e61f262c1f12f39ed?rik=b7AoBsrFVHkjlg&pid=ImgRaw&r=0",
+   "domain": "media-photos.depop.com",
+   "width": 1280,
+   "height": 1280,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "142947 B"
+  },
+  {
+   "position": 29,
+   "title": "Airpods pro gen 2 (usb c), Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=B0DD452D1E9CFFE6238D24495CBFBDA7B9AB83AB&simid=607999669321733113",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.bcii0HyjBZsDSALQz2tbVwHaJ4?r=0&pid=Api",
+   "date": "2023-10-18T19:09:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-gen-2-usb-c-1260657781/",
+   "original": "https://media.karousell.com/media/photos/products/2023/10/18/airpods_pro_gen_2_usb_c_1697593566_ae6b25b7_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.6dc8a2d07ca3059b034802d0cf6b5b57?rik=q4Oruae9v1xJJA&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "105478 B"
+  },
+  {
+   "position": 30,
+   "title": "AirPods Pro gen 2 usb c, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=8E5B9B3D20CABBEBD6ED0F562E4F4FCE502D1274&simid=608024910912186638",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.B4PNx0cSkq6AIjn0VG8IlgHaHI?r=0&pid=Api",
+   "date": "2023-11-26T06:32:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-gen-2-usb-c-1267559778/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/25/airpods_pro_gen_2_usb_c_1700878473_fcd98a00.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.0783cdc7471292ae802239f4546f0896?rik=dBItUM5PTy5WDw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 774,
+   "height": 746,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 456,
+   "file_size": "74380 B"
+  },
+  {
+   "position": 31,
+   "title": "Apple | Headphones | Airpods Pro Gen 2 | Poshmark",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=4320B1D8CF6DD918E14184C5E6546C0FF6AFC7EE&simid=607989108063016970",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.l6fKLM6CGZ3HVm_yX5cexAHaHa?r=0&pid=Api",
+   "date": "2024-09-10T22:44:00Z",
+   "source": "https://poshmark.com/listing/airpods-pro-gen-2-66e0c8880a60d552c427e14e",
+   "original": "https://di2ponv0v5otw.cloudfront.net/posts/2024/09/10/66e0c8880a60d552c427e14e/m_66e0c8932d829aca061b55ff.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.97a7ca2cce82199dc7566ff25f971ec4?rik=7sev9g9sVObFhA&pid=ImgRaw&r=0",
+   "domain": "di2ponv0v5otw.cloudfront.net",
+   "width": 580,
+   "height": 580,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "64169 B"
+  },
+  {
+   "position": 32,
+   "title": "[BNIB - Sealed] Apple Airpods Pro 2nd Gen Magsafe Case, Audio ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=552E5CE62E172B2BF5315A24C9A74E54E97069C0&simid=608047098711208810",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.ph53qSlfi8HYfAj4YPwDagHaJ4?r=0&pid=Api",
+   "date": "2023-09-13T03:54:00Z",
+   "source": "https://www.carousell.sg/p/bnib-sealed-apple-airpods-pro-2nd-gen-magsafe-case-1253787695/",
+   "original": "https://media.karousell.com/media/photos/products/2023/9/9/apple_airpods_pro_2nd_gen_mags_1694250783_bd80e14d_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.a61e77a9295f8bc1d87c08f860fc036a?rik=wGlw6VROp8kkWg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "104485 B"
+  },
+  {
+   "position": 33,
+   "title": "Apple Airpods Pro 2 (USB C), Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=7B39A3855310560732AE99F460B91283F24853FB&simid=608054129563562994",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.3PaPkw6goF_xa17o5-bYDQHaJ4?r=0&pid=Api",
+   "date": "2023-12-02T02:10:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2-usb-c-1268635147/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/30/apple_airpods_pro_2_usb_c_1701345563_db594a16_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.dcf68f930ea0a05ff16b5ee8e7e6d80d?rik=%2b1NI8oMSuWD0mQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "120314 B"
+  },
+  {
+   "position": 34,
+   "title": "Apple Airpods Pro 2 (USB C), Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=48C82BC53AA2C6F51F9AFF442CDE150E8DEAAAFD&simid=608032281036022176",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.lkzAfHmiKSs3gqjwm3b9VgHaJ4?r=0&pid=Api",
+   "date": "2023-11-05T22:10:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2-usb-c-1263964668/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/5/apple_airpods_pro_2_usb_c_1699170829_ed9aee7f_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.964cc07c79a2292b3782a8f09b76fd56?rik=%2farqjQ4V3ixE%2fw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "103309 B"
+  },
+  {
+   "position": 35,
+   "title": "Apple AirPods Pro (2nd generation, 2023) with MagSafe Charging Case ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=75A03666D754C091D6205E14AF54F31C8EE1BA70&simid=608021251541068442",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.AIW4u00INDGyvhqgPEXV2gHaJ4?r=0&pid=Api",
+   "date": "2024-06-16T11:02:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2nd-generation-2023-with-magsafe-charging-case-usb-c-1308136331/",
+   "original": "https://media.karousell.com/media/photos/products/2024/6/11/apple_airpods_pro_2nd_generati_1718066756_9d166c46.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.0085b8bb4d083431b2be1aa03c45d5da?rik=cLrhjhzzVK8UXg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "85007 B"
+  }
+ ],
+ "pages_with_this_image": [
+  {
+   "title": "Yahoo!\u30aa\u30fc\u30af\u30b7\u30e7\u30f3 - AirPodsPro2",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=E665F10BDB5AE69012CE2B40EDB239376821A0E4&simid=608028527219182380",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.nrgWSwagVTCtTV8C817MGwHaJ4?r=0&pid=Api",
+   "date": "2025-04-03T15:59:00Z",
+   "source": "https://auctions.yahoo.co.jp/jp/auction/f1179322136",
+   "original": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0104/user/ecbf90cef0c4de004c7ce385f8e6691677208a5057f0e5a78175e23752717bde/i-img900x1200-174351450425179ixqam142005.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.9eb8164b06a05530ad4d5f02f35ecc1b?rik=5KAhaDc5su1AKw&pid=ImgRaw&r=0",
+   "domain": "auctions.c.yimg.jp",
+   "size": "900 x 1200",
+   "width": 900,
+   "height": 1200,
+   "format": "jpeg",
+   "file_size": "136778 B"
+  },
+  {
+   "title": "Yahoo!\u30aa\u30fc\u30af\u30b7\u30e7\u30f3 - Apple \u30a2\u30c3\u30d7\u30eb Air Pods Pro \u7b2c\u4e8c\u4e16\u4ee3 A3047 A3...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=930CC86A0174A5DF3E2052983A6DE950037107E8&simid=608031409154757491",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.zfW_AnqPjMyXRPEtH_5DZwHaHa?r=0&pid=Api",
+   "date": "2025-06-07T04:12:00Z",
+   "source": "https://auctions.yahoo.co.jp/jp/auction/x1153736633",
+   "original": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0509/user/7d2219602b0f51fbc799cf8bedda19d59d8342b9a96eb83020412ee4a6980b47/i-img756x756-17268948390806k79mmp910909.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.cdf5bf027a8f8ccc9744f12d1ffe4367?rik=6AdxA1DpbTqYUg&pid=ImgRaw&r=0",
+   "domain": "auctions.c.yimg.jp",
+   "size": "756 x 756",
+   "width": 756,
+   "height": 756,
+   "format": "jpeg",
+   "file_size": "84119 B"
+  }
+ ],
+ "ads": [
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Wireless Charging Case Replacement Compatible With Airpod 3rd Generation, Air Pod 3 Charger Case With Bluetooth Pairing Sync Button",
+   "link": "https://www.amazon.com/Wireless-Replacement-Compatible-Generation-Bluetooth/dp/B0DT8TVK1V/ref=asc_df_B0DT8TVK1V?tag=bingshoppinga-20&linkCode=df0&hvadid=80745595095993&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584345080636548&psc=1&hvocijid=1923012944409137166-B0DT8TVK1V-&hvexpln=0",
+   "price": 27.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.0bS4upVFZM0pYA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 454,
+   "description": "Air Pod 3 Charging Case Replacement: Our charging case works like the original Air Pod 3 charging case. If your original Air Pod 3 Charging Case is unfortunately lost/damaged, the charging case is compatible with Air Pod 3. The charging case will be your best choice. It is not included earbuds.This Charging Case is not compatible for Air Pod 1 2 4 and Air Pod Pro 1 2 .It is only compatible for Air Pod 3. Bluetooth Pairing & Wireless and Wire Charging : This Air Pod 3 charging case Supports Bluetooth pairing. Wireless and Wire Charging enables you to enjoy convenient charging and fast charging. Fast Charging & Large Capacity : It only takes 15 minutes to charge your headphones . The built-in 600 mAh battery can be fully charged in 3 hours, and it can be fully charged with headphones up to 4 times. Easily maintain 24 hours. Easy to Carry: Our charging case works like the original one,which is to carry also provides high-quality shell protection. When you put it in your Air Pod 3 charging case, it will charge Air Pod 3 automatically. Exquisite and Durable Body: The charging case is as round and light as a pebble, making it easy to carry. At the same time, the shell made of nanotechnology materials can provide 360\u00b0 protection for your earbuds. Wireless Charging Case Replacement Compatible with Pod 3rd Generation, Pod 3 Charger Case with Bluetooth Pairing Sync Button",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 8
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 15W Wireless Magnetic Charging Pad W/ Qi For iPhones + Airpods - Fas",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 26.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.unY9VoDfWkSQDw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 223,
+   "description": "Experience efficient charging with the Belkin BoostCharge wireless charging pad. Designed for both cellular phones and wireless earphones, this charging solution supports a power output of 15 W, ensuring devices recharge quickly and safely. The included AC power adapter enhances convenience, allowing the charging pad to be ready for use right out of the box. With a compact design and compatibility for phone cases up to 5 mm thick, this wireless charger is a practical choice for everyday use. Constructed from 75% recycled post-consumer plastic, this product is functional and environmentally friendly. The LED indicator provides clear visibility of charging status, making it easy to monitor charging progress. With support for Qi 1.3 wireless charging standards, the Belkin BoostCharge provides a reliable power source for your devices while contributing to a sustainable future.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883910991"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 10000Mah 15W Qi2 Magsafe Power Bank With Kickstand | Wireless Charging Battery Pack, iPhone 17, Air, Pro, Pro Max, Airpods, Apple Watch, Google",
+   "link": "https://www.amazon.com/Belkin-Portable-Charger-000mAh-iPhone/dp/B0CTJCQL66/ref=asc_df_B0CTJCQL66?tag=bingshoppinga-20&linkCode=df0&hvadid=80333278397603&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583932754419231&psc=1&hvocijid=11007370467137588846-B0CTJCQL66-&hvexpln=0",
+   "price": 99.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.iDXZIwqJcRwjqA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 508,
+   "description": "FAST, PORTABLE CHARGING W/ QI2: Get up to 15W of fast charging in Pass-Thru Mode with Qi2 for iPhone and other compatible Qi2-enabled devices. This wireless charging technology features magnets that allow for easy alignment. HIGH BATTERY CAPACITY: With a capacity of 10,000 mAh, this battery pack helps you gain up to an additional 35 hours of charging for your smartphone up to 20 watts, delivering up to 35 hours of video playback for your iPhone. COMPACT & LIGHTWEIGHT: Durably designed for portability. With a large capacity and minimal footprint, this travel-friendly wireless charging hub can be taken anywhere. Plus, an LED battery indicator light lets you know when it's time to recharge. MAGNETIC ATTACHEMENT: Magnetically attach your phone for perfect charging without the need to question if your phone is perfectly aligned. You can now charge with confidence and not have to worry about the charger blocking your camera. SIMULTANEOUS CHARGING: With a 3.3ft USB-C to USB-C cable included, this BoostCharge Pro lets you charge 3 devices at once Charge one phone wirelessly while plugging the up to 2 of USB-C cables into a second and third device to charge simultaneously.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "rating": 8,
+   "gtin_ids": [
+    "00745883872145"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Wireless Charging Case Compatible For Airpods Pro 1st & 2nd Generation With USB-C Charging, Air Pod Pro 1 2 Charger Case Replacement With Bluetooth",
+   "link": "https://www.amazon.com/Wireless-Compatible-Generation-Replacement-Bluetooth/dp/B0CN3CK1HW/ref=asc_df_B0CN3CK1HW?tag=bingshoppinga-20&linkCode=df0&hvadid=80745595095993&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584345074522052&psc=1&hvocijid=1866860126116468835-B0CN3CK1HW-&hvexpln=0",
+   "price": 15.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.ON5iBSCdevD2SA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 405,
+   "description": "USB-C Charging: This charging case can be charged using a USB-C charging cable. If your mobile phone charging port is also USB-C, you only need to bring one charging cable with you when you go out. Sensitive and Stable Bluetooth Connection: This charging case is equipped with a Bluetooth sync pairing button for easy one-step connection. It also has the latest Bluetooth chip built-in, giving you a more sensitive and stable connection experience. Once the connection is established, open the lid and it will connect automatically. Fast Charging & Wireless Charging: This wireless charging case takes only 25 minutes to fully charge earbuds. With this charging case, your listening time can be up to 30 hours. You can lose yourself in the melodies all day long. This case can be charged with QI certified wireless charger. Sleek and Lightweight Design: This charging case weighs only 0.15 lbs and has a pebble-like rounded body. You can easily put it in any pocket and carry it around without stress. Excellent Service: If you have any questions about our products, please feel free to contact us. Our staff will answer your questions within 24 hours. Wireless Charging Case with USB-C Charging Compatible for Air Pods Pro 1st & 2nd Generation Note: 1. The earbuds and charging cable are not included in the package; 2. Compatible with Airpods pro 1st & 2nd generation, but does not support Airpods 1/2/3 and non-original Airpods pro; 3. The wireless charging pad must be compatible with the QI charging standard to charge the charging case. Features: 1. Support USB-C charging and wireless charging; 2.Support Bluetooth pairing and auto connection; 3. The listening time is up to 30 hours with the case; 4.Fast charging 5. Equipped with Bluetooth 5.3 chip Pairing steps Step 1: Turn on Bluetooth Step 2: Put the earbuds into the case and open the lid Step 3: Long press the pairing button Step 4: Click \"Connect\" in the pop-up window Note: When connecting for the first time, the power of the charging case needs to be no less than 30%! Package Include: Air Pod Pro 1st & 2nd Generation Charging Case(with Type-C Charging ) Instructions Manual Not Include Earbuds",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 7
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 25W 3-In-1 Wireless Foldable Magnetic Qi2 Charging Pad For Smartphon",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 115.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.8B8pAPW2SkEyWg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 543,
+   "description": "The Belkin UltraCharge wireless charging stand offers an efficient 3-in-1 solution for charging a cellular phone, smart watch, and wireless earphones simultaneously. With its compact and foldable design, this versatile charging stand supports both portrait and landscape orientations, allowing users to ease into their charging routines without taking up excessive space. Made from 85% recycled plastic, this eco-friendly device combines functionality with sustainability, providing high-speed charging capabilities of up to 25 W while adhering to the Qi2 wireless charging standard.~The Belkin UltraCharge features ChillBoost and SmartProtect technologies to optimize charging efficiency while safeguarding devices against overheating. The non-slip silicon base ensures stability on any surface, while the adjustable angle and lightweight construction make it a portable option for users on-the-go. With an included AC power adapter, this charging stand is ready to deliver power whenever needed, resulting in a seamless charging experience for multiple devices simultaneously.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 42W Dual Port Charger Block, USB-C + USB-A Fast Charging | Super Fast Charging, Samsung Galaxy S26, iPhone 17, Air, Pro, Pro Max, iPad, Airpods",
+   "link": "https://www.amazon.com/Belkin-BoostCharge-Charger-Charging-AirPods/dp/B0D4G42D42/ref=asc_df_B0D4G42D42?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912230&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584207629825786&psc=1&hvocijid=16794951677792529931-B0D4G42D42-&hvexpln=0",
+   "price": 29.97,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.0ZCoCR1jeIJ6RA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 381,
+   "description": "FAST CHARGING TECHNOLOGY: This 42W USB-C wall charger lets you fast charge an Apple iPhone 16 or Samsung Galaxy S25 from 0-50% in just 24 minutes, allowing you to spend less time charging and more time carrying out the tasks of your day. SIMULTANEOUS CHARGING: Charger is USB-C PD 3.1 certified, with a USB-C port and USB-A that power up to 2 Samsung and iPhone devices at once, delivering a fast and safe charge to a driver and passenger's compatible Apple and Samsung devices, plus more. PPS TECHNOLOGY: This dual-port wall charger is built with PPS technology, enabling the power supply to dynamically adjust the output voltage and current to be compatible with and deliver the proper amount of power to the receiving smartphone. SAFE and RELIABLE: Our BoostCharge dual wall charger has gone through extensive testing to ensure a charger that charges your devices safely and reliably throughout the entire life of the product. Plus, foldable prongs make it easier to travel with. SUSTAINABLY MADE W/ 2-YEAR COVERAGE: This BoostCharge charger's housing is made of post-consumer recycled content, while its packaging is made 100% plastic-free. Plus, maintain peace of mind with 2-year coverage and a Connected Equipment Warranty.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883867998"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Wireless Charging Case Replacement Compatible With Airpod 4 With USB-C Charging, Air Pod 4th Generation Charger Case With Bluetooth Pairing Sync With",
+   "link": "https://www.amazon.com/Wireless-Replacement-Compatible-Generation-Bluetooth/dp/B0DSH1QMQ2/ref=asc_df_B0DSH1QMQ2?tag=bingshoppinga-20&linkCode=df0&hvadid=79989681303822&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583589155714780&psc=1&hvocijid=961798436582402911-B0DSH1QMQ2-&hvexpln=0",
+   "price": 19.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.AXWiNwZGLBdaww474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 412,
+   "description": "Replacement Charging Case: If you lose or damage the original headphones case of Air Pod 4. This charging case will be your high-quality replacement. It is not compatible for Gen 1 ,Gen 2 and Gen 3 . The connection method is the same as the original. (Note: Earbuds are not included, only compatible with original headphones) Bluetooth Pairing: Our Air Pod 4th Generation charging case comes equipped with a Bluetooth sync button that supports Bluetooth pairing. Your headphones will automatically connect when opened again. Fast Charging: Our charging case boasts fast charging capability, providing 1 hour of listening time in just 5 minutes of charging. If your earbuds are completely out of charge, it only takes 30 minutes to fully charge them. The charging case itself takes only 2.5 hours to charge Two Charging Options: This charging case supports both Type-C charging and wireless charging. After-sales Service: If you encounter any issues, please do not hesitate to contact us at any time, and we will do everything we can to solve the problem for you. Case Replacement Compatible with Pod 4, Pod 4th Generation Case with Bluetooth Pairing Sync without Earbuds",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 7
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 15W Wireless Charging Pad, Qi Charger With Power Adapter | iPhone 16/15/14, Airpods, Samsung Galaxy S25/S24, Pixel 10 Compatible, Power Adapter",
+   "link": "https://www.amazon.com/Belkin-Wireless-Charging-Pad-15W/dp/B0F8PPWGJ5/ref=asc_df_B0F8PPWGJ5?tag=bingshoppinga-20&linkCode=df0&hvadid=80058400532341&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583657884675582&psc=1&hvocijid=4947621755437418329-B0F8PPWGJ5-&hvexpln=0",
+   "price": 26.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.jsTrtZZsAHf51A474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 572,
+   "description": "CONVENIENT UNIVERSAL WIRELESS CHARGING: Simply place your phone on this Qi charging pad and get a 15W output for Samsung Galaxy 24 and newer, 9W for Samsung S23 and older, 7.5W for iPhone, and 5W for other phones or wireless earbuds, including AirPods. CASE COMPATIBLE W/ SAFE CHARGING: Enjoy a wireless charger that meets our Belkin SmartProtect standard through rounds of rigorous testing. Plus, your phone will still receive a safe charge - even when your protective phone case is on (up to 5mm). 20W PSU & USB C CABLE + LED LIGHT INDICATOR: An included 20W PD Type C PSU and 5ft USB C to USB C cable lets you power this wireless charger right out of the box. Plus, LED light feedback confirms your device is receiving a safe and successful charge. COMPACT SIZE, PERFECT FOR TRAVEL: The slim, modern profile of this BoostCharge charging pad makes it easy to store and travel with-take it with you to keep your device charged at the office, on business trips, or your next vacation. STAY PROTECTED: With Belkin SmartProtect, this charger provides temperature monitoring, over-voltage protection, current detection, overload protection, foreign object detection, and is made with fire resistant materials to ensure safe charging. SUSTAINABLY MADE + 2-YEAR COVERAGE: This charging pad is composed of 75% post-consumer recycled* plastic and comes in 100% plastic-free packaging. You can also purchase with peace of mind knowing that it comes with 2-year coverage and a $2,500 CEW.**",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883910991"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 30W Gan USB C Charger Block, Fast Charging For Travel | Gan Power Delivery, iPhone 17, Air, Pro, Pro Max, Macbook, iPad, Airpods, Apple Watch,",
+   "link": "https://www.amazon.com/Belkin-Charger-Designed-Delivery-WCH001dqWH/dp/B089P38LCY/ref=asc_df_B089P38LCY?tag=bingshoppinga-20&linkCode=df0&hvadid=80539436593580&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584138918049587&psc=1&hvocijid=11436635888829822661-B089P38LCY-&hvexpln=0",
+   "price": 29.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.YaKTv1DC8qLYvQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 314,
+   "description": "GaN FAST CHARGING TECHNOLOGY: This 30W USB C charger uses Gallium Nitride (GaN) for an ultra small, and ultra fast phone charger. OPTIMIZED FOR MOST DEVICES: With 30W of power you can fast-charge your iPhone, as well as charge an iPad Pro, MacBook Air, and much more. PROTECTION & POWER: This USB-C charger has certified over-voltage protection, giving peace of mind that your device will charge safely and without overheating. USB-C Power Delivery certification ensures reliable performance with all compatible devices. COMPACT DESIGN: This iPhone charger has foldable prongs for ultimate portability, while maintaining exceptional charging speeds. 2-YEAR WARRANTY: This Belkin 30W USB C Wall Charger comes with a 2-year limited warranty and a Connected Equipment Warranty (CEW), so you can rest assured that your iPhone and other Apple devices are safe and protected.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883793860"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 8000Mah 15W Qi2 Magsafe Power Bank With Kickstand | Wireless Charging Battery Pack, iPhone 17, Air, Pro, Pro Max, Airpods, Apple Watch, Google",
+   "link": "https://www.amazon.com/Belkin-Portable-Charger-Wireless-Built/dp/B0CZXJHQQ4/ref=asc_df_B0CZXJHQQ4?tag=bingshoppinga-20&linkCode=df0&hvadid=79852242640787&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583451722559284&psc=1&hvocijid=10358026264675005589-B0CZXJHQQ4-&hvexpln=0",
+   "price": 79.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.uEAogd95G6Cd6g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 511,
+   "description": "FAST, PORTABLE CHARGING W/ QI2: Get up to 15W of fast charging in Pass-Thru Mode with Qi2 for iPhone and other compatible Qi2-enabled devices. This wireless charging technology features magnets that allow for easy alignment. HIGH BATTERY CAPACITY: With a capacity of 8,000 mAh, this battery pack helps you gain up to an additional 28 hours of charging for your smartphone up to 20 watts, delivering up to 28 hours of video playback for your iPhone. COMPACT & LIGHTWEIGHT: Durably designed for portability. With a large capacity and minimal footprint, this travel-friendly wireless charging hub can be taken anywhere. Plus, an LED battery indicator light lets you know when it's time to recharge. MAGNETIC ATTACHEMENT: Magnetically attach your phone for perfect charging without the need to question if your phone is perfectly aligned. You can now charge with confidence and not have to worry about the charger blocking your camera. SIMULTANEOUS CHARGING: With a 3.3ft USB-C to USB-C cable included, this BoostCharge Pro lets you charge 2 devices at once Charge one phone wirelessly while plugging the USB-C cable into a second device to charge simultaneously.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883872107"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 25W 3-In-1 Qi2 Wireless Magnetic Charging Dock For Smartphones, Smar",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 69.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.8iZ1fSyIO%2bYzJQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 514,
+   "description": "The Belkin UltraCharge charging dock combines convenience and efficiency to power up to three devices at once. With a USB-C to USB-C cable measuring 1.5 m, this modular design suits various devices including cellular phones, smartwatches, and wireless earphones. Integrated features such as a built-in cable organizer and convertible form factor provide versatility in setup, while the magnetic connector ensures secure and easy alignment.~Designed with sustainability in mind, the UltraCharge is made of 85% recycled post-consumer plastic and packaged without plastic materials. The fast charge technology allows for a quick power boost, while the wireless charging adheres to Qi 2.2 standards for reliable performance. With a compact design and included AC power adapter, it's an ideal choice for those seeking a functional and eco-friendly charging solution.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin Magsafe 15W 2 in 1 Wireless Charging Dock, Fast Charger | iPhone 17/16/15/14, Airpods, Pixel 10 Compatible, Power Adapter Included, Desk",
+   "link": "https://www.amazon.com/Belkin-MagSafe-Wireless-Charging-Compatible/dp/B0CZWQG8ST/ref=asc_df_B0CZWQG8ST?tag=bingshoppinga-20&linkCode=df0&hvadid=80333278397254&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583932757876157&psc=1&hvocijid=14959256071930234829-B0CZWQG8ST-&hvexpln=0",
+   "price": 119.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.jSMq9zAEqqGmpQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 460,
+   "description": "SIMULTANEOUS WIRELESS CHARGING: Belkin Magsafe Charger design allows you to charge 2 devices at once with 15W of fast charging power for your iPhone and 5W of power to your Apple Watch or AirPods. STANDBY READY: Style your iPhone as you'd like, as Belkin's Magsafe Wireless 2-in-1 Charging Dock supports StandBy Mode. Your phone will remain in the perfect position as you turn it into a bedside clock, photo frame, widget display, and more. ADJUSTABLE VIEWING: With an adjustable magnetic surface, you can enjoy viewing angles for your smartphone that vary from 0-70 degrees - all without having to worry about the magnetic grip being compromised. STURDY and SUSTAINABLE: A non-slip weighted base ensures a sturdy home for all your devices. Built with sustainability in mind, this product combines a minimum of 60% post-consumer recycled materials with an all-new soft touch housing material. FAST CHARGING: Your wireless charger is powered by a 30W PD PSU, allowing the built-in premium braided USB-C cable to provide a fast and easy charge to your compatible devices. 2-YEAR WARRANTY: This Belkin product comes with a 2-year warranty and a 2,500 dollar CEW that ensures Belkin will repair or replace electronic devices damaged by an electrical charge while properly connected to this charging dock.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883864072"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 20W Compact USB C Charger Block, Fast Charging For Travel | PD 3.1, Travel Charger, iPad, iPhone 17, Samsung Galaxy, Pixel, Airpods, Apple",
+   "link": "https://www.amazon.com/Belkin-Charger-Charging-Compatible-AirPods/dp/B0F643RXFY/ref=asc_df_B0F643RXFY?tag=bingshoppinga-20&linkCode=df0&hvadid=80333278397603&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583932756452925&psc=1&hvocijid=8247334695910749040-B0F643RXFY-&hvexpln=0",
+   "price": 14.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.pPmXZCwuDZQZ9A474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 370,
+   "description": "FAST CHARGING TECHNOLOGY: Our Compact Wall Charger supports fast charging of various devices, rapidly charging an iPhone 16 Pro from 0-50% in just 27 minutes or a Samsung S23 in 30 minutes. Spend less time charging and more time connected to your day. UNIVERSAL USB-C COMPATIBILITY: This versatile charging solution works seamlessly with various iPhone models, Samsung Galaxy and earlier, iPad Pro, Chromebook, and other USB-C devices, ensuring fast, reliable charging. INTEGRATED USB PD 3.1 CHIPSET: This Samsung and iPhone charger is USB-C PD 3.1 certified with integrated USB Power Delivery 3.1, meaning it can deliver a safe, high-power charge to your compatible device while reducing the heat output. DURABLE & TRAVEL READY: This Belkin Wall Charger is made with durability in mind and features foldable prongs for a convenient, travel-ready design. Compact and lightweight, it's the perfect charger for home, office, or travel. STAY PROTECTED: This compact wall charger has been subjected to 6 comprehensive reliability tests, ensuring you get a safe and powerful charge to your devices with over-voltage and surge protection for assured quality and compatibility.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883909834"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Wireless Charging Case Compatible With Airpods 4, Replacement Charger Case With Bluetooth Pairing Sync Button (To USB-C)",
+   "link": "https://www.amazon.com/Wireless-Charging-Compatible-Replacement-Bluetooth/dp/B0DQ7SQDVF/ref=asc_df_B0DQ7SQDVF?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912743&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584207632784994&psc=1&hvocijid=6611423563982328698-B0DQ7SQDVF-&hvexpln=0",
+   "price": 29.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.1hIQu%2bU%2fuA%2fUIQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 493,
+   "description": "Perfect Replacement Case Compatible with AirPods 4th generation only. A perfect replacement when your original charging case is lost or damaged. Large Capacity Battery & Fast Charging The charging case has a built-in 450 mAh battery that can be fully charged in 3 hours and provided 3 times charging for your earbuds. Support Wired & Wireless Charging Not only support USB C cable charging but also standard QI enabled wireless charging . Easy Bluetooth Pairing Follow the pairing instruction when use it for the first time. The next time it will pairs automatically. (NOTE - It doesn't support Find My function.) After-Sale Service Before using the charging case, please read the user manual carefully. If you have any questions, please contact us via the platform, and we will handle it for you within 24 hours Wireless Charging Case Compatible with AirPods 4th Generation, Replacement Charger Case with Bluetooth Pairing Sync Button (To USB-C)",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 7
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin 25W 2-In-1 Wireless Foldable Magnetic Qi2 Charging Pad For Smartphon",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 69.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.XNGYtpZS6bSf6g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 310,
+   "description": "The Belkin UltraCharge wireless charging stand is a versatile solution for charging multiple devices, including cellular phones, smart watches, and wireless earphones. This product features a 2-in-1 design with magnetic alignment for easy device placement while ensuring effective power delivery. With a compact and foldable structure, it offers flexibility to adjust angles for both portrait and landscape orientations, accommodating various viewing needs. Equipped with 25 W of power and utilizing Qi2 wireless charging technology, this stand allows charging of two devices simultaneously. The integrated braided cable enhances durability, while protection features such as overload protection, short circuit protection, and temperature control add a layer of safety. Made with 85% recycled post-consumer plastic, the Belkin UltraCharge is an efficient and environmentally friendly choice for tech enthusiasts.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883922062"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin Boostcharge PRO 3-In-1 Wireless Charger With Magsafe For iPhone 13, 12 + Apple Watch + Airpods (Magnetically Charges iPhone 13 And 12 Models Up",
+   "link": "https://www.amazon.com/Belkin-BoostCharge-Wireless-Charger-Magnetically/dp/B08MB1JGLW/ref=asc_df_B08MB1JGLW?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912954&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584207635020501&psc=1&hvocijid=2488851429663608052-B08MB1JGLW-&hvexpln=0",
+   "price": 95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.5dzUI72T7dhhMw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 470,
+   "description": "Reimagine how you charge your iPhone 16, iPhone 15, 14, 13 and 12 with MagSafe alignment and a 3 in 1 wireless charging station for iPhone + Apple Watch + AirPods Fast wireless charging up to 15-watts for iPhone 16, iPhone 15, iPhone 14, iPhone 13 and iPhone 12 models",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00745883819430"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin Wireless Charging Stand - Magnetic With Qi2 - + Ac Power Adapter - 1",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 124.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.VbrLoZmoao2LAQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 364,
+   "description": "The Belkin BoostCharge Pro 3-in-1 wireless charging stand revolutionizes the way you power your devices. With its 15 W fast charge capability and Qi2 wireless charging standard, it ensures your smartphone, smartwatch, and wireless earphones are always ready to go. The charger's magnetic alignment feature secures your devices in place, offering the flexibility to charge in both portrait and landscape orientations. Designed for convenience, it includes an LED indicator and standby function, while being compatible with cases up to 3 mm thick. Moreover, its construction from 75% recycled post-consumer plastic not only makes it a durable choice but also supports your eco-friendly lifestyle. Whether at home or in the office, the Belkin BoostCharge Pro 3-in-1 is the perfect solution for keeping your devices charged and ready.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883868728"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "USB C Fast Charger For Airpods 5/4 Gen,Airpods Pro 2Nd/3Rd Gen,Airpods Max 2024,Iphone 15 16 17 18,Ipad, iPad Pro - 6.6ft USB-C Cord, 20W PD Power",
+   "link": "https://www.amazon.com/Fast-Charger-Airpods-AirPods-iPhone/dp/B0F4D73FPT/ref=asc_df_B0F4D73FPT?tag=bingshoppinga-20&linkCode=df0&hvadid=79989681304464&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583589159012459&psc=1&hvocijid=9410359915030216529-B0F4D73FPT-&hvexpln=0",
+   "price": 9.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.1OTGS%2fEjNOJw5g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 378,
+   "description": "20W USB Type-C Power Adapter, with 6.6ft USB-C to USB-C Cable included. NOTE: NOT FIT Lightning Charging Port Devices.The Charger Cable Only Compatible Apple USB-C Devices Compatible With: Airpods 5/4 Gen,AirPods Pro 2nd/3rd Gen(USB-C),AirPods Max 2024,iPhone 15 16 17 18,iPad, iPad Pro.Aslo Charging Beats Studio Buds, Solo Buds, Powerbeats Buds, Flex Buds,Fit Pro,Powerbeats Pro 2,Stuido Pro,Solo 4. Also fast charging for Apple USB-C Devices. Power Adapter: UL Listed,CE,FCC,RoHS Certified, Over Heat, Over Current, Over Voltage and Short Circuit Protection, its low energy consumption conform to the US Energy VI, more energy efficient than normal adapter,it is Safe and Reliable to Use. USB-C Cable: 6.6ft long ,usb-c to usb-c, Specially customized high-quality charging cable with data. Input Voltage Range: AC 100V - 240V / Smart Power: 5V3A,9V2.2A,12V1.67A 20W. USB C Fast Charger for Airpods 5/4 Gen,AirPods Pro 2nd/3rd Gen,AirPods Max 2024,Beats Studio Solo Powerbeats Flex Buds,Fit Pro,Powerbeats Pro 2,Stuido Pro,Solo 4 - 6.6ft USB-C Cord, 20W PD Power Adapter",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "20W Airpods Pro (1St) Generation Fast Charger Fit For Airpods 2Nd/3Rd Gen Wireless Earbuds With 6.6ft USB C To Lightning Charging Cord For iPhone 14/",
+   "link": "https://www.amazon.com/Airpods-Charger-AirPods-Generation-Charging/dp/B0D5386GVD/ref=asc_df_B0D5386GVD?tag=bingshoppinga-20&linkCode=df0&hvadid=80264559055387&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583864041515416&psc=1&hvocijid=13891729300076005496-B0D5386GVD-&hvexpln=0",
+   "price": 14.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Kn5nkADapnz5CQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 460,
+   "description": "Perfectly Compatible: This 20W Lightning Fast Charger is designed for Airpods Pro (1st Gen), Airpods 2nd/3rd Generation Wireless Earbuds Charging Case (Lightning Port). Safe Charging: 20W PD fast charger has multipotent safety system ensures complete protection for your AirPods Pro (1st Gen) Earbuds Charging Case (Lightning Port). Small and Compact: Designed with portability in mind, take the compact charger with you wherever you go, ensuring that you never run out of power when you need it the most. Please Note!!!: This 20W comes with a USB-C to Lightning cable and is only compatible with Lightning port devices. (not Airpods Pro (2nd Generation), Airpods (4th Gen), AirPods Max 2 (2024) which utilize a USB-C port. To purchase, please purchase the version USB-C to USB C cable) Universal Compatibility: Works With for iPhone 14/14 Plus/14 Pro/14 Pro Max/iPhone 13/13 Mini/13 Pro/13 Pro Max/iPhone 12/iPhone 12 Pro/iPhone 12 Pro Max/iPhone 12 Mini/iPhone 11/iPhone 11 Pro/iPhone 11 Pro Max/iPhone XS Max/XS/XR/iPhone X/iPhone 8/iPhone 8 Plus,iPad Pro/ iPad Air/iPad Mini/ iPad, AirPods and more Lighting Devices. Cable Length: 2 Meter or 6.6 Feet. What You get: 1x 20W PD Type C Adapter Plug Block and 1x USB C to Lightning Cable. 24-month worry-free warranty and dedicated customer service. 20W Lightning Wall Charger Fast Charging Fit for Airpods Wireless Earbuds Charging Case (Lightning Port) The PD 3.0 Fast Charger Type C adapter delivers up to 3 amps for swift, stable charging, and the 20W fast charge capability uses Power Delivery for efficient charging. 20W Fast Charge Fit for Airpods Pro (1st Gen) Earbuds 20W Fast Charge Fit for Airpods (2nd/3rd Generation) Earbuds In The Package: 1x 20W Fast Wall Charger Block and 1x 6.6Ft USB C to Lightning Cable Technical Parameters Power Supply Adapter Power: 20W (Max) Power INPUT: 100-240V~50-60 Hz Power OUTPUT: USB Type C Port - (PDO) 5V/3A or 9V/2.22A Cable Line length: 6.6Feet (2 Meters) Charging: Supports UP to 3A Current Data Transfer: USB2.0 (480Mbps)",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 8
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Belkin Store And Charge Station (Usb Classroom Charging Station)",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 354.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.CR7tkY413Uxj9Q474C474&o=5&pid=21.1",
+   "thumbnail_width": 334,
+   "thumbnail_height": 184,
+   "description": "Designed for the connected classroom, Store and Charge makes it easy to keep students' tablets, e-readers and other USB charge compatible devices powered up, organized, and ready for use. This compact, desktop-friendly station can hold and charge up to 10 different devices at the same time, each with its own USB charging cable stored in the base. The included RockStar\u2122 10-Port USB Charging Station with USB Power Delivery technology, assesses each connected device and distributes up to 2.4A of power where its needed for optimal, fast charging.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883748518"
+   ]
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Mainline",
+   "title": "Belkin BoostCharge Pro 3-in-1 - Universal Wireless Chargers",
+   "link": "https://www.crutchfield.com/p_599016TTBK/Belkin-BoostCharge-Pro-3-in-1-Black.html?XVINQ=BD1&XVVER=PPP&awcr=76965870355996&awdv=c&awkw=belkin%20airpod%20charger&awmt=b&awnw=o&awat=&awug=95050&msclkid=0537b7a266c61665a37add19f95da021",
+   "displayed_link": "https://crutchfield.com",
+   "description": "Hot Deals, Cool Gear, and Helpful Tips. Discover the Crutchfield Difference!",
+   "seller_name": "Crutchfield",
+   "seller_domain": "crutchfield.com",
+   "logo": "https://www.bing.com/th?id=OADD2.7971495099509_19BP0FUKDNXHIU6EXR&pid=21.2"
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Mainline",
+   "title": "Belkin Airpod Charger - Shop Belkin Airpod Charger",
+   "link": "https://www.amazon.com/s/?ie=UTF8&keywords=belkin+airpod+charger&index=aps&tag=mh0b-20&ref=&adgrpid=1335909226091877&hvadid=83494620323579&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=kwd-83495615888511:loc-190&hydadcr=21972_13575587_2283591&mcid=&hvocijid=5271800018070859427--&hvexpln=0&language=English&gb=2",
+   "displayed_link": "https://www.amazon.com/Shop/belkin airpod charger",
+   "description": "Get deals and low prices on Belkin Airpod Charger at Amazon. Browse a vast collection of quality chargers & power adapters at affordable prices.",
+   "seller_name": "amazon.com",
+   "seller_domain": "amazon.com",
+   "logo": "https://th.bing.com/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&pid=AdsPlus"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Belkin 25W 3-In-1 Qi2 Wireless Magnetic Charging Dock For Smartphones, Smar",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 69.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.8iZ1fSyIO%2bYzJQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 514,
+   "description": "The Belkin UltraCharge charging dock combines convenience and efficiency to power up to three devices at once. With a USB-C to USB-C cable measuring 1.5 m, this modular design suits various devices including cellular phones, smartwatches, and wireless earphones. Integrated features such as a built-in cable organizer and convertible form factor provide versatility in setup, while the magnetic connector ensures secure and easy alignment.~Designed with sustainability in mind, the UltraCharge is made of 85% recycled post-consumer plastic and packaged without plastic materials. The fast charge technology allows for a quick power boost, while the wireless charging adheres to Qi 2.2 standards for reliable performance. With a compact design and included AC power adapter, it's an ideal choice for those seeking a functional and eco-friendly charging solution.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Belkin Magsafe 15W 2 in 1 Wireless Charging Dock, Fast Charger | iPhone 17/16/15/14, Airpods, Pixel 10 Compatible, Power Adapter Included, Desk",
+   "link": "https://www.amazon.com/Belkin-MagSafe-Wireless-Charging-Compatible/dp/B0CZWQG8ST/ref=asc_df_B0CZWQG8ST?tag=bingshoppinga-20&linkCode=df0&hvadid=80333278397254&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583932757876157&psc=1&hvocijid=14959256071930234829-B0CZWQG8ST-&hvexpln=0",
+   "price": 119.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.jSMq9zAEqqGmpQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 460,
+   "description": "SIMULTANEOUS WIRELESS CHARGING: Belkin Magsafe Charger design allows you to charge 2 devices at once with 15W of fast charging power for your iPhone and 5W of power to your Apple Watch or AirPods. STANDBY READY: Style your iPhone as you'd like, as Belkin's Magsafe Wireless 2-in-1 Charging Dock supports StandBy Mode. Your phone will remain in the perfect position as you turn it into a bedside clock, photo frame, widget display, and more. ADJUSTABLE VIEWING: With an adjustable magnetic surface, you can enjoy viewing angles for your smartphone that vary from 0-70 degrees - all without having to worry about the magnetic grip being compromised. STURDY and SUSTAINABLE: A non-slip weighted base ensures a sturdy home for all your devices. Built with sustainability in mind, this product combines a minimum of 60% post-consumer recycled materials with an all-new soft touch housing material. FAST CHARGING: Your wireless charger is powered by a 30W PD PSU, allowing the built-in premium braided USB-C cable to provide a fast and easy charge to your compatible devices. 2-YEAR WARRANTY: This Belkin product comes with a 2-year warranty and a 2,500 dollar CEW that ensures Belkin will repair or replace electronic devices damaged by an electrical charge while properly connected to this charging dock.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883864072"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Belkin 20W Compact USB C Charger Block, Fast Charging For Travel | PD 3.1, Travel Charger, iPad, iPhone 17, Samsung Galaxy, Pixel, Airpods, Apple",
+   "link": "https://www.amazon.com/Belkin-Charger-Charging-Compatible-AirPods/dp/B0F643RXFY/ref=asc_df_B0F643RXFY?tag=bingshoppinga-20&linkCode=df0&hvadid=80333278397603&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583932756452925&psc=1&hvocijid=8247334695910749040-B0F643RXFY-&hvexpln=0",
+   "price": 14.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.pPmXZCwuDZQZ9A474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 370,
+   "description": "FAST CHARGING TECHNOLOGY: Our Compact Wall Charger supports fast charging of various devices, rapidly charging an iPhone 16 Pro from 0-50% in just 27 minutes or a Samsung S23 in 30 minutes. Spend less time charging and more time connected to your day. UNIVERSAL USB-C COMPATIBILITY: This versatile charging solution works seamlessly with various iPhone models, Samsung Galaxy and earlier, iPad Pro, Chromebook, and other USB-C devices, ensuring fast, reliable charging. INTEGRATED USB PD 3.1 CHIPSET: This Samsung and iPhone charger is USB-C PD 3.1 certified with integrated USB Power Delivery 3.1, meaning it can deliver a safe, high-power charge to your compatible device while reducing the heat output. DURABLE & TRAVEL READY: This Belkin Wall Charger is made with durability in mind and features foldable prongs for a convenient, travel-ready design. Compact and lightweight, it's the perfect charger for home, office, or travel. STAY PROTECTED: This compact wall charger has been subjected to 6 comprehensive reliability tests, ensuring you get a safe and powerful charge to your devices with over-voltage and surge protection for assured quality and compatibility.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883909834"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Wireless Charging Case Compatible With Airpods 4, Replacement Charger Case With Bluetooth Pairing Sync Button (To USB-C)",
+   "link": "https://www.amazon.com/Wireless-Charging-Compatible-Replacement-Bluetooth/dp/B0DQ7SQDVF/ref=asc_df_B0DQ7SQDVF?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912743&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584207632784994&psc=1&hvocijid=6611423563982328698-B0DQ7SQDVF-&hvexpln=0",
+   "price": 29.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.1hIQu%2bU%2fuA%2fUIQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 493,
+   "description": "Perfect Replacement Case Compatible with AirPods 4th generation only. A perfect replacement when your original charging case is lost or damaged. Large Capacity Battery & Fast Charging The charging case has a built-in 450 mAh battery that can be fully charged in 3 hours and provided 3 times charging for your earbuds. Support Wired & Wireless Charging Not only support USB C cable charging but also standard QI enabled wireless charging . Easy Bluetooth Pairing Follow the pairing instruction when use it for the first time. The next time it will pairs automatically. (NOTE - It doesn't support Find My function.) After-Sale Service Before using the charging case, please read the user manual carefully. If you have any questions, please contact us via the platform, and we will handle it for you within 24 hours Wireless Charging Case Compatible with AirPods 4th Generation, Replacement Charger Case with Bluetooth Pairing Sync Button (To USB-C)",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 7
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Belkin 25W 2-In-1 Wireless Foldable Magnetic Qi2 Charging Pad For Smartphon",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 69.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.XNGYtpZS6bSf6g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 310,
+   "description": "The Belkin UltraCharge wireless charging stand is a versatile solution for charging multiple devices, including cellular phones, smart watches, and wireless earphones. This product features a 2-in-1 design with magnetic alignment for easy device placement while ensuring effective power delivery. With a compact and foldable structure, it offers flexibility to adjust angles for both portrait and landscape orientations, accommodating various viewing needs. Equipped with 25 W of power and utilizing Qi2 wireless charging technology, this stand allows charging of two devices simultaneously. The integrated braided cable enhances durability, while protection features such as overload protection, short circuit protection, and temperature control add a layer of safety. Made with 85% recycled post-consumer plastic, the Belkin UltraCharge is an efficient and environmentally friendly choice for tech enthusiasts.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883922062"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Wireless Charging Case Replacement Compatible With Airpod 3rd Generation, Air Pod 3 Charger Case With Bluetooth Pairing Sync Button",
+   "link": "https://www.amazon.com/Wireless-Replacement-Compatible-Generation-Bluetooth/dp/B0DT8TVK1V/ref=asc_df_B0DT8TVK1V?tag=bingshoppinga-20&linkCode=df0&hvadid=80745595095993&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584345080636548&psc=1&hvocijid=1923012944409137166-B0DT8TVK1V-&hvexpln=0",
+   "price": 27.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.0bS4upVFZM0pYA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 454,
+   "description": "Air Pod 3 Charging Case Replacement: Our charging case works like the original Air Pod 3 charging case. If your original Air Pod 3 Charging Case is unfortunately lost/damaged, the charging case is compatible with Air Pod 3. The charging case will be your best choice. It is not included earbuds.This Charging Case is not compatible for Air Pod 1 2 4 and Air Pod Pro 1 2 .It is only compatible for Air Pod 3. Bluetooth Pairing & Wireless and Wire Charging : This Air Pod 3 charging case Supports Bluetooth pairing. Wireless and Wire Charging enables you to enjoy convenient charging and fast charging. Fast Charging & Large Capacity : It only takes 15 minutes to charge your headphones . The built-in 600 mAh battery can be fully charged in 3 hours, and it can be fully charged with headphones up to 4 times. Easily maintain 24 hours. Easy to Carry: Our charging case works like the original one,which is to carry also provides high-quality shell protection. When you put it in your Air Pod 3 charging case, it will charge Air Pod 3 automatically. Exquisite and Durable Body: The charging case is as round and light as a pebble, making it easy to carry. At the same time, the shell made of nanotechnology materials can provide 360\u00b0 protection for your earbuds. Wireless Charging Case Replacement Compatible with Pod 3rd Generation, Pod 3 Charger Case with Bluetooth Pairing Sync Button",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 8
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 15W Wireless Magnetic Charging Pad W/ Qi For iPhones + Airpods - Fas",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 26.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.unY9VoDfWkSQDw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 223,
+   "description": "Experience efficient charging with the Belkin BoostCharge wireless charging pad. Designed for both cellular phones and wireless earphones, this charging solution supports a power output of 15 W, ensuring devices recharge quickly and safely. The included AC power adapter enhances convenience, allowing the charging pad to be ready for use right out of the box. With a compact design and compatibility for phone cases up to 5 mm thick, this wireless charger is a practical choice for everyday use. Constructed from 75% recycled post-consumer plastic, this product is functional and environmentally friendly. The LED indicator provides clear visibility of charging status, making it easy to monitor charging progress. With support for Qi 1.3 wireless charging standards, the Belkin BoostCharge provides a reliable power source for your devices while contributing to a sustainable future.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883910991"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 10000Mah 15W Qi2 Magsafe Power Bank With Kickstand | Wireless Charging Battery Pack, iPhone 17, Air, Pro, Pro Max, Airpods, Apple Watch, Google",
+   "link": "https://www.amazon.com/Belkin-Portable-Charger-000mAh-iPhone/dp/B0CTJCQL66/ref=asc_df_B0CTJCQL66?tag=bingshoppinga-20&linkCode=df0&hvadid=80333278397603&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583932754419231&psc=1&hvocijid=11007370467137588846-B0CTJCQL66-&hvexpln=0",
+   "price": 99.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.iDXZIwqJcRwjqA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 508,
+   "description": "FAST, PORTABLE CHARGING W/ QI2: Get up to 15W of fast charging in Pass-Thru Mode with Qi2 for iPhone and other compatible Qi2-enabled devices. This wireless charging technology features magnets that allow for easy alignment. HIGH BATTERY CAPACITY: With a capacity of 10,000 mAh, this battery pack helps you gain up to an additional 35 hours of charging for your smartphone up to 20 watts, delivering up to 35 hours of video playback for your iPhone. COMPACT & LIGHTWEIGHT: Durably designed for portability. With a large capacity and minimal footprint, this travel-friendly wireless charging hub can be taken anywhere. Plus, an LED battery indicator light lets you know when it's time to recharge. MAGNETIC ATTACHEMENT: Magnetically attach your phone for perfect charging without the need to question if your phone is perfectly aligned. You can now charge with confidence and not have to worry about the charger blocking your camera. SIMULTANEOUS CHARGING: With a 3.3ft USB-C to USB-C cable included, this BoostCharge Pro lets you charge 3 devices at once Charge one phone wirelessly while plugging the up to 2 of USB-C cables into a second and third device to charge simultaneously.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "rating": 8,
+   "gtin_ids": [
+    "00745883872145"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Wireless Charging Case Compatible For Airpods Pro 1st & 2nd Generation With USB-C Charging, Air Pod Pro 1 2 Charger Case Replacement With Bluetooth",
+   "link": "https://www.amazon.com/Wireless-Compatible-Generation-Replacement-Bluetooth/dp/B0CN3CK1HW/ref=asc_df_B0CN3CK1HW?tag=bingshoppinga-20&linkCode=df0&hvadid=80745595095993&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584345074522052&psc=1&hvocijid=1866860126116468835-B0CN3CK1HW-&hvexpln=0",
+   "price": 15.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.ON5iBSCdevD2SA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 405,
+   "description": "USB-C Charging: This charging case can be charged using a USB-C charging cable. If your mobile phone charging port is also USB-C, you only need to bring one charging cable with you when you go out. Sensitive and Stable Bluetooth Connection: This charging case is equipped with a Bluetooth sync pairing button for easy one-step connection. It also has the latest Bluetooth chip built-in, giving you a more sensitive and stable connection experience. Once the connection is established, open the lid and it will connect automatically. Fast Charging & Wireless Charging: This wireless charging case takes only 25 minutes to fully charge earbuds. With this charging case, your listening time can be up to 30 hours. You can lose yourself in the melodies all day long. This case can be charged with QI certified wireless charger. Sleek and Lightweight Design: This charging case weighs only 0.15 lbs and has a pebble-like rounded body. You can easily put it in any pocket and carry it around without stress. Excellent Service: If you have any questions about our products, please feel free to contact us. Our staff will answer your questions within 24 hours. Wireless Charging Case with USB-C Charging Compatible for Air Pods Pro 1st & 2nd Generation Note: 1. The earbuds and charging cable are not included in the package; 2. Compatible with Airpods pro 1st & 2nd generation, but does not support Airpods 1/2/3 and non-original Airpods pro; 3. The wireless charging pad must be compatible with the QI charging standard to charge the charging case. Features: 1. Support USB-C charging and wireless charging; 2.Support Bluetooth pairing and auto connection; 3. The listening time is up to 30 hours with the case; 4.Fast charging 5. Equipped with Bluetooth 5.3 chip Pairing steps Step 1: Turn on Bluetooth Step 2: Put the earbuds into the case and open the lid Step 3: Long press the pairing button Step 4: Click \"Connect\" in the pop-up window Note: When connecting for the first time, the power of the charging case needs to be no less than 30%! Package Include: Air Pod Pro 1st & 2nd Generation Charging Case(with Type-C Charging ) Instructions Manual Not Include Earbuds",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 7
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 25W 3-In-1 Wireless Foldable Magnetic Qi2 Charging Pad For Smartphon",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 115.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.8B8pAPW2SkEyWg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 543,
+   "description": "The Belkin UltraCharge wireless charging stand offers an efficient 3-in-1 solution for charging a cellular phone, smart watch, and wireless earphones simultaneously. With its compact and foldable design, this versatile charging stand supports both portrait and landscape orientations, allowing users to ease into their charging routines without taking up excessive space. Made from 85% recycled plastic, this eco-friendly device combines functionality with sustainability, providing high-speed charging capabilities of up to 25 W while adhering to the Qi2 wireless charging standard.~The Belkin UltraCharge features ChillBoost and SmartProtect technologies to optimize charging efficiency while safeguarding devices against overheating. The non-slip silicon base ensures stability on any surface, while the adjustable angle and lightweight construction make it a portable option for users on-the-go. With an included AC power adapter, this charging stand is ready to deliver power whenever needed, resulting in a seamless charging experience for multiple devices simultaneously.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 42W Dual Port Charger Block, USB-C + USB-A Fast Charging | Super Fast Charging, Samsung Galaxy S26, iPhone 17, Air, Pro, Pro Max, iPad, Airpods",
+   "link": "https://www.amazon.com/Belkin-BoostCharge-Charger-Charging-AirPods/dp/B0D4G42D42/ref=asc_df_B0D4G42D42?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912230&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584207629825786&psc=1&hvocijid=16794951677792529931-B0D4G42D42-&hvexpln=0",
+   "price": 29.97,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.0ZCoCR1jeIJ6RA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 381,
+   "description": "FAST CHARGING TECHNOLOGY: This 42W USB-C wall charger lets you fast charge an Apple iPhone 16 or Samsung Galaxy S25 from 0-50% in just 24 minutes, allowing you to spend less time charging and more time carrying out the tasks of your day. SIMULTANEOUS CHARGING: Charger is USB-C PD 3.1 certified, with a USB-C port and USB-A that power up to 2 Samsung and iPhone devices at once, delivering a fast and safe charge to a driver and passenger's compatible Apple and Samsung devices, plus more. PPS TECHNOLOGY: This dual-port wall charger is built with PPS technology, enabling the power supply to dynamically adjust the output voltage and current to be compatible with and deliver the proper amount of power to the receiving smartphone. SAFE and RELIABLE: Our BoostCharge dual wall charger has gone through extensive testing to ensure a charger that charges your devices safely and reliably throughout the entire life of the product. Plus, foldable prongs make it easier to travel with. SUSTAINABLY MADE W/ 2-YEAR COVERAGE: This BoostCharge charger's housing is made of post-consumer recycled content, while its packaging is made 100% plastic-free. Plus, maintain peace of mind with 2-year coverage and a Connected Equipment Warranty.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883867998"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Wireless Charging Case Replacement Compatible With Airpod 4 With USB-C Charging, Air Pod 4th Generation Charger Case With Bluetooth Pairing Sync With",
+   "link": "https://www.amazon.com/Wireless-Replacement-Compatible-Generation-Bluetooth/dp/B0DSH1QMQ2/ref=asc_df_B0DSH1QMQ2?tag=bingshoppinga-20&linkCode=df0&hvadid=79989681303822&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583589155714780&psc=1&hvocijid=961798436582402911-B0DSH1QMQ2-&hvexpln=0",
+   "price": 19.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.AXWiNwZGLBdaww474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 412,
+   "description": "Replacement Charging Case: If you lose or damage the original headphones case of Air Pod 4. This charging case will be your high-quality replacement. It is not compatible for Gen 1 ,Gen 2 and Gen 3 . The connection method is the same as the original. (Note: Earbuds are not included, only compatible with original headphones) Bluetooth Pairing: Our Air Pod 4th Generation charging case comes equipped with a Bluetooth sync button that supports Bluetooth pairing. Your headphones will automatically connect when opened again. Fast Charging: Our charging case boasts fast charging capability, providing 1 hour of listening time in just 5 minutes of charging. If your earbuds are completely out of charge, it only takes 30 minutes to fully charge them. The charging case itself takes only 2.5 hours to charge Two Charging Options: This charging case supports both Type-C charging and wireless charging. After-sales Service: If you encounter any issues, please do not hesitate to contact us at any time, and we will do everything we can to solve the problem for you. Case Replacement Compatible with Pod 4, Pod 4th Generation Case with Bluetooth Pairing Sync without Earbuds",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 7
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 15W Wireless Charging Pad, Qi Charger With Power Adapter | iPhone 16/15/14, Airpods, Samsung Galaxy S25/S24, Pixel 10 Compatible, Power Adapter",
+   "link": "https://www.amazon.com/Belkin-Wireless-Charging-Pad-15W/dp/B0F8PPWGJ5/ref=asc_df_B0F8PPWGJ5?tag=bingshoppinga-20&linkCode=df0&hvadid=80058400532341&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583657884675582&psc=1&hvocijid=4947621755437418329-B0F8PPWGJ5-&hvexpln=0",
+   "price": 26.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.jsTrtZZsAHf51A474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 572,
+   "description": "CONVENIENT UNIVERSAL WIRELESS CHARGING: Simply place your phone on this Qi charging pad and get a 15W output for Samsung Galaxy 24 and newer, 9W for Samsung S23 and older, 7.5W for iPhone, and 5W for other phones or wireless earbuds, including AirPods. CASE COMPATIBLE W/ SAFE CHARGING: Enjoy a wireless charger that meets our Belkin SmartProtect standard through rounds of rigorous testing. Plus, your phone will still receive a safe charge - even when your protective phone case is on (up to 5mm). 20W PSU & USB C CABLE + LED LIGHT INDICATOR: An included 20W PD Type C PSU and 5ft USB C to USB C cable lets you power this wireless charger right out of the box. Plus, LED light feedback confirms your device is receiving a safe and successful charge. COMPACT SIZE, PERFECT FOR TRAVEL: The slim, modern profile of this BoostCharge charging pad makes it easy to store and travel with-take it with you to keep your device charged at the office, on business trips, or your next vacation. STAY PROTECTED: With Belkin SmartProtect, this charger provides temperature monitoring, over-voltage protection, current detection, overload protection, foreign object detection, and is made with fire resistant materials to ensure safe charging. SUSTAINABLY MADE + 2-YEAR COVERAGE: This charging pad is composed of 75% post-consumer recycled* plastic and comes in 100% plastic-free packaging. You can also purchase with peace of mind knowing that it comes with 2-year coverage and a $2,500 CEW.**",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883910991"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 30W Gan USB C Charger Block, Fast Charging For Travel | Gan Power Delivery, iPhone 17, Air, Pro, Pro Max, Macbook, iPad, Airpods, Apple Watch,",
+   "link": "https://www.amazon.com/Belkin-Charger-Designed-Delivery-WCH001dqWH/dp/B089P38LCY/ref=asc_df_B089P38LCY?tag=bingshoppinga-20&linkCode=df0&hvadid=80539436593580&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584138918049587&psc=1&hvocijid=11436635888829822661-B089P38LCY-&hvexpln=0",
+   "price": 29.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.YaKTv1DC8qLYvQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 314,
+   "description": "GaN FAST CHARGING TECHNOLOGY: This 30W USB C charger uses Gallium Nitride (GaN) for an ultra small, and ultra fast phone charger. OPTIMIZED FOR MOST DEVICES: With 30W of power you can fast-charge your iPhone, as well as charge an iPad Pro, MacBook Air, and much more. PROTECTION & POWER: This USB-C charger has certified over-voltage protection, giving peace of mind that your device will charge safely and without overheating. USB-C Power Delivery certification ensures reliable performance with all compatible devices. COMPACT DESIGN: This iPhone charger has foldable prongs for ultimate portability, while maintaining exceptional charging speeds. 2-YEAR WARRANTY: This Belkin 30W USB C Wall Charger comes with a 2-year limited warranty and a Connected Equipment Warranty (CEW), so you can rest assured that your iPhone and other Apple devices are safe and protected.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883793860"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 8000Mah 15W Qi2 Magsafe Power Bank With Kickstand | Wireless Charging Battery Pack, iPhone 17, Air, Pro, Pro Max, Airpods, Apple Watch, Google",
+   "link": "https://www.amazon.com/Belkin-Portable-Charger-Wireless-Built/dp/B0CZXJHQQ4/ref=asc_df_B0CZXJHQQ4?tag=bingshoppinga-20&linkCode=df0&hvadid=79852242640787&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583451722559284&psc=1&hvocijid=10358026264675005589-B0CZXJHQQ4-&hvexpln=0",
+   "price": 79.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.uEAogd95G6Cd6g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 511,
+   "description": "FAST, PORTABLE CHARGING W/ QI2: Get up to 15W of fast charging in Pass-Thru Mode with Qi2 for iPhone and other compatible Qi2-enabled devices. This wireless charging technology features magnets that allow for easy alignment. HIGH BATTERY CAPACITY: With a capacity of 8,000 mAh, this battery pack helps you gain up to an additional 28 hours of charging for your smartphone up to 20 watts, delivering up to 28 hours of video playback for your iPhone. COMPACT & LIGHTWEIGHT: Durably designed for portability. With a large capacity and minimal footprint, this travel-friendly wireless charging hub can be taken anywhere. Plus, an LED battery indicator light lets you know when it's time to recharge. MAGNETIC ATTACHEMENT: Magnetically attach your phone for perfect charging without the need to question if your phone is perfectly aligned. You can now charge with confidence and not have to worry about the charger blocking your camera. SIMULTANEOUS CHARGING: With a 3.3ft USB-C to USB-C cable included, this BoostCharge Pro lets you charge 2 devices at once Charge one phone wirelessly while plugging the USB-C cable into a second device to charge simultaneously.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883872107"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 25W 3-In-1 Qi2 Wireless Magnetic Charging Dock For Smartphones, Smar",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 69.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.8iZ1fSyIO%2bYzJQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 514,
+   "description": "The Belkin UltraCharge charging dock combines convenience and efficiency to power up to three devices at once. With a USB-C to USB-C cable measuring 1.5 m, this modular design suits various devices including cellular phones, smartwatches, and wireless earphones. Integrated features such as a built-in cable organizer and convertible form factor provide versatility in setup, while the magnetic connector ensures secure and easy alignment.~Designed with sustainability in mind, the UltraCharge is made of 85% recycled post-consumer plastic and packaged without plastic materials. The fast charge technology allows for a quick power boost, while the wireless charging adheres to Qi 2.2 standards for reliable performance. With a compact design and included AC power adapter, it's an ideal choice for those seeking a functional and eco-friendly charging solution.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin Magsafe 15W 2 in 1 Wireless Charging Dock, Fast Charger | iPhone 17/16/15/14, Airpods, Pixel 10 Compatible, Power Adapter Included, Desk",
+   "link": "https://www.amazon.com/Belkin-MagSafe-Wireless-Charging-Compatible/dp/B0CZWQG8ST/ref=asc_df_B0CZWQG8ST?tag=bingshoppinga-20&linkCode=df0&hvadid=80333278397254&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583932757876157&psc=1&hvocijid=14959256071930234829-B0CZWQG8ST-&hvexpln=0",
+   "price": 119.95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.jSMq9zAEqqGmpQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 460,
+   "description": "SIMULTANEOUS WIRELESS CHARGING: Belkin Magsafe Charger design allows you to charge 2 devices at once with 15W of fast charging power for your iPhone and 5W of power to your Apple Watch or AirPods. STANDBY READY: Style your iPhone as you'd like, as Belkin's Magsafe Wireless 2-in-1 Charging Dock supports StandBy Mode. Your phone will remain in the perfect position as you turn it into a bedside clock, photo frame, widget display, and more. ADJUSTABLE VIEWING: With an adjustable magnetic surface, you can enjoy viewing angles for your smartphone that vary from 0-70 degrees - all without having to worry about the magnetic grip being compromised. STURDY and SUSTAINABLE: A non-slip weighted base ensures a sturdy home for all your devices. Built with sustainability in mind, this product combines a minimum of 60% post-consumer recycled materials with an all-new soft touch housing material. FAST CHARGING: Your wireless charger is powered by a 30W PD PSU, allowing the built-in premium braided USB-C cable to provide a fast and easy charge to your compatible devices. 2-YEAR WARRANTY: This Belkin product comes with a 2-year warranty and a 2,500 dollar CEW that ensures Belkin will repair or replace electronic devices damaged by an electrical charge while properly connected to this charging dock.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883864072"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 20W Compact USB C Charger Block, Fast Charging For Travel | PD 3.1, Travel Charger, iPad, iPhone 17, Samsung Galaxy, Pixel, Airpods, Apple",
+   "link": "https://www.amazon.com/Belkin-Charger-Charging-Compatible-AirPods/dp/B0F643RXFY/ref=asc_df_B0F643RXFY?tag=bingshoppinga-20&linkCode=df0&hvadid=80333278397603&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583932756452925&psc=1&hvocijid=8247334695910749040-B0F643RXFY-&hvexpln=0",
+   "price": 14.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.pPmXZCwuDZQZ9A474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 370,
+   "description": "FAST CHARGING TECHNOLOGY: Our Compact Wall Charger supports fast charging of various devices, rapidly charging an iPhone 16 Pro from 0-50% in just 27 minutes or a Samsung S23 in 30 minutes. Spend less time charging and more time connected to your day. UNIVERSAL USB-C COMPATIBILITY: This versatile charging solution works seamlessly with various iPhone models, Samsung Galaxy and earlier, iPad Pro, Chromebook, and other USB-C devices, ensuring fast, reliable charging. INTEGRATED USB PD 3.1 CHIPSET: This Samsung and iPhone charger is USB-C PD 3.1 certified with integrated USB Power Delivery 3.1, meaning it can deliver a safe, high-power charge to your compatible device while reducing the heat output. DURABLE & TRAVEL READY: This Belkin Wall Charger is made with durability in mind and features foldable prongs for a convenient, travel-ready design. Compact and lightweight, it's the perfect charger for home, office, or travel. STAY PROTECTED: This compact wall charger has been subjected to 6 comprehensive reliability tests, ensuring you get a safe and powerful charge to your devices with over-voltage and surge protection for assured quality and compatibility.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9,
+   "gtin_ids": [
+    "00745883909834"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Wireless Charging Case Compatible With Airpods 4, Replacement Charger Case With Bluetooth Pairing Sync Button (To USB-C)",
+   "link": "https://www.amazon.com/Wireless-Charging-Compatible-Replacement-Bluetooth/dp/B0DQ7SQDVF/ref=asc_df_B0DQ7SQDVF?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912743&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584207632784994&psc=1&hvocijid=6611423563982328698-B0DQ7SQDVF-&hvexpln=0",
+   "price": 29.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.1hIQu%2bU%2fuA%2fUIQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 493,
+   "description": "Perfect Replacement Case Compatible with AirPods 4th generation only. A perfect replacement when your original charging case is lost or damaged. Large Capacity Battery & Fast Charging The charging case has a built-in 450 mAh battery that can be fully charged in 3 hours and provided 3 times charging for your earbuds. Support Wired & Wireless Charging Not only support USB C cable charging but also standard QI enabled wireless charging . Easy Bluetooth Pairing Follow the pairing instruction when use it for the first time. The next time it will pairs automatically. (NOTE - It doesn't support Find My function.) After-Sale Service Before using the charging case, please read the user manual carefully. If you have any questions, please contact us via the platform, and we will handle it for you within 24 hours Wireless Charging Case Compatible with AirPods 4th Generation, Replacement Charger Case with Bluetooth Pairing Sync Button (To USB-C)",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 7
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin 25W 2-In-1 Wireless Foldable Magnetic Qi2 Charging Pad For Smartphon",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 69.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.XNGYtpZS6bSf6g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 310,
+   "description": "The Belkin UltraCharge wireless charging stand is a versatile solution for charging multiple devices, including cellular phones, smart watches, and wireless earphones. This product features a 2-in-1 design with magnetic alignment for easy device placement while ensuring effective power delivery. With a compact and foldable structure, it offers flexibility to adjust angles for both portrait and landscape orientations, accommodating various viewing needs. Equipped with 25 W of power and utilizing Qi2 wireless charging technology, this stand allows charging of two devices simultaneously. The integrated braided cable enhances durability, while protection features such as overload protection, short circuit protection, and temperature control add a layer of safety. Made with 85% recycled post-consumer plastic, the Belkin UltraCharge is an efficient and environmentally friendly choice for tech enthusiasts.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883922062"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin Boostcharge PRO 3-In-1 Wireless Charger With Magsafe For iPhone 13, 12 + Apple Watch + Airpods (Magnetically Charges iPhone 13 And 12 Models Up",
+   "link": "https://www.amazon.com/Belkin-BoostCharge-Wireless-Charger-Magnetically/dp/B08MB1JGLW/ref=asc_df_B08MB1JGLW?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912954&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4584207635020501&psc=1&hvocijid=2488851429663608052-B08MB1JGLW-&hvexpln=0",
+   "price": 95,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.5dzUI72T7dhhMw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 470,
+   "description": "Reimagine how you charge your iPhone 16, iPhone 15, 14, 13 and 12 with MagSafe alignment and a 3 in 1 wireless charging station for iPhone + Apple Watch + AirPods Fast wireless charging up to 15-watts for iPhone 16, iPhone 15, iPhone 14, iPhone 13 and iPhone 12 models",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00745883819430"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin Wireless Charging Stand - Magnetic With Qi2 - + Ac Power Adapter - 1",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 124.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.VbrLoZmoao2LAQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 364,
+   "description": "The Belkin BoostCharge Pro 3-in-1 wireless charging stand revolutionizes the way you power your devices. With its 15 W fast charge capability and Qi2 wireless charging standard, it ensures your smartphone, smartwatch, and wireless earphones are always ready to go. The charger's magnetic alignment feature secures your devices in place, offering the flexibility to charge in both portrait and landscape orientations. Designed for convenience, it includes an LED indicator and standby function, while being compatible with cases up to 3 mm thick. Moreover, its construction from 75% recycled post-consumer plastic not only makes it a durable choice but also supports your eco-friendly lifestyle. Whether at home or in the office, the Belkin BoostCharge Pro 3-in-1 is the perfect solution for keeping your devices charged and ready.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883868728"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "USB C Fast Charger For Airpods 5/4 Gen,Airpods Pro 2Nd/3Rd Gen,Airpods Max 2024,Iphone 15 16 17 18,Ipad, iPad Pro - 6.6ft USB-C Cord, 20W PD Power",
+   "link": "https://www.amazon.com/Fast-Charger-Airpods-AirPods-iPhone/dp/B0F4D73FPT/ref=asc_df_B0F4D73FPT?tag=bingshoppinga-20&linkCode=df0&hvadid=79989681304464&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583589159012459&psc=1&hvocijid=9410359915030216529-B0F4D73FPT-&hvexpln=0",
+   "price": 9.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.1OTGS%2fEjNOJw5g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 378,
+   "description": "20W USB Type-C Power Adapter, with 6.6ft USB-C to USB-C Cable included. NOTE: NOT FIT Lightning Charging Port Devices.The Charger Cable Only Compatible Apple USB-C Devices Compatible With: Airpods 5/4 Gen,AirPods Pro 2nd/3rd Gen(USB-C),AirPods Max 2024,iPhone 15 16 17 18,iPad, iPad Pro.Aslo Charging Beats Studio Buds, Solo Buds, Powerbeats Buds, Flex Buds,Fit Pro,Powerbeats Pro 2,Stuido Pro,Solo 4. Also fast charging for Apple USB-C Devices. Power Adapter: UL Listed,CE,FCC,RoHS Certified, Over Heat, Over Current, Over Voltage and Short Circuit Protection, its low energy consumption conform to the US Energy VI, more energy efficient than normal adapter,it is Safe and Reliable to Use. USB-C Cable: 6.6ft long ,usb-c to usb-c, Specially customized high-quality charging cable with data. Input Voltage Range: AC 100V - 240V / Smart Power: 5V3A,9V2.2A,12V1.67A 20W. USB C Fast Charger for Airpods 5/4 Gen,AirPods Pro 2nd/3rd Gen,AirPods Max 2024,Beats Studio Solo Powerbeats Flex Buds,Fit Pro,Powerbeats Pro 2,Stuido Pro,Solo 4 - 6.6ft USB-C Cord, 20W PD Power Adapter",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 9
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "20W Airpods Pro (1St) Generation Fast Charger Fit For Airpods 2Nd/3Rd Gen Wireless Earbuds With 6.6ft USB C To Lightning Charging Cord For iPhone 14/",
+   "link": "https://www.amazon.com/Airpods-Charger-AirPods-Generation-Charging/dp/B0D5386GVD/ref=asc_df_B0D5386GVD?tag=bingshoppinga-20&linkCode=df0&hvadid=80264559055387&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=95050&hvtargid=pla-4583864041515416&psc=1&hvocijid=13891729300076005496-B0D5386GVD-&hvexpln=0",
+   "price": 14.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Kn5nkADapnz5CQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 460,
+   "description": "Perfectly Compatible: This 20W Lightning Fast Charger is designed for Airpods Pro (1st Gen), Airpods 2nd/3rd Generation Wireless Earbuds Charging Case (Lightning Port). Safe Charging: 20W PD fast charger has multipotent safety system ensures complete protection for your AirPods Pro (1st Gen) Earbuds Charging Case (Lightning Port). Small and Compact: Designed with portability in mind, take the compact charger with you wherever you go, ensuring that you never run out of power when you need it the most. Please Note!!!: This 20W comes with a USB-C to Lightning cable and is only compatible with Lightning port devices. (not Airpods Pro (2nd Generation), Airpods (4th Gen), AirPods Max 2 (2024) which utilize a USB-C port. To purchase, please purchase the version USB-C to USB C cable) Universal Compatibility: Works With for iPhone 14/14 Plus/14 Pro/14 Pro Max/iPhone 13/13 Mini/13 Pro/13 Pro Max/iPhone 12/iPhone 12 Pro/iPhone 12 Pro Max/iPhone 12 Mini/iPhone 11/iPhone 11 Pro/iPhone 11 Pro Max/iPhone XS Max/XS/XR/iPhone X/iPhone 8/iPhone 8 Plus,iPad Pro/ iPad Air/iPad Mini/ iPad, AirPods and more Lighting Devices. Cable Length: 2 Meter or 6.6 Feet. What You get: 1x 20W PD Type C Adapter Plug Block and 1x USB C to Lightning Cable. 24-month worry-free warranty and dedicated customer service. 20W Lightning Wall Charger Fast Charging Fit for Airpods Wireless Earbuds Charging Case (Lightning Port) The PD 3.0 Fast Charger Type C adapter delivers up to 3 amps for swift, stable charging, and the 20W fast charge capability uses Power Delivery for efficient charging. 20W Fast Charge Fit for Airpods Pro (1st Gen) Earbuds 20W Fast Charge Fit for Airpods (2nd/3rd Generation) Earbuds In The Package: 1x 20W Fast Wall Charger Block and 1x 6.6Ft USB C to Lightning Cable Technical Parameters Power Supply Adapter Power: 20W (Max) Power INPUT: 100-240V~50-60 Hz Power OUTPUT: USB Type C Port - (PDO) 5V/3A or 9V/2.22A Cable Line length: 6.6Feet (2 Meters) Charging: Supports UP to 3A Current Data Transfer: USB2.0 (480Mbps)",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "rating": 8
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Belkin Store And Charge Station (Usb Classroom Charging Station)",
+   "link": "https://pixel.everesttech.net/4223/cq?ev_sid=10",
+   "price": 354.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.CR7tkY413Uxj9Q474C474&o=5&pid=21.1",
+   "thumbnail_width": 334,
+   "thumbnail_height": 184,
+   "description": "Designed for the connected classroom, Store and Charge makes it easy to keep students' tablets, e-readers and other USB charge compatible devices powered up, organized, and ready for use. This compact, desktop-friendly station can hold and charge up to 10 different devices at the same time, each with its own USB charging cable stored in the base. The included RockStar\u2122 10-Port USB Charging Station with USB Power Delivery technology, assesses each connected device and distributes up to 2.4A of power where its needed for optimal, fast charging.",
+   "seller_name": "CDW",
+   "seller_domain": "cdw.com",
+   "rating": 9,
+   "gtin_ids": [
+    "00745883748518"
+   ]
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Bottom",
+   "title": "Belkin Chargers at Staples\u00ae - Belkin Chargers & More",
+   "link": "https://www.staples.com/Belkin-Cell-Phone-Cables-Connectors/cat_CL162051/005kt?dm_tpl=32316&dm_ad=3&cid=ps:ms:dot:nb:txt:transtech&msclkid=c8e54facc6351d2d7c7d251759aec65e&utm_source=bing&utm_medium=cpc&utm_campaign=%23SEA%2F_(1)_BNG_(2)_US_(7)_NB_(9)_Transactional%20Tech%7C&utm_term=belkin%20phone%20chargers&utm_content=(1)%20belkin%20(2)%20chargers%20%26%20connectors",
+   "displayed_link": "https://www.staples.com/Chargers",
+   "description": "Discover a Wide Selection of Belkin Chargers at Staples\u00ae. Shop & Save Today! Office Supplies, Furniture, Technology & More, Discover the Entire Line of Staples Brands.",
+   "seller_name": "Staples",
+   "seller_domain": "Staples.com",
+   "sitelinks": [
+    {
+     "text": "Deal on Staples Shredder",
+     "link": "https://www.staples.com/staples-150-sheet-micro-cut-shredder-st62157/product_24581774?dm_tpl=32316&dm_ad=3&cid=ps:ms:dot:nb:txt:transtech&msclkid=db30a61b43a118e57feecca0dc3a8ac5&utm_source=bing&utm_medium=cpc&utm_campaign=%23SEA%2F_(1)_BNG_(2)_US_(7)_NB_(9)_Transactional%20Tech%7C&utm_term=belkin%20phone%20chargers&utm_content=(1)%20belkin%20(2)%20chargers%20%26%20connectors"
+    },
+    {
+     "text": "Shop Now, Pay Later",
+     "link": "https://www.staples.com/lp/buy-now-pay-later?dm_tpl=32316&dm_ad=3&cid=ps:ms:dot:nb:txt:transtech&msclkid=721e87bfaf1d1de1cf71ed0430865099&utm_source=bing&utm_medium=cpc&utm_campaign=%23SEA%2F_(1)_BNG_(2)_US_(7)_NB_(9)_Transactional%20Tech%7C&utm_term=belkin%20phone%20chargers&utm_content=(1)%20belkin%20(2)%20chargers%20%26%20connectors"
+    },
+    {
+     "text": "Easy Rewards at Staples",
+     "link": "https://www.staples.com/lp/easyrewardsoverview?dm_tpl=32316&dm_ad=3&cid=ps:ms:dot:nb:txt:transtech&msclkid=100dbfd50ee2139cb6b7d56e917935a9&utm_source=bing&utm_medium=cpc&utm_campaign=%23SEA%2F_(1)_BNG_(2)_US_(7)_NB_(9)_Transactional%20Tech%7C&utm_term=belkin%20phone%20chargers&utm_content=(1)%20belkin%20(2)%20chargers%20%26%20connectors"
+    },
+    {
+     "text": "Choose Easy With Staples",
+     "link": "https://www.staples.com?dm_tpl=32316&dm_ad=3&cid=ps:ms:dot:nb:txt:transtech&msclkid=6b08f02a60c01a00ed2a9a91ff5b6246&utm_source=bing&utm_medium=cpc&utm_campaign=%23SEA%2F_(1)_BNG_(2)_US_(7)_NB_(9)_Transactional%20Tech%7C&utm_term=belkin%20phone%20chargers&utm_content=(1)%20belkin%20(2)%20chargers%20%26%20connectors"
+    },
+    {
+     "text": "Introducing Staples\u00ae TECH",
+     "link": "https://www.staples.com/lp/staples-tech?dm_tpl=32316&dm_ad=3&cid=ps:ms:dot:nb:txt:transtech&msclkid=8d9c18154d901eb9279272aed20b7129&utm_source=bing&utm_medium=cpc&utm_campaign=%23SEA%2F_(1)_BNG_(2)_US_(7)_NB_(9)_Transactional%20Tech%7C&utm_term=belkin%20phone%20chargers&utm_content=(1)%20belkin%20(2)%20chargers%20%26%20connectors"
+    }
+   ],
+   "logo": "https://www.bing.com/th?id=OADD2.8315253053085_10L01HOMEWSCT6GRN3&pid=21.2"
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Bottom",
+   "title": "Shop Belkin Chargers - Free Shipping & Easy Returns",
+   "link": "https://www.kohls.com/catalog/belkin-chargers-electronics-accessories-electronics.jsp?CN=Brand:Belkin Product:Chargers Category:Electronics Accessories Department:Electronics",
+   "displayed_link": "https://kohls.com/Shop/Kohls",
+   "description": "Great Savings & Easy Shopping at Kohl's. Free Shipping on Orders $49+.",
+   "seller_name": "Kohls",
+   "seller_domain": "kohls.com",
+   "logo": "https://www.bing.com/th?pid=AdsPlus&id=ODF.4I3vsoNr2X03pFZ8YbaU1A&w=32&h=32"
+  }
+ ],
+ "text_recognition": [
+  {
+   "text": "AirPods Pro (2nd generation)",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.15,
+     "y": 0.20064725
+    },
+    "top_right": {
+     "x": 0.371875,
+     "y": 0.20064725
+    },
+    "bottom_right": {
+     "x": 0.371875,
+     "y": 0.22006473
+    },
+    "bottom_left": {
+     "x": 0.15,
+     "y": 0.22006473
+    }
+   },
+   "words": [
+    {
+     "text": "AirPods",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.15104167,
+       "y": 0.201726
+      },
+      "top_right": {
+       "x": 0.209375,
+       "y": 0.201726
+      },
+      "bottom_right": {
+       "x": 0.209375,
+       "y": 0.22114347
+      },
+      "bottom_left": {
+       "x": 0.15104167,
+       "y": 0.22006473
+      }
+     }
+    },
+    {
+     "text": "Pro",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.21354167,
+       "y": 0.201726
+      },
+      "top_right": {
+       "x": 0.23854166,
+       "y": 0.201726
+      },
+      "bottom_right": {
+       "x": 0.23958333,
+       "y": 0.22114347
+      },
+      "bottom_left": {
+       "x": 0.21354167,
+       "y": 0.22114347
+      }
+     }
+    },
+    {
+     "text": "(2nd",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.24375,
+       "y": 0.201726
+      },
+      "top_right": {
+       "x": 0.278125,
+       "y": 0.201726
+      },
+      "bottom_right": {
+       "x": 0.278125,
+       "y": 0.22114347
+      },
+      "bottom_left": {
+       "x": 0.24375,
+       "y": 0.22114347
+      }
+     }
+    },
+    {
+     "text": "generation)",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.28229168,
+       "y": 0.201726
+      },
+      "top_right": {
+       "x": 0.37083334,
+       "y": 0.201726
+      },
+      "bottom_right": {
+       "x": 0.371875,
+       "y": 0.21898597
+      },
+      "bottom_left": {
+       "x": 0.28333333,
+       "y": 0.22006473
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "with MagSafe Charging Case",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.14895834,
+     "y": 0.22437972
+    },
+    "top_right": {
+     "x": 0.37083334,
+     "y": 0.22437972
+    },
+    "bottom_right": {
+     "x": 0.37083334,
+     "y": 0.24271844
+    },
+    "bottom_left": {
+     "x": 0.14895834,
+     "y": 0.24271844
+    }
+   },
+   "words": [
+    {
+     "text": "with",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.14895834,
+       "y": 0.22545847
+      },
+      "top_right": {
+       "x": 0.17916666,
+       "y": 0.22545847
+      },
+      "bottom_right": {
+       "x": 0.17916666,
+       "y": 0.2437972
+      },
+      "bottom_left": {
+       "x": 0.14895834,
+       "y": 0.2437972
+      }
+     }
+    },
+    {
+     "text": "MagSafe",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.184375,
+       "y": 0.22545847
+      },
+      "top_right": {
+       "x": 0.25208333,
+       "y": 0.22545847
+      },
+      "bottom_right": {
+       "x": 0.25208333,
+       "y": 0.2437972
+      },
+      "bottom_left": {
+       "x": 0.184375,
+       "y": 0.2437972
+      }
+     }
+    },
+    {
+     "text": "Charging",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.25729167,
+       "y": 0.22545847
+      },
+      "top_right": {
+       "x": 0.32604167,
+       "y": 0.22437972
+      },
+      "bottom_right": {
+       "x": 0.32604167,
+       "y": 0.2437972
+      },
+      "bottom_left": {
+       "x": 0.25729167,
+       "y": 0.2437972
+      }
+     }
+    },
+    {
+     "text": "Case",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.33125,
+       "y": 0.22437972
+      },
+      "top_right": {
+       "x": 0.36979166,
+       "y": 0.22437972
+      },
+      "bottom_right": {
+       "x": 0.36979166,
+       "y": 0.2437972
+      },
+      "bottom_left": {
+       "x": 0.33125,
+       "y": 0.2437972
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "AirPods Pro (2.\u00aa generaci\u00f3n)",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.14791666,
+     "y": 0.2524272
+    },
+    "top_right": {
+     "x": 0.365625,
+     "y": 0.25350595
+    },
+    "bottom_right": {
+     "x": 0.365625,
+     "y": 0.27400216
+    },
+    "bottom_left": {
+     "x": 0.14791666,
+     "y": 0.2729234
+    }
+   },
+   "words": [
+    {
+     "text": "AirPods",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.14791666,
+       "y": 0.25350595
+      },
+      "top_right": {
+       "x": 0.20729166,
+       "y": 0.25458467
+      },
+      "bottom_right": {
+       "x": 0.20729166,
+       "y": 0.27400216
+      },
+      "bottom_left": {
+       "x": 0.14791666,
+       "y": 0.27400216
+      }
+     }
+    },
+    {
+     "text": "Pro",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.21041666,
+       "y": 0.25458467
+      },
+      "top_right": {
+       "x": 0.2375,
+       "y": 0.25458467
+      },
+      "bottom_right": {
+       "x": 0.2375,
+       "y": 0.27400216
+      },
+      "bottom_left": {
+       "x": 0.21041666,
+       "y": 0.27400216
+      }
+     }
+    },
+    {
+     "text": "(2.\u00aa",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.24166666,
+       "y": 0.25458467
+      },
+      "top_right": {
+       "x": 0.26979166,
+       "y": 0.25566342
+      },
+      "bottom_right": {
+       "x": 0.26979166,
+       "y": 0.27400216
+      },
+      "bottom_left": {
+       "x": 0.24166666,
+       "y": 0.27400216
+      }
+     }
+    },
+    {
+     "text": "generaci\u00f3n)",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.27395833,
+       "y": 0.25566342
+      },
+      "top_right": {
+       "x": 0.365625,
+       "y": 0.25458467
+      },
+      "bottom_right": {
+       "x": 0.365625,
+       "y": 0.27400216
+      },
+      "bottom_left": {
+       "x": 0.27395833,
+       "y": 0.27400216
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "con estuche de carga MagSafe",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.14583333,
+     "y": 0.2772384
+    },
+    "top_right": {
+     "x": 0.38645834,
+     "y": 0.2772384
+    },
+    "bottom_right": {
+     "x": 0.38645834,
+     "y": 0.2966559
+    },
+    "bottom_left": {
+     "x": 0.14583333,
+     "y": 0.2966559
+    }
+   },
+   "words": [
+    {
+     "text": "con",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.14583333,
+       "y": 0.27831715
+      },
+      "top_right": {
+       "x": 0.17395833,
+       "y": 0.27831715
+      },
+      "bottom_right": {
+       "x": 0.17395833,
+       "y": 0.29773462
+      },
+      "bottom_left": {
+       "x": 0.14583333,
+       "y": 0.29773462
+      }
+     }
+    },
+    {
+     "text": "estuche",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.17916666,
+       "y": 0.27831715
+      },
+      "top_right": {
+       "x": 0.24166666,
+       "y": 0.27831715
+      },
+      "bottom_right": {
+       "x": 0.24166666,
+       "y": 0.2966559
+      },
+      "bottom_left": {
+       "x": 0.17916666,
+       "y": 0.29773462
+      }
+     }
+    },
+    {
+     "text": "de",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.24583334,
+       "y": 0.27831715
+      },
+      "top_right": {
+       "x": 0.265625,
+       "y": 0.27831715
+      },
+      "bottom_right": {
+       "x": 0.265625,
+       "y": 0.2966559
+      },
+      "bottom_left": {
+       "x": 0.24583334,
+       "y": 0.2966559
+      }
+     }
+    },
+    {
+     "text": "carga",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.26979166,
+       "y": 0.27831715
+      },
+      "top_right": {
+       "x": 0.31354168,
+       "y": 0.27831715
+      },
+      "bottom_right": {
+       "x": 0.31354168,
+       "y": 0.2966559
+      },
+      "bottom_left": {
+       "x": 0.26979166,
+       "y": 0.2966559
+      }
+     }
+    },
+    {
+     "text": "MagSafe",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.31770834,
+       "y": 0.27831715
+      },
+      "top_right": {
+       "x": 0.38645834,
+       "y": 0.27831715
+      },
+      "bottom_right": {
+       "x": 0.38645834,
+       "y": 0.29773462
+      },
+      "bottom_left": {
+       "x": 0.31770834,
+       "y": 0.2966559
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "WARNING",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.14166667,
+     "y": 0.4056095
+    },
+    "top_right": {
+     "x": 0.23645833,
+     "y": 0.40668824
+    },
+    "bottom_right": {
+     "x": 0.23645833,
+     "y": 0.42502698
+    },
+    "bottom_left": {
+     "x": 0.140625,
+     "y": 0.42502698
+    }
+   },
+   "words": [
+    {
+     "text": "WARNING",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.14270833,
+       "y": 0.40668824
+      },
+      "top_right": {
+       "x": 0.23333333,
+       "y": 0.407767
+      },
+      "bottom_right": {
+       "x": 0.23333333,
+       "y": 0.42502698
+      },
+      "bottom_left": {
+       "x": 0.14166667,
+       "y": 0.4261057
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "INGESTION HAZARD: This product contains a button",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.1375,
+     "y": 0.43149945
+    },
+    "top_right": {
+     "x": 0.46666667,
+     "y": 0.43042073
+    },
+    "bottom_right": {
+     "x": 0.46666667,
+     "y": 0.44660193
+    },
+    "bottom_left": {
+     "x": 0.1375,
+     "y": 0.44875944
+    }
+   },
+   "words": [
+    {
+     "text": "INGESTION",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.1375,
+       "y": 0.4325782
+      },
+      "top_right": {
+       "x": 0.209375,
+       "y": 0.43149945
+      },
+      "bottom_right": {
+       "x": 0.209375,
+       "y": 0.44875944
+      },
+      "bottom_left": {
+       "x": 0.1375,
+       "y": 0.4498382
+      }
+     }
+    },
+    {
+     "text": "HAZARD:",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.21458334,
+       "y": 0.43149945
+      },
+      "top_right": {
+       "x": 0.27604166,
+       "y": 0.43149945
+      },
+      "bottom_right": {
+       "x": 0.27604166,
+       "y": 0.44768068
+      },
+      "bottom_left": {
+       "x": 0.21458334,
+       "y": 0.44875944
+      }
+     }
+    },
+    {
+     "text": "This",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.27916667,
+       "y": 0.43149945
+      },
+      "top_right": {
+       "x": 0.30416667,
+       "y": 0.43149945
+      },
+      "bottom_right": {
+       "x": 0.30416667,
+       "y": 0.44768068
+      },
+      "bottom_left": {
+       "x": 0.27916667,
+       "y": 0.44768068
+      }
+     }
+    },
+    {
+     "text": "product",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.30729166,
+       "y": 0.43149945
+      },
+      "top_right": {
+       "x": 0.35520834,
+       "y": 0.43149945
+      },
+      "bottom_right": {
+       "x": 0.35520834,
+       "y": 0.44660193
+      },
+      "bottom_left": {
+       "x": 0.30729166,
+       "y": 0.44768068
+      }
+     }
+    },
+    {
+     "text": "contains",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.35833332,
+       "y": 0.43149945
+      },
+      "top_right": {
+       "x": 0.41145834,
+       "y": 0.43149945
+      },
+      "bottom_right": {
+       "x": 0.41145834,
+       "y": 0.44660193
+      },
+      "bottom_left": {
+       "x": 0.35833332,
+       "y": 0.44660193
+      }
+     }
+    },
+    {
+     "text": "a",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.41458333,
+       "y": 0.43149945
+      },
+      "top_right": {
+       "x": 0.421875,
+       "y": 0.43042073
+      },
+      "bottom_right": {
+       "x": 0.421875,
+       "y": 0.44660193
+      },
+      "bottom_left": {
+       "x": 0.41458333,
+       "y": 0.44660193
+      }
+     }
+    },
+    {
+     "text": "button",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.425,
+       "y": 0.43042073
+      },
+      "top_right": {
+       "x": 0.465625,
+       "y": 0.43042073
+      },
+      "bottom_right": {
+       "x": 0.465625,
+       "y": 0.4455232
+      },
+      "bottom_left": {
+       "x": 0.425,
+       "y": 0.44660193
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "cell or coin battery, DEATH or serious injury can occur",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.1375,
+     "y": 0.4498382
+    },
+    "top_right": {
+     "x": 0.46770832,
+     "y": 0.4455232
+    },
+    "bottom_right": {
+     "x": 0.46875,
+     "y": 0.46170443
+    },
+    "bottom_left": {
+     "x": 0.1375,
+     "y": 0.46601942
+    }
+   },
+   "words": [
+    {
+     "text": "cell",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.1375,
+       "y": 0.45091695
+      },
+      "top_right": {
+       "x": 0.16041666,
+       "y": 0.4498382
+      },
+      "bottom_right": {
+       "x": 0.16041666,
+       "y": 0.46601942
+      },
+      "bottom_left": {
+       "x": 0.1375,
+       "y": 0.46601942
+      }
+     }
+    },
+    {
+     "text": "or",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.1625,
+       "y": 0.4498382
+      },
+      "top_right": {
+       "x": 0.17604166,
+       "y": 0.4498382
+      },
+      "bottom_right": {
+       "x": 0.17604166,
+       "y": 0.46601942
+      },
+      "bottom_left": {
+       "x": 0.1625,
+       "y": 0.46601942
+      }
+     }
+    },
+    {
+     "text": "coin",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.17916666,
+       "y": 0.4498382
+      },
+      "top_right": {
+       "x": 0.20520833,
+       "y": 0.4498382
+      },
+      "bottom_right": {
+       "x": 0.20520833,
+       "y": 0.46494067
+      },
+      "bottom_left": {
+       "x": 0.17916666,
+       "y": 0.46601942
+      }
+     }
+    },
+    {
+     "text": "battery,",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.20833333,
+       "y": 0.4498382
+      },
+      "top_right": {
+       "x": 0.25729167,
+       "y": 0.4498382
+      },
+      "bottom_right": {
+       "x": 0.25729167,
+       "y": 0.4638619
+      },
+      "bottom_left": {
+       "x": 0.20833333,
+       "y": 0.46494067
+      }
+     }
+    },
+    {
+     "text": "DEATH",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.26041666,
+       "y": 0.44875944
+      },
+      "top_right": {
+       "x": 0.30208334,
+       "y": 0.44875944
+      },
+      "bottom_right": {
+       "x": 0.30208334,
+       "y": 0.4638619
+      },
+      "bottom_left": {
+       "x": 0.26041666,
+       "y": 0.4638619
+      }
+     }
+    },
+    {
+     "text": "or",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.30833334,
+       "y": 0.44875944
+      },
+      "top_right": {
+       "x": 0.321875,
+       "y": 0.44875944
+      },
+      "bottom_right": {
+       "x": 0.321875,
+       "y": 0.4638619
+      },
+      "bottom_left": {
+       "x": 0.30833334,
+       "y": 0.4638619
+      }
+     }
+    },
+    {
+     "text": "serious",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.325,
+       "y": 0.44875944
+      },
+      "top_right": {
+       "x": 0.36875,
+       "y": 0.44768068
+      },
+      "bottom_right": {
+       "x": 0.36875,
+       "y": 0.46278316
+      },
+      "bottom_left": {
+       "x": 0.325,
+       "y": 0.4638619
+      }
+     }
+    },
+    {
+     "text": "injury",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.371875,
+       "y": 0.44768068
+      },
+      "top_right": {
+       "x": 0.40625,
+       "y": 0.44768068
+      },
+      "bottom_right": {
+       "x": 0.40625,
+       "y": 0.46278316
+      },
+      "bottom_left": {
+       "x": 0.371875,
+       "y": 0.46278316
+      }
+     }
+    },
+    {
+     "text": "can",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.409375,
+       "y": 0.44768068
+      },
+      "top_right": {
+       "x": 0.43125,
+       "y": 0.44660193
+      },
+      "bottom_right": {
+       "x": 0.43125,
+       "y": 0.46278316
+      },
+      "bottom_left": {
+       "x": 0.409375,
+       "y": 0.46278316
+      }
+     }
+    },
+    {
+     "text": "occur",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.434375,
+       "y": 0.44660193
+      },
+      "top_right": {
+       "x": 0.46875,
+       "y": 0.44660193
+      },
+      "bottom_right": {
+       "x": 0.46875,
+       "y": 0.46170443
+      },
+      "bottom_left": {
+       "x": 0.434375,
+       "y": 0.46278316
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "if ingested. A swallowed button cell or coin battery",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.1375,
+     "y": 0.46494067
+    },
+    "top_right": {
+     "x": 0.44895834,
+     "y": 0.46170443
+    },
+    "bottom_right": {
+     "x": 0.44895834,
+     "y": 0.4768069
+    },
+    "bottom_left": {
+     "x": 0.1375,
+     "y": 0.4811219
+    }
+   },
+   "words": [
+    {
+     "text": "if",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.13854167,
+       "y": 0.46601942
+      },
+      "top_right": {
+       "x": 0.14479166,
+       "y": 0.46601942
+      },
+      "bottom_right": {
+       "x": 0.14479166,
+       "y": 0.4811219
+      },
+      "bottom_left": {
+       "x": 0.1375,
+       "y": 0.4811219
+      }
+     }
+    },
+    {
+     "text": "ingested.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.14791666,
+       "y": 0.46601942
+      },
+      "top_right": {
+       "x": 0.20833333,
+       "y": 0.46494067
+      },
+      "bottom_right": {
+       "x": 0.20729166,
+       "y": 0.4811219
+      },
+      "bottom_left": {
+       "x": 0.146875,
+       "y": 0.4811219
+      }
+     }
+    },
+    {
+     "text": "A",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.21145834,
+       "y": 0.46494067
+      },
+      "top_right": {
+       "x": 0.21875,
+       "y": 0.46494067
+      },
+      "bottom_right": {
+       "x": 0.21770833,
+       "y": 0.48004314
+      },
+      "bottom_left": {
+       "x": 0.21041666,
+       "y": 0.4811219
+      }
+     }
+    },
+    {
+     "text": "swallowed",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.22291666,
+       "y": 0.46494067
+      },
+      "top_right": {
+       "x": 0.28541666,
+       "y": 0.46494067
+      },
+      "bottom_right": {
+       "x": 0.284375,
+       "y": 0.48004314
+      },
+      "bottom_left": {
+       "x": 0.221875,
+       "y": 0.48004314
+      }
+     }
+    },
+    {
+     "text": "button",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.28958333,
+       "y": 0.46494067
+      },
+      "top_right": {
+       "x": 0.32916668,
+       "y": 0.4638619
+      },
+      "bottom_right": {
+       "x": 0.32916668,
+       "y": 0.4789644
+      },
+      "bottom_left": {
+       "x": 0.28854167,
+       "y": 0.48004314
+      }
+     }
+    },
+    {
+     "text": "cell",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.33333334,
+       "y": 0.4638619
+      },
+      "top_right": {
+       "x": 0.35625,
+       "y": 0.4638619
+      },
+      "bottom_right": {
+       "x": 0.35520834,
+       "y": 0.4789644
+      },
+      "bottom_left": {
+       "x": 0.33333334,
+       "y": 0.4789644
+      }
+     }
+    },
+    {
+     "text": "or",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.35833332,
+       "y": 0.4638619
+      },
+      "top_right": {
+       "x": 0.371875,
+       "y": 0.4638619
+      },
+      "bottom_right": {
+       "x": 0.37083334,
+       "y": 0.4789644
+      },
+      "bottom_left": {
+       "x": 0.35833332,
+       "y": 0.4789644
+      }
+     }
+    },
+    {
+     "text": "coin",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.37395832,
+       "y": 0.4638619
+      },
+      "top_right": {
+       "x": 0.4,
+       "y": 0.46278316
+      },
+      "bottom_right": {
+       "x": 0.4,
+       "y": 0.47788566
+      },
+      "bottom_left": {
+       "x": 0.37395832,
+       "y": 0.4789644
+      }
+     }
+    },
+    {
+     "text": "battery",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.40416667,
+       "y": 0.46278316
+      },
+      "top_right": {
+       "x": 0.44895834,
+       "y": 0.46170443
+      },
+      "bottom_right": {
+       "x": 0.44895834,
+       "y": 0.47788566
+      },
+      "bottom_left": {
+       "x": 0.40416667,
+       "y": 0.47788566
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "can cause Internal Chemical Burns in as little as 2",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.13333334,
+     "y": 0.4811219
+    },
+    "top_right": {
+     "x": 0.44895834,
+     "y": 0.47788566
+    },
+    "bottom_right": {
+     "x": 0.44895834,
+     "y": 0.4940669
+    },
+    "bottom_left": {
+     "x": 0.13333334,
+     "y": 0.49730313
+    }
+   },
+   "words": [
+    {
+     "text": "can",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.13541667,
+       "y": 0.48220065
+      },
+      "top_right": {
+       "x": 0.15833333,
+       "y": 0.48220065
+      },
+      "bottom_right": {
+       "x": 0.15833333,
+       "y": 0.49622437
+      },
+      "bottom_left": {
+       "x": 0.13541667,
+       "y": 0.49622437
+      }
+     }
+    },
+    {
+     "text": "cause",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.16145833,
+       "y": 0.48220065
+      },
+      "top_right": {
+       "x": 0.19895834,
+       "y": 0.4811219
+      },
+      "bottom_right": {
+       "x": 0.19895834,
+       "y": 0.49622437
+      },
+      "bottom_left": {
+       "x": 0.16145833,
+       "y": 0.49622437
+      }
+     }
+    },
+    {
+     "text": "Internal",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.20208333,
+       "y": 0.4811219
+      },
+      "top_right": {
+       "x": 0.253125,
+       "y": 0.4811219
+      },
+      "bottom_right": {
+       "x": 0.253125,
+       "y": 0.49622437
+      },
+      "bottom_left": {
+       "x": 0.20208333,
+       "y": 0.49622437
+      }
+     }
+    },
+    {
+     "text": "Chemical",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.25625,
+       "y": 0.4811219
+      },
+      "top_right": {
+       "x": 0.31666666,
+       "y": 0.48004314
+      },
+      "bottom_right": {
+       "x": 0.31666666,
+       "y": 0.49622437
+      },
+      "bottom_left": {
+       "x": 0.25625,
+       "y": 0.49622437
+      }
+     }
+    },
+    {
+     "text": "Burns",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.31979167,
+       "y": 0.48004314
+      },
+      "top_right": {
+       "x": 0.35625,
+       "y": 0.48004314
+      },
+      "bottom_right": {
+       "x": 0.35625,
+       "y": 0.49514562
+      },
+      "bottom_left": {
+       "x": 0.31979167,
+       "y": 0.49622437
+      }
+     }
+    },
+    {
+     "text": "in",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.359375,
+       "y": 0.48004314
+      },
+      "top_right": {
+       "x": 0.37083334,
+       "y": 0.48004314
+      },
+      "bottom_right": {
+       "x": 0.37083334,
+       "y": 0.49514562
+      },
+      "bottom_left": {
+       "x": 0.359375,
+       "y": 0.49514562
+      }
+     }
+    },
+    {
+     "text": "as",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.375,
+       "y": 0.48004314
+      },
+      "top_right": {
+       "x": 0.38958332,
+       "y": 0.48004314
+      },
+      "bottom_right": {
+       "x": 0.38958332,
+       "y": 0.49514562
+      },
+      "bottom_left": {
+       "x": 0.375,
+       "y": 0.49514562
+      }
+     }
+    },
+    {
+     "text": "little",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.39166668,
+       "y": 0.48004314
+      },
+      "top_right": {
+       "x": 0.41875,
+       "y": 0.4789644
+      },
+      "bottom_right": {
+       "x": 0.41875,
+       "y": 0.4940669
+      },
+      "bottom_left": {
+       "x": 0.39166668,
+       "y": 0.49514562
+      }
+     }
+    },
+    {
+     "text": "as",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.42291668,
+       "y": 0.4789644
+      },
+      "top_right": {
+       "x": 0.4375,
+       "y": 0.4789644
+      },
+      "bottom_right": {
+       "x": 0.4375,
+       "y": 0.4940669
+      },
+      "bottom_left": {
+       "x": 0.42291668,
+       "y": 0.4940669
+      }
+     }
+    },
+    {
+     "text": "2",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.440625,
+       "y": 0.4789644
+      },
+      "top_right": {
+       "x": 0.44895834,
+       "y": 0.4789644
+      },
+      "bottom_right": {
+       "x": 0.44895834,
+       "y": 0.4940669
+      },
+      "bottom_left": {
+       "x": 0.440625,
+       "y": 0.4940669
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "hours. KEEP new and used batteries OUT OF REACH",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.13333334,
+     "y": 0.49730313
+    },
+    "top_right": {
+     "x": 0.46666667,
+     "y": 0.49298814
+    },
+    "bottom_right": {
+     "x": 0.46666667,
+     "y": 0.5080906
+    },
+    "bottom_left": {
+     "x": 0.13333334,
+     "y": 0.51348436
+    }
+   },
+   "words": [
+    {
+     "text": "hours.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.13541667,
+       "y": 0.49730313
+      },
+      "top_right": {
+       "x": 0.17604166,
+       "y": 0.49730313
+      },
+      "bottom_right": {
+       "x": 0.175,
+       "y": 0.51348436
+      },
+      "bottom_left": {
+       "x": 0.134375,
+       "y": 0.51348436
+      }
+     }
+    },
+    {
+     "text": "KEEP",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.17916666,
+       "y": 0.49730313
+      },
+      "top_right": {
+       "x": 0.2125,
+       "y": 0.49730313
+      },
+      "bottom_right": {
+       "x": 0.2125,
+       "y": 0.51240563
+      },
+      "bottom_left": {
+       "x": 0.178125,
+       "y": 0.51348436
+      }
+     }
+    },
+    {
+     "text": "new",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.21666667,
+       "y": 0.49730313
+      },
+      "top_right": {
+       "x": 0.23958333,
+       "y": 0.49730313
+      },
+      "bottom_right": {
+       "x": 0.23854166,
+       "y": 0.51240563
+      },
+      "bottom_left": {
+       "x": 0.21666667,
+       "y": 0.51240563
+      }
+     }
+    },
+    {
+     "text": "and",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.246875,
+       "y": 0.49730313
+      },
+      "top_right": {
+       "x": 0.26875,
+       "y": 0.49622437
+      },
+      "bottom_right": {
+       "x": 0.26875,
+       "y": 0.51240563
+      },
+      "bottom_left": {
+       "x": 0.24583334,
+       "y": 0.51240563
+      }
+     }
+    },
+    {
+     "text": "used",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.271875,
+       "y": 0.49622437
+      },
+      "top_right": {
+       "x": 0.303125,
+       "y": 0.49622437
+      },
+      "bottom_right": {
+       "x": 0.30208334,
+       "y": 0.51132685
+      },
+      "bottom_left": {
+       "x": 0.271875,
+       "y": 0.51240563
+      }
+     }
+    },
+    {
+     "text": "batteries",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.30729166,
+       "y": 0.49622437
+      },
+      "top_right": {
+       "x": 0.3625,
+       "y": 0.49514562
+      },
+      "bottom_right": {
+       "x": 0.3625,
+       "y": 0.5102481
+      },
+      "bottom_left": {
+       "x": 0.30625,
+       "y": 0.51132685
+      }
+     }
+    },
+    {
+     "text": "OUT",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.365625,
+       "y": 0.49514562
+      },
+      "top_right": {
+       "x": 0.39479166,
+       "y": 0.49514562
+      },
+      "bottom_right": {
+       "x": 0.39375,
+       "y": 0.5102481
+      },
+      "bottom_left": {
+       "x": 0.365625,
+       "y": 0.5102481
+      }
+     }
+    },
+    {
+     "text": "OF",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.39791667,
+       "y": 0.49514562
+      },
+      "top_right": {
+       "x": 0.415625,
+       "y": 0.4940669
+      },
+      "bottom_right": {
+       "x": 0.415625,
+       "y": 0.50916934
+      },
+      "bottom_left": {
+       "x": 0.39791667,
+       "y": 0.5102481
+      }
+     }
+    },
+    {
+     "text": "REACH",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.41979167,
+       "y": 0.4940669
+      },
+      "top_right": {
+       "x": 0.46145833,
+       "y": 0.49298814
+      },
+      "bottom_right": {
+       "x": 0.46145833,
+       "y": 0.50916934
+      },
+      "bottom_left": {
+       "x": 0.41875,
+       "y": 0.50916934
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "OF CHILDREN. Seek immediate medical attention if a",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.13333334,
+     "y": 0.51348436
+    },
+    "top_right": {
+     "x": 0.47291666,
+     "y": 0.51132685
+    },
+    "bottom_right": {
+     "x": 0.47291666,
+     "y": 0.52642936
+    },
+    "bottom_left": {
+     "x": 0.13333334,
+     "y": 0.5296656
+    }
+   },
+   "words": [
+    {
+     "text": "OF",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.13541667,
+       "y": 0.51348436
+      },
+      "top_right": {
+       "x": 0.15208334,
+       "y": 0.51348436
+      },
+      "bottom_right": {
+       "x": 0.15208334,
+       "y": 0.5296656
+      },
+      "bottom_left": {
+       "x": 0.13541667,
+       "y": 0.5307443
+      }
+     }
+    },
+    {
+     "text": "CHILDREN.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.15625,
+       "y": 0.51348436
+      },
+      "top_right": {
+       "x": 0.23020834,
+       "y": 0.51348436
+      },
+      "bottom_right": {
+       "x": 0.23020834,
+       "y": 0.52858686
+      },
+      "bottom_left": {
+       "x": 0.15625,
+       "y": 0.5296656
+      }
+     }
+    },
+    {
+     "text": "Seek",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.23229167,
+       "y": 0.51348436
+      },
+      "top_right": {
+       "x": 0.26354167,
+       "y": 0.51348436
+      },
+      "bottom_right": {
+       "x": 0.26354167,
+       "y": 0.52858686
+      },
+      "bottom_left": {
+       "x": 0.23229167,
+       "y": 0.52858686
+      }
+     }
+    },
+    {
+     "text": "immediate",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.26666668,
+       "y": 0.51240563
+      },
+      "top_right": {
+       "x": 0.33541667,
+       "y": 0.51240563
+      },
+      "bottom_right": {
+       "x": 0.33541667,
+       "y": 0.5275081
+      },
+      "bottom_left": {
+       "x": 0.26666668,
+       "y": 0.52858686
+      }
+     }
+    },
+    {
+     "text": "medical",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.33854166,
+       "y": 0.51240563
+      },
+      "top_right": {
+       "x": 0.38958332,
+       "y": 0.51240563
+      },
+      "bottom_right": {
+       "x": 0.38958332,
+       "y": 0.5275081
+      },
+      "bottom_left": {
+       "x": 0.33854166,
+       "y": 0.5275081
+      }
+     }
+    },
+    {
+     "text": "attention",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.39270833,
+       "y": 0.51240563
+      },
+      "top_right": {
+       "x": 0.44895834,
+       "y": 0.51132685
+      },
+      "bottom_right": {
+       "x": 0.44895834,
+       "y": 0.52642936
+      },
+      "bottom_left": {
+       "x": 0.39270833,
+       "y": 0.5275081
+      }
+     }
+    },
+    {
+     "text": "if",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.45208332,
+       "y": 0.51132685
+      },
+      "top_right": {
+       "x": 0.4625,
+       "y": 0.51132685
+      },
+      "bottom_right": {
+       "x": 0.4625,
+       "y": 0.52642936
+      },
+      "bottom_left": {
+       "x": 0.45208332,
+       "y": 0.52642936
+      }
+     }
+    },
+    {
+     "text": "a",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.465625,
+       "y": 0.51132685
+      },
+      "top_right": {
+       "x": 0.47291666,
+       "y": 0.51132685
+      },
+      "bottom_right": {
+       "x": 0.47291666,
+       "y": 0.52642936
+      },
+      "bottom_left": {
+       "x": 0.465625,
+       "y": 0.52642936
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "battery is suspected to be swallowed or inserted inside",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.13229166,
+     "y": 0.5307443
+    },
+    "top_right": {
+     "x": 0.478125,
+     "y": 0.52642936
+    },
+    "bottom_right": {
+     "x": 0.478125,
+     "y": 0.5415318
+    },
+    "bottom_left": {
+     "x": 0.13229166,
+     "y": 0.54692554
+    }
+   },
+   "words": [
+    {
+     "text": "battery",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.13229166,
+       "y": 0.5307443
+      },
+      "top_right": {
+       "x": 0.178125,
+       "y": 0.5307443
+      },
+      "bottom_right": {
+       "x": 0.17916666,
+       "y": 0.54692554
+      },
+      "bottom_left": {
+       "x": 0.13333334,
+       "y": 0.5480043
+      }
+     }
+    },
+    {
+     "text": "is",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.18125,
+       "y": 0.5307443
+      },
+      "top_right": {
+       "x": 0.19270833,
+       "y": 0.5307443
+      },
+      "bottom_right": {
+       "x": 0.19270833,
+       "y": 0.5458468
+      },
+      "bottom_left": {
+       "x": 0.18125,
+       "y": 0.54692554
+      }
+     }
+    },
+    {
+     "text": "suspected",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.19583334,
+       "y": 0.5307443
+      },
+      "top_right": {
+       "x": 0.26145834,
+       "y": 0.5296656
+      },
+      "bottom_right": {
+       "x": 0.26145834,
+       "y": 0.5447681
+      },
+      "bottom_left": {
+       "x": 0.19583334,
+       "y": 0.5458468
+      }
+     }
+    },
+    {
+     "text": "to",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.265625,
+       "y": 0.5296656
+      },
+      "top_right": {
+       "x": 0.278125,
+       "y": 0.5296656
+      },
+      "bottom_right": {
+       "x": 0.278125,
+       "y": 0.5447681
+      },
+      "bottom_left": {
+       "x": 0.265625,
+       "y": 0.5447681
+      }
+     }
+    },
+    {
+     "text": "be",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.28125,
+       "y": 0.5296656
+      },
+      "top_right": {
+       "x": 0.296875,
+       "y": 0.5296656
+      },
+      "bottom_right": {
+       "x": 0.296875,
+       "y": 0.5447681
+      },
+      "bottom_left": {
+       "x": 0.28125,
+       "y": 0.5447681
+      }
+     }
+    },
+    {
+     "text": "swallowed",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.30104166,
+       "y": 0.5296656
+      },
+      "top_right": {
+       "x": 0.36458334,
+       "y": 0.52858686
+      },
+      "bottom_right": {
+       "x": 0.36354166,
+       "y": 0.5436893
+      },
+      "bottom_left": {
+       "x": 0.30104166,
+       "y": 0.5447681
+      }
+     }
+    },
+    {
+     "text": "or",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.36979166,
+       "y": 0.52858686
+      },
+      "top_right": {
+       "x": 0.38229167,
+       "y": 0.52858686
+      },
+      "bottom_right": {
+       "x": 0.38125,
+       "y": 0.5436893
+      },
+      "bottom_left": {
+       "x": 0.36875,
+       "y": 0.5436893
+      }
+     }
+    },
+    {
+     "text": "inserted",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.38541666,
+       "y": 0.52858686
+      },
+      "top_right": {
+       "x": 0.43645832,
+       "y": 0.5275081
+      },
+      "bottom_right": {
+       "x": 0.43541667,
+       "y": 0.5426106
+      },
+      "bottom_left": {
+       "x": 0.384375,
+       "y": 0.5436893
+      }
+     }
+    },
+    {
+     "text": "inside",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.43958333,
+       "y": 0.5275081
+      },
+      "top_right": {
+       "x": 0.478125,
+       "y": 0.5275081
+      },
+      "bottom_right": {
+       "x": 0.47708333,
+       "y": 0.5426106
+      },
+      "bottom_left": {
+       "x": 0.43854168,
+       "y": 0.5426106
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "any part of the body",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.13333334,
+     "y": 0.5480043
+    },
+    "top_right": {
+     "x": 0.26145834,
+     "y": 0.54692554
+    },
+    "bottom_right": {
+     "x": 0.26145834,
+     "y": 0.56202805
+    },
+    "bottom_left": {
+     "x": 0.13333334,
+     "y": 0.56418556
+    }
+   },
+   "words": [
+    {
+     "text": "any",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.13333334,
+       "y": 0.5480043
+      },
+      "top_right": {
+       "x": 0.15520833,
+       "y": 0.5480043
+      },
+      "bottom_right": {
+       "x": 0.15520833,
+       "y": 0.56418556
+      },
+      "bottom_left": {
+       "x": 0.13333334,
+       "y": 0.5652643
+      }
+     }
+    },
+    {
+     "text": "part",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.15833333,
+       "y": 0.5480043
+      },
+      "top_right": {
+       "x": 0.18541667,
+       "y": 0.54692554
+      },
+      "bottom_right": {
+       "x": 0.18541667,
+       "y": 0.5631068
+      },
+      "bottom_left": {
+       "x": 0.15833333,
+       "y": 0.56418556
+      }
+     }
+    },
+    {
+     "text": "of",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.18854167,
+       "y": 0.54692554
+      },
+      "top_right": {
+       "x": 0.20104167,
+       "y": 0.54692554
+      },
+      "bottom_right": {
+       "x": 0.20104167,
+       "y": 0.5631068
+      },
+      "bottom_left": {
+       "x": 0.1875,
+       "y": 0.5631068
+      }
+     }
+    },
+    {
+     "text": "the",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.20416667,
+       "y": 0.54692554
+      },
+      "top_right": {
+       "x": 0.225,
+       "y": 0.54692554
+      },
+      "bottom_right": {
+       "x": 0.225,
+       "y": 0.5631068
+      },
+      "bottom_left": {
+       "x": 0.20416667,
+       "y": 0.5631068
+      }
+     }
+    },
+    {
+     "text": "body",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.22916667,
+       "y": 0.54692554
+      },
+      "top_right": {
+       "x": 0.26145834,
+       "y": 0.54692554
+      },
+      "bottom_right": {
+       "x": 0.26145834,
+       "y": 0.56202805
+      },
+      "bottom_left": {
+       "x": 0.228125,
+       "y": 0.5631068
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "Please recycle this box.",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.12916666,
+     "y": 0.58576053
+    },
+    "top_right": {
+     "x": 0.3625,
+     "y": 0.58576053
+    },
+    "bottom_right": {
+     "x": 0.3625,
+     "y": 0.6073355
+    },
+    "bottom_left": {
+     "x": 0.12916666,
+     "y": 0.60841423
+    }
+   },
+   "words": [
+    {
+     "text": "Please",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.15833333,
+       "y": 0.58683926
+      },
+      "top_right": {
+       "x": 0.2125,
+       "y": 0.58683926
+      },
+      "bottom_right": {
+       "x": 0.2125,
+       "y": 0.609493
+      },
+      "bottom_left": {
+       "x": 0.15833333,
+       "y": 0.609493
+      }
+     }
+    },
+    {
+     "text": "recycle",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.21666667,
+       "y": 0.58683926
+      },
+      "top_right": {
+       "x": 0.28125,
+       "y": 0.58683926
+      },
+      "bottom_right": {
+       "x": 0.28125,
+       "y": 0.60841423
+      },
+      "bottom_left": {
+       "x": 0.21666667,
+       "y": 0.60841423
+      }
+     }
+    },
+    {
+     "text": "this",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.28541666,
+       "y": 0.58683926
+      },
+      "top_right": {
+       "x": 0.31770834,
+       "y": 0.58683926
+      },
+      "bottom_right": {
+       "x": 0.31770834,
+       "y": 0.60841423
+      },
+      "bottom_left": {
+       "x": 0.28541666,
+       "y": 0.60841423
+      }
+     }
+    },
+    {
+     "text": "box.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.321875,
+       "y": 0.58683926
+      },
+      "top_right": {
+       "x": 0.36041668,
+       "y": 0.58576053
+      },
+      "bottom_right": {
+       "x": 0.36041668,
+       "y": 0.6073355
+      },
+      "bottom_left": {
+       "x": 0.321875,
+       "y": 0.60841423
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "Please recycle this box. / Recicla esta caja.",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.128125,
+     "y": 0.61488676
+    },
+    "top_right": {
+     "x": 0.39791667,
+     "y": 0.61272925
+    },
+    "bottom_right": {
+     "x": 0.39791667,
+     "y": 0.6299892
+    },
+    "bottom_left": {
+     "x": 0.128125,
+     "y": 0.63322544
+    }
+   },
+   "words": [
+    {
+     "text": "Please",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.128125,
+       "y": 0.61488676
+      },
+      "top_right": {
+       "x": 0.17083333,
+       "y": 0.61488676
+      },
+      "bottom_right": {
+       "x": 0.17083333,
+       "y": 0.63322544
+      },
+      "bottom_left": {
+       "x": 0.128125,
+       "y": 0.6343042
+      }
+     }
+    },
+    {
+     "text": "recycle",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.17395833,
+       "y": 0.61488676
+      },
+      "top_right": {
+       "x": 0.21979167,
+       "y": 0.61488676
+      },
+      "bottom_right": {
+       "x": 0.21979167,
+       "y": 0.6321467
+      },
+      "bottom_left": {
+       "x": 0.17395833,
+       "y": 0.63322544
+      }
+     }
+    },
+    {
+     "text": "this",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.22291666,
+       "y": 0.61488676
+      },
+      "top_right": {
+       "x": 0.24583334,
+       "y": 0.613808
+      },
+      "bottom_right": {
+       "x": 0.24583334,
+       "y": 0.6321467
+      },
+      "bottom_left": {
+       "x": 0.22291666,
+       "y": 0.6321467
+      }
+     }
+    },
+    {
+     "text": "box.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.24895833,
+       "y": 0.613808
+      },
+      "top_right": {
+       "x": 0.27604166,
+       "y": 0.613808
+      },
+      "bottom_right": {
+       "x": 0.27604166,
+       "y": 0.63106793
+      },
+      "bottom_left": {
+       "x": 0.24895833,
+       "y": 0.6321467
+      }
+     }
+    },
+    {
+     "text": "/",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.27916667,
+       "y": 0.613808
+      },
+      "top_right": {
+       "x": 0.284375,
+       "y": 0.613808
+      },
+      "bottom_right": {
+       "x": 0.284375,
+       "y": 0.63106793
+      },
+      "bottom_left": {
+       "x": 0.27916667,
+       "y": 0.63106793
+      }
+     }
+    },
+    {
+     "text": "Recicla",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.28854167,
+       "y": 0.613808
+      },
+      "top_right": {
+       "x": 0.33333334,
+       "y": 0.613808
+      },
+      "bottom_right": {
+       "x": 0.33333334,
+       "y": 0.63106793
+      },
+      "bottom_left": {
+       "x": 0.28854167,
+       "y": 0.63106793
+      }
+     }
+    },
+    {
+     "text": "esta",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.3375,
+       "y": 0.613808
+      },
+      "top_right": {
+       "x": 0.36354166,
+       "y": 0.613808
+      },
+      "bottom_right": {
+       "x": 0.36354166,
+       "y": 0.6299892
+      },
+      "bottom_left": {
+       "x": 0.3375,
+       "y": 0.63106793
+      }
+     }
+    },
+    {
+     "text": "caja.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.36666667,
+       "y": 0.613808
+      },
+      "top_right": {
+       "x": 0.39791667,
+       "y": 0.613808
+      },
+      "bottom_right": {
+       "x": 0.39791667,
+       "y": 0.6299892
+      },
+      "bottom_left": {
+       "x": 0.36666667,
+       "y": 0.6299892
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "Apple",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.12604167,
+     "y": 0.6806904
+    },
+    "top_right": {
+     "x": 0.17708333,
+     "y": 0.6806904
+    },
+    "bottom_right": {
+     "x": 0.17604166,
+     "y": 0.69902915
+    },
+    "bottom_left": {
+     "x": 0.12604167,
+     "y": 0.69902915
+    }
+   },
+   "words": [
+    {
+     "text": "Apple",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.12708333,
+       "y": 0.6806904
+      },
+      "top_right": {
+       "x": 0.175,
+       "y": 0.6806904
+      },
+      "bottom_right": {
+       "x": 0.175,
+       "y": 0.69902915
+      },
+      "bottom_left": {
+       "x": 0.12708333,
+       "y": 0.69902915
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "Apple Inc., One Apple Park Way,",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.12291667,
+     "y": 0.7044229
+    },
+    "top_right": {
+     "x": 0.33333334,
+     "y": 0.7044229
+    },
+    "bottom_right": {
+     "x": 0.33333334,
+     "y": 0.7227616
+    },
+    "bottom_left": {
+     "x": 0.12291667,
+     "y": 0.7227616
+    }
+   },
+   "words": [
+    {
+     "text": "Apple",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.125,
+       "y": 0.7055016
+      },
+      "top_right": {
+       "x": 0.16145833,
+       "y": 0.7055016
+      },
+      "bottom_right": {
+       "x": 0.16145833,
+       "y": 0.7227616
+      },
+      "bottom_left": {
+       "x": 0.123958334,
+       "y": 0.7227616
+      }
+     }
+    },
+    {
+     "text": "Inc.,",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.16458334,
+       "y": 0.7055016
+      },
+      "top_right": {
+       "x": 0.19270833,
+       "y": 0.7055016
+      },
+      "bottom_right": {
+       "x": 0.19270833,
+       "y": 0.7227616
+      },
+      "bottom_left": {
+       "x": 0.16458334,
+       "y": 0.7227616
+      }
+     }
+    },
+    {
+     "text": "One",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.19583334,
+       "y": 0.7055016
+      },
+      "top_right": {
+       "x": 0.22291666,
+       "y": 0.7055016
+      },
+      "bottom_right": {
+       "x": 0.22291666,
+       "y": 0.7227616
+      },
+      "bottom_left": {
+       "x": 0.19583334,
+       "y": 0.7227616
+      }
+     }
+    },
+    {
+     "text": "Apple",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.22604166,
+       "y": 0.7055016
+      },
+      "top_right": {
+       "x": 0.2625,
+       "y": 0.7055016
+      },
+      "bottom_right": {
+       "x": 0.2625,
+       "y": 0.7227616
+      },
+      "bottom_left": {
+       "x": 0.22604166,
+       "y": 0.7227616
+      }
+     }
+    },
+    {
+     "text": "Park",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.265625,
+       "y": 0.7055016
+      },
+      "top_right": {
+       "x": 0.29479167,
+       "y": 0.7055016
+      },
+      "bottom_right": {
+       "x": 0.29479167,
+       "y": 0.7227616
+      },
+      "bottom_left": {
+       "x": 0.265625,
+       "y": 0.7227616
+      }
+     }
+    },
+    {
+     "text": "Way,",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.29791668,
+       "y": 0.7055016
+      },
+      "top_right": {
+       "x": 0.33229166,
+       "y": 0.7055016
+      },
+      "bottom_right": {
+       "x": 0.33229166,
+       "y": 0.7227616
+      },
+      "bottom_left": {
+       "x": 0.29791668,
+       "y": 0.7227616
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "Cupertino, CA 95014 USA, apple.com",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.12291667,
+     "y": 0.72384036
+    },
+    "top_right": {
+     "x": 0.365625,
+     "y": 0.7227616
+    },
+    "bottom_right": {
+     "x": 0.365625,
+     "y": 0.7389428
+    },
+    "bottom_left": {
+     "x": 0.12291667,
+     "y": 0.7411003
+    }
+   },
+   "words": [
+    {
+     "text": "Cupertino,",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.12291667,
+       "y": 0.72384036
+      },
+      "top_right": {
+       "x": 0.19166666,
+       "y": 0.72384036
+      },
+      "bottom_right": {
+       "x": 0.19166666,
+       "y": 0.7400216
+      },
+      "bottom_left": {
+       "x": 0.12291667,
+       "y": 0.7421791
+      }
+     }
+    },
+    {
+     "text": "CA",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.19479166,
+       "y": 0.72384036
+      },
+      "top_right": {
+       "x": 0.2125,
+       "y": 0.7227616
+      },
+      "bottom_right": {
+       "x": 0.2125,
+       "y": 0.7400216
+      },
+      "bottom_left": {
+       "x": 0.19479166,
+       "y": 0.7400216
+      }
+     }
+    },
+    {
+     "text": "95014",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.21770833,
+       "y": 0.7227616
+      },
+      "top_right": {
+       "x": 0.25729167,
+       "y": 0.7227616
+      },
+      "bottom_right": {
+       "x": 0.25729167,
+       "y": 0.7400216
+      },
+      "bottom_left": {
+       "x": 0.21666667,
+       "y": 0.7400216
+      }
+     }
+    },
+    {
+     "text": "USA,",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.26145834,
+       "y": 0.7227616
+      },
+      "top_right": {
+       "x": 0.29375,
+       "y": 0.7227616
+      },
+      "bottom_right": {
+       "x": 0.29375,
+       "y": 0.7389428
+      },
+      "bottom_left": {
+       "x": 0.26041666,
+       "y": 0.7400216
+      }
+     }
+    },
+    {
+     "text": "apple.com",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.296875,
+       "y": 0.7227616
+      },
+      "top_right": {
+       "x": 0.36041668,
+       "y": 0.7227616
+      },
+      "bottom_right": {
+       "x": 0.359375,
+       "y": 0.7400216
+      },
+      "bottom_left": {
+       "x": 0.296875,
+       "y": 0.7389428
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "XCE",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.39895833,
+     "y": 0.70873785
+    },
+    "top_right": {
+     "x": 0.509375,
+     "y": 0.71089536
+    },
+    "bottom_right": {
+     "x": 0.509375,
+     "y": 0.7497303
+    },
+    "bottom_left": {
+     "x": 0.39895833,
+     "y": 0.7497303
+    }
+   },
+   "words": [
+    {
+     "text": "XCE",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.39895833,
+       "y": 0.70873785
+      },
+      "top_right": {
+       "x": 0.50416666,
+       "y": 0.70981663
+      },
+      "bottom_right": {
+       "x": 0.503125,
+       "y": 0.7508091
+      },
+      "bottom_left": {
+       "x": 0.39895833,
+       "y": 0.7497303
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "@ 2024 Apple Inc. All rights reserved.",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.12291667,
+     "y": 0.7411003
+    },
+    "top_right": {
+     "x": 0.36458334,
+     "y": 0.7400216
+    },
+    "bottom_right": {
+     "x": 0.36458334,
+     "y": 0.7583603
+    },
+    "bottom_left": {
+     "x": 0.12291667,
+     "y": 0.75943905
+    }
+   },
+   "words": [
+    {
+     "text": "@",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.123958334,
+       "y": 0.7411003
+      },
+      "top_right": {
+       "x": 0.13229166,
+       "y": 0.7411003
+      },
+      "bottom_right": {
+       "x": 0.13229166,
+       "y": 0.7605178
+      },
+      "bottom_left": {
+       "x": 0.12291667,
+       "y": 0.7605178
+      }
+     }
+    },
+    {
+     "text": "2024",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.13958333,
+       "y": 0.7411003
+      },
+      "top_right": {
+       "x": 0.17291667,
+       "y": 0.7411003
+      },
+      "bottom_right": {
+       "x": 0.171875,
+       "y": 0.75943905
+      },
+      "bottom_left": {
+       "x": 0.13854167,
+       "y": 0.75943905
+      }
+     }
+    },
+    {
+     "text": "Apple",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.17604166,
+       "y": 0.7411003
+      },
+      "top_right": {
+       "x": 0.2125,
+       "y": 0.7411003
+      },
+      "bottom_right": {
+       "x": 0.21145834,
+       "y": 0.75943905
+      },
+      "bottom_left": {
+       "x": 0.175,
+       "y": 0.75943905
+      }
+     }
+    },
+    {
+     "text": "Inc.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.215625,
+       "y": 0.7411003
+      },
+      "top_right": {
+       "x": 0.24166666,
+       "y": 0.7411003
+      },
+      "bottom_right": {
+       "x": 0.240625,
+       "y": 0.75943905
+      },
+      "bottom_left": {
+       "x": 0.21458334,
+       "y": 0.75943905
+      }
+     }
+    },
+    {
+     "text": "All",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.24479167,
+       "y": 0.7411003
+      },
+      "top_right": {
+       "x": 0.259375,
+       "y": 0.7411003
+      },
+      "bottom_right": {
+       "x": 0.25833333,
+       "y": 0.75943905
+      },
+      "bottom_left": {
+       "x": 0.24375,
+       "y": 0.75943905
+      }
+     }
+    },
+    {
+     "text": "rights",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.2625,
+       "y": 0.7411003
+      },
+      "top_right": {
+       "x": 0.3,
+       "y": 0.7411003
+      },
+      "bottom_right": {
+       "x": 0.29895833,
+       "y": 0.7583603
+      },
+      "bottom_left": {
+       "x": 0.2625,
+       "y": 0.75943905
+      }
+     }
+    },
+    {
+     "text": "reserved.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.303125,
+       "y": 0.7411003
+      },
+      "top_right": {
+       "x": 0.365625,
+       "y": 0.7411003
+      },
+      "bottom_right": {
+       "x": 0.36458334,
+       "y": 0.7583603
+      },
+      "bottom_left": {
+       "x": 0.30208334,
+       "y": 0.7583603
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "crops": [
+  {
+   "name": "##TextRecognition",
+   "cat": 0,
+   "cal": 0,
+   "car": 1,
+   "cab": 1,
+   "serpapi_link": "https://serpapi.com/search.json?cab=1&cal=0&car=1&cat=0&engine=bing_reverse_image&image_url=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2Fr3gAAeSwH-Bqpa1h%2Fs-l960.jpg"
+  }
+ ],
+ "serpapi_pagination": {
+  "next_page_token": "xu3Ib3ica1pcWpRz0yqjpKSg2EpfP1MvNSmxMjM3XS85P1c_MzcxPbVYP12_yDjd0TE1uNxD16mwINEwQ79YN8fSzEAvqyB9WX5aWnFqiTIAAFQaiw",
+  "next": "https://serpapi.com/search.json?count=35&engine=bing_reverse_image&image_url=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2Fr3gAAeSwH-Bqpa1h%2Fs-l960.jpg&next_page_token=xu3Ib3ica1pcWpRz0yqjpKSg2EpfP1MvNSmxMjM3XS85P1c_MzcxPbVYP12_yDjd0TE1uNxD16mwINEwQ79YN8fSzEAvqyB9WX5aWnFqiTIAAFQaiw",
+  "current": "https://serpapi.com/search.json?engine=bing_reverse_image&image_url=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2Fr3gAAeSwH-Bqpa1h%2Fs-l960.jpg"
+ },
+ "_probe_latency_s": 2.15
+}

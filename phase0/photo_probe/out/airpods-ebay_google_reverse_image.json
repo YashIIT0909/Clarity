@@ -1,0 +1,352 @@
+{
+ "search_metadata": {
+  "id": "6abb9b2a3c99ba39593b66b8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/qmj04S8b101rsQe4V2ml9ELuOSN2wWR0Nf352SFsnxg/6abb9b2a3c99ba39593b66b8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/qmj04S8b101rsQe4V2ml9ELuOSN2wWR0Nf352SFsnxg/6abb9b2a3c99ba39593b66b8.md",
+  "created_at": "2026-09-29 11:04:10 UTC",
+  "processed_at": "2026-09-29 11:04:10 UTC",
+  "google_reverse_image_url": "https://www.google.com/searchbyimage?image_url=https://i.ebayimg.com/images/g/tyMAAeSwbUdqsYQI/s-l960.jpg&sbisrc=cr_1_5_2",
+  "raw_html_file": "https://serpapi.com/searches/qmj04S8b101rsQe4V2ml9ELuOSN2wWR0Nf352SFsnxg/6abb9b2a3c99ba39593b66b8.html",
+  "total_time_taken": 2.04
+ },
+ "search_parameters": {
+  "engine": "google_reverse_image",
+  "image_url": "https://i.ebayimg.com/images/g/tyMAAeSwbUdqsYQI/s-l960.jpg",
+  "google_domain": "google.com",
+  "device": "desktop"
+ },
+ "search_information": {
+  "total_results": 687000,
+  "time_taken_displayed": 0.48,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "image_results": [
+  {
+   "position": 1,
+   "title": "Apple AirPods (3rd Generation) Wireless Earbuds ...",
+   "link": "https://www.amazon.com/clp/B09JQL3NWT",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVFZlOtP_gTi5D0VBayEXqr0HxM0z2tFwV7l4uRl_fmfFdvgMj2ISHumxqyq0--0URa60xDTaoSQQjnGm3mkmdNEwqq1cp26DTsqmLQkdBNJXG4yfKpVI7JpHHeA&ved=2ahUKEwjtqcGj0pOXAxURiysGHW5aM2AQFnoFCMgDEAE&uoh=1",
+   "displayed_link": "https://www.amazon.com \u203a clp",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03tg_nda6WdW-OWyaHVNqafrM6ewZs8eWoRHqrwc&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Ultra Open Ear Earbuds, Clip On Wireless Headphones with Open Ear Comfort | Ergonomic clip \u00b7 Xoruezls Ultra Open Ear Earbuds ...",
+   "snippet_highlighted_words": [
+    "Ultra Open Ear Earbuds"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "extensions": [
+      "Free delivery",
+      "30-day returns"
+     ],
+     "detected_extensions": {
+      "day_returns": 30
+     }
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Ultra Open Ear Earbuds, Clip On Wireless Headphones with Open Ear Comfort | Ergonomic clip \u00b7 Xoruezls Ultra Open Ear Earbuds ...",
+     "source_info_link": "https://www.amazon.com/clp/B09JQL3NWT",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkZabE90UF9nVGk1RDBWQmF5RVhxcjBIeE0wejJ0RndWN2w0dVJsX2ZtZkZkdmdNajJJU0h1bXhxeXEwLS0wVVJhNjB4RFRhb1NRUWpuR20zbWttZE5Fd3FxMWNwMjZEVHNxbUxRa2RCTkpYRzR5ZktwVkk3SnBISGVBEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkZabE90UF9nVGk1RDBWQmF5RVhxcjBIeE0wejJ0RndWN2w0dVJsX2ZtZkZkdmdNajJJU0h1bXhxeXEwLS0wVVJhNjB4RFRhb1NRUWpuR20zbWttZE5Fd3FxMWNwMjZEVHNxbUxRa2RCTkpYRzR5ZktwVkk3SnBISGVBEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Amazon.com",
+   "read_more_link": "https://www.amazon.com/clp/B09JQL3NWT#:~:text=Xoruezls%20Ultra%20Open%20Ear%20Earbuds%2C"
+  },
+  {
+   "position": 2,
+   "title": "Compare AirPods models",
+   "link": "https://www.apple.com/airpods/compare/?modelList=airpods-5-wcc,airpods-pro",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFWf_xUp6C6lgoUuBm2eIk3f2Lewoig7FkDZxye--D6g7qJelEs3yD0Q-enVJHY2CtaN_DrDXQ7mDSt0IlnEQkBTu9ojDUC-FifygUkAMUEmAenwrYvhB93IRCDXhYmr2ENQVU-fN9IfXibdQJYMbYBKxozRLu1xOq1j84y9xtvUH&ved=2ahUKEwjtqcGj0pOXAxURiysGHW5aM2AQFnoFCMQDEAE&uoh=1",
+   "displayed_link": "https://www.apple.com \u203a airpods \u203a compare",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp",
+   "snippet": "Compare features for AirPods Pro 3, AirPods 5, AirPods 5 with Wireless Charging Case, and AirPods Max 2.",
+   "about_this_result": {
+    "source": {
+     "description": "Compare features for AirPods Pro 3, AirPods 5, AirPods 5 with Wireless Charging Case, and AirPods Max 2.",
+     "source_info_link": "https://www.apple.com/airpods/compare/?modelList=airpods-5-wcc,airpods-pro",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZXZl94VXA2QzZsZ29VdUJtMmVJazNmMkxld29pZzdGa0RaeHllLS1ENmc3cUplbEVzM3lEMFEtZW5WSkhZMkN0YU5fRHJEWFE3bURTdDBJbG5FUWtCVHU5b2pEVUMtRmlmeWdVa0FNVUVtQWVud3JZdmhCOTNJUkNEWGhZbXIyRU5RVlUtZk45SWZYaWJkUUpZTWJZQkt4b3pSTHUxeE9xMWo4NHk5eHR2VUgSBBoCCAAaIBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZXZl94VXA2QzZsZ29VdUJtMmVJazNmMkxld29pZzdGa0RaeHllLS1ENmc3cUplbEVzM3lEMFEtZW5WSkhZMkN0YU5fRHJEWFE3bURTdDBJbG5FUWtCVHU5b2pEVUMtRmlmeWdVa0FNVUVtQWVud3JZdmhCOTNJUkNEWGhZbXIyRU5RVlUtZk45SWZYaWJkUUpZTWJZQkt4b3pSTHUxeE9xMWo4NHk5eHR2VUgSBBoCCAAaIBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Apple"
+  },
+  {
+   "position": 3,
+   "title": "WORTH IT? Apple AirPods Pro (2nd Generation) USB-C ...",
+   "link": "https://www.amazon.com/live/video/03c3f4609ea04e96af7f8616671f20bd",
+   "displayed_link": "https://www.amazon.com \u203a live \u203a video",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfofzfC2ezr4JRb6hGzSzLSHG9QgV4FV6r-ylk4T4lO99a1VmlL-RVQ&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Unboxing the new AirPods Pro 2 with USB-C: Adaptive Audio, low latency, and enhanced noise cancellation. See why they're a game-changer for audio lovers.",
+   "duration": "3:40",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "date": "Jun 2, 2024"
+     },
+     "extensions": [
+      "Amazon.com",
+      "UTECHPIA",
+      "Jun 2, 2024"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Unboxing the new AirPods Pro 2 with USB-C: Adaptive Audio, low latency, and enhanced noise cancellation. See why they're a game-changer for audio lovers.",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVi1VRktOMTYxd2FoZU1UTl9tdVV4MmxlQ0FLVnZkNF9sMlNzN3JqTlRGaEtzUFQ2X0NCaVBWaUlwckMzUjFEX1ZMV0dQcnJjYm94UExHX2hqVWRGS1lXaTRnc3oyS052ZTZuUS01ejdicThhX1lTREIxdWxIbUotcEU5Vjc2Y1BsSG42T2ZqbGt3Ykc4ZGlkZjNHX3lfQXp1U3FTc2VRancSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVi1VRktOMTYxd2FoZU1UTl9tdVV4MmxlQ0FLVnZkNF9sMlNzN3JqTlRGaEtzUFQ2X0NCaVBWaUlwckMzUjFEX1ZMV0dQcnJjYm94UExHX2hqVWRGS1lXaTRnc3oyS052ZTZuUS01ejdicThhX1lTREIxdWxIbUotcEU5Vjc2Y1BsSG42T2ZqbGt3Ykc4ZGlkZjNHX3lfQXp1U3FTc2VRancSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRPxGpcUkoQaRMmTAiDfMTSwwEZ5yL0hOKVWQ",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 4,
+   "title": "Bluetooth white wireless pod headphones (ANC 2ND GEN)",
+   "link": "https://www.ebay.com/itm/404489537167",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV3Z05oEM_e1hjZrD6E9g2ZKnJluDoudWIfnpx_88l7jowK8GLZ1j7ActJzKix7kA7JRHGjVsVk_lKF7WaEQLCVbkrKoIJqFTfiTHGc8qtuXKfBhr-JeuXaAcKMA&ved=2ahUKEwjtqcGj0pOXAxURiysGHW5aM2AQFnoFCMYDEAE&uoh=1",
+   "displayed_link": "https://www.ebay.com \u203a ... \u203a Headsets",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlUlzBfdfGi_TojT802Rh0A5L-iHf1qasMgafIFQFJ6Pxt305rvHI&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+   "snippet": "Bluetooth white wireless pod headphones (ANC 2ND GEN) ; Additional service available \u00b7 Buy It Now ; Est. delivery. Sat, Jul 11 - Sat, Jul 18. From Fall River, ...",
+   "snippet_highlighted_words": [
+    "Bluetooth white wireless pod headphones (ANC 2ND GEN"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Bluetooth white wireless pod headphones (ANC 2ND GEN) ; Additional service available \u00b7 Buy It Now ; Est. delivery. Sat, Jul 11 - Sat, Jul 18. From Fall River, ...",
+     "source_info_link": "https://www.ebay.com/itm/404489537167",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjNaMDVvRU1fZTFoalpyRDZFOWcyWktuSmx1RG91ZFdJZm5weF84OGw3am93SzhHTFoxajdBY3RKektpeDdrQTdKUkhHalZzVmtfbEtGN1dhRVFMQ1Zia3JLb0lKcUZUZmlUSEdjOHF0dVhLZkJoci1KZXVYYUFjS01BEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjNaMDVvRU1fZTFoalpyRDZFOWcyWktuSmx1RG91ZFdJZm5weF84OGw3am93SzhHTFoxajdBY3RKektpeDdrQTdKUkhHalZzVmtfbEtGN1dhRVFMQ1Zia3JLb0lKcUZUZmlUSEdjOHF0dVhLZkJoci1KZXVYYUFjS01BEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "eBay",
+   "read_more_link": "https://www.ebay.com/itm/404489537167#:~:text=Bluetooth%20white%20wireless%20pod%20headphones,(ANC%202ND%20GEN)&text=Additional%20service%20available&text=Buy%20It%20Now&text=Est.%20delivery,Fall%20River%2C%20Massachusetts%2C%20United%20States"
+  },
+  {
+   "position": 5,
+   "title": "Apple AirPods Pro Wireless Earbuds with MagSafe ...",
+   "link": "https://www.amazon.com/clp/B0B844T634",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVmtUQsSVupFIJNwkhrby2QkUEljANUrmQUDm5eB-OrjJAGPM9BTQaUSK9Bvmpx1MGgFAqyW0Ds_A0sjwp9gqoCaCBbZdH02dG5EW5xrmrAbG9n_8gcTL3SV8AlA&ved=2ahUKEwjtqcGj0pOXAxURiysGHW5aM2AQFnoFCMUDEAE&uoh=1",
+   "displayed_link": "https://www.amazon.com \u203a clp",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQDYce7VVnwNVhuzB9QuAUYSW-av0KSyOPN6F0grPhjKbf1hLt4tm8089aHnYOOpLgvJi5cA&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Buy Apple AirPods Pro Wireless Earbuds with MagSafe Charging Case (Renewed): Cases - Amazon.com \u2713 FREE DELIVERY possible on eligible purchases.",
+   "snippet_highlighted_words": [
+    "Apple AirPods Pro Wireless Earbuds with MagSafe Charging Case"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Buy Apple AirPods Pro Wireless Earbuds with MagSafe Charging Case (Renewed): Cases - Amazon.com \u2713 FREE DELIVERY possible on eligible purchases.",
+     "source_info_link": "https://www.amazon.com/clp/B0B844T634",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm10VVFzU1Z1cEZJSk53a2hyYnkyUWtVRWxqQU5Vcm1RVURtNWVCLU9yakpBR1BNOUJUUWFVU0s5QnZtcHgxTUdnRkFxeVcwRHNfQTBzandwOWdxb0NhQ0JiWmRIMDJkRzVFVzV4cm1yQWJHOW5fOGdjVEwzU1Y4QWxBEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm10VVFzU1Z1cEZJSk53a2hyYnkyUWtVRWxqQU5Vcm1RVURtNWVCLU9yakpBR1BNOUJUUWFVU0s5QnZtcHgxTUdnRkFxeVcwRHNfQTBzandwOWdxb0NhQ0JiWmRIMDJkRzVFVzV4cm1yQWJHOW5fOGdjVEwzU1Y4QWxBEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 6,
+   "title": "Buy AirPods Pro 3",
+   "link": "https://www.apple.com/shop/buy-airpods/airpods-pro-3",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVjVRe5_6VA1UVFAJzWGlSFtNIKTvjJLop5JUplMjASgfWaiIf9DKuqGuD4eGqBVydrTnucbIBjMr-rqzqC8T2YAxTWySOjkdmNzYKpyy7Q0YVVwT6Yqu7CX1fBYyHSKsD2DP0_C52_mb6lA&ved=2ahUKEwjtqcGj0pOXAxURiysGHW5aM2AQFnoFCMcDEAE&uoh=1",
+   "displayed_link": "https://www.apple.com \u203a shop \u203a airpods-pro-3",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rQhMokI20uoLW1p_SH66M1VzgjJ5wP4ftqQ_sSFQNqfTIw6H7tXy&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp",
+   "snippet": "AirPods Pro 3 with heart rate sensing during workouts and the world's best in-ear Active Noise Cancellation (ANC). Free shipping and engraving at apple.com.",
+   "snippet_highlighted_words": [
+    "AirPods Pro 3"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.7,
+      "price": 249.0,
+      "currency": "$",
+      "day_returns": 14
+     },
+     "extensions": [
+      "4.7",
+      "$249.00",
+      "In stock",
+      "(14,292)",
+      "Free next-day delivery",
+      "14-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "AirPods Pro 3 with heart rate sensing during workouts and the world's best in-ear Active Noise Cancellation (ANC). Free shipping and engraving at apple.com.",
+     "source_info_link": "https://www.apple.com/shop/buy-airpods/airpods-pro-3",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmpWUmU1XzZWQTFVVkZBSnpXR2xTRnROSUtUdmpKTG9wNUpVcGxNakFTZ2ZXYWlJZjlES3VxR3VENGVHcUJWeWRyVG51Y2JJQmpNci1ycXpxQzhUMllBeFRXeVNPamtkbU56WUtweXk3UTBZVlZ3VDZZcXU3Q1gxZkJZeUhTS3NEMkRQMF9DNTJfbWI2bEESBBoCCAAaJBICCAAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmpWUmU1XzZWQTFVVkZBSnpXR2xTRnROSUtUdmpKTG9wNUpVcGxNakFTZ2ZXYWlJZjlES3VxR3VENGVHcUJWeWRyVG51Y2JJQmpNci1ycXpxQzhUMllBeFRXeVNPamtkbU56WUtweXk3UTBZVlZ3VDZZcXU3Q1gxZkJZeUhTS3NEMkRQMF9DNTJfbWI2bEESBBoCCAAaJBICCAAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Apple"
+  },
+  {
+   "position": 7,
+   "title": "Apple Shop Apple AirPods Wireless Headphones",
+   "link": "https://www.walmart.com/browse/electronics/airpods/apple/3944_133251_1095191_1231498_2452446_8039036/YnJhbmQ6QXBwbGUie",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsQEB6zswFRdE70VdO7xhemjtjS-308Yq76ysbrcdMMPONUyhZSPnzw_dFkIMCCz1ZMxifQ6Mc62cuIVyr1e3pouF8V4k5wGPdjIk0i2QmyZn5RLWm_nUuUugPvYVcOfLo37lmzk-ItejLlrMf3vK-GbC01hOQORmSrvtY_zBCmfcTtFdxooAb1sGgnNZAhXsO4ihqgn_-YVdib0JR-xsyNfj-pr5nqu0cuuAxmqGwesYxAA&ved=2ahUKEwjtqcGj0pOXAxURiysGHW5aM2AQFnoFCMMDEAE&uoh=1",
+   "displayed_link": "https://www.walmart.com \u203a ... \u203a Apple AirPods \u203a AirPods",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp",
+   "snippet": "Shop for Apple Shop Apple AirPods Wireless Headphones in Apple AirPods at Walmart and save.",
+   "snippet_highlighted_words": [
+    "Apple Shop Apple AirPods Wireless Headphones"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.3,
+      "free_day_returns": 90
+     },
+     "extensions": [
+      "4.3",
+      "store rating (3.4K)",
+      "Free 90-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Shop for Apple Shop Apple AirPods Wireless Headphones in Apple AirPods at Walmart and save.",
+     "source_info_link": "https://www.walmart.com/browse/electronics/airpods/apple/3944_133251_1095191_1231498_2452446_8039036/YnJhbmQ6QXBwbGUie",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZSZEU3MFZkTzd4aGVtanRqUy0zMDhZcTc2eXNicmNkTU1QT05VeWhaU1BuendfZEZrSU1DQ3oxWk14aWZRNk1jNjJjdUlWeXIxZTNwb3VGOFY0azV3R1BkaklrMGkyUW15Wm41UkxXbV9uVXVVdWdQdllWY09mTG8zN2xtemstSXRlakxsck1mM3ZLLUdiQzAxaE9RT1JtU3J2dFlfekJDbWZjVHRGZHhvb0FiMXNHZ25OWkFoWHNPNGlocWduXy1ZVmRpYjBKUi14c3lOZmotcHI1bnF1MGN1dUF4bXFHd2VzWXhBQRIEGgIIABogEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZSZEU3MFZkTzd4aGVtanRqUy0zMDhZcTc2eXNicmNkTU1QT05VeWhaU1BuendfZEZrSU1DQ3oxWk14aWZRNk1jNjJjdUlWeXIxZTNwb3VGOFY0azV3R1BkaklrMGkyUW15Wm41UkxXbV9uVXVVdWdQdllWY09mTG8zN2xtemstSXRlakxsck1mM3ZLLUdiQzAxaE9RT1JtU3J2dFlfekJDbWZjVHRGZHhvb0FiMXNHZ25OWkFoWHNPNGlocWduXy1ZVmRpYjBKUi14c3lOZmotcHI1bnF1MGN1dUF4bXFHd2VzWXhBQRIEGgIIABogEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Walmart"
+  },
+  {
+   "position": 8,
+   "title": "AirPods Pro 2 - Tech Specs",
+   "link": "https://support.apple.com/en-us/111851",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVACcdYKc26OdGAYUTLTpDHf_ucd9bA1Ty8L1KJrn5gBPkmsCfjdSfO_oLQCuQ4xSmUQidUwP5OHIBu-KbGXgIG81G0y4ppYq03wabFDMXRBQuCqmKFTGhISBVPnE&ved=2ahUKEwjtqcGj0pOXAxURiysGHW5aM2AQFnoFCMIDEAE&uoh=1",
+   "displayed_link": "https://support.apple.com \u203a en-us",
+   "favicon": "https://serpapi.com/images/i/UklGRpAAAABXRUJQVlA4IIQAAACwBACdASocABwAPtEwtFooIigoGAEAGglpAABc6rJ3Nv3_HpPGapGnagXm3NAAAP72B2jDLQLPmY_dfDFMNrCuvT-BcIxtP0EeedCFohtS_1qh5AO7SR3y-rQVIC8L-kLwQe3HuoNEUoCcSac77bX_YxDROTav6m7GP2SD16NMMmIAAAA.webp",
+   "snippet": "In the Box \u00b7 AirPods Pro 2 \u00b7 MagSafe Charging Case with speaker and lanyard loop \u00b7 Silicone ear tips (four sizes: XS, S, M, L) \u00b7 Lightning to USB-C Cable.",
+   "snippet_highlighted_words": [
+    "AirPods Pro 2"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In the Box \u00b7 AirPods Pro 2 \u00b7 MagSafe Charging Case with speaker and lanyard loop \u00b7 Silicone ear tips (four sizes: XS, S, M, L) \u00b7 Lightning to USB-C Cable.",
+     "source_info_link": "https://support.apple.com/en-us/111851",
+     "icon": "https://serpapi.com/images/i/UklGRpAAAABXRUJQVlA4IIQAAACwBACdASocABwAPtEwtFooIigoGAEAGglpAABc6rJ3Nv3_HpPGapGnagXm3NAAAP72B2jDLQLPmY_dfDFMNrCuvT-BcIxtP0EeedCFohtS_1qh5AO7SR3y-rQVIC8L-kLwQe3HuoNEUoCcSac77bX_YxDROTav6m7GP2SD16NMMmIAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVkFDY2RZS2MyNk9kR0FZVVRMVHBESGZfdWNkOWJBMVR5OEwxS0pybjVnQlBrbXNDZmpkU2ZPX29MUUN1UTR4U21VUWlkVXdQNU9ISUJ1LUtiR1hnSUc4MUcweTRwcFlxMDN3YWJGRE1YUkJRdUNxbUtGVEdoSVNCVlBuRRIEGgIIABokEgIIABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVkFDY2RZS2MyNk9kR0FZVVRMVHBESGZfdWNkOWJBMVR5OEwxS0pybjVnQlBrbXNDZmpkU2ZPX29MUUN1UTR4U21VUWlkVXdQNU9ISUJ1LUtiR1hnSUc4MUcweTRwcFlxMDN3YWJGRE1YUkJRdUNxbUtGVEdoSVNCVlBuRRIEGgIIABokEgIIABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Apple Support",
+   "read_more_link": "https://support.apple.com/en-us/111851#:~:text=In%20the%20Box&text=AirPods%20Pro%202&text=MagSafe%20Charging%20Case%20with%20speaker,and%20lanyard%20loop&text=Silicone%20ear%20tips%20(four%20sizes%3A,XS%2C%20S%2C%20M%2C%20L)&text=Lightning%20to%20USB%2DC%20Cable"
+  },
+  {
+   "position": 9,
+   "title": "Unboxed : Apple AirPods Pro (with MagSafe Charging Case)",
+   "link": "https://www.youtube.com/watch?v=pHiJB64jxU8",
+   "displayed_link": "5.8K+ views \u00b7 4 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtDACi95A1sqQQwZ5MlF1ShcNT4IbwwD1TpFxP9uO_Vm-WUbYoLpIXMg&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Hello everyone! Today's video will be an unboxing video of my new Apple AirPods Pro (with MagSafe Charging Case).",
+   "duration": "4:20",
+   "key_moments": [
+    {
+     "time": "00:02",
+     "title": "Intro",
+     "link": "https://www.youtube.com/watch?v=pHiJB64jxU8&t=2"
+    },
+    {
+     "time": "00:14",
+     "title": "Around the box",
+     "link": "https://www.youtube.com/watch?v=pHiJB64jxU8&t=14"
+    },
+    {
+     "time": "00:56",
+     "title": "Opening the box",
+     "link": "https://www.youtube.com/watch?v=pHiJB64jxU8&t=56"
+    },
+    {
+     "time": "02:50",
+     "title": "Lightning to USB-C cable",
+     "link": "https://www.youtube.com/watch?v=pHiJB64jxU8&t=170"
+    },
+    {
+     "time": "03:15",
+     "title": "Connecting the AirPods Pro",
+     "link": "https://www.youtube.com/watch?v=pHiJB64jxU8&t=195"
+    },
+    {
+     "time": "04:10",
+     "title": "Conclusion",
+     "link": "https://www.youtube.com/watch?v=pHiJB64jxU8&t=250"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Hello everyone! Today's video will be an unboxing video of my new Apple AirPods Pro (with MagSafe Charging Case).",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjl6LTBtWU5mUl9JWk5lMy1SZGlWMWxNQjcwalY3UzdwYm5zOERQd2s0d3c4NW9vRVloVU9JWG5IYXVNR0l5QV9OQzV4aUlhZGJuTDVVMm9udGpnTy04amhiZ3Z4c1lzMktvOU9mUWtqeW91RmNKR05LdFh5T2ZrQWhoOFhfT2dMd0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjl6LTBtWU5mUl9JWk5lMy1SZGlWMWxNQjcwalY3UzdwYm5zOERQd2s0d3c4NW9vRVloVU9JWG5IYXVNR0l5QV9OQzV4aUlhZGJuTDVVMm9udGpnTy04amhiZ3Z4c1lzMktvOU9mUWtqeW91RmNKR05LdFh5T2ZrQWhoOFhfT2dMd0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "source": "YouTube \u00b7 alexlovesmac"
+  }
+ ],
+ "_probe_latency_s": 2.56
+}

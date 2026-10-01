@@ -1,0 +1,33 @@
+{
+ "search_metadata": {
+  "id": "6abb9b510e285d21b173429e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/QfTx_Zm42Lesmb1-f6PmTpOC9iuIsNQjS3Fjb3bQWTI/6abb9b510e285d21b173429e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/QfTx_Zm42Lesmb1-f6PmTpOC9iuIsNQjS3Fjb3bQWTI/6abb9b510e285d21b173429e.md",
+  "created_at": "2026-09-29 11:04:49 UTC",
+  "processed_at": "2026-09-29 11:04:49 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61H3SpmyIIL._AC_SL1200_.jpg",
+  "raw_html_file": "https://serpapi.com/searches/QfTx_Zm42Lesmb1-f6PmTpOC9iuIsNQjS3Fjb3bQWTI/6abb9b510e285d21b173429e.html",
+  "total_time_taken": 3.87
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://m.media-amazon.com/images/I/61H3SpmyIIL._AC_SL1200_.jpg",
+  "type": "visual_matches"
+ },
+ "related_content": [
+  {
+   "query": "Honeywell 360 Surround Fan Forced Heater",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQnsxq8p70aBea157qoPSP5JaxJwIoQ:1790679892534&q=Honeywell+360+Surround+Fan+Forced+Heater&kgmid=/g/11cjjx0qr9&sa=X&ved=2ahUKEwiRkJq30pOXAxURLVkFHUIJFF4Q9_gLKAB6BQjQARAB",
+   "thumbnail": "https://serpapi.com/searches/6abb9b510e285d21b173429e/images/xjzPcilJ3l2-ZtMwpfJ6eY75F06bt4CbnCdh6fjsia4.jpeg",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11cjjx0qr9&q=Honeywell+360+Surround+Fan+Forced+Heater"
+  },
+  {
+   "query": "Honeywell 360 Degree Surround Fan Forced Heater with Surround Heat Output, Charcoal Grey",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQnsxq8p70aBea157qoPSP5JaxJwIoQ:1790679892534&q=Honeywell+360+Degree+Surround+Fan+Forced+Heater+with+Surround+Heat+Output,+Charcoal+Grey&kgmid=/g/11gjg0dd5q&sa=X&ved=2ahUKEwiRkJq30pOXAxURLVkFHUIJFF4Q9_gLKAF6BQjQARAD",
+   "thumbnail": "https://serpapi.com/searches/6abb9b510e285d21b173429e/images/xjzPcilJ3l2-ZtMwpfJ6eWyyRWKmHtwc8XW3cDrMKK0.jpeg",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11gjg0dd5q&q=Honeywell+360+Degree+Surround+Fan+Forced+Heater+with+Surround+Heat+Output%2C+Charcoal+Grey"
+  }
+ ],
+ "_probe_latency_s": 4.33
+}

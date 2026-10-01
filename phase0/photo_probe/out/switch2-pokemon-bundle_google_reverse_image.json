@@ -1,0 +1,360 @@
+{
+ "search_metadata": {
+  "id": "6abb9b8f04e10af72c778cba",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/qihZSwBDfBuExNTyOcasS2eMnKemAWqf9YCZHSIK6uo/6abb9b8f04e10af72c778cba.json",
+  "markdown_endpoint": "https://serpapi.com/searches/qihZSwBDfBuExNTyOcasS2eMnKemAWqf9YCZHSIK6uo/6abb9b8f04e10af72c778cba.md",
+  "created_at": "2026-09-29 11:05:51 UTC",
+  "processed_at": "2026-09-29 11:05:51 UTC",
+  "google_reverse_image_url": "https://www.google.com/searchbyimage?image_url=https://m.media-amazon.com/images/I/715+ajJYKbL._SL1500_.jpg&sbisrc=cr_1_5_2",
+  "raw_html_file": "https://serpapi.com/searches/qihZSwBDfBuExNTyOcasS2eMnKemAWqf9YCZHSIK6uo/6abb9b8f04e10af72c778cba.html",
+  "total_time_taken": 2.78
+ },
+ "search_parameters": {
+  "engine": "google_reverse_image",
+  "image_url": "https://m.media-amazon.com/images/I/715+ajJYKbL._SL1500_.jpg",
+  "google_domain": "google.com",
+  "device": "desktop"
+ },
+ "search_information": {
+  "total_results": 256000,
+  "time_taken_displayed": 0.97,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "image_results": [
+  {
+   "position": 1,
+   "title": "Z-A Switch\u2122 2 Edition Bundle",
+   "link": "https://www.amazon.com/clp/B0FJH6R8V3",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVMemv21bWjYV0a7yWlobb0_9tInvUBzkbV-rMRmvT5sFMZJg612XgOZXbfouDKh4gW-NvIZnNc6EhhC3wasFqOc7Rbh9Qe4WiCUC6_g49i-P6kb07xOF19HrDnw&ved=2ahUKEwja7vLT0pOXAxXDnpUCHcRIC6gQFnoFCMsDEAE&uoh=1",
+   "displayed_link": "https://www.amazon.com \u203a clp",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh9qrnBK6fITdizLo8Uh7YVRn9H9JBqAwoSsZZe8&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Nintendo SwitchTM 2 + Pok\u00e9monTM Legends: Z-A SwitchTM 2 Edition Bundle \u2026 256GB for Nintendo SwitchTM. Licensed for Nintendo Switch. Up to 650MB/s Write Speeds, ...",
+   "snippet_highlighted_words": [
+    "Nintendo SwitchTM 2 + Pok\u00e9monTM Legends: Z-A SwitchTM 2 Edition Bundle"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.5,
+      "day_returns": 30
+     },
+     "extensions": [
+      "4.5",
+      "store rating (9.1K)",
+      "Free delivery",
+      "30-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Nintendo SwitchTM 2 + Pok\u00e9monTM Legends: Z-A SwitchTM 2 Edition Bundle \u2026 256GB for Nintendo SwitchTM. Licensed for Nintendo Switch. Up to 650MB/s Write Speeds, ...",
+     "source_info_link": "https://www.amazon.com/clp/B0FJH6R8V3",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVk1lbXYyMWJXallWMGE3eVdsb2JiMF85dEludlVCemtiVi1yTVJtdlQ1c0ZNWkpnNjEyWGdPWlhiZm91REtoNGdXLU52SVpuTmM2RWhoQzN3YXNGcU9jN1JiaDlRZTRXaUNVQzZfZzQ5aS1QNmtiMDd4T0YxOUhyRG53EgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVk1lbXYyMWJXallWMGE3eVdsb2JiMF85dEludlVCemtiVi1yTVJtdlQ1c0ZNWkpnNjEyWGdPWlhiZm91REtoNGdXLU52SVpuTmM2RWhoQzN3YXNGcU9jN1JiaDlRZTRXaUNVQzZfZzQ5aS1QNmtiMDd4T0YxOUhyRG53EgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 2,
+   "title": "Nintendo Switch 2 with Pokemon Legends Z-A Edition ...",
+   "link": "https://www.walmart.com/ip/Nintendo-Switch-2-Pokemon-Legends-Z-A-Edition-Game-Bundle-256GB-Console-7-9-Inch-Screen-Joy-Con-2-Controllers-4K-TV-Output-Microfiber-Cleaning-Cloth/18469019842",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES9wEB6zswFdGaaTTASTL4qygIx6JLWkHzwusEdaNOKXCGBU8NJsQuY17_B2K0qgyN53P9V-hsxffYx-FM8BUpvRLbfm-FREUT7THb5IHtULxBoWrZ3ltaXEF75u14IvxOabo2knZ20SJYt6WGWdoUe5ubB28RekjiuW1QvkoEnXI7CU7XifEn2Aly-SSRzGBMeHWaQV93Hfcnc9O2n4KfyFoGF5pgi-ktkMwbBoHXG0Mu6eoDrD1YJCjvJuzDKpGMtkxv3iOmJM7NboF7xcHJOc5axGgIw8qgfOKQQ_qtiPi6BaczqntsGWDsUrs8ck9Ti6LLammQmHww&ved=2ahUKEwja7vLT0pOXAxXDnpUCHcRIC6gQFnoFCM4DEAE&uoh=1",
+   "displayed_link": "https://www.walmart.com \u203a ...",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6TlHQ3AdZ18MGBCrzbVBTwrtYzTC8tB3pelwadPiDSBdMCmbE5ow&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp",
+   "snippet": "Nintendo Switch 2 with Pokemon Legends Z-A Edition Game Bundle, 256GB Console, 7.9 Inch Screen, Joy-Con 2 Controllers, 4K TV Output + Microfiber Cleaning Cloth.",
+   "snippet_highlighted_words": [
+    "Nintendo Switch 2 with Pokemon Legends Z-A Edition Game Bundle"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "detected_extensions": {
+      "free": 90
+     },
+     "extensions": [
+      "Free 90",
+      "day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Nintendo Switch 2 with Pokemon Legends Z-A Edition Game Bundle, 256GB Console, 7.9 Inch Screen, Joy-Con 2 Controllers, 4K TV Output + Microfiber Cleaning Cloth.",
+     "source_info_link": "https://www.walmart.com/ip/Nintendo-Switch-2-Pokemon-Legends-Z-A-Edition-Game-Bundle-256GB-Console-7-9-Inch-Screen-Joy-Con-2-Controllers-4K-TV-Output-Microfiber-Cleaning-Cloth/18469019842",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoCL2dvdG8_dXJsPUNBRVM5d0VCNnpzd0ZkR2FhVFRBU1RMNHF5Z0l4NkpMV2tIend1c0VkYU5PS1hDR0JVOE5Kc1F1WTE3X0IySzBxZ3lONTNQOVYtaHN4ZmZZeC1GTThCVXB2UkxiZm0tRlJFVVQ3VEhiNUlIdFVMeEJvV3JaM2x0YVhFRjc1dTE0SXZ4T2FibzJrbloyMFNKWXQ2V0dXZG9VZTV1YkIyOFJla2ppdVcxUXZrb0VuWEk3Q1U3WGlmRW4yQWx5LVNTUnpHQk1lSFdhUVY5M0hmY25jOU8ybjRLZnlGb0dGNXBnaS1rdGtNd2JCb0hYRzBNdTZlb0RyRDFZSkNqdkp1ekRLcEdNdGt4djNpT21KTTdOYm9GN3hjSEpPYzVheEdnSXc4cWdmT0tRUV9xdGlQaTZCYWN6cW50c0dXRHNVcnM4Y2s5VGk2TExhbW1RbUh3dxIEGgIIABoiEgAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoCL2dvdG8_dXJsPUNBRVM5d0VCNnpzd0ZkR2FhVFRBU1RMNHF5Z0l4NkpMV2tIend1c0VkYU5PS1hDR0JVOE5Kc1F1WTE3X0IySzBxZ3lONTNQOVYtaHN4ZmZZeC1GTThCVXB2UkxiZm0tRlJFVVQ3VEhiNUlIdFVMeEJvV3JaM2x0YVhFRjc1dTE0SXZ4T2FibzJrbloyMFNKWXQ2V0dXZG9VZTV1YkIyOFJla2ppdVcxUXZrb0VuWEk3Q1U3WGlmRW4yQWx5LVNTUnpHQk1lSFdhUVY5M0hmY25jOU8ybjRLZnlGb0dGNXBnaS1rdGtNd2JCb0hYRzBNdTZlb0RyRDFZSkNqdkp1ekRLcEdNdGt4djNpT21KTTdOYm9GN3hjSEpPYzVheEdnSXc4cWdmT0tRUV9xdGlQaTZCYWN6cW50c0dXRHNVcnM4Y2s5VGk2TExhbW1RbUh3dxIEGgIIABoiEgAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Walmart",
+   "read_more_link": "https://www.walmart.com/ip/Nintendo-Switch-2-Pokemon-Legends-Z-A-Edition-Game-Bundle-256GB-Console-7-9-Inch-Screen-Joy-Con-2-Controllers-4K-TV-Output-Microfiber-Cleaning-Cloth/18469019842#:~:text=Nintendo%20Switch%202%20with%20Pokemon,Output%20%2B%20Microfiber%20Cleaning%20Cloth"
+  },
+  {
+   "position": 3,
+   "title": "Nintendo Switch 2 Handheld Console System with ... - eBay",
+   "link": "https://www.ebay.com/itm/326829798426",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVriKZnMpUDxvdhdVYB6HOgZhbKXiGhjUj3M-iWdVWlDy9ua58GITIbQ45UcxwhNbm1GWDJIK0z0kUtfI5pzio2AOwe_1MLnq2JXmssWS46BeuGJuPS0bxznoFIA&ved=2ahUKEwja7vLT0pOXAxXDnpUCHcRIC6gQFnoFCM8DEAE&uoh=1",
+   "displayed_link": "https://www.ebay.com \u203a ... \u203a Video Game Consoles",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Xc_pIn9B63Qj2dIDFaooD7TpupjbNhdmSXaVio6gVozpzhxMEDSG&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+   "snippet": "Nintendo Switch 2 Handheld Console System with Pokemon Legends Z-A Bundle. This item is no longer available.",
+   "snippet_highlighted_words": [
+    "Nintendo Switch 2 Handheld Console System"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Nintendo Switch 2 Handheld Console System with Pokemon Legends Z-A Bundle. This item is no longer available.",
+     "source_info_link": "https://www.ebay.com/itm/326829798426",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnJpS1puTXBVRHh2ZGhkVllCNkhPZ1poYktYaUdoalVqM00taVdkVldsRHk5dWE1OEdJVEliUTQ1VWN4d2hOYm0xR1dESklLMHowa1V0Zkk1cHppbzJBT3dlXzFNTG5xMkpYbXNzV1M0NkJldUdKdVBTMGJ4em5vRklBEgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnJpS1puTXBVRHh2ZGhkVllCNkhPZ1poYktYaUdoalVqM00taVdkVldsRHk5dWE1OEdJVEliUTQ1VWN4d2hOYm0xR1dESklLMHowa1V0Zkk1cHppbzJBT3dlXzFNTG5xMkpYbXNzV1M0NkJldUdKdVBTMGJ4em5vRklBEgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "eBay"
+  },
+  {
+   "position": 4,
+   "title": "Z A Nintendo Switch 2 Edition Bundle",
+   "link": "https://www.bestbuy.com/product/switch-2-pokemon-legends-z-a-nintendo-switch-2-edition-bundle/J7GSL57H4L",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFYgdWvSHm5fDP_Xp3qQ3d-EHV-DLimMuhPcVldvVnPXBuc8EsBLcmbIBBclkOZdfKS_4JMmUtD5t8oUPr75hEMtAgWmAdCXLZD5fpj2_7YEn02mqn20yGrJZ9wRv3Rs1wtBGe1YRDF3mR56-pO-wLd1RwsIEVZgTUOKb3fMr_o3REW_I4U98eA14ZSQlgHFJ6SxmNEK1jWYKMKN-ByWs&ved=2ahUKEwja7vLT0pOXAxXDnpUCHcRIC6gQFnoFCM0DEAE&uoh=1",
+   "displayed_link": "https://www.bestbuy.com \u203a product \u203a switch-2-pokemon...",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-cvKmRIIIdV9dlDVXlq2borsHGkMOY9pfr9dyOmI&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp",
+   "snippet": "Nintendo Switch 2 is the next evolution of the Nintendo Switch system\u2014packed with upgrades and fun ways to connect and play together!",
+   "snippet_highlighted_words": [
+    "Nintendo Switch 2"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.8,
+      "reviews": 425,
+      "price": 895.29,
+      "currency": "$",
+      "day_returns": 15
+     },
+     "extensions": [
+      "4.8(425)",
+      "$895.29",
+      "In stock",
+      "15-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Nintendo Switch 2 is the next evolution of the Nintendo Switch system\u2014packed with upgrades and fun ways to connect and play together!",
+     "source_info_link": "https://www.bestbuy.com/product/switch-2-pokemon-legends-z-a-nintendo-switch-2-edition-bundle/J7GSL57H4L",
+     "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZZZ2RXdlNIbTVmRFBfWHAzcVEzZC1FSFYtRExpbU11aFBjVmxkdlZuUFhCdWM4RXNCTGNtYklCQmNsa09aZGZLU180Sk1tVXRENXQ4b1VQcjc1aEVNdEFnV21BZENYTFpENWZwajJfN1lFbjAybXFuMjB5R3JKWjl3UnYzUnMxd3RCR2UxWVJERjNtUjU2LXBPLXdMZDFSd3NJRVZaZ1RVT0tiM2ZNcl9vM1JFV19JNFU5OGVBMTRaU1FsZ0hGSjZTeG1ORUsxaldZS01LTi1CeVdzEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZZZ2RXdlNIbTVmRFBfWHAzcVEzZC1FSFYtRExpbU11aFBjVmxkdlZuUFhCdWM4RXNCTGNtYklCQmNsa09aZGZLU180Sk1tVXRENXQ4b1VQcjc1aEVNdEFnV21BZENYTFpENWZwajJfN1lFbjAybXFuMjB5R3JKWjl3UnYzUnMxd3RCR2UxWVJERjNtUjU2LXBPLXdMZDFSd3NJRVZaZ1RVT0tiM2ZNcl9vM1JFV19JNFU5OGVBMTRaU1FsZ0hGSjZTeG1ORUsxaldZS01LTi1CeVdzEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Best Buy"
+  },
+  {
+   "position": 5,
+   "title": "Legends Z-A Nintendo Switch 2 Edition Bundle (Digital ...",
+   "link": "https://www.target.com/p/nintendo-switch-2-console-pok-233-mon-legends-z-a-nintendo-switch-2-edition-bundle-digital-download-in-console/-/A-94881750",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0AEB6zswFWu7g4DxRGIHhu6wlAFlV8YMubTwB_TMx5X_-NGmPGLR87o-w49j7xlwcGI9sxPbOCzBIRdSOeEpwgG-EVS7o9VsQBvjMuB7D5DtLol4jDnlAVO2xStyY0uOeJHD7o_Gr4-wvhEe5RIqsNu0SbTF1zshlrIIU5UMMvlV8MSyfl4QYj9IeyAibH5nkZoal-ZtnLRKuqaVuALQDF6kYEuBTBGETIq9F40jNvTAiaoEPnGdZO-yD-C9n1vu2Ojryd8NzSRcG0NmXJOgohdh&ved=2ahUKEwja7vLT0pOXAxXDnpUCHcRIC6gQFnoFCNEDEAE&uoh=1",
+   "displayed_link": "https://www.target.com \u203a nintendo-switch-2-console-po...",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWC0YQNuQT3begX-1PkQM--C4w5QURUs_Bslw84a_R_ZujqMA3iEKa&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMAADLAADKAADJAADIAADSPDzkmZnvw8P02dnWVFT34OD____rs7Pyz8_56enYXV3hiIjfgoLwyMgzbyPyAAAAsUlEQVR4Aa1ShQGAMAyrzHH-P5YOdw-6ZU0V_gASCwj3KKWNdc4arTY0-5D0CJ6XnEqTGVK14LJuN8-7bzZjubVzhRIUrrUdldHHddkFgqqMK4-DaIicnCVmEp3IBtVxqKOmLLiq60rOqKisO1My8l8gcNbGwoCFfA114Vj5V0BVF2lFoORjuSNFJVfAdUfWDEoycufkuex5QOepnBfhvHznhT9v2Xmzz8fkfMDOR_MxGoruDjVyTTuYAAAAAElFTkSuQmCC.png",
+   "snippet": "Start your Nintendo Switch 2 adventure with this bundle that includes a system and a full game download for the Pok\u00e9monTM",
+   "snippet_highlighted_words": [
+    "Start your Nintendo Switch 2 adventure"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.3,
+      "reviews": 61,
+      "price": 499.99,
+      "currency": "$"
+     },
+     "extensions": [
+      "3.3(61)",
+      "$499.99",
+      "Out of stock"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Start your Nintendo Switch 2 adventure with this bundle that includes a system and a full game download for the Pok\u00e9monTM",
+     "source_info_link": "https://www.target.com/p/nintendo-switch-2-console-pok-233-mon-legends-z-a-nintendo-switch-2-edition-bundle-digital-download-in-console/-/A-94881750",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMAADLAADKAADJAADIAADSPDzkmZnvw8P02dnWVFT34OD____rs7Pyz8_56enYXV3hiIjfgoLwyMgzbyPyAAAAsUlEQVR4Aa1ShQGAMAyrzHH-P5YOdw-6ZU0V_gASCwj3KKWNdc4arTY0-5D0CJ6XnEqTGVK14LJuN8-7bzZjubVzhRIUrrUdldHHddkFgqqMK4-DaIicnCVmEp3IBtVxqKOmLLiq60rOqKisO1My8l8gcNbGwoCFfA114Vj5V0BVF2lFoORjuSNFJVfAdUfWDEoycufkuex5QOepnBfhvHznhT9v2Xmzz8fkfMDOR_MxGoruDjVyTTuYAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZXdTdnNER4UkdJSGh1NndsQUZsVjhZTXViVHdCX1RNeDVYXy1OR21QR0xSODdvLXc0OWo3eGx3Y0dJOXN4UGJPQ3pCSVJkU09lRXB3Z0ctRVZTN285VnNRQnZqTXVCN0Q1RHRMb2w0akRubEFWTzJ4U3R5WTB1T2VKSEQ3b19HcjQtd3ZoRWU1Uklxc051MFNiVEYxenNobHJJSVU1VU1NdmxWOE1TeWZsNFFZajlJZXlBaWJINW5rWm9hbC1adG5MUkt1cWFWdUFMUURGNmtZRXVCVEJHRVRJcTlGNDBqTnZUQWlhb0VQbkdkWk8teUQtQzluMXZ1Mk9qcnlkOE56U1JjRzBObVhKT2dvaGRoEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZXdTdnNER4UkdJSGh1NndsQUZsVjhZTXViVHdCX1RNeDVYXy1OR21QR0xSODdvLXc0OWo3eGx3Y0dJOXN4UGJPQ3pCSVJkU09lRXB3Z0ctRVZTN285VnNRQnZqTXVCN0Q1RHRMb2w0akRubEFWTzJ4U3R5WTB1T2VKSEQ3b19HcjQtd3ZoRWU1Uklxc051MFNiVEYxenNobHJJSVU1VU1NdmxWOE1TeWZsNFFZajlJZXlBaWJINW5rWm9hbC1adG5MUkt1cWFWdUFMUURGNmtZRXVCVEJHRVRJcTlGNDBqTnZUQWlhb0VQbkdkWk8teUQtQzluMXZ1Mk9qcnlkOE56U1JjRzBObVhKT2dvaGRoEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Target"
+  },
+  {
+   "position": 6,
+   "title": "Nintendo Switch\u2122 2 + Pok\u00e9mon\u2122 Legends: Z-A",
+   "link": "https://www.nintendo.com/us/store/products/nintendo-switch-2-pokemon-legends-z-a-nintendo-switch-2-edition-bundle-122173/?srsltid=AU7gw4Vk3TFm1ijLAXTpO8BbMqzBeWKDrTOZZUsPFlkTo-mJe0_-PUXg",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES9gEB6zswFey6XAfoJNOmLKlubwA0SIS4sUlsXVF7afXyF4ddO-cXhohdL8tbCKTsPP6RUAGBvGZsMEN3uAkzbiE1FiN3Tktqsfl-4groLo5HeFk31bepLf9drrjn-c69zjwu5g5YEUT7XjIIoZLjHSiL9_rm35PPnsVuI7awPlpVcWQThYcMQ2PJzOjiP3kmwvpGnSTwmfqS3vU2QKL1dOvKyoq75Na91HbGdUyftpDZBQZzlrJMCD7CL66tk431_Ly1CUbsOy4xhNpfTTMT_kJQ2UieUP5gw47D4Kt-Fot5jy3UnmHPmQTVGbOQnPots-7NC5PIArU&ved=2ahUKEwja7vLT0pOXAxXDnpUCHcRIC6gQFnoFCMoDEAE&uoh=1",
+   "displayed_link": "https://www.nintendo.com \u203a Store \u203a Hardware",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ghGztpgtmNOb1bXUIWjFxsaO1VXlCm7hRr4ceIiSjQ8pPnz3mW5D&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASocABwAPtEwtFooIigoGAEAGglsAKwAId_AEV-Z9C61Ig_DWAAA_tiMpRpENEQEdx1NqSPkax697w1zQy2CEWzqnlmcK9l__nEv_1t_t1PaYgkeDqkc_QaAxBZHNOGHsn4zLuf8_w5eqGb-UlQsf-S8o8wfhOwUUf3XG8CAb5qbpF_GT35XEo9g7is92otaFEZj3b5MnDtx5Ih1dSowAAAA.webp",
+   "snippet": "Nintendo Switch 2 is the next evolution of the Nintendo Switch system\u2014packed with upgrades and fun ways to connect and play together!",
+   "snippet_highlighted_words": [
+    "Nintendo Switch 2"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.6,
+      "price": 499.99,
+      "currency": "$"
+     },
+     "extensions": [
+      "4.6",
+      "$499.99",
+      "Out of stock",
+      "(593)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Nintendo Switch 2 is the next evolution of the Nintendo Switch system\u2014packed with upgrades and fun ways to connect and play together!",
+     "source_info_link": "https://www.nintendo.com/us/store/products/nintendo-switch-2-pokemon-legends-z-a-nintendo-switch-2-edition-bundle-122173/?srsltid=AU7gw4Vk3TFm1ijLAXTpO8BbMqzBeWKDrTOZZUsPFlkTo-mJe0_-PUXg",
+     "icon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASocABwAPtEwtFooIigoGAEAGglsAKwAId_AEV-Z9C61Ig_DWAAA_tiMpRpENEQEdx1NqSPkax697w1zQy2CEWzqnlmcK9l__nEv_1t_t1PaYgkeDqkc_QaAxBZHNOGHsn4zLuf8_w5eqGb-UlQsf-S8o8wfhOwUUf3XG8CAb5qbpF_GT35XEo9g7is92otaFEZj3b5MnDtx5Ih1dSowAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkCL2dvdG8_dXJsPUNBRVM5Z0VCNnpzd0ZleTZYQWZvSk5PbUxLbHVid0EwU0lTNHNVbHNYVkY3YWZYeUY0ZGRPLWNYaG9oZEw4dGJDS1RzUFA2UlVBR0J2R1pzTUVOM3VBa3piaUUxRmlOM1RrdHFzZmwtNGdyb0xvNUhlRmszMWJlcExmOWRycmpuLWM2OXpqd3U1ZzVZRVVUN1hqSUlvWkxqSFNpTDlfcm0zNVBQbnNWdUk3YXdQbHBWY1dRVGhZY01RMlBKek9qaVAza213dnBHblNUd21mcVMzdlUyUUtMMWRPdkt5b3E3NU5hOTFIYkdkVXlmdHBEWkJRWnpsckpNQ0Q3Q0w2NnRrNDMxX0x5MUNVYnNPeTR4aE5wZlRUTVRfa0pRMlVpZVVQNWd3NDdENEt0LUZvdDVqeTNVbm1IUG1RVFZHYk9RblBvdHMtN05DNVBJQXJVEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkCL2dvdG8_dXJsPUNBRVM5Z0VCNnpzd0ZleTZYQWZvSk5PbUxLbHVid0EwU0lTNHNVbHNYVkY3YWZYeUY0ZGRPLWNYaG9oZEw4dGJDS1RzUFA2UlVBR0J2R1pzTUVOM3VBa3piaUUxRmlOM1RrdHFzZmwtNGdyb0xvNUhlRmszMWJlcExmOWRycmpuLWM2OXpqd3U1ZzVZRVVUN1hqSUlvWkxqSFNpTDlfcm0zNVBQbnNWdUk3YXdQbHBWY1dRVGhZY01RMlBKek9qaVAza213dnBHblNUd21mcVMzdlUyUUtMMWRPdkt5b3E3NU5hOTFIYkdkVXlmdHBEWkJRWnpsckpNQ0Q3Q0w2NnRrNDMxX0x5MUNVYnNPeTR4aE5wZlRUTVRfa0pRMlVpZVVQNWd3NDdENEt0LUZvdDVqeTNVbm1IUG1RVFZHYk9RblBvdHMtN05DNVBJQXJVEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Nintendo"
+  },
+  {
+   "position": 7,
+   "title": "Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition",
+   "link": "https://www.youtube.com/watch?v=ZL4jOPorLQM",
+   "displayed_link": "1.3M+ views \u00b7 12 months ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAllIIBLE-zYn3IAxsukUDXKS9JptxLrEdwt81w-by3RXu6jc5kJAhKg&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "The Pok\u00e9mon Legends: Z-A game launches October 16, 2025, exclusively on the Nintendo Switch 2 and Nintendo Switch systems.",
+   "duration": "6:24",
+   "about_this_result": {
+    "source": {
+     "description": "The Pok\u00e9mon Legends: Z-A game launches October 16, 2025, exclusively on the Nintendo Switch 2 and Nintendo Switch systems.",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlljVjlQQmp0ZklVLUtnMWw4QmN1Um11X3k5RDZSQ19CTm82RTRaR29WRjVHMFNoTklIUzA3QUMxNXNOQ1M4QV82bDZFeDhlTW9HQ3U0OVF2RDFBSnZEY3A2VHNkNlFKcHBLYmRoSnZGamZwbzNaZ01iZnpmLVg3QUVtck5GLTQxQncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlljVjlQQmp0ZklVLUtnMWw4QmN1Um11X3k5RDZSQ19CTm82RTRaR29WRjVHMFNoTklIUzA3QUMxNXNOQ1M4QV82bDZFeDhlTW9HQ3U0OVF2RDFBSnZEY3A2VHNkNlFKcHBLYmRoSnZGamZwbzNaZ01iZnpmLVg3QUVtck5GLTQxQncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTQKBfpKnRZqlfuFOmYjCnxnyPb0vycN4qyPg",
+   "source": "YouTube \u00b7 Nintendo of America"
+  },
+  {
+   "position": 8,
+   "title": "Nintendo Switch\u2122 2 Pok\u00e9mon\u2122 Legends: Z-A Edition ...",
+   "link": "https://www.wal-mart.com/ip/Nintendo-Switch-2-Pok-mon-Legends-Z-A-Edition-Bundle-with-Travel-Adapter-International-Version/18232307985",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFRsqDh_YGjbkul5SW6nTH9zVeJOEk2ZinXyz2PCI0QF5TmqCH-JzxiY7VahjAK9QCZKOJbJgT2w8UQGwGdhqQLQCfGj-VeDlkVsAKTA-XJaAfd1QYijA4CDR_zqlaKlkeKMYEvWqlEqy3KyVvhfhPYYhV7pgVqd11hraxEAg6T7bJQOM5wPPDvGXXW4Vfp8whFhVbu_3Vx1eRs62uUH59ELWPhPcTihLGmCqM9sb5ZhwOVy7iXbykhrLaQZkxA&ved=2ahUKEwja7vLT0pOXAxXDnpUCHcRIC6gQFnoFCMkDEAE&uoh=1",
+   "displayed_link": "https://www.wal-mart.com \u203a Nintendo-Switch-2-Pok-m...",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp",
+   "snippet": "The Nintendo Switch 2 delivers smoother gameplay and richer graphics than ever before. Its 7.9-inch touchscreen brings your games to life with vivid colors, HDR ...",
+   "snippet_highlighted_words": [
+    "smoother gameplay and richer graphics than ever before"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.2,
+      "reviews": 369
+     },
+     "extensions": [
+      "4.2(369)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The Nintendo Switch 2 delivers smoother gameplay and richer graphics than ever before. Its 7.9-inch touchscreen brings your games to life with vivid colors, HDR ...",
+     "source_info_link": "https://www.wal-mart.com/ip/Nintendo-Switch-2-Pok-mon-Legends-Z-A-Edition-Bundle-with-Travel-Adapter-International-Version/18232307985",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZSc3FEaF9ZR2pia3VsNVNXNm5USDl6VmVKT0VrMlppblh5ejJQQ0kwUUY1VG1xQ0gtSnp4aVk3VmFoakFLOVFDWktPSmJKZ1QydzhVUUd3R2RocVFMUUNmR2otVmVEbGtWc0FLVEEtWEphQWZkMVFZaWpBNENEUl96cWxhS2xrZUtNWUV2V3FsRXF5M0t5VnZoZmhQWVloVjdwZ1ZxZDExaHJheEVBZzZUN2JKUU9NNXdQUER2R1hYVzRWZnA4d2hGaFZidV8zVngxZVJzNjJ1VUg1OUVMV1BoUGNUaWhMR21DcU05c2I1Wmh3T1Z5N2lYYnlraHJMYVFaa3hBEgQaAggAGiASABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZSc3FEaF9ZR2pia3VsNVNXNm5USDl6VmVKT0VrMlppblh5ejJQQ0kwUUY1VG1xQ0gtSnp4aVk3VmFoakFLOVFDWktPSmJKZ1QydzhVUUd3R2RocVFMUUNmR2otVmVEbGtWc0FLVEEtWEphQWZkMVFZaWpBNENEUl96cWxhS2xrZUtNWUV2V3FsRXF5M0t5VnZoZmhQWVloVjdwZ1ZxZDExaHJheEVBZzZUN2JKUU9NNXdQUER2R1hYVzRWZnA4d2hGaFZidV8zVngxZVJzNjJ1VUg1OUVMV1BoUGNUaWhMR21DcU05c2I1Wmh3T1Z5N2lYYnlraHJMYVFaa3hBEgQaAggAGiASABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Walmart",
+   "read_more_link": "https://www.wal-mart.com/ip/Nintendo-Switch-2-Pok-mon-Legends-Z-A-Edition-Bundle-with-Travel-Adapter-International-Version/18232307985#:~:text=The%20Nintendo%20Switch%202%20delivers,and%20up%20to%20120%20fps."
+  },
+  {
+   "position": 9,
+   "title": "Buy Now | Pok\u00e9mon Legends: Z-A",
+   "link": "https://legends.pokemon.com/en-us/buy-now",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAV6jpe5QJDa4Rp68WSIWH4WNtAnJA953hsJCuthdaB1SsTEW84J0PlNcfZC48U12CcYExGwmnxz7IgVReKxVUmsGzLTRdtJPbWLPuRG-6KvxduoAQS6HIZM-Cg0X0qn48&ved=2ahUKEwja7vLT0pOXAxXDnpUCHcRIC6gQFnoFCMwDEAE&uoh=1",
+   "displayed_link": "https://legends.pokemon.com \u203a en-us \u203a buy-now",
+   "favicon": "https://serpapi.com/images/i/UklGRvYBAABXRUJQVlA4IOoBAAAQCgCdASogACAAPtE-tFooIigoFAEAGglsALsvUnkt3Mh_2R59gFlSUQG-o_y9sCmW-Ov6E9gj9YerT-syL_7E-B_3mtjSyFL4yuDkYwyF5HiHS5taEblvcAD-_S_ldtVLf0F3yTIiXLD8gViMaWPYEyOoIFzexRfniL_nfTN12FMRcMqf9y83DRD3j69-W-yUsIWyr0gh7ayuJ_wtRvP5_-VwWGiU107Ejf-gcjGJwHMP5jmU8hmND_xX994_z39tVHn38G_65_59VV4Paug2NiWxZ-lB6UWzlIOxPSN1-tt5m-PmxUIgQYZM2cs7PTmYXCawU8HlheGPkhokp6MoVwoJrchscPEL9oPRDmAP1wReeAfadTH9dyUF-x2gXqwee2fQAdM_zYi5zM9Nt5HKTavP4ngOEmEn8xv-uP-fXSAcf8xrBOb_yYfd7RAgc_IbuUwwnUmC3dd_JhLinX_POFl4jxfLOrODVtAJDenq-XCQR3rxr4ZhVD-UfnEauHGMttMmKcfNiAI85gENSIg0173jrGv8dhhUG_me5HkgfbzjD-2379sapPdSPiinLPGIZpp6tiM-X5j_Ab0kyZNe1f4ubxifx1xRmGKYgp7dqTdZs1AvOg53Ya_vDbcja1QUF4W5ZREE5AAA.webp",
+   "snippet": "Pok\u00e9mon Legends: Z\u2011A \u2013 Mega Dimension. Your Lumiose City story continues with Mega Dimension, an upcoming DLC adventure for the Pok\u00e9mon Legends: Z\u2011A game.",
+   "about_this_result": {
+    "source": {
+     "description": "Pok\u00e9mon Legends: Z\u2011A \u2013 Mega Dimension. Your Lumiose City story continues with Mega Dimension, an upcoming DLC adventure for the Pok\u00e9mon Legends: Z\u2011A game.",
+     "source_info_link": "https://legends.pokemon.com/en-us/buy-now",
+     "icon": "https://serpapi.com/images/i/UklGRvYBAABXRUJQVlA4IOoBAAAQCgCdASogACAAPtE-tFooIigoFAEAGglsALsvUnkt3Mh_2R59gFlSUQG-o_y9sCmW-Ov6E9gj9YerT-syL_7E-B_3mtjSyFL4yuDkYwyF5HiHS5taEblvcAD-_S_ldtVLf0F3yTIiXLD8gViMaWPYEyOoIFzexRfniL_nfTN12FMRcMqf9y83DRD3j69-W-yUsIWyr0gh7ayuJ_wtRvP5_-VwWGiU107Ejf-gcjGJwHMP5jmU8hmND_xX994_z39tVHn38G_65_59VV4Paug2NiWxZ-lB6UWzlIOxPSN1-tt5m-PmxUIgQYZM2cs7PTmYXCawU8HlheGPkhokp6MoVwoJrchscPEL9oPRDmAP1wReeAfadTH9dyUF-x2gXqwee2fQAdM_zYi5zM9Nt5HKTavP4ngOEmEn8xv-uP-fXSAcf8xrBOb_yYfd7RAgc_IbuUwwnUmC3dd_JhLinX_POFl4jxfLOrODVtAJDenq-XCQR3rxr4ZhVD-UfnEauHGMttMmKcfNiAI85gENSIg0173jrGv8dhhUG_me5HkgfbzjD-2379sapPdSPiinLPGIZpp6tiM-X5j_Ab0kyZNe1f4ubxifx1xRmGKYgp7dqTdZs1AvOg53Ya_vDbcja1QUF4W5ZREE5AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjZqcGU1UUpEYTRScDY4V1NJV0g0V050QW5KQTk1M2hzSkN1dGhkYUIxU3NURVc4NEowUGxOY2ZaQzQ4VTEyQ2NZRXhHd21ueHo3SWdWUmVLeFZVbXNHekxUUmR0SlBiV0xQdVJHLTZLdnhkdW9BUVM2SElaTS1DZzBYMHFuNDgSBBoCCAAaIhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjZqcGU1UUpEYTRScDY4V1NJV0g0V050QW5KQTk1M2hzSkN1dGhkYUIxU3NURVc4NEowUGxOY2ZaQzQ4VTEyQ2NZRXhHd21ueHo3SWdWUmVLeFZVbXNHekxUUmR0SlBiV0xQdVJHLTZLdnhkdW9BUVM2SElaTS1DZzBYMHFuNDgSBBoCCAAaIhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Pokemon Legends: Z-A",
+   "read_more_link": "https://legends.pokemon.com/en-us/buy-now#:~:text=Pok%C3%A9mon%20Legends%3A%20Z%E2%80%91A%20%E2%80%93%20Mega,the%20Pok%C3%A9mon%20Legends%3A%20Z%E2%80%91A%20game."
+  }
+ ],
+ "_probe_latency_s": 3.34
+}

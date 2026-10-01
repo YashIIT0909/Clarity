@@ -1,0 +1,33 @@
+{
+ "search_metadata": {
+  "id": "6abb9f2631a601ea1c38950d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Wfac9xpwgiFNhAsYjka15Okmv7GtB8aafoHbPk929c8/6abb9f2631a601ea1c38950d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Wfac9xpwgiFNhAsYjka15Okmv7GtB8aafoHbPk929c8/6abb9f2631a601ea1c38950d.md",
+  "created_at": "2026-09-29 11:21:10 UTC",
+  "processed_at": "2026-09-29 11:21:10 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2F6Z4AAeSw3TxqrfW6%2Fs-l960.jpg",
+  "raw_html_file": "https://serpapi.com/searches/Wfac9xpwgiFNhAsYjka15Okmv7GtB8aafoHbPk929c8/6abb9f2631a601ea1c38950d.html",
+  "total_time_taken": 8.03
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://i.ebayimg.com/images/g/6Z4AAeSw3TxqrfW6/s-l960.jpg",
+  "type": "exact_matches"
+ },
+ "related_content": [
+  {
+   "query": "AirPods Pro",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQnsU9kNo8LPsRHQBC7OnTnxZN-ONRg:1790680877195&q=AirPods+Pro&kgmid=/g/11j0jgqk7p&sa=X&ved=2ahUKEwi1k92M1pOXAxVv0cMFHZKRLTYQ9_gLKAB6BAgeEAE",
+   "thumbnail": "https://serpapi.com/searches/6abb9f2631a601ea1c38950d/images/acCB2sKazUAV8gzbaLjuGHoEQUoMEuCxzoBRAQdO7VY.png",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11j0jgqk7p&q=AirPods+Pro"
+  },
+  {
+   "query": "AirPods",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQnsU9kNo8LPsRHQBC7OnTnxZN-ONRg:1790680877195&q=AirPods&kgmid=/g/11c1s04k8p&sa=X&ved=2ahUKEwi1k92M1pOXAxVv0cMFHZKRLTYQ9_gLKAF6BAgeEAM",
+   "thumbnail": "https://serpapi.com/searches/6abb9f2631a601ea1c38950d/images/acCB2sKazUAV8gzbaLjuGCD2HPwF8kgYHy-3-vo1G8s.jpeg",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11c1s04k8p&q=AirPods"
+  }
+ ],
+ "_probe_latency_s": 8.54
+}

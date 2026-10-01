@@ -1,0 +1,324 @@
+{
+ "search_metadata": {
+  "id": "6abb9b58f3fc7b4bf478972b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/V_JPxker_AYCs62AkCuomtX7T8wiErCXFlpYNkGAImo/6abb9b58f3fc7b4bf478972b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/V_JPxker_AYCs62AkCuomtX7T8wiErCXFlpYNkGAImo/6abb9b58f3fc7b4bf478972b.md",
+  "created_at": "2026-09-29 11:04:56 UTC",
+  "processed_at": "2026-09-29 11:04:56 UTC",
+  "google_reverse_image_url": "https://www.google.com/searchbyimage?image_url=https://m.media-amazon.com/images/I/61H3SpmyIIL._AC_SL1200_.jpg&sbisrc=cr_1_5_2",
+  "raw_html_file": "https://serpapi.com/searches/V_JPxker_AYCs62AkCuomtX7T8wiErCXFlpYNkGAImo/6abb9b58f3fc7b4bf478972b.html",
+  "total_time_taken": 2.3
+ },
+ "search_parameters": {
+  "engine": "google_reverse_image",
+  "image_url": "https://m.media-amazon.com/images/I/61H3SpmyIIL._AC_SL1200_.jpg",
+  "google_domain": "google.com",
+  "device": "desktop"
+ },
+ "search_information": {
+  "total_results": 447000,
+  "time_taken_displayed": 0.34,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "image_results": [
+  {
+   "position": 1,
+   "title": "Honeywell HHF360V 360 Degree Surround Fan Forced ...",
+   "link": "https://www.amazon.com/clp/B00VV156LA",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVe4-g3N_bRGvA5ckAE2FSqBPqX9PHGCOyfbn7ugGkNy2AOzVDrOuIgygVLMztog_rWGuWaTQcr4XoX9A9DcPLtriQw-f64LV8FRU86fI0K5EubZQKX6qsnEZ0Gg&ved=2ahUKEwiAl-W50pOXAxXLJkQIHfSdDO0QFnoFCOcDEAE&uoh=1",
+   "displayed_link": "https://www.amazon.com \u203a clp",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1Tew1-c-SvUesFXvqWIUsTr905hY6Egvf43OJmQ&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Amazon.com: Honeywell HHF360V 360 Degree Surround Fan Forced Heater with Surround Heat Output Charcoal Grey Energy Efficient Portable Heater with Adjustable ...",
+   "snippet_highlighted_words": [
+    "Honeywell HHF360V 360 Degree Surround Fan Forced Heater"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "extensions": [
+      "Free delivery",
+      "30-day returns"
+     ],
+     "detected_extensions": {
+      "day_returns": 30
+     }
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Amazon.com: Honeywell HHF360V 360 Degree Surround Fan Forced Heater with Surround Heat Output Charcoal Grey Energy Efficient Portable Heater with Adjustable ...",
+     "source_info_link": "https://www.amazon.com/clp/B00VV156LA",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmU0LWczTl9iUkd2QTVja0FFMkZTcUJQcVg5UEhHQ095ZmJuN3VnR2tOeTJBT3pWRHJPdUlneWdWTE16dG9nX3JXR3VXYVRRY3I0WG9YOUE5RGNQTHRyaVF3LWY2NExWOEZSVTg2ZkkwSzVFdWJaUUtYNnFzbkVaMEdnEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmU0LWczTl9iUkd2QTVja0FFMkZTcUJQcVg5UEhHQ095ZmJuN3VnR2tOeTJBT3pWRHJPdUlneWdWTE16dG9nX3JXR3VXYVRRY3I0WG9YOUE5RGNQTHRyaVF3LWY2NExWOEZSVTg2ZkkwSzVFdWJaUUtYNnFzbkVaMEdnEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 2,
+   "title": "Honeywell, Space Heater, 360\u00b0 Surround, Black, HHF360V",
+   "link": "https://www.walmart.com/ip/Honeywell-360-Degree-Surround-Fan-Forced-Heater-HHF360V-Black/1905278151",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFXJ1Kr-xGfuLC3A1A6ZOl9CldlcdHHhj8hxvEzBA4oIjFCblejxVQmzu6GIuiNzfaOt3j56ODUqjIYFJV_tdi6-6XZsgmZVxkTsURjN67dYwb0e58-6eFd3MA5USjH-KGjkK2W5K9_OoUA8j9YaMHHur1C8uJUamJDK1fhLqmqN6nOt8uKOKETvKB8afGsqF44ZNkBxq-0HyDg&ved=2ahUKEwiAl-W50pOXAxXLJkQIHfSdDO0QFnoFCOgDEAE&uoh=1",
+   "displayed_link": "https://www.walmart.com \u203a ...",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYZRLrew909ggGjspNwjclbv03EiZX-bINYmo4ThFGDuQa1z52sVz&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp",
+   "snippet": "FOHERE Space Heater, 1500W Eco Portable Heaters for Indoor Use with Thermal Sensor, Digital Display, 12H Timer, 3 Mode, Quiet for Office, Bedroom, Room.",
+   "snippet_highlighted_words": [
+    "FOHERE Space Heater"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.4,
+      "reviews": 6255,
+      "price_from": 34.0,
+      "price_to": 44.0,
+      "currency": "$"
+     },
+     "extensions": [
+      "4.4(6,255)",
+      "$34.00 to $44.00",
+      "Out of stock"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "FOHERE Space Heater, 1500W Eco Portable Heaters for Indoor Use with Thermal Sensor, Digital Display, 12H Timer, 3 Mode, Quiet for Office, Bedroom, Room.",
+     "source_info_link": "https://www.walmart.com/ip/Honeywell-360-Degree-Surround-Fan-Forced-Heater-HHF360V-Black/1905278151",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZYSjFLci14R2Z1TEMzQTFBNlpPbDlDbGRsY2RISGhqOGh4dkV6QkE0b0lqRkNibGVqeFZRbXp1NkdJdWlOemZhT3QzajU2T0RVcWpJWUZKVl90ZGk2LTZYWnNnbVpWeGtUc1VSak42N2RZd2IwZTU4LTZlRmQzTUE1VVNqSC1LR2prSzJXNUs5X09vVUE4ajlZYU1ISHVyMUM4dUpVYW1KREsxZmhMcW1xTjZuT3Q4dUtPS0VUdktCOGFmR3NxRjQ0Wk5rQnhxLTBIeURnEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZYSjFLci14R2Z1TEMzQTFBNlpPbDlDbGRsY2RISGhqOGh4dkV6QkE0b0lqRkNibGVqeFZRbXp1NkdJdWlOemZhT3QzajU2T0RVcWpJWUZKVl90ZGk2LTZYWnNnbVpWeGtUc1VSak42N2RZd2IwZTU4LTZlRmQzTUE1VVNqSC1LR2prSzJXNUs5X09vVUE4ajlZYU1ISHVyMUM4dUpVYW1KREsxZmhMcW1xTjZuT3Q4dUtPS0VUdktCOGFmR3NxRjQ0Wk5rQnhxLTBIeURnEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Walmart",
+   "read_more_link": "https://www.walmart.com/ip/Honeywell-360-Degree-Surround-Fan-Forced-Heater-HHF360V-Black/1905278151#:~:text=FOHERE%20Space%20Heater%2C%201500W%20Eco,Quiet%20for%20Office%2C%20Bedroom%2C%20Room"
+  },
+  {
+   "position": 3,
+   "title": "Honeywell HHF360B 1500W 360\u02da Surround Indoor Heater ...",
+   "link": "https://www.target.com/p/honeywell-hhf360b-1500w-360-surround-indoor-heater-black/-/A-49107839",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFSErK7siN36YPyOqhluTYM-s7ddlbfIciQtDat6G8SELHVTyr-a6rSC6pkKG3P1sScah92b76u_RgZgyYXZZmvic3DOEba6wRsyDLLYVcgBrKGj8dNPL7ZSyltZeflph_Q0mmOzPDchKue7l-PXm-gQLW9hHQWY_19HuvIpe2FFXDTxE3YOdZeebOAnFMY8-2fT7YmE&ved=2ahUKEwiAl-W50pOXAxXLJkQIHfSdDO0QFnoFCOYDEAE&uoh=1",
+   "displayed_link": "https://www.target.com \u203a ... \u203a Space Heaters",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLkQXIcIBy-1nPorRdalUphyn1w9FThwekr_4A63kgp712JlqkY8Jj&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMAADLAADKAADJAADIAADSPDzkmZnvw8P02dnWVFT34OD____rs7Pyz8_56enYXV3hiIjfgoLwyMgzbyPyAAAAsUlEQVR4Aa1ShQGAMAyrzHH-P5YOdw-6ZU0V_gASCwj3KKWNdc4arTY0-5D0CJ6XnEqTGVK14LJuN8-7bzZjubVzhRIUrrUdldHHddkFgqqMK4-DaIicnCVmEp3IBtVxqKOmLLiq60rOqKisO1My8l8gcNbGwoCFfA114Vj5V0BVF2lFoORjuSNFJVfAdUfWDEoycufkuex5QOepnBfhvHznhT9v2Xmzz8fkfMDOR_MxGoruDjVyTTuYAAAAAElFTkSuQmCC.png",
+   "snippet": "Highlights \u00b7 360\u00b0 warmth: Honeywell space heater for indoor use with adjustable thermostat and 2 heat settings \u00b7 Exceeds industry safety standards: This small ...",
+   "about_this_result": {
+    "source": {
+     "description": "Highlights \u00b7 360\u00b0 warmth: Honeywell space heater for indoor use with adjustable thermostat and 2 heat settings \u00b7 Exceeds industry safety standards: This small ...",
+     "source_info_link": "https://www.target.com/p/honeywell-hhf360b-1500w-360-surround-indoor-heater-black/-/A-49107839",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMAADLAADKAADJAADIAADSPDzkmZnvw8P02dnWVFT34OD____rs7Pyz8_56enYXV3hiIjfgoLwyMgzbyPyAAAAsUlEQVR4Aa1ShQGAMAyrzHH-P5YOdw-6ZU0V_gASCwj3KKWNdc4arTY0-5D0CJ6XnEqTGVK14LJuN8-7bzZjubVzhRIUrrUdldHHddkFgqqMK4-DaIicnCVmEp3IBtVxqKOmLLiq60rOqKisO1My8l8gcNbGwoCFfA114Vj5V0BVF2lFoORjuSNFJVfAdUfWDEoycufkuex5QOepnBfhvHznhT9v2Xmzz8fkfMDOR_MxGoruDjVyTTuYAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZTRXJLN3NpTjM2WVB5T3FobHVUWU0tczdkZGxiZkljaVF0RGF0Nkc4U0VMSFZUeXItYTZyU0M2cGtLRzNQMXNTY2FoOTJiNzZ1X1JnWmd5WVhaWm12aWMzRE9FYmE2d1JzeURMTFlWY2dCcktHajhkTlBMN1pTeWx0WmVmbHBoX1EwbW1PelBEY2hLdWU3bC1QWG0tZ1FMVzloSFFXWV8xOUh1dklwZTJGRlhEVHhFM1lPZFplZWJPQW5GTVk4LTJmVDdZbUUSBBoCCAAaJBICCAAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZTRXJLN3NpTjM2WVB5T3FobHVUWU0tczdkZGxiZkljaVF0RGF0Nkc4U0VMSFZUeXItYTZyU0M2cGtLRzNQMXNTY2FoOTJiNzZ1X1JnWmd5WVhaWm12aWMzRE9FYmE2d1JzeURMTFlWY2dCcktHajhkTlBMN1pTeWx0WmVmbHBoX1EwbW1PelBEY2hLdWU3bC1QWG0tZ1FMVzloSFFXWV8xOUh1dklwZTJGRlhEVHhFM1lPZFplZWJPQW5GTVk4LTJmVDdZbUUSBBoCCAAaJBICCAAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Target",
+   "read_more_link": "https://www.target.com/p/honeywell-hhf360b-1500w-360-surround-indoor-heater-black/-/A-49107839#:~:text=Highlights&text=360%C2%B0%20warmth%3A%20Honeywell%20space%20heater,thermostat%20and%202%20heat%20settings&text=Exceeds%20industry%20safety%20standards%3A%20This,heater%20offers%20multiple%20safety%20options"
+  },
+  {
+   "position": 4,
+   "title": "Watch Honeywell 360 Degree Heater - Review on Amazon Live",
+   "link": "https://www.amazon.com/live/video/00ceeecf47f14af9b7bf5924ac3ba7df",
+   "displayed_link": "https://www.amazon.com \u203a live \u203a video",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJmzRrPk0YGCq8bcJRsF0c4ovzfGna81Shgyo_u1FBi-VjknXiYCyhQ&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Shop with expert advice from The Math Sorcerer's Lair in their latest video Honeywell 360 Degree Heater - Review.",
+   "duration": "4:21",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "date": "Nov 23, 2025"
+     },
+     "extensions": [
+      "Amazon.com",
+      "The Math Sorcerer's Lair",
+      "Nov 23, 2025"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Shop with expert advice from The Math Sorcerer's Lair in their latest video Honeywell 360 Degree Heater - Review.",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmp3d3R2QlBhZ3ltejM3ZXltZlNaZ0RYSWw4SExvblRRWlVmcWZLclY4ODQxbGpkeS14Um9EVnp1QlotRDlidGVpZDhnUC1SVVlEUTVDODg2dTdDNy1DdmRCVkI4RHhjVGpyMXhwTGZlSlctdWNqS3lUNFByd1VKVlhaN3hsdm95WW42alZOTlV6ck5kbTR5aVVkOW8yd2d4UXg2R0Z2b18SFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmp3d3R2QlBhZ3ltejM3ZXltZlNaZ0RYSWw4SExvblRRWlVmcWZLclY4ODQxbGpkeS14Um9EVnp1QlotRDlidGVpZDhnUC1SVVlEUTVDODg2dTdDNy1DdmRCVkI4RHhjVGpyMXhwTGZlSlctdWNqS3lUNFByd1VKVlhaN3hsdm95WW42alZOTlV6ck5kbTR5aVVkOW8yd2d4UXg2R0Z2b18SFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSY8MNtjY88zAZY4oEx_yT1ugmVnmH2sEsGVA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 5,
+   "title": "Honeywell 360 Surround Heater Slate Gray, HHF360V",
+   "link": "https://www.honeywellstore.com/store/products/honeywell-360-surround-heater-slate-gray-hhf360v.htm",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFd2h2XnrziMpRj5ugV2_ysQIZT1P0G0olLoIVkAvIAPnG2eOUmUDJYTpUeIpOh6UmdWneedOn5WSQlmlqAyQKiE6-vJJzqJEjRrgk5pAxeEZdTOX_3LT3TJ8zkbXozXt7AyqO50qJPHINBZp0_VsVtKmOysdFYlV96Z2AxNXxkKsVTql34huCBKLnOtlvxZ5II6CnqqZF9iv&ved=2ahUKEwiAl-W50pOXAxXLJkQIHfSdDO0QFnoFCOkDEAE&uoh=1",
+   "displayed_link": "https://www.honeywellstore.com \u203a ... \u203a Space Heaters",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YQFmsIQgTpcDSdaZxc1gmprLMB7TfLvKQ_uy0bmI8_I4dqXwGF-6&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAUElEQVR4AWNwL_BheGeoch2I_xPAtSC1aBimP4EI_S9BageXhaMWjlo4auGohWtBluLAa8mykBI8aiG5ceiDA9eOZgv6WThq4aiFoxaOWggA2ijPOUNfFDQAAAAASUVORK5CYII.png",
+   "snippet": "Honeywell 360 Degree Surround Fan Forced Heater, Gray Product Description \u00b7 New and Improved design delivers a more efficient heat output than previous model ...",
+   "snippet_highlighted_words": [
+    "Honeywell 360 Degree Surround Fan Forced Heater"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 5.0,
+      "reviews": 16,
+      "with_code_sep_copy_sep_copied": 44.96,
+      "day_returns": 30
+     },
+     "extensions": [
+      "5.0(16)",
+      "$44.96$50with codeSEP26 (Copy)SEP26)Copied(",
+      "In stock",
+      "$18.41 delivery",
+      "30-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Honeywell 360 Degree Surround Fan Forced Heater, Gray Product Description \u00b7 New and Improved design delivers a more efficient heat output than previous model ...",
+     "source_info_link": "https://www.honeywellstore.com/store/products/honeywell-360-surround-heater-slate-gray-hhf360v.htm",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAUElEQVR4AWNwL_BheGeoch2I_xPAtSC1aBimP4EI_S9BageXhaMWjlo4auGohWtBluLAa8mykBI8aiG5ceiDA9eOZgv6WThq4aiFoxaOWggA2ijPOUNfFDQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZkMmgyWG5yemlNcFJqNXVnVjJfeXNRSVpUMVAwRzBvbExvSVZrQXZJQVBuRzJlT1VtVURKWVRwVWVJcE9oNlVtZFduZWVkT241V1NRbG1scUF5UUtpRTYtdkpKenFKRWpScmdrNXBBeGVFWmRUT1hfM0xUM1RKOHprYlhvelh0N0F5cU81MHFKUEhJTkJacDBfVnNWdEttT3lzZEZZbFY5NloyQXhOWHhrS3NWVHFsMzRodUNCS0xuT3RsdnhaNUlJNkNucXFaRjlpdhIEGgIIABokEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZkMmgyWG5yemlNcFJqNXVnVjJfeXNRSVpUMVAwRzBvbExvSVZrQXZJQVBuRzJlT1VtVURKWVRwVWVJcE9oNlVtZFduZWVkT241V1NRbG1scUF5UUtpRTYtdkpKenFKRWpScmdrNXBBeGVFWmRUT1hfM0xUM1RKOHprYlhvelh0N0F5cU81MHFKUEhJTkJacDBfVnNWdEttT3lzZEZZbFY5NloyQXhOWHhrS3NWVHFsMzRodUNCS0xuT3RsdnhaNUlJNkNucXFaRjlpdhIEGgIIABokEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Honeywell Store",
+   "read_more_link": "https://www.honeywellstore.com/store/products/honeywell-360-surround-heater-slate-gray-hhf360v.htm#:~:text=Description&text=New%20and%20Improved%20design%20delivers,heat%20output%20than%20previous%20model"
+  },
+  {
+   "position": 6,
+   "title": "Honeywell 360 Degree Surround Fan Forced Heater\u2026",
+   "link": "https://www.honeywellstore.com/store/products/reviews/HHF360V",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAV4ZvaAoi8ek5sBb9Onmks5dqU6SMI4KK4zz-U1sfZm4x3e9vwE1WhQ-hsOuhB05WeF7nzw4qj2QF97A5PPGszkFKTkD18a_A19lqfwroY7AY8DtUKOY1lKxzFSKfh5WM15cVk3oACSdfKgUOHqjsSXGqJpg&ved=2ahUKEwiAl-W50pOXAxXLJkQIHfSdDO0QFnoFCOQDEAE&uoh=1",
+   "displayed_link": "https://www.honeywellstore.com \u203a products \u203a reviews",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YQFmsIQgTpcDSdaZxc1gmprLMB7TfLvKQ_uy0bmI8_I4dqXwGF-6&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAUElEQVR4AWNwL_BheGeoch2I_xPAtSC1aBimP4EI_S9BageXhaMWjlo4auGohWtBluLAa8mykBI8aiG5ceiDA9eOZgv6WThq4aiFoxaOWggA2ijPOUNfFDQAAAAASUVORK5CYII.png",
+   "snippet": "Customer reviews and ratings on the Honeywell 360 Surround Heater Slate Gray, HHF360V from Honeywell Store.",
+   "about_this_result": {
+    "source": {
+     "description": "Customer reviews and ratings on the Honeywell 360 Surround Heater Slate Gray, HHF360V from Honeywell Store.",
+     "source_info_link": "https://www.honeywellstore.com/store/products/reviews/HHF360V",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAUElEQVR4AWNwL_BheGeoch2I_xPAtSC1aBimP4EI_S9BageXhaMWjlo4auGohWtBluLAa8mykBI8aiG5ceiDA9eOZgv6WThq4aiFoxaOWggA2ijPOUNfFDQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVjRadmFBb2k4ZWs1c0JiOU9ubWtzNWRxVTZTTUk0S0s0enotVTFzZlptNHgzZTl2d0UxV2hRLWhzT3VoQjA1V2VGN256dzRxajJRRjk3QTVQUEdzemtGS1RrRDE4YV9BMTlscWZ3cm9ZN0FZOER0VUtPWTFsS3h6RlNLZmg1V00xNWNWazNvQUNTZGZLZ1VPSHFqc1NYR3FKcGcSBBoCCAAaIhIAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVjRadmFBb2k4ZWs1c0JiOU9ubWtzNWRxVTZTTUk0S0s0enotVTFzZlptNHgzZTl2d0UxV2hRLWhzT3VoQjA1V2VGN256dzRxajJRRjk3QTVQUEdzemtGS1RrRDE4YV9BMTlscWZ3cm9ZN0FZOER0VUtPWTFsS3h6RlNLZmg1V00xNWNWazNvQUNTZGZLZ1VPSHFqc1NYR3FKcGcSBBoCCAAaIhIAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Honeywell Store"
+  },
+  {
+   "position": 7,
+   "title": "How to Troubleshoot Honeywell HHF360V Heater Cold Air Issue",
+   "link": "https://www.youtube.com/watch?v=kb1SLvOmJsQ",
+   "displayed_link": "1K+ views \u00b7 1 year ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24lmIvc34b81YjZ9t2wvhcrHPipjxf_WZKrOVH2vi6w2MLu6swH-u7Q&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "How to Troubleshoot Honeywell HHF360V Heater Cold Air Issue \u00b7 Comments. Comment... 30:08 \u00b7 Go to channel Frugal DIY \u00b7 Troubleshoot Water Heater ...",
+   "duration": "1:22",
+   "about_this_result": {
+    "source": {
+     "description": "How to Troubleshoot Honeywell HHF360V Heater Cold Air Issue \u00b7 Comments. Comment... 30:08 \u00b7 Go to channel Frugal DIY \u00b7 Troubleshoot Water Heater ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkd6azNuWFh4bG5NVC1GNWhoRW95eDIyVXc0eG13U0RTNWp6ejl4TUFyajFjZG9rWXEyY1Fsak5VSlRpbjNVOHhuS0VKZ0VnQ2xfMURBdlpCenU3clcxVjc2N0xET2dYRWlLakRWWkNRWXc4SXlueFlhTmxSZzVVUzFxYjlhcTdrVEESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkd6azNuWFh4bG5NVC1GNWhoRW95eDIyVXc0eG13U0RTNWp6ejl4TUFyajFjZG9rWXEyY1Fsak5VSlRpbjNVOHhuS0VKZ0VnQ2xfMURBdlpCenU3clcxVjc2N0xET2dYRWlLakRWWkNRWXc4SXlueFlhTmxSZzVVUzFxYjlhcTdrVEESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRUqdG3F1an0anihPvTHAILZSQ4OShQejuBgA",
+   "source": "YouTube \u00b7 FAQ Manuals"
+  },
+  {
+   "position": 8,
+   "title": "Honeywell Heaters",
+   "link": "https://www.honeywellpluggedin.com/heaters/?srsltid=AU7gw4XeL6ZGXqDalrCrs1Bq491BeIVdYFldLenEbLZriGOP8vTUO-OL",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFZhz7dcaLgUWrlDLlEU0FrY7w1XWrx2CcYk7D4LFtPfUvhnpty-qzAXgNadsruHgfvUPo1xJ3DUYvLceojp8DVr0t6SWHyGj3sHUctJKphSLG6ETpc48xomFcqORsxbO_SLCqPykM510CHS53WgsDyoHBWoDJxaXf7CFWr_JUeakOYL3lEScOGKhXy3FVY3Cqt9h7or_KzXOMqsuAPVBfW5g1A&ved=2ahUKEwiAl-W50pOXAxXLJkQIHfSdDO0QFnoFCOMDEAE&uoh=1",
+   "displayed_link": "https://www.honeywellpluggedin.com \u203a heaters",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAaElEQVR4AWNwL_AZUDz8HHBQUVMYiA2BWB8PNoapR9a4EIj_E4G5CTigjUhzhIesA0YdMOqAUQeMOkAYD-amgwMI42HvgOv4MM0dAFI7bHPBqANGHTDqgFEHjDrAGIjDCGFqd81Ge8cANa8yVqpGp4kAAAAASUVORK5CYII.png",
+   "snippet": "Portable heaters are a smart and easy way to reduce your heating bills. But when you choose the Honeywell brand, you'll save even more. SUPPORT.",
+   "snippet_highlighted_words": [
+    "Portable heaters are a smart and easy way to reduce your heating bills"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Portable heaters are a smart and easy way to reduce your heating bills. But when you choose the Honeywell brand, you'll save even more. SUPPORT.",
+     "source_info_link": "https://www.honeywellpluggedin.com/heaters/?srsltid=AU7gw4XeL6ZGXqDalrCrs1Bq491BeIVdYFldLenEbLZriGOP8vTUO-OL",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAaElEQVR4AWNwL_AZUDz8HHBQUVMYiA2BWB8PNoapR9a4EIj_E4G5CTigjUhzhIesA0YdMOqAUQeMOkAYD-amgwMI42HvgOv4MM0dAFI7bHPBqANGHTDqgFEHjDrAGIjDCGFqd81Ge8cANa8yVqpGp4kAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZaaHo3ZGNhTGdVV3JsRExsRVUwRnJZN3cxWFdyeDJDY1lrN0Q0TEZ0UGZVdmhucHR5LXF6QVhnTmFkc3J1SGdmdlVQbzF4SjNEVVl2TGNlb2pwOERWcjB0NlNXSHlHajNzSFVjdEpLcGhTTEc2RVRwYzQ4eG9tRmNxT1JzeGJPX1NMQ3FQeWtNNTEwQ0hTNTNXZ3NEeW9IQldvREp4YVhmN0NGV3JfSlVlYWtPWUwzbEVTY09HS2hYeTNGVlkzQ3F0OWg3b3JfS3pYT01xc3VBUFZCZlc1ZzFBEgQaAggAGiASABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZaaHo3ZGNhTGdVV3JsRExsRVUwRnJZN3cxWFdyeDJDY1lrN0Q0TEZ0UGZVdmhucHR5LXF6QVhnTmFkc3J1SGdmdlVQbzF4SjNEVVl2TGNlb2pwOERWcjB0NlNXSHlHajNzSFVjdEpLcGhTTEc2RVRwYzQ4eG9tRmNxT1JzeGJPX1NMQ3FQeWtNNTEwQ0hTNTNXZ3NEeW9IQldvREp4YVhmN0NGV3JfSlVlYWtPWUwzbEVTY09HS2hYeTNGVlkzQ3F0OWg3b3JfS3pYT01xc3VBUFZCZlc1ZzFBEgQaAggAGiASABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Honeywell Plugged In",
+   "read_more_link": "https://www.honeywellpluggedin.com/heaters/?srsltid=AU7gw4XeL6ZGXqDalrCrs1Bq491BeIVdYFldLenEbLZriGOP8vTUO-OL#:~:text=SUPPORT"
+  },
+  {
+   "position": 9,
+   "title": "Honeywell HHF360V 360 Surround Fan Forced Heater",
+   "link": "https://www.ebay.com/itm/335761373366",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVCucI2OJ4ZJhijf7jNK2MaIPaqP_TgTPGm28fDm8LG8BkrQXBvZ9tHg15iKmmIpz0NaMkRLFJE9Y-lePsNsLyycrimqQC2_66cnnobhPgnykw21xmeNTz3VVd4A&ved=2ahUKEwiAl-W50pOXAxXLJkQIHfSdDO0QFnoFCOUDEAE&uoh=1",
+   "displayed_link": "https://www.ebay.com \u203a itm",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEZPbLWw7E-laUEwcx1ycHBKFr-FDDAeY_s9IyGkG70r2YzuHje1qP&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+   "snippet": "Item description from the seller. The Honeywell HHF360V 360 Surround Fan Forced Heater is a portable heater with a fan power source that provides radiant ...",
+   "snippet_highlighted_words": [
+    "portable heater with a fan power source"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Item description from the seller. The Honeywell HHF360V 360 Surround Fan Forced Heater is a portable heater with a fan power source that provides radiant ...",
+     "source_info_link": "https://www.ebay.com/itm/335761373366",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkN1Y0kyT0o0WkpoaWpmN2pOSzJNYUlQYXFQX1RnVFBHbTI4ZkRtOExHOEJrclFYQnZaOXRIZzE1aUttbUlwejBOYU1rUkxGSkU5WS1sZVBzTnNMeXljcmltcVFDMl82NmNubm9iaFBnbnlrdzIxeG1lTlR6M1ZWZDRBEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkN1Y0kyT0o0WkpoaWpmN2pOSzJNYUlQYXFQX1RnVFBHbTI4ZkRtOExHOEJrclFYQnZaOXRIZzE1aUttbUlwejBOYU1rUkxGSkU5WS1sZVBzTnNMeXljcmltcVFDMl82NmNubm9iaFBnbnlrdzIxeG1lTlR6M1ZWZDRBEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "eBay",
+   "read_more_link": "https://www.ebay.com/itm/335761373366#:~:text=Item%20description%20from%20the%20seller,source%20that%20provides%20radiant%20heating."
+  }
+ ],
+ "_probe_latency_s": 2.86
+}

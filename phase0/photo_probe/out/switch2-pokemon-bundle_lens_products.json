@@ -1,0 +1,295 @@
+{
+ "search_metadata": {
+  "id": "6abb9b8b4632b5a767009373",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/rhJjH9VcKXqF3kKSfYpVzBAXjJ67qHOq2xsUhztPF2c/6abb9b8b4632b5a767009373.json",
+  "markdown_endpoint": "https://serpapi.com/searches/rhJjH9VcKXqF3kKSfYpVzBAXjJ67qHOq2xsUhztPF2c/6abb9b8b4632b5a767009373.md",
+  "created_at": "2026-09-29 11:05:47 UTC",
+  "processed_at": "2026-09-29 11:05:47 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F715%2BajJYKbL._SL1500_.jpg",
+  "raw_html_file": "https://serpapi.com/searches/rhJjH9VcKXqF3kKSfYpVzBAXjJ67qHOq2xsUhztPF2c/6abb9b8b4632b5a767009373.html",
+  "total_time_taken": 3.19
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://m.media-amazon.com/images/I/715+ajJYKbL._SL1500_.jpg",
+  "type": "products"
+ },
+ "visual_matches": [
+  {
+   "position": 1,
+   "title": "Nintendo Switch 2 + L\u00e9gendes Pok\u00e9mon ZA : Amazon.fr: Videogames",
+   "link": "https://www.amazon.fr/-/en/Nintendo-Switch-L\u00e9gendes-Pok\u00e9mon-ZA/dp/B0G563BPJP",
+   "source": "Amazon",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "rating": 4.5,
+   "reviews": 95,
+   "price": {
+    "value": "\u20ac460*",
+    "extracted_value": 460.0,
+    "currency": "\u20ac"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyjPDUzEpVnoDox--8ydHAgGhqP8G88KRojFzLjB2cu8fsWMxW",
+   "thumbnail_width": 216,
+   "thumbnail_height": 233,
+   "image": "https://m.media-amazon.com/images/I/412euvxmUhL._AC_UF894,1000_QL80_.jpg",
+   "image_width": 830,
+   "image_height": 894
+  },
+  {
+   "position": 2,
+   "title": "Cuphead & The Delicious Last Course - Nintendo Switch [Digital Code] - Walmart.ca",
+   "link": "https://www.walmart.ca/en/ip/Cuphead-The-Delicious-Last-Course-Nintendo-Switch-Digital-Code/6000205662918",
+   "source": "Walmart",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABG0lEQVQ4jY2SwXGDMBBFH4gCUgLpgK0g8kVXkw7iChJX4qQCJxVArrqYDkQHpAQ3oHEOrD2YQR7-jGb2f3ZXy9dmJBC9VEBQKsaFfikvTzUAnhLx6gZ_ifgOmY56AH6NC5_Tj9HLBcC4kM30D2AL7AugBixgo5ctsDMuLN4YvZTAUfMB6hzogKtBFgjRy5vyVz2oFibFPdDdRoteLPCuE3XGhc3s9pMWt8CXcaFbmpLopdRRV-mPXmEVbg2iFxu9NMDAaNQcR2CIXhr9XQAKJQegUu0M_GjTGsC40KpWMXpURy89sM8ZjbkWd4xr-6280YNqojlojS0YXX1hYZHm0P3YTBapzVLJ6vig9Dm1XI9eoUzEqxucE_Ed_gF9gmpUdVvZZgAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7izByN8Wq2UG7XzI-NtuRNjeuDKVfILHquZw4ecHZn6XE3Fw",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i5.walmartimages.ca/asr/ee6cbff2-612f-48e5-bc0c-774ca0a80372.36e0ca0acf0efad8dc56079ebfc22bdf.jpeg?odnHeight=264&odnWidth=264&odnBg=FFFFFF",
+   "image_width": 264,
+   "image_height": 264
+  },
+  {
+   "position": 3,
+   "title": "Official OEM Pro Controller Xenoblade 2 Edition for Nintendo Switch\u2122 | eBay",
+   "link": "https://www.ebay.com/itm/233161350759",
+   "source": "eBay",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png",
+   "rating": 4.8,
+   "reviews": 203,
+   "price": {
+    "value": "$130*",
+    "extracted_value": 130.0,
+    "currency": "$"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJgcsoxchqL_9FoTVtLOkywkM1Z4ItkbAzKX4QbwiLzJO8PsSQ",
+   "thumbnail_width": 196,
+   "thumbnail_height": 257,
+   "image": "https://i.ebayimg.com/images/g/qnIAAeSwzIxqc2qm/s-l400.jpg",
+   "image_width": 306,
+   "image_height": 400
+  },
+  {
+   "position": 4,
+   "title": "Pok\u00e9mon Legends: Z-A | Nintendo Switch 2 | GameStop",
+   "link": "https://www.gamestop.com/video-games/nintendo-switch-2/products/pokemon-legends-z-a---nintendo-switch-2-edition/426537.html?bvstate=pg:2/ct:r",
+   "source": "GameStop",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAe1BMVEUAAAD____ExMS2trb4-PgzMzN4eHifn5_09PQuLi4kJCT8_Pzg4OB8fHyioqKbm5sODg6BgYEYGBg_Pz_Ozs5vb2-Ojo7s7OwJCQljY2M6Ojq-vr5DQ0OMjIwaGhpJSUlaWlqsrKzb29tnZ2dQUFDS0tLc3NxNTU2wsLC4wovsAAABuklEQVQ4jc2T25akIAxFLRQUFBEvqHijVKrr_79wEuwu56nfZq3hBRN2IByOUfQfjWH4LYyqVfD1zg0r56K6Qzpqo5TRY1NDWFsI01TprrmYQbA2e8BI2qWB2GqShPC10EBQNuF6ggQTlegQz_LHIyfaIjBiInmRAqins1sJ8z55TPoD-9P4WbwNgYVWj0cMcyxL5B8aWhIGPvpWO6z0pdYTzOUpSY_AEAmqECBsNn3Sk1RLBMgipdTGbNBik16AZcST59KFI7JdnXyt1-oGOr4xyY7TNipHoi214yjdZwdKt6-toXXFCiRCkRhuQDGdlsp0POLsuQel-ljSH6Ag77cPOQcXc-UeNkn24wbSBXXIJjdEFXe69IHQ9ecIeSoQrIjHeqWU2rMMz6P4RwdXywCwr06VZpx1i0Kl9lvJrHVRlyCwsDi8CXu_LuB6i7wwZ-gllmMclEyD1EaAEoeH0tyHWxTxYVVo2veQ7SVKZZc23LqAkoy4dST4vOgHr7bgR2twt8THO-hwRlxOl8EKM9eXY2cGllw612k5iqiiTkIMibn-8TG4WFQDeP3b7UMt_nZ1SP3-m_zT8QfYcCGoph_iCQAAAABJRU5ErkJggg.png",
+   "rating": 4.6,
+   "reviews": 327,
+   "price": {
+    "value": "$70*",
+    "extracted_value": 70.0,
+    "currency": "$"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwpa9xbA91aPnvaorQeVOwDtZdhTHUlu1AfDqEanRqrPWN22yM",
+   "thumbnail_width": 286,
+   "thumbnail_height": 176,
+   "image": "https://media.gamestop.com/i/gamestop/20021783-be099b16.jpg",
+   "image_width": 4686,
+   "image_height": 2894
+  },
+  {
+   "position": 5,
+   "title": "Nintendo Switch 2 Pokemon Legends: Z-A - Nintendo Switch 2 Edition - Shopitree.com",
+   "link": "https://www.shopitree.com/products/nintendo-switch-2-pokemon-legends-z-a",
+   "source": "Shopitree.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwadbwadbwadbwadbwbdbwadbwbdbwbdbwadbwbdbwbdbwadbwbdbwbdbzuc6ugAAAADnRSTlMA8iUIyp1K1nYZtYw05KA3jowAAAE2SURBVDiNhVNJksQwCAPjPQn_f-4A3tM1FS7dNkQIIQPMoBg8MqMPkeA3XGANRPsJ7p2_5Nbn6EpxMXs5XEe6JOa6feQqcyrbWaBv_RNDQnxqJril1fyiCLrScol7IAFJn4GRel751RAqctWhPKfBD20s34Gkk_UjbEyFgJ1v5mdKAv1GaQQDBMgy_Wv2qjc02F7v2Q2cILKHgZDe8nmO0iHPYX8gsvTQoha6DH8fBQqPS7CqGvm4FThGYFya5yZjnhcF-SgAuh5Doa1ga9Ha6q791mKR3BvlRXKOuSLw0iYsoVYU7uszeGJ--49GgUk9l7VP3_dqy5rrPjjYXvu6h2Fyl5nU4JoYhjHLGSF-muHalMty3bSVp2Vjy0_TdtuXXB_EVE24w_bfDwc-nx58P1747_n_AasXD-4Q1B3dAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn_DTmyMTp9eqOShsBqKTiljKiFHu43syKANwlGCzgv90O0Y18",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://www.shopitree.com/cdn/shop/files/Pokemon-Legend-Z-A-Full-FINISH-1_300x300.jpg?v=1760579127",
+   "image_width": 300,
+   "image_height": 300
+  },
+  {
+   "position": 6,
+   "title": "Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch | Kopa Games \u2013 KOPA GAMES",
+   "link": "https://www.kopagames.com/products/pokemon-legends-z-a-nintendo-switch",
+   "source": "Kopa Games",
+   "source_icon": "https://serpapi.com/searches/6abb9b8b4632b5a767009373/images/qjNS6Okb7Ne147MUMt-BfysDWhVUarURQMTlZmWCc9w.png",
+   "rating": 4.5,
+   "reviews": 1090,
+   "price": {
+    "value": "$55*",
+    "extracted_value": 55.0,
+    "currency": "$"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG65mKSIWwvfhvjZBDn5sNTOHyCMsqpibFNRolzUpUzwrisHLd",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://www.kopagames.com/cdn/shop/files/Pokemon-Legends-Z-A.jpg?v=1765650602&width=1445",
+   "image_width": 1200,
+   "image_height": 1200
+  },
+  {
+   "position": 7,
+   "title": "Green and white Combo Full Wrap Vinyl Skin for Nintendo Switch \u2013 NexPrinto",
+   "link": "https://nexprinto.com/products/copy-of-watercolor-galaxy-cosmic-full-wrap-vinyl-skin-for-nintendo-switch",
+   "source": "NexPrinto",
+   "source_icon": "https://serpapi.com/searches/6abb9b8b4632b5a767009373/images/2s9jcCARFavj0TyPjFWRrwlwBIWKP7Sw9NSAZxdfYLY.png",
+   "price": {
+    "value": "$13*",
+    "extracted_value": 13.0,
+    "currency": "$"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQArx83wj2XtXdtnLv0sQTrQZirBGmnPq437i-_oY72ZHGpEdRn",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://nexprinto.com/cdn/shop/products/greenwhite3.jpg?v=1597738984&width=1946",
+   "image_width": 1459,
+   "image_height": 1946
+  },
+  {
+   "position": 8,
+   "title": "Nintendo, Pokemon Legends Z-A, Nintendo Switch 2 Game, Mystery Pin - Walmart.com",
+   "link": "https://www.walmart.com/ip/Pokemon-Legends-Z-A-w-exclusive-Gift-with-Purchase-Nintendo-Switch-2/16782664810",
+   "source": "Walmart",
+   "source_icon": "https://serpapi.com/searches/6abb9b8b4632b5a767009373/images/ss73CkBxILWJoieRSLkw_-3uuKWtirWmuI_dwU_Dr_8.png",
+   "rating": 4.5,
+   "reviews": 56,
+   "price": {
+    "value": "$69*",
+    "extracted_value": 69.0,
+    "currency": "$"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkQzfkSaupB5wZdu7yQ0cOHJlOkhQuInQ1Rum6THqSVK62xcQ",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i5.walmartimages.com/seo/Pokemon-Legends-Z-A-w-exclusive-Gift-with-Purchase-Nintendo-Switch-2_1af92547-6467-4faa-b3be-bc6c6d3fc9bb.55f2bedcf09699a44ade893122c57316.png?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+   "image_width": 768,
+   "image_height": 768
+  },
+  {
+   "position": 9,
+   "title": "Pokemon Legends Z-A - Nintendo Switch Games Cartridge Physical Card TV Tabletop Handheld - AliExpress 44",
+   "link": "https://www.aliexpress.com/item/1005009783443236.html",
+   "source": "AliExpress",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACqklEQVRYhe2Xz0vTYRzHX8_z3S8T1hyKJSEhBh5kSRjYyDSkg2JQ0MU_IIToFNnu3iajUwQjBQ9Wl26NDCIcIXYIlMybMDqkBIpjY1-duj1Ph21mtE239uPS-_jl-3xer-fh-3yf5yPIRgcZBHwavAKcVCEa4gKWAL8YJwwgsvDHgB-Q1QDniQJ8YpyAyM78Yw3hxyWGpAZfHeBkmT6LAC-ASoL5VZCMSNJx0LqyNCHAcIKjQ9F4WSMdAHiFDqIPt2EnZKBMUVlqgchGjXs0jbUZpErWFg6gTJFhJkEmVmRN4cclEisSmYzUHp5LMiKQ6Vjd-KRjINFFVkBUYHcWq6FF4f3vmnpF68IGVk9f2Wyrp4_W8AauqZcF38kvICWOoTvIpmbs_cNlC9j7h5GuZhxDd0EWQOV9qhQqFgXAaDlftkBurIpFQakSBIDU-jcAbFeuly2QG5urVZLA_uJ7AIz2Tmy9A6XDewcw2jv_qFWSwF5oDrVrIoTAOREAq-30dKsN50QAIQRq12QvNFe6gIpuY84GMvW6enBNToNhORluWHBNTmPt6gHAnA2gotulCwAkZvwcLC8C0DAyhjs4f7SsedntnbiD8zSMjAFwsLxIYsZf1FdseixFD15x1o37eQhb91UAdOqQ_U_v2P_8gdSPCACWCx3Yr93CfmMEYbFm4Gtf2Hkwio7t_JsAAI4GnI-mOHPvPsIwir6q02l237wg_vQJJPdOLH06gWwsl7ppHHuI_eZtZFMLQmR-41prVHSL_YW3mK-fkVpfO23J0gR-jxIYbReRLecAUFs_SW9-L-saVZ5ABVOPy-h_gb8E4nXkxyWZXq1eWZJkesL8h3V1owC_bFtNhcm0Z7WUUICvbTUVPrqRbnosg1kRL1Vqz8l8b0uAPztxfgEVaeU3I5lENgAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKa0GUAnX-TBM95Vjx1B61Hsws0h46sU6sIPnw8VXoNJQ-kpvZ",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://ae-pic-a1.aliexpress-media.com/kf/S8b74a58621bf492c878a288417667ca8C.jpg",
+   "image_width": 1000,
+   "image_height": 1000
+  },
+  {
+   "position": 10,
+   "title": "Pokemon Legends Z-A Nintendo Switch 2 Edition BRAND NEW | eBay",
+   "link": "https://www.ebay.com/itm/357757063346",
+   "source": "eBay",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0gDPkr4XxZulrN6X9yhOxwRbDoChfecKtL-6WSJMtkQTI2l8X",
+   "thumbnail_width": 268,
+   "thumbnail_height": 188,
+   "image": "https://i.ebayimg.com/images/g/N5YAAeSwgfNo8AbM/s-l400.jpg",
+   "image_width": 400,
+   "image_height": 280
+  },
+  {
+   "position": 11,
+   "title": "Pok\u00e9mon LEGENDS Z-A Switch Early Preorder Japan Exclusive NEW | eBay",
+   "link": "https://www.ebay.com/itm/197621810933",
+   "source": "eBay",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotm17rf8cJnuj94q_xvBO91cb-L0wCFz2qMrJVEifCVDQd8z4",
+   "thumbnail_width": 269,
+   "thumbnail_height": 187,
+   "image": "https://i.ebayimg.com/images/g/yIgAAeSwwfdo8Gk7/s-l400.png",
+   "image_width": 400,
+   "image_height": 279
+  },
+  {
+   "position": 12,
+   "title": "READY STOCK ] Nintendo Switch Pok\u00e9mon Legends ZA (\u4e2d/ENG) | Shopee Malaysia",
+   "link": "https://shopee.com.my/-READY-STOCK-Nintendo-Switch-Pok\u00e9mon-Legends-ZA-(\u4e2d-ENG)-i.552554456.41973542235",
+   "source": "Shopee Malaysia",
+   "source_icon": "https://serpapi.com/searches/6abb9b8b4632b5a767009373/images/i9N9NT_1L2LwNqImf_Arr3zBN6dBpoEGqXP77IXJynY.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjgSoToDW0BatZF6hrL3JZs4aSSJpbcnTeAQcw4QRD_LdKhU9x",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://down-my.img.susercontent.com/file/my-11134207-820l9-mgc7h5hsclje90",
+   "image_width": 900,
+   "image_height": 900
+  },
+  {
+   "position": 13,
+   "title": "Buy Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition upgrade pack | Startselect",
+   "link": "https://startselect.com/pl-en/pokemon-legends-z-a-nintendo-switch-2-edition-upgrade-pack-switch-2/73317",
+   "source": "Startselect",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAkFBMVEX___91dXmysrSNjZD6-vtjY2fDw8T39_eIiIuamp2CgoXd3d7n5-fX19ikpKbz8_OsrK7Kyssq-ce2trfA_e7m_vj3__3u_vq8vL14eHtsbG_t7e5oaGvQ0NKs_e2a_erX_vVV-9Zr-tZB-cvf_vd_-97L_vFg-9kU975H-tCE_eWY_Oap_OZ--9qL_eZy_N_RTiYdAAABJklEQVQ4jb1TXYNCQBRlmSnfGmYwUURiS_3_f9dsd4SwD_uw9-lwjnM_Kcp_h6Ntsb5O7w1k-Ny01nj84oTK3yzRtpYG4J6piTOj9TjV7P7Bc5HrTXnL5PgFGINiEzWbZEfGHtDhCIqNj_xRehRLlBdFKKGDhkJ2XPbOToRcIvl2GwwZVCnICSFlb6F9fQoYZVQEo9GyoDoXwJyKekHADhdSgqBo2mM0E9DvlhDp0LSPap4iur0F5ZUuFpnfYEhhvdKFotBz13X1vM33oGjbNE0vGA3KRliisC2vEo5HLZYl18vuDyhUD8bLEutOVNBXOXiafKdMQqzXHQ4tTvv1j8JJ-kMTx4dn9I-JC9eK-XB8nyZqkllaGq__GZ7L1z-XEu9X-i_xBB1BEwD3hQdrAAAAAElFTkSuQmCC.png",
+   "price": {
+    "value": "PLN 40*",
+    "extracted_value": 40.0,
+    "currency": "PLN"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy_YGbHH057N7uZlD_9Mexj0TkbH5iiC35SanjYhv0tE0GdUiA",
+   "thumbnail_width": 179,
+   "thumbnail_height": 282,
+   "image": "https://cdn.startselect.com/production/products/images/291bf/73317/3282367968.png",
+   "image_width": 744,
+   "image_height": 1171
+  },
+  {
+   "position": 14,
+   "title": "NEW* Pokemon Legends Z-A Nintendo Switch 2 | | Mercari",
+   "link": "https://www.mercari.com/us/item/m38955908547/",
+   "source": "Mercari",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVpd_RrefVndfRldPNte_X-_v5jcvNhcPNfbvJuffZwfvbX2_xxgPaJlPbZ3fyAjPW1vPqNmfekrPnv8f6GkfZ3hPXS1vvg5P2XoffJzvuRnPe_xfr5-v4CUSPoAAABBklEQVQ4jYXR3RaCIAwA4IlOMVLR1LR4_-dsDIad7MhuuNh3xn5AAUfBUXG0bXujuHOAyggC18KDS8HgVyzjIQL4ERaf0y0KKM-ifSA-pQaUZ_FCxEn6IHAWw_txl049-PPLMQuDKwG1iG7bliCWbRuTgFpEj7iHGjuiSTUIREEAB5-fkUEUHgThwer7WCMoDlALwE5BhwJYQCPCcEIpc4CCgQhK0IrHkR-TpiUQBYEJse_5MWkfHgRBYNh9-XfHIAoGjYDFIbolAvgCTQSlRbRKAAvQIhhU1lZqFgAMRDDgnXqQLkcgCuPcEHY6O7em23qQfkl3-bo-g0uhc0LnhM4JnRM6Iz67PBTWhgrZsgAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy8AznLJT3Sprg0jsTfAcrgmc_LnCWsuRGWk42bLHCCvUh8acO",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://u-mercari-images.mercdn.net/photos/m38955908547_1.jpg?width=2560&quality=75&_=1776798274",
+   "image_width": 3413,
+   "image_height": 2560
+  },
+  {
+   "position": 15,
+   "title": "Pokemon Legends Z-A Nintendo Switch - Nintendo Switch (LA-H-ALZLA) | RetroBroker",
+   "link": "https://retrobroker.com/en-GB/gb/products/pokemon-legends-z-a-nintendo-switch",
+   "source": "RetroBroker",
+   "source_icon": "https://serpapi.com/searches/6abb9b8b4632b5a767009373/images/i9N9NT_1L2LwNqImf_Arr38hMYXv5XybggIVdxbeCoI.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZe5ljTEH_DKo446BmqS9mSCRNqzLTat2ZnbJbqw_nEjZWamCv",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://storage.googleapis.com/retrobroker/products/rtr_img_0005_1771085883191/thumbnail.webp",
+   "image_width": 800,
+   "image_height": 600
+  },
+  {
+   "position": 16,
+   "title": "Nintendo Switch Prime Day Pokemon Celebrate 30 Years Of Pok\u00e9mon With These Nintendo Switch Games \u2014 They'",
+   "link": "https://www.lojamundodaagua.com.br/?t=22089876011410",
+   "source": "lojamundodaagua.com.br",
+   "source_icon": "https://serpapi.com/searches/6abb9b8b4632b5a767009373/images/i9N9NT_1L2LwNqImf_Arr9YGZZ6wHljAu_BVTZmP4vo.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFwOVXq8b6cmG3Xl0yi7_XXH_PERyr9xbVfjANYOWCnKsyd9D4",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://cdn.mos.cms.futurecdn.net/atFUp3agKyv3PjhdhhCT7j-500-80.jpg",
+   "image_width": 667,
+   "image_height": 500
+  }
+ ],
+ "related_content": [
+  {
+   "query": "Pok\u00e9mon Legends: Z-A",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQnuaCKkaxWKJh9JnERPW2XbDAXU6oQ:1790679950133&q=Pok%C3%A9mon+Legends:+Z-A&kgmid=/g/11ldr17lcf&sa=X&ved=2ahUKEwj13dXS0pOXAxWTnWoFHb47B0oQ9_gLKAB6BAhdEAE",
+   "thumbnail": "https://serpapi.com/searches/6abb9b8b4632b5a767009373/images/MOFzuukyVf8rQKU0aeGT8UfGASat7Lh6k9jFZgewBLM.jpeg",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11ldr17lcf&q=Pok%C3%A9mon+Legends%3A+Z-A"
+  },
+  {
+   "query": "Nintendo Switch",
+   "link": "https://www.google.com/search?sca_esv=6f88a670a7218a83&lns_surface=26&sxsrf=APpeQnuaCKkaxWKJh9JnERPW2XbDAXU6oQ:1790679950133&q=Nintendo+Switch&kgmid=/g/11hf00yspg&sa=X&ved=2ahUKEwj13dXS0pOXAxWTnWoFHb47B0oQ9_gLKAF6BAhdEAM",
+   "thumbnail": "https://serpapi.com/searches/6abb9b8b4632b5a767009373/images/MOFzuukyVf8rQKU0aeGT8Tl5GIVNC493BSm29uGkuGg.jpeg",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&kgmid=%2Fg%2F11hf00yspg&q=Nintendo+Switch"
+  }
+ ],
+ "_probe_latency_s": 3.63
+}

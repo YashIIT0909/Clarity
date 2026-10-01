@@ -1,0 +1,2001 @@
+{
+ "search_metadata": {
+  "id": "6abb9f9c7d6e70336ab4cc00",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/o851RLVBMzaUTmn5RHa81Y6X85GxWmRSoxPt-RjUnxQ/6abb9f9c7d6e70336ab4cc00.json",
+  "markdown_endpoint": "https://serpapi.com/searches/o851RLVBMzaUTmn5RHa81Y6X85GxWmRSoxPt-RjUnxQ/6abb9f9c7d6e70336ab4cc00.md",
+  "created_at": "2026-09-29 11:23:08 UTC",
+  "processed_at": "2026-09-29 11:23:08 UTC",
+  "bing_reverse_image_url": "https://www.bing.com/images/search?q=imgurl:https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FJtcAAeSw6EJqsVhv%2Fs-l960.jpg&view=detailv2&iss=sbi",
+  "raw_html_file": "https://serpapi.com/searches/o851RLVBMzaUTmn5RHa81Y6X85GxWmRSoxPt-RjUnxQ/6abb9f9c7d6e70336ab4cc00.html",
+  "prettify_html_file": "https://serpapi.com/searches/o851RLVBMzaUTmn5RHa81Y6X85GxWmRSoxPt-RjUnxQ/6abb9f9c7d6e70336ab4cc00.prettify",
+  "total_time_taken": 3.72
+ },
+ "search_parameters": {
+  "engine": "bing_reverse_image",
+  "image_url": "https://i.ebayimg.com/images/g/JtcAAeSw6EJqsVhv/s-l960.jpg"
+ },
+ "search_information": {
+  "total_estimated_matches": 417
+ },
+ "image_info": {
+  "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO",
+  "source": "https://i.ebayimg.com/images/g/JtcAAeSw6EJqsVhv/s-l960.jpg",
+  "original": "https://i.ebayimg.com/images/g/JtcAAeSw6EJqsVhv/s-l960.jpg",
+  "domain": "i.ebayimg.com",
+  "width": 960,
+  "height": 796,
+  "format": "jpeg",
+  "file_size": "131412 B"
+ },
+ "related_content": [
+  {
+   "position": 1,
+   "title": "BNIB Apple Airpods Pro Gen 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=0EDEEC0597299A3CEB1F55761EA7B66FACF550CF&simid=608006734557027726",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.rjaZOsNndFAa-6GG9Zi7NgHaJ4?r=0&pid=Api",
+   "date": "2022-12-27T23:29:00Z",
+   "source": "https://www.carousell.sg/p/bnib-apple-airpods-pro-gen-2-1205070616/",
+   "original": "https://media.karousell.com/media/photos/products/2022/12/24/bnib_apple_airpods_pro_gen_2_1671852929_4c513a56.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.ae36993ac36774501afba186f598bb36?rik=z1D1rG%2b2px52VQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "107865 B"
+  },
+  {
+   "position": 2,
+   "title": "Apple AirPods 4 (Active Noise Cancellation), Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=A91DD371B53007CEEF861B6C447ED0225C776724&simid=608005746755903888",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.255H4DWtN-flQUq2h-mnPwHaGf?r=0&pid=Api",
+   "date": "2025-02-20T18:40:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-4-active-noise-cancellation-1353930995/",
+   "original": "https://media.karousell.com/media/photos/products/2025/2/19/apple_airpods_4_active_noise_c_1739975727_4626db4a.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.db9e47e035ad37e7e5414ab687e9a73f?rik=JGd3XCLQfkRsGw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1080,
+   "height": 947,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 415,
+   "file_size": "179038 B"
+  },
+  {
+   "position": 3,
+   "title": "Apple Airpods Gen2, Audio, Portable Audio Accessories on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=34EED0A2B6FFEA8FE607451A82168B48F90A889F&simid=608023356110831347",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.Q70rsbxye4ggfAneBRVDVAHaJ4?r=0&pid=Api",
+   "date": "2022-01-14T11:12:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-gen2-281295139/",
+   "original": "https://media.karousell.com/media/photos/products/2020/03/04/apple_airpods_gen2_1583327623_e5ed07a7.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.43bd2bb1bc727b88207c09de05154354?rik=n4gK%2bUiLFoIaRQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "178704 B"
+  },
+  {
+   "position": 4,
+   "title": "APPLE AIRPODS PRO 2nd Generation with MagSafe Wireless Charging Case ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=B7C81EC6B60C0CD38BA3AF9AD4036A4B908C08D4&simid=607998247767974220",
+   "thumbnail": "https://tse2.explicit.bing.net/th/id/OIP.aVr2_SWcEYmFoVkt37CKnAHaHa?r=0&pid=Api",
+   "date": "2023-05-19T21:05:00Z",
+   "source": "https://picclick.com/Apple-AirPods-Pro-2nd-Generation-with-MagSafe-Wireless-385622863401.html",
+   "original": "https://www.picclickimg.com/6oMAAOSwiaBkZpDq/Apple-AirPods-Pro-2nd-Generation-with-MagSafe-Wireless.webp",
+   "cdn_original": "https://th.bing.com/th/id/R.695af6fd259c118985a1592ddfb08a9c?rik=1AiMkEtqA9Sarw&pid=ImgRaw&r=0",
+   "domain": "www.picclickimg.com",
+   "width": 640,
+   "height": 640,
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "67560 B"
+  },
+  {
+   "position": 5,
+   "title": "BNIB Airpods Pro Gen 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=31DEF1E72F5EABA379076957167B544E80811DC2&simid=608010118985751629",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.enwbUzDJHIAvYRxVyeQQCAHaJ4?r=0&pid=Api",
+   "date": "2023-11-02T13:38:00Z",
+   "source": "https://www.carousell.sg/p/bnib-airpods-pro-gen-2-1207466347/",
+   "original": "https://media.karousell.com/media/photos/products/2023/1/4/bnib_airpods_pro_gen_2_1672810468_2a33ac5a.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.7a7c1b5330c91c802f611c55c9e41008?rik=wh2BgE5UexZXaQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "64495 B"
+  },
+  {
+   "position": 6,
+   "title": "Apple Airpods Pro Gen 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=4266FBF6F404C5A4A6EBC71717BF777DAE864532&simid=608052810991158082",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.L4MzsqOfzokYVZoD_QNC2gHaJ4?r=0&pid=Api",
+   "date": "2025-03-01T23:58:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-gen-2-1355731621/",
+   "original": "https://media.karousell.com/media/photos/products/2025/3/1/apple_airpods_pro_gen_2_1740819809_96ec4176.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.2f8333b2a39fce8918559a03fd0342da?rik=MkWGrn13vxcXxw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "112092 B"
+  },
+  {
+   "position": 7,
+   "title": "AirPods Pro, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=4E8BF466F351CA61271827904BCD639CA45588D9&simid=608048782307324026",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.KKJkmeKU15DNqwL-aA-kvQHaJ4?r=0&pid=Api",
+   "date": "2022-08-01T17:12:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-1035825844/",
+   "original": "https://media.karousell.com/media/photos/products/2020/9/17/airpods_pro_1600324540_26bbe84e.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.28a26499e294d790cdab02fe680fa4bd?rik=2YhVpJxjzUuQJw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "40590 B"
+  },
+  {
+   "position": 8,
+   "title": "Brand New Apple AirPods Pro. Sealed, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=2AD48D7553A49AB47670B07F59B63BA41FAF2497&simid=608044925445090343",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.uDv7UzJ8f9apDRBuMaj03AHaHa?r=0&pid=Api",
+   "date": "2021-11-08T04:03:00Z",
+   "source": "https://www.carousell.sg/p/brand-new-apple-airpods-pro-sealed-1124287920/",
+   "original": "https://media.karousell.com/media/photos/products/2021/11/7/brand_new_apple_airpods_pro_se_1636298031_4a7f5fa3.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.b83bfb53327c7fd6a90d106e31a8f4dc?rik=lySvH6Q7tll%2fsA&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1024,
+   "height": 1024,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "65405 B"
+  },
+  {
+   "position": 9,
+   "title": "AirPods Pro, 1st gen in Original Packaging | Airpods pro gen 1, Airpods ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=E7007F99BA9DE6C7E95FF9806929821B011FB752&simid=608025533672194310",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.rLikhw6qqyiIdq8pEyiwaQHaHa?r=0&pid=Api",
+   "date": "2023-09-24T01:17:00Z",
+   "source": "https://www.pinterest.com/pin/airpods-pro-1st-gen-in-original-packaging--495255290284518694/",
+   "original": "https://i.pinimg.com/736x/a1/b0/fb/a1b0fb63efd4f506373be21d273f2c57.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.acb8a4870eaaab288876af291328b069?rik=UrcfARuCKWmA%2bQ&pid=ImgRaw&r=0",
+   "domain": "i.pinimg.com",
+   "width": 580,
+   "height": 580,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "17309 B"
+  },
+  {
+   "position": 10,
+   "title": "APPLE AIRPODS PRO 2nd Generation with MagSafe Wireless Charging Case ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=6674A1FE1EEDB0D3AA2C0491E9910DC33ECD608F&simid=607991749471651399",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.VCCT0rvKYelKpggF01oe5gHaHZ?r=0&pid=Api",
+   "date": "2025-02-27T04:19:00Z",
+   "source": "https://picclick.com/Apple-AirPods-Pro-2nd-Generation-with-MagSafe-Wireless-316372807797.html",
+   "original": "https://www.picclickimg.com/~AwAAeSwvK1nu462/Apple-AirPods-Pro-2nd-Generation-with-MagSafe-Wireless.webp",
+   "cdn_original": "https://th.bing.com/th/id/R.542093d2bbca61e94aa60805d35a1ee6?rik=j2DNPsMNkemRBA&pid=ImgRaw&r=0",
+   "domain": "www.picclickimg.com",
+   "width": 640,
+   "height": 639,
+   "thumbnail_width": 474,
+   "thumbnail_height": 473,
+   "file_size": "34012 B"
+  },
+  {
+   "position": 11,
+   "title": "BNIB, AirPods Pro Gen 1, sealed, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=84726AE9F499A4763FAC747BA684300D841BE84A&simid=608050757985705885",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.Sl8twY6YSdMJHlbnBgVdAAHaJ4?r=0&pid=Api",
+   "date": "2023-01-18T11:44:00Z",
+   "source": "https://www.carousell.sg/p/bnib-airpods-pro-gen-1-sealed-1209709218/",
+   "original": "https://media.karousell.com/media/photos/products/2023/1/15/bnib_airpods_pro_gen_1_sealed_1673764589_7f9a31d7.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.4a5f2dc18e9849d3091e56e706055d00?rik=SugbhA0whKZ7dA&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "72686 B"
+  },
+  {
+   "position": 12,
+   "title": "AirPods gen 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=220DD006436B77A0567F7F4EF59717342EC989DD&simid=608043306228196990",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.obGPffbRZLvAr4tywdFs_QHaHa?r=0&pid=Api",
+   "date": "2024-04-16T08:44:00Z",
+   "source": "https://www.carousell.com.my/p/airpods-gen-2-1290156091/",
+   "original": "https://media.karousell.com/media/photos/products/2024/2/28/airpods_gen_2_1709101808_7f6aef0c.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.a1b18f7df6d164bbc0af8b72c1d16cfd?rik=3YnJLjQXl%2fVOfw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1080,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "89765 B"
+  },
+  {
+   "position": 13,
+   "title": "AirPods Pro 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=8B1648A4C38F3E7DEB948B5C4884C9926E7E18B0&simid=608051350672994786",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.WltP3zT2rG1uHXDkXwitgwHaH9?r=0&pid=Api",
+   "date": "2023-03-05T00:58:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-2-1217852930/",
+   "original": "https://media.karousell.com/media/photos/products/2023/2/28/airpods_pro_2_1677561186_c934869f.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.5a5b4fdf34f6ac6d6e1d70e45f08ad83?rik=sBh%2bbpLJhEhciw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1004,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 509,
+   "file_size": "168749 B"
+  },
+  {
+   "position": 14,
+   "title": "Air pod pro gen 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=6545491CE67C560D1B6A54B8D38F9BC0701645E3&simid=608032706253964002",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.GVizwWGAMdLC7X0h-vgyeQHaJ4?r=0&pid=Api",
+   "date": "2023-08-13T23:54:00Z",
+   "source": "https://www.carousell.sg/p/air-pod-pro-gen-2-1248335705/",
+   "original": "https://media.karousell.com/media/photos/products/2023/8/11/air_pod_pro_gen_2_1691732329_9fc89900.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.1958b3c1618031d2c2ed7d21faf83279?rik=40UWcMCbj9O4VA&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "112713 B"
+  },
+  {
+   "position": 15,
+   "title": "Airpod Pros Gen 2 BRAND NEW - Depop",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=61CE7EBE31EAB8CFF4888344D38EDF4F29286F09&simid=608000631411852860",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.6P5icWNBHqGaQoHnbSS10QHaHa?r=0&pid=Api",
+   "date": "2023-08-07T14:05:00Z",
+   "source": "https://www.depop.com/products/sheluvsjc07-airpod-pros-gen-2-brand/",
+   "original": "https://media-photos.depop.com/b1/42190091/1555225237_16de7706fa7747c2aff6916909052db1/P0.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.e8fe627163411ea19a4281e76d24b5d1?rik=CW8oKU%2ffjtNEgw&pid=ImgRaw&r=0",
+   "domain": "media-photos.depop.com",
+   "width": 1280,
+   "height": 1280,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "98306 B"
+  },
+  {
+   "position": 16,
+   "title": "Apple AirPods generation 3, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=8C9C9EA7C503E32AACA2E8E2AE48626EBBB5878D&simid=608046493108366784",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.KcUdlipyPCHIFU7qHotmEAHaJ4?r=0&pid=Api",
+   "date": "2021-12-23T17:20:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-generation-3-1133227489/",
+   "original": "https://media.karousell.com/media/photos/products/2021/12/23/apple_airpods_generation_3_1640266490_e722ea17.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.29c51d962a723c21c8154eea1e8b6610?rik=jYe1u25iSK7i6A&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "36993 B"
+  },
+  {
+   "position": 17,
+   "title": "Apple AirPods Pro, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=C9828CB47DE02B408206CD1F5AA7400077B566E7&simid=608024447051768512",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.VQl1Zb62PEBhy2STBaGwFAHaJ4?r=0&pid=Api",
+   "date": "2022-05-28T09:21:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-1163101481/",
+   "original": "https://media.karousell.com/media/photos/products/2022/5/27/apple_airpods_pro_1653672491_c94e4c9e.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.55097565beb63c4061cb649305a1b014?rik=52a1dwBAp1ofzQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "86445 B"
+  },
+  {
+   "position": 18,
+   "title": "As a birthday present : r/airpods",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=12C2D08FFEC36FF1454DA25EF4091F1DC3458E61&simid=607996074423232409",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.wb-N2H18a6Ttd3K-YQwAkwHaJ3?r=0&pid=Api",
+   "date": "2020-06-19T14:45:00Z",
+   "source": "https://www.reddit.com/r/airpods/comments/hc1y7r/as_a_birthday_present/",
+   "original": "https://preview.redd.it/eoevrlj8qv551.jpg?width=640&crop=smart&auto=webp&s=828a3d3e9602371d24d1f35a4c10a2cf17ea90de",
+   "cdn_original": "https://th.bing.com/th/id/R.c1bf8dd87d7c6ba4ed7772be610c0093?rik=YY5Fwx0fCfReog&pid=ImgRaw&r=0",
+   "domain": "preview.redd.it",
+   "width": 640,
+   "height": 853,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 631,
+   "file_size": "40920 B"
+  },
+  {
+   "position": 19,
+   "title": "BNIB Airpods Pro Gen 2, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=A99D701523E79A79B14906850A3E977E8395FA2E&simid=608010106119992621",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.y03EMtmg5hWFNMkhQloBIgHaJ4?r=0&pid=Api",
+   "date": "2023-08-01T23:19:00Z",
+   "source": "https://www.carousell.sg/p/bnib-airpods-pro-gen-2-1246470284/",
+   "original": "https://media.karousell.com/media/photos/products/2023/8/1/bnib_airpods_pro_gen_2_1690883656_16f72a9b_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.cb4dc432d9a0e6158534c921425a0122?rik=LvqVg36XPgqFBg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "54040 B"
+  },
+  {
+   "position": 20,
+   "title": "Airpods Pro 2nd Generation - Brand New, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=C9794BBCFE40CFDE9A69598E3F4694588B5A0A47&simid=608002697263790030",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.IJY5JOJY7n7TpwXc5bAQswHaJ4?r=0&pid=Api",
+   "date": "2023-09-05T05:09:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-2nd-generation-brand-new-1253022624/",
+   "original": "https://media.karousell.com/media/photos/products/2023/9/5/airpods_pro_2nd_generation__br_1693889930_608bcc2a.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.20963924e258ee7ed3a705dce5b010b3?rik=Rwpai1iURj%2bOWQ&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "207881 B"
+  },
+  {
+   "position": 21,
+   "title": "Apple AirPods Pro, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=BE8D5CBA7A7F97476FBC1EF8916BC7EF859519EC&simid=608021135632190805",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.OPpVGqaj3c6cRTdITFNKWwHaJ4?r=0&pid=Api",
+   "date": "2023-11-16T06:51:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-1265832212/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/15/apple_airpods_pro_1700046423_1c9cef06.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.38fa551aa6a3ddce9c4537484c534a5b?rik=7BmVhe%2fHa5H4Hg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "110575 B"
+  },
+  {
+   "position": 22,
+   "title": "APPLE AIRPODS PRO with MagSafe Wireless Charging Case - White $95.00 ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=1F9EC61AAB191AA56DECAC4B2310C1C601C5C71D&simid=608051604080048014",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.zZN7AHxnkt95_-N87f259wHaH3?r=0&pid=Api",
+   "date": "2023-12-10T21:38:00Z",
+   "source": "https://picclick.com/Apple-AirPods-Pro-with-MagSafe-Wireless-Charging-Case-375000320882.html",
+   "original": "https://www.picclickimg.com/w9gAAOSwOEFlIzb~/Apple-AirPods-Pro-with-MagSafe-Wireless-Charging-Case.webp",
+   "cdn_original": "https://th.bing.com/th/id/R.cd937b007c6792df79ffe37cedfdb9f7?rik=HcfFAcbBECNLrA&pid=ImgRaw&r=0",
+   "domain": "www.picclickimg.com",
+   "width": 602,
+   "height": 640,
+   "thumbnail_width": 474,
+   "thumbnail_height": 503,
+   "file_size": "14272 B"
+  },
+  {
+   "position": 23,
+   "title": "Apple Airpods Pro Gen 2 (USB-C Model) [BNIB], Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=F5FC5A9350C19CD23B3F1C3EA768EC480CC1937C&simid=608033681226288835",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.ih4jOhT15gIkxl5OSPXIqQHaHa?r=0&pid=Api",
+   "date": "2023-10-23T06:43:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-gen-2-usb-c-model-bnib-1261551945/",
+   "original": "https://media.karousell.com/media/photos/products/2023/10/23/apple_airpods_pro_2_usbc_model_1698037188_1939c616.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.8a1e233a14f5e60224c65e4e48f5c8a9?rik=fJPBDEjsaKc%2bHA&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1080,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "121712 B"
+  },
+  {
+   "position": 24,
+   "title": "AirPod pro (gen 2) bnib, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=9612624E77EC0FEBFD68533D61E64B186A8D1F88&simid=608018026022665497",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.no2YMuOhMN46dCZ8BOlJOAHaHo?r=0&pid=Api",
+   "date": "2023-09-18T16:37:00Z",
+   "source": "https://www.carousell.sg/p/airpod-pro-gen-2-bnib-1255534619/",
+   "original": "https://media.karousell.com/media/photos/products/2023/9/18/airpod_pro_gen_2_bnib_1695043850_e18aff4d_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.9e8d9832e3a130de3a74267c04e94938?rik=iB%2bNahhL5mE9Uw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1047,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 488,
+   "file_size": "106027 B"
+  },
+  {
+   "position": 25,
+   "title": "Are the model P9 rep AirPod max any good?? : r/RepTronics",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=A0422F3E7A3D0295C2476257ED834743E7B808D5&simid=607991685024192487",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.NB19mqlnKCYGi60G2-v3_gHaHX?r=0&pid=Api",
+   "date": "2021-08-09T22:08:00Z",
+   "source": "https://www.reddit.com/r/RepTronics/comments/p1bmp4/are_the_model_p9_rep_airpod_max_any_good/",
+   "original": "https://preview.redd.it/real-or-fake-thanks-for-your-help-v0-w16qo3m360w91.jpg?width=1157&format=pjpg&auto=webp&s=0ebde85c48dd19c5558273a9e5dccc9aaca8707e",
+   "cdn_original": "https://th.bing.com/th/id/R.341d7d9aa9672826068bad06dbebf7fe?rik=1Qi450NHg%2b1XYg&pid=ImgRaw&r=0",
+   "domain": "preview.redd.it",
+   "width": 1157,
+   "height": 1150,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 471,
+   "file_size": "130450 B"
+  },
+  {
+   "position": 26,
+   "title": "AirPods Pro with MagSafe Charging Case with 1-Year Warranty (MLWK3ZA/A ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=EABA65B21D4FC56D0E5EF8952A5A9BB1E38C12A4&simid=608048889701814337",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.v4nJCCpA3RH6dNvBpzBhvgHaIW?r=0&pid=Api",
+   "date": "2022-04-16T10:52:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-with-magsafe-charging-case-with-1-year-warranty-mlwk3za-a-1154803281/",
+   "original": "https://media.karousell.com/media/photos/products/2022/4/13/airpods_pro_with_magsafe_charg_1649827525_1019f7fa.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.bf89c9082a40dd11fa74dbc1a73061be?rik=pBKM47GbWiqV%2bA&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 958,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 534,
+   "file_size": "86485 B"
+  },
+  {
+   "position": 27,
+   "title": "Apple | Headphones | Apple Air Pods Pro Generation 2 | Poshmark",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=6A49AB851F80B17501CA95887F4221659CECD421&simid=608054026466192239",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.FBuPuvuhKB05C7c5xB08kAHaHa?r=0&pid=Api",
+   "date": "2023-11-04T00:40:00Z",
+   "source": "https://poshmark.com/listing/Apple-Air-Pods-Pro-Generation-2-6545333dc6fd89bdb6a0bd60",
+   "original": "https://di2ponv0v5otw.cloudfront.net/posts/2023/11/03/6545333dc6fd89bdb6a0bd60/m_6545333dc6fd89bdb6a0bd61.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.141b8fbafba1281d390bb739c41d3c90?rik=IdTsnGUhQn%2bIlQ&pid=ImgRaw&r=0",
+   "domain": "di2ponv0v5otw.cloudfront.net",
+   "width": 580,
+   "height": 580,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "218724 B"
+  },
+  {
+   "position": 28,
+   "title": "Apple Airpods Pro with MagSafe Charging Case (Air pods), Audio ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=AC373030C187F087D3A9E7B8E723AE6B927D2BEA&simid=608024850752948763",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.N3O3fOqR2jPwvCnscstddQHaJ4?r=0&pid=Api",
+   "date": "2022-07-17T22:51:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-with-magsafe-charging-case-air-pods-1172871611/",
+   "original": "https://media.karousell.com/media/photos/products/2022/7/16/apple_airpods_pro_with_magsafe_1657960735_31daa77b",
+   "cdn_original": "https://th.bing.com/th/id/R.3773b77cea91da33f0bc29ec72cb5d75?rik=6it9kmuuI%2be45w&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 576,
+   "height": 768,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "42345 B"
+  },
+  {
+   "position": 29,
+   "title": "(Used) Apple Airpods Pro Generation 1, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=00D511B4047B4F4EDDF5DEC9B556BF67A3BAF10A&simid=608019177096829804",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.8F1ZsTqP5r8nuGvBMNsmTwHaJ4?r=0&pid=Api",
+   "date": "2023-11-15T21:08:00Z",
+   "source": "https://www.carousell.sg/p/used-apple-airpods-pro-generation-1-1265643412/",
+   "original": "https://media.karousell.com/media/photos/products/2023/11/14/used_apple_airpods_pro_generat_1699958455_0e136ce9",
+   "cdn_original": "https://th.bing.com/th/id/R.f05d59b13a8fe6bf27b86bc130db264f?rik=CvG6o2e%2fVrXJ3g&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "149851 B"
+  },
+  {
+   "position": 30,
+   "title": "Airpods 3 Pro Tws",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=DB75EEBB36AB384572CE4550E6A60CCD03329A74&simid=608006446804531854",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.vj5FjCCEBlQEy4mWx974UAHaJj?r=0&pid=Api",
+   "date": "2023-02-13T23:01:00Z",
+   "source": "https://hijruwolo.blogspot.com/2021/10/airpods-3-pro-tws.html",
+   "original": "https://image.made-in-china.com/2f0j00iKZTanOsLPfy/Brand-New-Tws-PRO-3-Air-Pods-PRO-Earbuds.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.be3e458c2084065404cb8996c7def850?rik=dJoyA80MpuZQRQ&pid=ImgRaw&r=0",
+   "domain": "image.made-in-china.com",
+   "width": 1240,
+   "height": 1600,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 611,
+   "file_size": "233309 B"
+  },
+  {
+   "position": 31,
+   "title": "Brand New Airpods Pro, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=452343257186A6E73CC4DF770659A32ED315776B&simid=608039320465863645",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.FGD5wUsUvRen8kpKwVZLgQHaJ4?r=0&pid=Api",
+   "date": "2022-09-20T04:36:00Z",
+   "source": "https://www.carousell.sg/p/brand-new-airpods-pro-1183281839/",
+   "original": "https://media.karousell.com/media/photos/products/2022/9/6/brand_new_airpods_pro_1662478758_5762811a_progressive.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.1460f9c14b14bd17a7f24a4ac1564b81?rik=a3cV0y6jWQZ33w&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 810,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "55065 B"
+  },
+  {
+   "position": 32,
+   "title": "BNIB Airpods Pro w Magsafe Charging Case, Audio, Earphones on Carousell",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=85833DA02B0137E72C976E431419E4B95DE7548A&simid=607986406497981000",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.3YyUDy_vu5AKtsfOMTUOHQHaHk?r=0&pid=Api",
+   "date": "2022-07-26T05:05:00Z",
+   "source": "https://www.carousell.sg/p/bnib-airpods-pro-w-magsafe-charging-case-1174690660/",
+   "original": "https://media.karousell.com/media/photos/products/2022/7/25/bnib_airpods_pro_w_magsafe_cha_1658768271_47d59c4d.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.dd8c940f2fefbb900ab6c7ce31350e1d?rik=ilTnXbnkGRRDbg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1057,
+   "height": 1080,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 484,
+   "file_size": "60206 B"
+  },
+  {
+   "position": 33,
+   "title": "APPLE AIRPODS PRO Empty Box Only $6.00 - PicClick",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=4C62F8AF6D03B82CC7C9E69DA849E0F1CD6A6114&simid=608000936343187035",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.2-tXMzD4Kb76Uo_4ag8ECwHaIP?r=0&pid=Api",
+   "date": "2024-05-12T20:38:00Z",
+   "source": "https://picclick.com/Apple-Airpods-Pro-Empty-Box-Only-395396876460.html",
+   "original": "https://www.picclickimg.com/UuUAAOSwxShmPp5M/Apple-Airpods-Pro-Empty-Box-Only.webp",
+   "cdn_original": "https://th.bing.com/th/id/R.dbeb573330f829befa528ff86a0f040b?rik=FGFqzfHgSaid5g&pid=ImgRaw&r=0",
+   "domain": "www.picclickimg.com",
+   "width": 575,
+   "height": 640,
+   "thumbnail_width": 474,
+   "thumbnail_height": 527,
+   "file_size": "19000 B"
+  },
+  {
+   "position": 34,
+   "title": "AirPods Pro (2nd generation) with MagSafe Charging Case (USB-C), Audio ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=31D8B6D38B7EFE40642827755DE3D1BFD5A39EE4&simid=607989846750425112",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.N_TiF3NK_F-o0d0zh_ESgQHaFQ?r=0&pid=Api",
+   "date": "2023-12-19T02:01:00Z",
+   "source": "https://www.carousell.sg/p/airpods-pro-2nd-generation-with-magsafe-charging-case-usb-c-1271670312/",
+   "original": "https://media.karousell.com/media/photos/products/2023/12/16/airpods_pro_2nd_generation_wit_1702698900_93402339",
+   "cdn_original": "https://th.bing.com/th/id/R.37f4e217734afc5fa8d1dd3387f11281?rik=5J6j1b%2fR4111Jw&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 1017,
+   "height": 722,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 336,
+   "file_size": "82850 B"
+  },
+  {
+   "position": 35,
+   "title": "Apple Airpods Pro 2021 magsafe case brand new, Audio, Earphones on ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=8805C93B17F64FA8C2D60E8B526201CDDEB2050F&simid=608006236369346222",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.TX6yHy80wiw4dNQqUzwPBgHaJ4?r=0&pid=Api",
+   "date": "2023-01-06T21:19:00Z",
+   "source": "https://www.carousell.sg/p/apple-airpods-pro-2021-magsafe-case-brand-new-1173191856/",
+   "original": "https://media.karousell.com/media/photos/products/2022/7/18/apple_airpods_pro_2021_magsafe_1658109802_18bb6706.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.4d7eb21f2f34c22c3874d42a533c0f06?rik=DwWy3s0BYlKLDg&pid=ImgRaw&r=0",
+   "domain": "media.karousell.com",
+   "width": 756,
+   "height": 1008,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "file_size": "46618 B"
+  }
+ ],
+ "ads": [
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Wireless Bluetooth Earbuds - Airpod Style - White - Not Apple",
+   "link": "https://www.ebay.com/itm/366225143730?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=366225143730&targetid=4580840339649857&device=c&mktype=&googleloc=100702&poi=&campaignid=607172254&mkgroupid=1235852635635242&rlsatarget=pla-4580840339649857&abcId=10782669&merchantid=51291&msclkid=cfd43dfb29dc118b48f65740b643cfed",
+   "price": 30,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.IG%2f4vXElaCP63Q474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 434,
+   "description": "Wireless Bluetooth Earbuds These are AirPod-style wireless earbuds designed for everyday use. IMPORTANT: This product is NOT manufactured by Apple and is NOT genuine Apple AirPods. Features: Bluetooth connectivity Charging case included Built-in microphone Compatible with iPhone & Android devices Lightweight and comfortable design Great affordable alternative for music, calls, and daily use",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Wireless Earbuds,Bluetooth Headphones Pro(2Nd Generation),48H Playtime Ear Buds With Mic,High-Fidelity Sound,Bluetooth 5.3 Chip,USB-C Charging,IPX7",
+   "link": "https://www.amazon.com/Headphones-generation-Ear-High-Fidelity-Waterproof/dp/B0FRF3TZJQ/ref=asc_df_B0FRF3TZJQ?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912217&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=100702&hvtargid=pla-4584207633122753&psc=1&hvocijid=11203785288507879084-B0FRF3TZJQ-&hvexpln=0",
+   "price": 19.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.RGiY1Nc%2flZyUQA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Bluetooth 5.3 earbuds for a fast and stable connection Experience next-level connectivity with earbuds, which are powered by advanced Bluetooth 5.3 technology. With an enhanced 33-foot range and improved performance compared to Bluetooth 5.2, these earbuds reduce signal drops and deliver pristine audio, even in crowded places like subways and shopping centres. Long battery life These wireless earbuds have a built-in lithium polymer battery. When fully charged, the earbuds can play for up to 8 hours. The charging case can charge the earbuds six times, enabling them to play for up to 48 hours. A Type-C charging cable enables the charging case to store power faster. This improves the case's charging efficiency. Hi-Fi sound quality modes These Bluetooth headphones are equipped with 14 mm dynamic drivers that deliver an immersive music experience. Feel the pulse of the beats and enjoy rich bass, clear mid-range and crisp treble. You can personalise the sound profile with modes to match your favourite music style, ensuring a more authentic and enjoyable listening experience. Enjoy long-lasting comfort with every use earbuds are designed for an ideal fit based on extensive user testing, just like all the top brands. Ergonomically designed for the perfect fit, each earbud weighs just 0.13 oz. They are the perfect choice for anyone who needs to wear earbuds for work, study or exercise. Automatic Pairing, Waterproof and Dustproof The headset can be turned on automatically when removed from the box and will automatically connect, providing an intelligent experience. Multiple processes effectively prevent rain and sweat from damaging electronic devices, so you can enjoy your sports without worry. 1: Latest Bluetooth V5.3: With the latest bluetooth 5.2 technology which can offers FASTER speed,MORE STABLE connection and LOWER consumption of battery. 2: Touch Control: Play/Pause Music,Next/Previous Song,Answer/End Call,Volumn +/-,Activate Siri/Google Assistant by Touch different times. 3: Auto Pairing: Automatically connect to your Bluetooth devices when pick the earbuds out. 4: Stereo-Mono Mode: These 2 wireless earbuds can be shared with different Bluetooth devices,you can use one earbud seperately or both together. 5: Active Noise Cancelling: CVC8.0 noise cancelling technology can eliminate ambient noise intelligently and immerse you in an authentic musical world. 6: IPX7Waterproof: It can resist the sweat and rain easily,suitable for Sport and Gym. 7: Built-in Microphone: Hand-free call is available when Working/Cooking/Driving. 8: Great Compatibility: Compatible with most Bluetooth devices such as iPhone 16/15/SE/XS/XR/8/7, iPad, iPod, MacBook, Samsung Galaxy S20/10/Note10, PC, TV etc. Parameters: Product weight: 4-5g(single earbud) Working time: 5-8 hours for Music, 1-2 hours for Calling Standby time : 100 hours for single earbud, 48 hours for both earbuds Charging time: 45-90 minutes Capacity: Earbud battery 55 mAh,Charging case 600 mAh(Rechargable Li-ion Battery) Bluetooth Wireless Distance: 15 meters What you will get: 1 * 2 Wireless Earbuds 1*Portable Charging Case 1*USB to Type-C Cable 1*User Manual",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "gtin_ids": [
+    "00745431247913"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods 2nd Gen Bluetooth Earbuds Earphone Headset + Charging",
+   "link": "https://www.ebay.com/itm/127773017591?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=127773017591&targetid=4580840345259687&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644058&rlsatarget=pla-4580840345259687&abcId=10641719&merchantid=51291&msclkid=f7dc0c14d23d1f4f7e5366af4da22267",
+   "price": 60,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.kuv0rLtgmz5rKw474C474&o=5&pid=21.1",
+   "thumbnail_width": 400,
+   "thumbnail_height": 340,
+   "description": "APPLE AIRPODS 2ND GEN BLUETOOTH EARBUDS EARPHONE HEADSET + CHARGING CASE WHITE. Se envio con USPS Ground Advantage.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Genuine Apple Airpods Pro 1st Generation A2083 Airpod RIGHT Side Ear Only - Great Cond",
+   "link": "https://rd.bizrate.com/r/45513996014?rf=prb&rtp=audience_id:pla-4585100935165961&rtp=device_type:c&rtp=bid:4585100935165961&rtp=keyword_name:airpods%20chinabuy&rtp=network:o&af_rid=18282b208b5012bb9a8e419b14cf6788&b=https%3A%2F%2Fwww.etsy.com%2Flisting%2F4473759070%2Fgenuine-apple-airpods-pro-1st-generation%3Fgpla%3D1%26gao%3D1%26utm_source%3Dconnexity%26utm_medium%3Dcpc%26utm_campaign%3Dshopping_us_bing%26utm_content%3D18282b208b5012bb9a8e419b14cf6788&segId=627428645&msclkid=18282b208b5012bb9a8e419b14cf6788&utm_source=bing&utm_medium=cpc&utm_campaign=Etsy%20(366575)&utm_term=4585100935165961&utm_content=Etsy",
+   "price": 47.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.ehYW4SpssITAIg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 575,
+   "description": "Genuine Apple AirPods pro 1st Generation A2083 AirPod (RIGHT SIDE EAR ONLY) - Great Cond ----------------------------------------------------------------------------------------------------------------------------- This is a pre-owned genuine Apple...",
+   "seller_name": "Etsy",
+   "seller_domain": "etsy.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods Pro Wireless Bluetooth Earbuds, Active Noise",
+   "link": "https://www.ebay.com/itm/317927523851?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=317927523851&targetid=4580840345259663&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259663&abcId=10641719&merchantid=51291&msclkid=97301b938b7d102f1067712814e2576b",
+   "price": 150,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.K49B3Vz8z7yY5Q474C474&o=5&pid=21.1",
+   "thumbnail_width": 400,
+   "thumbnail_height": 400,
+   "description": "Apple AirPods Pro Wireless Bluetooth Earbuds, Active Noise Cancellation, White",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Custom Printed Airpods (Brand New)",
+   "link": "https://rd.bizrate.com/r/45196248151?rf=prb&rtp=audience_id:pla-4585100935165961&rtp=device_type:c&rtp=bid:4585100935165961&rtp=keyword_name:airpods%20chinabuy&rtp=network:o&af_rid=fc9015bcdf66183742687f0740f9d4e1&b=https%3A%2F%2Fwww.etsy.com%2Flisting%2F4324622998%2Fcustom-printed-airpods-brand-new%3Fgpla%3D1%26gao%3D1%26utm_source%3Dconnexity%26utm_medium%3Dcpc%26utm_campaign%3Dshopping_us_bing%26utm_content%3Dfc9015bcdf66183742687f0740f9d4e1&segId=627428645&msclkid=fc9015bcdf66183742687f0740f9d4e1&utm_source=bing&utm_medium=cpc&utm_campaign=Etsy%20(366575)&utm_term=4585100935165961&utm_content=Etsy",
+   "price": 199.01,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.nUsxmCxVm4hodg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 666,
+   "description": "Brand new Apple Airpods 4 with custom printed logo. Have your company logo (or any logo for that matter), printed directly onto your Airpod case. Perfect for promotions or giveaways, or to simply differentiate your Airpods from everyone else's....",
+   "seller_name": "Etsy",
+   "seller_domain": "etsy.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Airpods 4",
+   "link": "https://www.walmart.com/ip/Restored-AirPods-4-Refurbished/15176406400?wmlspartner=wlpa",
+   "price": 99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.pPt9go%2fT1MLiMw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 441,
+   "description": "Restored Apple AirPods 4",
+   "seller_name": "Walmart",
+   "seller_domain": "walmart.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00611419973832"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods 4 (4Th Generation) W/ Anc Active Noise Cancellation -",
+   "link": "https://www.ebay.com/itm/257071344148?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=257071344148&targetid=4580634181643500&device=c&mktype=&googleloc=100702&poi=&campaignid=606333138&mkgroupid=1232553916817447&rlsatarget=pla-4580634181643500&abcId=10653366&merchantid=51291&msclkid=f16faa366c3e17676ac1c08df3a15f3b",
+   "price": 99.75,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.qzrgoS%2bnh%2f5ljw474C474&o=5&pid=21.1",
+   "thumbnail_width": 701,
+   "thumbnail_height": 710,
+   "description": "Find Apple Airpods 4 (4th Generation) W/ Anc Active Noise Cancellation - Mxp93ll/a on eBay in the category Cell Phones & Accessories>Cell Phone Accessories>Headsets.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00195949689604"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Airpods 4",
+   "link": "https://www.ebay.com/itm/318839879919?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=318839879919&targetid=4580496747574603&device=c&mktype=&googleloc=100702&poi=&campaignid=606351088&mkgroupid=1230354904942261&rlsatarget=pla-4580496747574603&abcId=10662246&merchantid=51291&msclkid=ecf14180579f1707601d2b3bc800ce61",
+   "price": 70,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.HLy%2bMoydEO4Pkw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "description": "Apple AirPods 4 Condition: Used, barely small scratches, in good condition warranty: We offer a 90 days return policy The AirPods 4 are a set of white, Apple-branded earbuds that offer a seamless and convenient listening experience. With Bluetooth connectivity, these earbuds provide a wireless connection to your devices for hassle-free use. The a3050 model ensures high-quality sound and a comfortable fit, making them a popular choice for those looking for a reliable and stylish headset option.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods Wireless Bluetooth In-Ear Headset W/ Charging Case MMEF2AM/A (Renewed)",
+   "link": "https://www.amazon.com/Apple-Wireless-Bluetooth-MMEF2AM-Refurbished/dp/B07731Y1CC/ref=asc_df_B07731Y1CC?tag=bingshoppinga-20&linkCode=df0&hvadid=79852242641531&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=100702&hvtargid=pla-4583451720734980&psc=1&hvocijid=13727659183625059463-B07731Y1CC-&hvexpln=0",
+   "price": 112.47,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.QghswmMHO%2ffrpw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 583,
+   "description": "Quick access to Siri by saying \"Hey Siri\" Automatically on, automatically connected Easy setup for all your Apple devices Bullet Point Listen and talk all day with multiple charges from the Charging Case Airpods will forever change the way you use headphones. Whenever you pull your airpods out of the charging case, they instantly turn on and connect to your iPhone, Apple Watch, iPad, or Mac.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00783512847416"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods Pro 2nd Gen With Magsafe Wireless Charging Case",
+   "link": "https://www.ebay.com/itm/389459891513?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=389459891513&targetid=4580840345259663&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259663&abcId=10641719&merchantid=51291&msclkid=7ad37acc929918a2e8b410770d06137d",
+   "price": 130,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Gr3f0D%2f3iMrtcw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "I got these AirPods a while ago from my sister because of my birthday, but never opened them because I had AirPods at the time. They are new never been open",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "gtin_ids": [
+    "00195949052484"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "3 Pairs Replacement Ear Tips For Airpods Pro 2nd & 1St(S/M/L, White) | With Noise Reduction Hole, Silicone Ear Tips With Portable Storage Box, Fit In",
+   "link": "https://www.amazon.com/Replacement-Reduction-Silicone-Portable-Charging/dp/B08HT46TVP/ref=asc_df_B08HT46TVP?tag=bingshoppinga-20&linkCode=df0&hvadid=80883033960508&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=100702&hvtargid=pla-4584482516422018&psc=1&hvocijid=9125091352067325605-B08HT46TVP-&hvexpln=0",
+   "price": 6.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.X7vRwwDrR%2bzpeg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 449,
+   "description": "Excellent Noise Reduction Function: YUWAKAYI Airpods pro replacement ear tips have two noise reduction holes on the side, which are almost the same as the original(other silicone ear tips do not have them), which can reduce noise to keep the best noise reduction effect of the original headphone Dust Guard Screen: Each airpod pro tips has a built-in dust guard screen, Same as Originals,The one-piece molding process makes it more firm and not easy to fall off. There is no need to worry about sweat letting him fall off Ultra Comfortable to Wear: The ear tips are made of high-quality soft silicone material with ultra-light weight, ensuring long-lasting comfort to your ears,3 different sizes can meet the different needs of you and your family Fits the Airpods Pro Seamless: Perfectly fit into Airpods pro and Airpods Pro 2nd generation, the connection with the ear buds is closer and seamless, you dont need to worry about the ear tips fall off. At the same time fit for the original AirPods Pro charging case Storage Box: 2xSmall,2xMedium,2xLarge, equipped with a storage box for storing 6 ear buds to protect unused ear buds from being lost or soiled",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "gtin_ids": [
+    "06973337761699"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods 5 Wireless Earbuds With Active Noise Cancellation",
+   "link": "https://www.target.com/p/apple-airpods-5-wireless-earbuds-with-active-noise-cancellation/-/A-85978611?TCID=PDS-9224351998",
+   "price": 129.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.FEEEQSwXMyVGpw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 449,
+   "description": "Discover the magic of Active Noise Cancellation. Exceptional noise cancellation for all. A sound improvement. What's in the Box AirPods 5 Charging Case (USB-C) Documentation: AirPods 5 do not include a USB-C Charge Cable or power adapter.: We encourage you to use any compatible USB-C Charge Cable or power adapter. If you need a new Apple charge cable or power adapter, they are available for purchase. Legal Apple Intelligence is available with Siri and device language set to Chinese (Simplified), Chinese (Traditional), Danish, Dutch, English, French, German, Italian, Japanese, Korean, Norwegian, Portuguese, Spanish, Swedish, Turkish, or Vietnamese. Some features may not be available in all regions or languages. Some devices may not be available in all regions. Siri AI is available in beta in iOS 27, macOS 27, and watchOS 27 and requires an Apple Intelligence-enabled device set to a supported language. Available in English to start. Siri AI will not be initially available in the EU on iOS, iPadOS, and watchOS. Certain Apple Intelligence features that rely on server-side models are subject to daily usage limits, including but not limited to Siri AI, Intelligent Photo Editing Tools, Image Playground, and AFM 3 Cloud models in Shortcuts. Daily limits may vary by feature, request complexity, system demand, system policies, and other factors. Expanded access to such features will be available for a fee in the future. Use of these features is subject to the Apple Intelligence Terms and Conditions. Learn more at apple.com/apple-intelligence. Hands-free access to Siri AI works on all AirPods. \u00b2Device performance and noise control features like Active Noise Cancellation, Adaptive Audio, and Transparency can be affected by debris or earwax buildup. Clean the device regularly to maintain performance and full feature functionality. Refer to support.apple.com/102672 for AirPods cleaning instructions. Refer to support.apple.com/120409 for AirPods Pro cleaning instructions. \u00b3Requires a compatible Apple device running the latest operating system software. 4Available on compatible Apple devices with the latest operating system software when paired with compatible AirPods with the latest firmware when Apple Intelligence is turned on. Available in beta. Some features may not be available in all regions or languages; for more information, see Feature Availability. 5Compatible hardware and software required. Works with compatible content in supported apps. Not all content available in Dolby Atmos. iPhone with TrueDepth camera required to create a personal profile for Personalized Spatial Audio, which will sync across Apple devices running the latest operating system software, including iOS, iPadOS, macOS, and tvOS. Personalized Spatial Audio is not available when using other devices. 6AirPods 5 are dust, sweat, and water resistant for non-water sports and exercise, and they are IP57 rated. Dust, sweat, and water resistance are not permanent conditions. 7Testing conducted by Apple in July and August 2026 using preproduction AirPods 5 paired with preproduction iPhone 18 Pro units, all with prerelease software. The playlist consisted of 358 unique audio tracks purchased from the iTunes Store (256-Kbps AAC encoding). Volume was set to 50%, Spatial Audio and Conversation Awareness were off, and Noise Control was set to Active Noise Cancellation. With Noise Control turned off, listening time was up to 6 hours. Testing consisted of full AirPods battery discharge while playing audio until the first AirPod stopped playback. Battery life depends on device settings, environment, usage, and many other factors. 8Testing conducted by Apple in July and August 2026 using preproduction AirPods 5 and charging case paired with preproduction iPhone 18 Pro units, all with prerelease software. The playlist consisted of 358 unique audio tracks purchased from the iTunes Store (256-Kbps AAC encoding). Volume was set to 50%, Spatial Audio and Conversation Awareness were off, and Noise Control was set to Active Noise Cancellation. Testing consisted of full AirPods battery discharge while playing audio until the first AirPod stopped playback. The drained AirPods were charged to 100 percent, then audio playback was resumed until the first AirPod stopped playback. This cycle was repeated until both the AirPods and charging case were fully discharged. Battery life depends on device settings, environment, usage, and many other factors. 9Charging requires a compatible USB-C charger. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00195951378978"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods 1st Generation White Case W/Charging Cord Works",
+   "link": "https://www.ebay.com/itm/336564731266?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=336564731266&targetid=4580909067741549&device=c&mktype=&googleloc=100702&poi=&campaignid=607432627&mkgroupid=1236952216213403&rlsatarget=pla-4580909067741549&abcId=10821392&merchantid=51291&msclkid=e2a42b2a02c415d87b9b41919d5b1d09",
+   "price": 42.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.m%2fs2T6u7kan5aA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 355,
+   "description": "The Apple Airpods 1st Generation in White come with a charging cord for convenience. These wireless earbuds feature a sleek in-ear design, double earpieces, Bluetooth connectivity, and a rechargeable battery. With a built-in microphone and motion-detecting accelerometer, these earbuds offer a seamless user experience for Apple devices. Made by Apple, the Airpods are designed for those who value both style and functionality in their everyday tech accessories.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Earpods In-Ear White Lightning Connector Integrated Microphone",
+   "link": "https://www.kleobis.com/track?clid=f8a0aaa63e7d137e7ca6c01da1e2c589&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F397797639112%3Fvar%3D0%26mkevt%3D1%26mkcid%3D1%26mkrid%3D711-53200-19255-0%26toolid%3D20006%26_ul%3DUS%26campid%3D5339156175%26customid%3Df8a0aaa63e7d137e7ca6c01da1e2c589%26cid%3D5339156175%26c%3Df8a0aaa63e7d137e7ca6c01da1e2c589&market=us&pid=v1%7C397797639112%7C0&cid=5339156175&source=msa&msclkid=f8a0aaa63e7d137e7ca6c01da1e2c589",
+   "price": 9.5,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.7HbzdmNKwSvUBA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 473,
+   "description": "Apple EarPods In-Ear White Lightning Connector Integrated Microphone",
+   "seller_name": "eBay US",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods 4th Gen Noise Cancellation",
+   "link": "https://www.ebay.com/itm/397655685256?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=397655685256&targetid=4580840345259693&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644058&rlsatarget=pla-4580840345259693&abcId=10641719&merchantid=51291&msclkid=c276587a21931174419032c1be0cca9e",
+   "price": 90,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Laawcpk3ikTg3A474C474&o=5&pid=21.1",
+   "thumbnail_width": 399,
+   "thumbnail_height": 400,
+   "description": "with box sealed price is negotiable",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Cell Phones & Accessories | Apple Airpods Gen 4 With Wireless Charging Case - White | Color: White | Size: Os",
+   "link": "https://poshmark.com/listing/Apple-AirPods-gen-4-with-Wireless-Charging-Case-White-681e82954a072b8fd3a7db7f?gclid=7cb8517f576e189bd9cb3bc4c8f173f9&gclsrc=3p.ds&&utm_source=bdm&campaign_id=555506407&utm_campaign=555506407&ad_partner=bing&msclkid=7cb8517f576e189bd9cb3bc4c8f173f9",
+   "price": 129,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.itVMFyvZ%2fT95ag474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Experience High-Quality Sound With Apple Airpods Featuring A Sleek White Design. Enjoy Seamless Connectivity And Wireless Charging Convenience.",
+   "seller_name": "Poshmark",
+   "seller_domain": "poshmark.com",
+   "shipping_description": "+$6.49 shipping",
+   "shipping_price": 6.49
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Fair Apple Airpods Pro W/ Magsafe Charging Case - White // Mismatch +",
+   "link": "https://www.ebay.com/itm/168450142389?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=168450142389&targetid=4580771617931495&device=c&mktype=&googleloc=100702&poi=&campaignid=606062304&mkgroupid=1234752867113577&rlsatarget=pla-4580771617931495&abcId=10541159&merchantid=51291&msclkid=c4e655f8783a132e4db33f43e7a5648c",
+   "price": 48.1,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.bE5XXEtT9EqKwQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 381,
+   "thumbnail_height": 390,
+   "description": "View Store Feedback Contact Us About Us FAIR Apple AirPods Pro w/ MagSafe Charging Case - White // MISMATCH + ENGRAVED* Inspected to be fully functional and will show considerable signs of heavy cosmetic use and wear. The product has been tested to have over 90% battery health. Please Note: This specific set is noted to be Mismatched and will not work with certain App Features. This unit also has a custom engraving, where the design may vary from unit to unit. Apple AirPods Pro with MagSafe Charging Case. White headphone color. Model: A2083, A2084, and Case A2190. Features: - Custom high-excursion Apple driver with Active Noise Cancellation and Transparency mode - H1 Headphone Chip - Dual Beam-forming Microphones - Sweat and Water Resistant (IPX4) - Works with MagSafe charger, Qi-certified chargers, or the 8-Pin connector - More than 24 hours of listening time, 5 minutes in the case provides around 1 hour of listening time or around 1 hour of talk time - Bluetooth 5.0 Technology Brand Apple MPN MLWK3AM/",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00094233374021"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods 4 2024 - Digital Download",
+   "link": "https://rd.bizrate.com/r/45209737490?rf=prb&rtp=audience_id:pla-4585100935165961&rtp=device_type:c&rtp=bid:4585100935165961&rtp=keyword_name:airpods%20chinabuy&rtp=network:o&af_rid=67997f984fb61e1cf9f81523d029d09a&b=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1876263461%2Fapple-airpods-4-2024-digital-download%3Fgpla%3D1%26gao%3D1%26utm_source%3Dconnexity%26utm_medium%3Dcpc%26utm_campaign%3Dshopping_us_bing%26utm_content%3D67997f984fb61e1cf9f81523d029d09a&segId=627428645&msclkid=67997f984fb61e1cf9f81523d029d09a&utm_source=bing&utm_medium=cpc&utm_campaign=Etsy%20(366575)&utm_term=4585100935165961&utm_content=Etsy",
+   "price": 6.93,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.spgsIRtmEvG8KQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 695,
+   "description": "** IMPORTANT // This is NOT a physical item, it's a digital download ** -------------------------------------------------------------- Apple AirPods 4 2024 vectored mockup created in Adobe Illustrator and fully editable. DIGITAL DOWNLOAD. The...",
+   "seller_name": "Etsy",
+   "seller_domain": "etsy.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Apple Airpods 1st Gen Model: A1602 Selling As Parts Only.",
+   "link": "https://www.ebay.com/itm/366196417195?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=366196417195&targetid=4580840339649857&device=c&mktype=&googleloc=100702&poi=&campaignid=607172254&mkgroupid=1235852635635242&rlsatarget=pla-4580840339649857&abcId=10782669&merchantid=51291&msclkid=d48893acd7e5165e45b1f917487a7b3b",
+   "price": 30,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.6eTzXgbyyUb9rA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 205,
+   "description": "Upgrade your audio experience with Apple AirPods 1st Generation. Fully tested and in good working condition. Condition: Pre-owned Airpods does not connect/Has no sound. Selling as parts only Whats Included: Apple AirPods (Left & Right earbuds)- Left side airpods has no sound Charging case and Charging cable. Charging block is not included.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Mainline",
+   "title": "Buy Apple Airpods - Shop Low Prices & Top Brands",
+   "link": "https://www.amazon.com/s?k=buy+apple+airpods&rh=p_123%3A110955&tag=mh0b-20&ref=&adgrpid=1344705323360893&hvadid=84044376439447&hvnetw=o&hvqmt=p&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=100702&hvtargid=kwd-84045412957796:loc-190&hydadcr=21718_13843942_2550630&mcid=&hvocijid=1198589475038044037--&hvexpln=0&language=English&gb=2",
+   "displayed_link": "https://www.amazon.com/Shop",
+   "description": "Free Shipping On Qualified Orders. Free, Easy Returns On Millions Of Items. Read Customer Reviews & Find Best Sellers. Free, Easy Returns On Millions Of Items.",
+   "seller_name": "amazon.com",
+   "seller_domain": "amazon.com",
+   "logo": "https://th.bing.com/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&pid=AdsPlus"
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Mainline",
+   "title": "Best Wireless Earbuds - Shop Now - Trusted Reviews",
+   "link": "https://www.pcmag.com/lists/best-earbuds-in-ear-headphones?utm_source=bing&utm_medium=cpc&utm_term=wireless%20earbuds&cq_tgt={keywordid}&utm_campaign=396649251&utm_content=1250145318103911&cq_net=o&msclkid=2a8fbd0731e91dfc8df5d7bcae7609b4",
+   "displayed_link": "https://www.pcmag.com/best/earbuds",
+   "description": "Browse Top Picks. Compare Specs and Find Deals for Wireless Earbuds at PCMag.com. Choose the Right Wireless Earbuds Tailored for Your Need. Compare & Buy From the Best Now",
+   "seller_name": "PCMag",
+   "seller_domain": "pcmag.com",
+   "sitelinks": [
+    {
+     "text": "Best Earbuds",
+     "link": "https://www.pcmag.com/lists/best-earbuds-in-ear-headphones?utm_source=bing&utm_medium=cpc&utm_term=wireless%20earbuds&cq_tgt={keywordid}&utm_campaign=396649251&utm_content=1250145318103911&cq_net=o&msclkid=758a88efc7621373d714e25458fd8d15"
+    },
+    {
+     "text": "Best Value Pick",
+     "link": "https://www.pcmag.com/lists/best-earbuds-in-ear-headphones?zmg_ads-2&utm_source=bing&utm_medium=cpc&utm_term=wireless%20earbuds&cq_tgt={keywordid}&utm_campaign=396649251&utm_content=1250145318103911&cq_net=o&msclkid=319b635247b31fc8bb4c09e9d82c028b"
+    },
+    {
+     "text": "PCMag Editors' Choice",
+     "link": "https://www.pcmag.com/lists/best-earbuds-in-ear-headphones?zmg_ads-3&utm_source=bing&utm_medium=cpc&utm_term=wireless%20earbuds&cq_tgt={keywordid}&utm_campaign=396649251&utm_content=1250145318103911&cq_net=o&msclkid=0f6eaf6c8fac1b9ebb97c5d710331b02"
+    },
+    {
+     "text": "Shop Hot Deals",
+     "link": "https://www.pcmag.com/lists/best-earbuds-in-ear-headphones?zmg_ads-4&utm_source=bing&utm_medium=cpc&utm_term=wireless%20earbuds&cq_tgt={keywordid}&utm_campaign=396649251&utm_content=1250145318103911&cq_net=o&msclkid=ce56cb5cdd901af14943a1e7420fc26b"
+    }
+   ],
+   "logo": "https://www.bing.com/th?pid=AdsPlus&id=ODF.qyq3qSLxEIl7uov-9wVMew&w=32&h=32"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Apple Airpods Pro 2nd Gen With Magsafe Wireless Charging Case",
+   "link": "https://www.ebay.com/itm/389459891513?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=389459891513&targetid=4580840345259663&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259663&abcId=10641719&merchantid=51291&msclkid=edad59ee8f20102b5549335510bf7d1c",
+   "price": 130,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Gr3f0D%2f3iMrtcw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "I got these AirPods a while ago from my sister because of my birthday, but never opened them because I had AirPods at the time. They are new never been open",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "gtin_ids": [
+    "00195949052484"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "3 Pairs Replacement Ear Tips For Airpods Pro 2nd & 1St(S/M/L, White) | With Noise Reduction Hole, Silicone Ear Tips With Portable Storage Box, Fit In",
+   "link": "https://www.amazon.com/Replacement-Reduction-Silicone-Portable-Charging/dp/B08HT46TVP/ref=asc_df_B08HT46TVP?tag=bingshoppinga-20&linkCode=df0&hvadid=80883033960508&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=100702&hvtargid=pla-4584482516422018&psc=1&hvocijid=9125091352067325605-B08HT46TVP-&hvexpln=0",
+   "price": 6.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.X7vRwwDrR%2bzpeg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 449,
+   "description": "Excellent Noise Reduction Function: YUWAKAYI Airpods pro replacement ear tips have two noise reduction holes on the side, which are almost the same as the original(other silicone ear tips do not have them), which can reduce noise to keep the best noise reduction effect of the original headphone Dust Guard Screen: Each airpod pro tips has a built-in dust guard screen, Same as Originals,The one-piece molding process makes it more firm and not easy to fall off. There is no need to worry about sweat letting him fall off Ultra Comfortable to Wear: The ear tips are made of high-quality soft silicone material with ultra-light weight, ensuring long-lasting comfort to your ears,3 different sizes can meet the different needs of you and your family Fits the Airpods Pro Seamless: Perfectly fit into Airpods pro and Airpods Pro 2nd generation, the connection with the ear buds is closer and seamless, you dont need to worry about the ear tips fall off. At the same time fit for the original AirPods Pro charging case Storage Box: 2xSmall,2xMedium,2xLarge, equipped with a storage box for storing 6 ear buds to protect unused ear buds from being lost or soiled",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "gtin_ids": [
+    "06973337761699"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Apple Airpods 5 Wireless Earbuds With Active Noise Cancellation",
+   "link": "https://www.target.com/p/apple-airpods-5-wireless-earbuds-with-active-noise-cancellation/-/A-85978611?TCID=PDS-9224351998",
+   "price": 129.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.FEEEQSwXMyVGpw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 449,
+   "description": "Discover the magic of Active Noise Cancellation. Exceptional noise cancellation for all. A sound improvement. What's in the Box AirPods 5 Charging Case (USB-C) Documentation: AirPods 5 do not include a USB-C Charge Cable or power adapter.: We encourage you to use any compatible USB-C Charge Cable or power adapter. If you need a new Apple charge cable or power adapter, they are available for purchase. Legal Apple Intelligence is available with Siri and device language set to Chinese (Simplified), Chinese (Traditional), Danish, Dutch, English, French, German, Italian, Japanese, Korean, Norwegian, Portuguese, Spanish, Swedish, Turkish, or Vietnamese. Some features may not be available in all regions or languages. Some devices may not be available in all regions. Siri AI is available in beta in iOS 27, macOS 27, and watchOS 27 and requires an Apple Intelligence-enabled device set to a supported language. Available in English to start. Siri AI will not be initially available in the EU on iOS, iPadOS, and watchOS. Certain Apple Intelligence features that rely on server-side models are subject to daily usage limits, including but not limited to Siri AI, Intelligent Photo Editing Tools, Image Playground, and AFM 3 Cloud models in Shortcuts. Daily limits may vary by feature, request complexity, system demand, system policies, and other factors. Expanded access to such features will be available for a fee in the future. Use of these features is subject to the Apple Intelligence Terms and Conditions. Learn more at apple.com/apple-intelligence. Hands-free access to Siri AI works on all AirPods. \u00b2Device performance and noise control features like Active Noise Cancellation, Adaptive Audio, and Transparency can be affected by debris or earwax buildup. Clean the device regularly to maintain performance and full feature functionality. Refer to support.apple.com/102672 for AirPods cleaning instructions. Refer to support.apple.com/120409 for AirPods Pro cleaning instructions. \u00b3Requires a compatible Apple device running the latest operating system software. 4Available on compatible Apple devices with the latest operating system software when paired with compatible AirPods with the latest firmware when Apple Intelligence is turned on. Available in beta. Some features may not be available in all regions or languages; for more information, see Feature Availability. 5Compatible hardware and software required. Works with compatible content in supported apps. Not all content available in Dolby Atmos. iPhone with TrueDepth camera required to create a personal profile for Personalized Spatial Audio, which will sync across Apple devices running the latest operating system software, including iOS, iPadOS, macOS, and tvOS. Personalized Spatial Audio is not available when using other devices. 6AirPods 5 are dust, sweat, and water resistant for non-water sports and exercise, and they are IP57 rated. Dust, sweat, and water resistance are not permanent conditions. 7Testing conducted by Apple in July and August 2026 using preproduction AirPods 5 paired with preproduction iPhone 18 Pro units, all with prerelease software. The playlist consisted of 358 unique audio tracks purchased from the iTunes Store (256-Kbps AAC encoding). Volume was set to 50%, Spatial Audio and Conversation Awareness were off, and Noise Control was set to Active Noise Cancellation. With Noise Control turned off, listening time was up to 6 hours. Testing consisted of full AirPods battery discharge while playing audio until the first AirPod stopped playback. Battery life depends on device settings, environment, usage, and many other factors. 8Testing conducted by Apple in July and August 2026 using preproduction AirPods 5 and charging case paired with preproduction iPhone 18 Pro units, all with prerelease software. The playlist consisted of 358 unique audio tracks purchased from the iTunes Store (256-Kbps AAC encoding). Volume was set to 50%, Spatial Audio and Conversation Awareness were off, and Noise Control was set to Active Noise Cancellation. Testing consisted of full AirPods battery discharge while playing audio until the first AirPod stopped playback. The drained AirPods were charged to 100 percent, then audio playback was resumed until the first AirPod stopped playback. This cycle was repeated until both the AirPods and charging case were fully discharged. Battery life depends on device settings, environment, usage, and many other factors. 9Charging requires a compatible USB-C charger. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00195951378978"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Apple Airpods 1st Generation White Case W/Charging Cord Works",
+   "link": "https://www.ebay.com/itm/336564731266?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=336564731266&targetid=4580909067741549&device=c&mktype=&googleloc=100702&poi=&campaignid=607432627&mkgroupid=1236952216213403&rlsatarget=pla-4580909067741549&abcId=10821392&merchantid=51291&msclkid=c3fdc72e21fa1ecb5f24ad95be651d5f",
+   "price": 42.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.m%2fs2T6u7kan5aA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 355,
+   "description": "The Apple Airpods 1st Generation in White come with a charging cord for convenience. These wireless earbuds feature a sleek in-ear design, double earpieces, Bluetooth connectivity, and a rechargeable battery. With a built-in microphone and motion-detecting accelerometer, these earbuds offer a seamless user experience for Apple devices. Made by Apple, the Airpods are designed for those who value both style and functionality in their everyday tech accessories.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Apple Earpods In-Ear White Lightning Connector Integrated Microphone",
+   "link": "https://www.kleobis.com/track?clid=1565ffe6754912e1b623955dead61681&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F397797639112%3Fvar%3D0%26mkevt%3D1%26mkcid%3D1%26mkrid%3D711-53200-19255-0%26toolid%3D20006%26_ul%3DUS%26campid%3D5339156175%26customid%3D1565ffe6754912e1b623955dead61681%26cid%3D5339156175%26c%3D1565ffe6754912e1b623955dead61681&market=us&pid=v1%7C397797639112%7C0&cid=5339156175&source=msa&msclkid=1565ffe6754912e1b623955dead61681",
+   "price": 9.5,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.7HbzdmNKwSvUBA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 473,
+   "description": "Apple EarPods In-Ear White Lightning Connector Integrated Microphone",
+   "seller_name": "eBay US",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Wireless Bluetooth Earbuds - Airpod Style - White - Not Apple",
+   "link": "https://www.ebay.com/itm/366225143730?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=366225143730&targetid=4580840339649857&device=c&mktype=&googleloc=100702&poi=&campaignid=607172254&mkgroupid=1235852635635242&rlsatarget=pla-4580840339649857&abcId=10782669&merchantid=51291&msclkid=1c4aac8fea2d1dca9ccec63475b22188",
+   "price": 30,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.IG%2f4vXElaCP63Q474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 434,
+   "description": "Wireless Bluetooth Earbuds These are AirPod-style wireless earbuds designed for everyday use. IMPORTANT: This product is NOT manufactured by Apple and is NOT genuine Apple AirPods. Features: Bluetooth connectivity Charging case included Built-in microphone Compatible with iPhone & Android devices Lightweight and comfortable design Great affordable alternative for music, calls, and daily use",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Wireless Earbuds,Bluetooth Headphones Pro(2Nd Generation),48H Playtime Ear Buds With Mic,High-Fidelity Sound,Bluetooth 5.3 Chip,USB-C Charging,IPX7",
+   "link": "https://www.amazon.com/Headphones-generation-Ear-High-Fidelity-Waterproof/dp/B0FRF3TZJQ/ref=asc_df_B0FRF3TZJQ?tag=bingshoppinga-20&linkCode=df0&hvadid=80608155912217&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=100702&hvtargid=pla-4584207633122753&psc=1&hvocijid=11203785288507879084-B0FRF3TZJQ-&hvexpln=0",
+   "price": 19.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.RGiY1Nc%2flZyUQA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Bluetooth 5.3 earbuds for a fast and stable connection Experience next-level connectivity with earbuds, which are powered by advanced Bluetooth 5.3 technology. With an enhanced 33-foot range and improved performance compared to Bluetooth 5.2, these earbuds reduce signal drops and deliver pristine audio, even in crowded places like subways and shopping centres. Long battery life These wireless earbuds have a built-in lithium polymer battery. When fully charged, the earbuds can play for up to 8 hours. The charging case can charge the earbuds six times, enabling them to play for up to 48 hours. A Type-C charging cable enables the charging case to store power faster. This improves the case's charging efficiency. Hi-Fi sound quality modes These Bluetooth headphones are equipped with 14 mm dynamic drivers that deliver an immersive music experience. Feel the pulse of the beats and enjoy rich bass, clear mid-range and crisp treble. You can personalise the sound profile with modes to match your favourite music style, ensuring a more authentic and enjoyable listening experience. Enjoy long-lasting comfort with every use earbuds are designed for an ideal fit based on extensive user testing, just like all the top brands. Ergonomically designed for the perfect fit, each earbud weighs just 0.13 oz. They are the perfect choice for anyone who needs to wear earbuds for work, study or exercise. Automatic Pairing, Waterproof and Dustproof The headset can be turned on automatically when removed from the box and will automatically connect, providing an intelligent experience. Multiple processes effectively prevent rain and sweat from damaging electronic devices, so you can enjoy your sports without worry. 1: Latest Bluetooth V5.3: With the latest bluetooth 5.2 technology which can offers FASTER speed,MORE STABLE connection and LOWER consumption of battery. 2: Touch Control: Play/Pause Music,Next/Previous Song,Answer/End Call,Volumn +/-,Activate Siri/Google Assistant by Touch different times. 3: Auto Pairing: Automatically connect to your Bluetooth devices when pick the earbuds out. 4: Stereo-Mono Mode: These 2 wireless earbuds can be shared with different Bluetooth devices,you can use one earbud seperately or both together. 5: Active Noise Cancelling: CVC8.0 noise cancelling technology can eliminate ambient noise intelligently and immerse you in an authentic musical world. 6: IPX7Waterproof: It can resist the sweat and rain easily,suitable for Sport and Gym. 7: Built-in Microphone: Hand-free call is available when Working/Cooking/Driving. 8: Great Compatibility: Compatible with most Bluetooth devices such as iPhone 16/15/SE/XS/XR/8/7, iPad, iPod, MacBook, Samsung Galaxy S20/10/Note10, PC, TV etc. Parameters: Product weight: 4-5g(single earbud) Working time: 5-8 hours for Music, 1-2 hours for Calling Standby time : 100 hours for single earbud, 48 hours for both earbuds Charging time: 45-90 minutes Capacity: Earbud battery 55 mAh,Charging case 600 mAh(Rechargable Li-ion Battery) Bluetooth Wireless Distance: 15 meters What you will get: 1 * 2 Wireless Earbuds 1*Portable Charging Case 1*USB to Type-C Cable 1*User Manual",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "gtin_ids": [
+    "00745431247913"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods 2nd Gen Bluetooth Earbuds Earphone Headset + Charging",
+   "link": "https://www.ebay.com/itm/127773017591?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=127773017591&targetid=4580840345259687&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644058&rlsatarget=pla-4580840345259687&abcId=10641719&merchantid=51291&msclkid=650b50364bd11a48c67b3a8dd44ec9f5",
+   "price": 60,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.kuv0rLtgmz5rKw474C474&o=5&pid=21.1",
+   "thumbnail_width": 400,
+   "thumbnail_height": 340,
+   "description": "APPLE AIRPODS 2ND GEN BLUETOOTH EARBUDS EARPHONE HEADSET + CHARGING CASE WHITE. Se envio con USPS Ground Advantage.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Genuine Apple Airpods Pro 1st Generation A2083 Airpod RIGHT Side Ear Only - Great Cond",
+   "link": "https://rd.bizrate.com/r/45513996014?rf=prb&rtp=audience_id:pla-4585100935165961&rtp=device_type:c&rtp=bid:4585100935165961&rtp=keyword_name:airpods%20chinabuy&rtp=network:o&af_rid=fde35b24700e1dd26222319fef91d688&b=https%3A%2F%2Fwww.etsy.com%2Flisting%2F4473759070%2Fgenuine-apple-airpods-pro-1st-generation%3Fgpla%3D1%26gao%3D1%26utm_source%3Dconnexity%26utm_medium%3Dcpc%26utm_campaign%3Dshopping_us_bing%26utm_content%3Dfde35b24700e1dd26222319fef91d688&segId=627428645&msclkid=fde35b24700e1dd26222319fef91d688&utm_source=bing&utm_medium=cpc&utm_campaign=Etsy%20(366575)&utm_term=4585100935165961&utm_content=Etsy",
+   "price": 47.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.ehYW4SpssITAIg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 575,
+   "description": "Genuine Apple AirPods pro 1st Generation A2083 AirPod (RIGHT SIDE EAR ONLY) - Great Cond ----------------------------------------------------------------------------------------------------------------------------- This is a pre-owned genuine Apple...",
+   "seller_name": "Etsy",
+   "seller_domain": "etsy.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods Pro Wireless Bluetooth Earbuds, Active Noise",
+   "link": "https://www.ebay.com/itm/317927523851?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=317927523851&targetid=4580840345259663&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259663&abcId=10641719&merchantid=51291&msclkid=769823308adc1845fc6b498b15432607",
+   "price": 150,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.K49B3Vz8z7yY5Q474C474&o=5&pid=21.1",
+   "thumbnail_width": 400,
+   "thumbnail_height": 400,
+   "description": "Apple AirPods Pro Wireless Bluetooth Earbuds, Active Noise Cancellation, White",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Custom Printed Airpods (Brand New)",
+   "link": "https://rd.bizrate.com/r/45196248151?rf=prb&rtp=audience_id:pla-4585100935165961&rtp=device_type:c&rtp=bid:4585100935165961&rtp=keyword_name:airpods%20chinabuy&rtp=network:o&af_rid=0808cd9d89671be9b889a72616f80df1&b=https%3A%2F%2Fwww.etsy.com%2Flisting%2F4324622998%2Fcustom-printed-airpods-brand-new%3Fgpla%3D1%26gao%3D1%26utm_source%3Dconnexity%26utm_medium%3Dcpc%26utm_campaign%3Dshopping_us_bing%26utm_content%3D0808cd9d89671be9b889a72616f80df1&segId=627428645&msclkid=0808cd9d89671be9b889a72616f80df1&utm_source=bing&utm_medium=cpc&utm_campaign=Etsy%20(366575)&utm_term=4585100935165961&utm_content=Etsy",
+   "price": 199.01,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.nUsxmCxVm4hodg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 666,
+   "description": "Brand new Apple Airpods 4 with custom printed logo. Have your company logo (or any logo for that matter), printed directly onto your Airpod case. Perfect for promotions or giveaways, or to simply differentiate your Airpods from everyone else's....",
+   "seller_name": "Etsy",
+   "seller_domain": "etsy.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Airpods 4",
+   "link": "https://www.walmart.com/ip/Restored-AirPods-4-Refurbished/15176406400?wmlspartner=wlpa",
+   "price": 99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.pPt9go%2fT1MLiMw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 441,
+   "description": "Restored Apple AirPods 4",
+   "seller_name": "Walmart",
+   "seller_domain": "walmart.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00611419973832"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods 4 (4Th Generation) W/ Anc Active Noise Cancellation -",
+   "link": "https://www.ebay.com/itm/257071344148?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=257071344148&targetid=4580634181643500&device=c&mktype=&googleloc=100702&poi=&campaignid=606333138&mkgroupid=1232553916817447&rlsatarget=pla-4580634181643500&abcId=10653366&merchantid=51291&msclkid=681cbe08724813abf0a9d4b3edd75412",
+   "price": 99.75,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.qzrgoS%2bnh%2f5ljw474C474&o=5&pid=21.1",
+   "thumbnail_width": 701,
+   "thumbnail_height": 710,
+   "description": "Find Apple Airpods 4 (4th Generation) W/ Anc Active Noise Cancellation - Mxp93ll/a on eBay in the category Cell Phones & Accessories>Cell Phone Accessories>Headsets.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00195949689604"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Airpods 4",
+   "link": "https://www.ebay.com/itm/318839879919?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=318839879919&targetid=4580496747574603&device=c&mktype=&googleloc=100702&poi=&campaignid=606351088&mkgroupid=1230354904942261&rlsatarget=pla-4580496747574603&abcId=10662246&merchantid=51291&msclkid=396d95b936e916f7b7f0ff02a9763023",
+   "price": 70,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.HLy%2bMoydEO4Pkw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "description": "Apple AirPods 4 Condition: Used, barely small scratches, in good condition warranty: We offer a 90 days return policy The AirPods 4 are a set of white, Apple-branded earbuds that offer a seamless and convenient listening experience. With Bluetooth connectivity, these earbuds provide a wireless connection to your devices for hassle-free use. The a3050 model ensures high-quality sound and a comfortable fit, making them a popular choice for those looking for a reliable and stylish headset option.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods Wireless Bluetooth In-Ear Headset W/ Charging Case MMEF2AM/A (Renewed)",
+   "link": "https://www.amazon.com/Apple-Wireless-Bluetooth-MMEF2AM-Refurbished/dp/B07731Y1CC/ref=asc_df_B07731Y1CC?tag=bingshoppinga-20&linkCode=df0&hvadid=79852242641531&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=100702&hvtargid=pla-4583451720734980&psc=1&hvocijid=13727659183625059463-B07731Y1CC-&hvexpln=0",
+   "price": 112.47,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.QghswmMHO%2ffrpw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 583,
+   "description": "Quick access to Siri by saying \"Hey Siri\" Automatically on, automatically connected Easy setup for all your Apple devices Bullet Point Listen and talk all day with multiple charges from the Charging Case Airpods will forever change the way you use headphones. Whenever you pull your airpods out of the charging case, they instantly turn on and connect to your iPhone, Apple Watch, iPad, or Mac.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00783512847416"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods Pro 2nd Gen With Magsafe Wireless Charging Case",
+   "link": "https://www.ebay.com/itm/389459891513?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=389459891513&targetid=4580840345259663&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259663&abcId=10641719&merchantid=51291&msclkid=75208f4dc2c21cfad69be5f65d5d96ac",
+   "price": 130,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Gr3f0D%2f3iMrtcw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "I got these AirPods a while ago from my sister because of my birthday, but never opened them because I had AirPods at the time. They are new never been open",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "gtin_ids": [
+    "00195949052484"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "3 Pairs Replacement Ear Tips For Airpods Pro 2nd & 1St(S/M/L, White) | With Noise Reduction Hole, Silicone Ear Tips With Portable Storage Box, Fit In",
+   "link": "https://www.amazon.com/Replacement-Reduction-Silicone-Portable-Charging/dp/B08HT46TVP/ref=asc_df_B08HT46TVP?tag=bingshoppinga-20&linkCode=df0&hvadid=80883033960508&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=100702&hvtargid=pla-4584482516422018&psc=1&hvocijid=9125091352067325605-B08HT46TVP-&hvexpln=0",
+   "price": 6.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.X7vRwwDrR%2bzpeg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 449,
+   "description": "Excellent Noise Reduction Function: YUWAKAYI Airpods pro replacement ear tips have two noise reduction holes on the side, which are almost the same as the original(other silicone ear tips do not have them), which can reduce noise to keep the best noise reduction effect of the original headphone Dust Guard Screen: Each airpod pro tips has a built-in dust guard screen, Same as Originals,The one-piece molding process makes it more firm and not easy to fall off. There is no need to worry about sweat letting him fall off Ultra Comfortable to Wear: The ear tips are made of high-quality soft silicone material with ultra-light weight, ensuring long-lasting comfort to your ears,3 different sizes can meet the different needs of you and your family Fits the Airpods Pro Seamless: Perfectly fit into Airpods pro and Airpods Pro 2nd generation, the connection with the ear buds is closer and seamless, you dont need to worry about the ear tips fall off. At the same time fit for the original AirPods Pro charging case Storage Box: 2xSmall,2xMedium,2xLarge, equipped with a storage box for storing 6 ear buds to protect unused ear buds from being lost or soiled",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "+$6.99 shipping",
+   "shipping_price": 6.99,
+   "gtin_ids": [
+    "06973337761699"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods 5 Wireless Earbuds With Active Noise Cancellation",
+   "link": "https://www.target.com/p/apple-airpods-5-wireless-earbuds-with-active-noise-cancellation/-/A-85978611?TCID=PDS-9224351998",
+   "price": 129.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.FEEEQSwXMyVGpw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 449,
+   "description": "Discover the magic of Active Noise Cancellation. Exceptional noise cancellation for all. A sound improvement. What's in the Box AirPods 5 Charging Case (USB-C) Documentation: AirPods 5 do not include a USB-C Charge Cable or power adapter.: We encourage you to use any compatible USB-C Charge Cable or power adapter. If you need a new Apple charge cable or power adapter, they are available for purchase. Legal Apple Intelligence is available with Siri and device language set to Chinese (Simplified), Chinese (Traditional), Danish, Dutch, English, French, German, Italian, Japanese, Korean, Norwegian, Portuguese, Spanish, Swedish, Turkish, or Vietnamese. Some features may not be available in all regions or languages. Some devices may not be available in all regions. Siri AI is available in beta in iOS 27, macOS 27, and watchOS 27 and requires an Apple Intelligence-enabled device set to a supported language. Available in English to start. Siri AI will not be initially available in the EU on iOS, iPadOS, and watchOS. Certain Apple Intelligence features that rely on server-side models are subject to daily usage limits, including but not limited to Siri AI, Intelligent Photo Editing Tools, Image Playground, and AFM 3 Cloud models in Shortcuts. Daily limits may vary by feature, request complexity, system demand, system policies, and other factors. Expanded access to such features will be available for a fee in the future. Use of these features is subject to the Apple Intelligence Terms and Conditions. Learn more at apple.com/apple-intelligence. Hands-free access to Siri AI works on all AirPods. \u00b2Device performance and noise control features like Active Noise Cancellation, Adaptive Audio, and Transparency can be affected by debris or earwax buildup. Clean the device regularly to maintain performance and full feature functionality. Refer to support.apple.com/102672 for AirPods cleaning instructions. Refer to support.apple.com/120409 for AirPods Pro cleaning instructions. \u00b3Requires a compatible Apple device running the latest operating system software. 4Available on compatible Apple devices with the latest operating system software when paired with compatible AirPods with the latest firmware when Apple Intelligence is turned on. Available in beta. Some features may not be available in all regions or languages; for more information, see Feature Availability. 5Compatible hardware and software required. Works with compatible content in supported apps. Not all content available in Dolby Atmos. iPhone with TrueDepth camera required to create a personal profile for Personalized Spatial Audio, which will sync across Apple devices running the latest operating system software, including iOS, iPadOS, macOS, and tvOS. Personalized Spatial Audio is not available when using other devices. 6AirPods 5 are dust, sweat, and water resistant for non-water sports and exercise, and they are IP57 rated. Dust, sweat, and water resistance are not permanent conditions. 7Testing conducted by Apple in July and August 2026 using preproduction AirPods 5 paired with preproduction iPhone 18 Pro units, all with prerelease software. The playlist consisted of 358 unique audio tracks purchased from the iTunes Store (256-Kbps AAC encoding). Volume was set to 50%, Spatial Audio and Conversation Awareness were off, and Noise Control was set to Active Noise Cancellation. With Noise Control turned off, listening time was up to 6 hours. Testing consisted of full AirPods battery discharge while playing audio until the first AirPod stopped playback. Battery life depends on device settings, environment, usage, and many other factors. 8Testing conducted by Apple in July and August 2026 using preproduction AirPods 5 and charging case paired with preproduction iPhone 18 Pro units, all with prerelease software. The playlist consisted of 358 unique audio tracks purchased from the iTunes Store (256-Kbps AAC encoding). Volume was set to 50%, Spatial Audio and Conversation Awareness were off, and Noise Control was set to Active Noise Cancellation. Testing consisted of full AirPods battery discharge while playing audio until the first AirPod stopped playback. The drained AirPods were charged to 100 percent, then audio playback was resumed until the first AirPod stopped playback. This cycle was repeated until both the AirPods and charging case were fully discharged. Battery life depends on device settings, environment, usage, and many other factors. 9Charging requires a compatible USB-C charger. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00195951378978"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods 1st Generation White Case W/Charging Cord Works",
+   "link": "https://www.ebay.com/itm/336564731266?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=336564731266&targetid=4580909067741549&device=c&mktype=&googleloc=100702&poi=&campaignid=607432627&mkgroupid=1236952216213403&rlsatarget=pla-4580909067741549&abcId=10821392&merchantid=51291&msclkid=3c51d8ed01991dd4866cb2569e0631b7",
+   "price": 42.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.m%2fs2T6u7kan5aA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 355,
+   "description": "The Apple Airpods 1st Generation in White come with a charging cord for convenience. These wireless earbuds feature a sleek in-ear design, double earpieces, Bluetooth connectivity, and a rechargeable battery. With a built-in microphone and motion-detecting accelerometer, these earbuds offer a seamless user experience for Apple devices. Made by Apple, the Airpods are designed for those who value both style and functionality in their everyday tech accessories.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Earpods In-Ear White Lightning Connector Integrated Microphone",
+   "link": "https://www.kleobis.com/track?clid=2a98bde3349c1f5e80f4d758ab0363fa&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F397797639112%3Fvar%3D0%26mkevt%3D1%26mkcid%3D1%26mkrid%3D711-53200-19255-0%26toolid%3D20006%26_ul%3DUS%26campid%3D5339156175%26customid%3D2a98bde3349c1f5e80f4d758ab0363fa%26cid%3D5339156175%26c%3D2a98bde3349c1f5e80f4d758ab0363fa&market=us&pid=v1%7C397797639112%7C0&cid=5339156175&source=msa&msclkid=2a98bde3349c1f5e80f4d758ab0363fa",
+   "price": 9.5,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.7HbzdmNKwSvUBA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 473,
+   "description": "Apple EarPods In-Ear White Lightning Connector Integrated Microphone",
+   "seller_name": "eBay US",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods 4th Gen Noise Cancellation",
+   "link": "https://www.ebay.com/itm/397655685256?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=397655685256&targetid=4580840345259693&device=c&mktype=&googleloc=100702&poi=&campaignid=607179387&mkgroupid=1235852715644058&rlsatarget=pla-4580840345259693&abcId=10641719&merchantid=51291&msclkid=8abf12a0acb71f503521781b33289e5e",
+   "price": 90,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Laawcpk3ikTg3A474C474&o=5&pid=21.1",
+   "thumbnail_width": 399,
+   "thumbnail_height": 400,
+   "description": "with box sealed price is negotiable",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Cell Phones & Accessories | Apple Airpods Gen 4 With Wireless Charging Case - White | Color: White | Size: Os",
+   "link": "https://poshmark.com/listing/Apple-AirPods-gen-4-with-Wireless-Charging-Case-White-681e82954a072b8fd3a7db7f?gclid=d331ccf75728112977e4a64cc8b71e42&gclsrc=3p.ds&&utm_source=bdm&campaign_id=555506407&utm_campaign=555506407&ad_partner=bing&msclkid=d331ccf75728112977e4a64cc8b71e42",
+   "price": 129,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.itVMFyvZ%2fT95ag474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Experience High-Quality Sound With Apple Airpods Featuring A Sleek White Design. Enjoy Seamless Connectivity And Wireless Charging Convenience.",
+   "seller_name": "Poshmark",
+   "seller_domain": "poshmark.com",
+   "shipping_description": "+$6.49 shipping",
+   "shipping_price": 6.49
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Fair Apple Airpods Pro W/ Magsafe Charging Case - White // Mismatch +",
+   "link": "https://www.ebay.com/itm/168450142389?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=168450142389&targetid=4580771617931495&device=c&mktype=&googleloc=100702&poi=&campaignid=606062304&mkgroupid=1234752867113577&rlsatarget=pla-4580771617931495&abcId=10541159&merchantid=51291&msclkid=970dfc128075107821a496a91fea7f18",
+   "price": 48.1,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.bE5XXEtT9EqKwQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 381,
+   "thumbnail_height": 390,
+   "description": "View Store Feedback Contact Us About Us FAIR Apple AirPods Pro w/ MagSafe Charging Case - White // MISMATCH + ENGRAVED* Inspected to be fully functional and will show considerable signs of heavy cosmetic use and wear. The product has been tested to have over 90% battery health. Please Note: This specific set is noted to be Mismatched and will not work with certain App Features. This unit also has a custom engraving, where the design may vary from unit to unit. Apple AirPods Pro with MagSafe Charging Case. White headphone color. Model: A2083, A2084, and Case A2190. Features: - Custom high-excursion Apple driver with Active Noise Cancellation and Transparency mode - H1 Headphone Chip - Dual Beam-forming Microphones - Sweat and Water Resistant (IPX4) - Works with MagSafe charger, Qi-certified chargers, or the 8-Pin connector - More than 24 hours of listening time, 5 minutes in the case provides around 1 hour of listening time or around 1 hour of talk time - Bluetooth 5.0 Technology Brand Apple MPN MLWK3AM/",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00094233374021"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods 4 2024 - Digital Download",
+   "link": "https://rd.bizrate.com/r/45209737490?rf=prb&rtp=audience_id:pla-4585100935165961&rtp=device_type:c&rtp=bid:4585100935165961&rtp=keyword_name:airpods%20chinabuy&rtp=network:o&af_rid=1467c2a899181d37a8d1a8130687f49f&b=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1876263461%2Fapple-airpods-4-2024-digital-download%3Fgpla%3D1%26gao%3D1%26utm_source%3Dconnexity%26utm_medium%3Dcpc%26utm_campaign%3Dshopping_us_bing%26utm_content%3D1467c2a899181d37a8d1a8130687f49f&segId=627428645&msclkid=1467c2a899181d37a8d1a8130687f49f&utm_source=bing&utm_medium=cpc&utm_campaign=Etsy%20(366575)&utm_term=4585100935165961&utm_content=Etsy",
+   "price": 6.93,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.spgsIRtmEvG8KQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 695,
+   "description": "** IMPORTANT // This is NOT a physical item, it's a digital download ** -------------------------------------------------------------- Apple AirPods 4 2024 vectored mockup created in Adobe Illustrator and fully editable. DIGITAL DOWNLOAD. The...",
+   "seller_name": "Etsy",
+   "seller_domain": "etsy.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods 1st Gen Model: A1602 Selling As Parts Only.",
+   "link": "https://www.ebay.com/itm/366196417195?chn=ps&norover=1&mkevt=1&mkrid=711-167538-502585-0&mkcid=2&mkscid=101&itemid=366196417195&targetid=4580840339649857&device=c&mktype=&googleloc=100702&poi=&campaignid=607172254&mkgroupid=1235852635635242&rlsatarget=pla-4580840339649857&abcId=10782669&merchantid=51291&msclkid=727da5d985521b60f6fbcf621acda788",
+   "price": 30,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.6eTzXgbyyUb9rA474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 205,
+   "description": "Upgrade your audio experience with Apple AirPods 1st Generation. Fully tested and in good working condition. Condition: Pre-owned Airpods does not connect/Has no sound. Selling as parts only Whats Included: Apple AirPods (Left & Right earbuds)- Left side airpods has no sound Charging case and Charging cable. Charging block is not included.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Bottom",
+   "title": "Apple Airpods Deals - Shop Premium Refurbished Tech",
+   "link": "https://www.backmarket.com/en-us/l/airpods-series-airpods/3d3ac541-33a1-41b7-92a5-bb2699b475e8?msclkid=794ab81dbbca1690e969d2a62455b6e9&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&utm_term=Apple%20Airpods%20deals&utm_content=Airpods",
+   "displayed_link": "https://www.backmarket.com/refurbished/deals",
+   "description": "Refurbished Airpods guaranteed to work like new. Refurbished tech that's better for your wallet and the planet.",
+   "seller_name": "Back Market",
+   "sitelinks": [
+    {
+     "text": "What is \"Refurbished\"?",
+     "link": "https://www.backmarket.com/en-us/c/iphone/what-is-a-refurb-iphone?msclkid=dc5464d61b281a3159990e6d84b73afc&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&utm_term=Apple%20Airpods%20deals&utm_content=Airpods"
+    },
+    {
+     "text": "College Student Discount",
+     "link": "https://www.backmarket.com/en-us/student-discount?msclkid=483d78c18e5d19f4fd67127a11c2f2e7&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&utm_term=Apple%20Airpods%20deals&utm_content=Airpods"
+    },
+    {
+     "text": "Our best deals",
+     "link": "https://www.backmarket.com/en-us/l/good-deals/480f0d03-7690-4d7b-8de9-fc55165f498a?msclkid=4fd4bf6967be1f68d289d5d2f821f12a&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&utm_term=Apple%20Airpods%20deals&utm_content=Airpods"
+    },
+    {
+     "text": "Consoles & Gaming",
+     "link": "https://www.backmarket.com/refurbished-consoles-gaming.html?msclkid=d645c7718573118a7bb0adca1aec0688&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&utm_term=Apple%20Airpods%20deals&utm_content=Airpods"
+    },
+    {
+     "text": "Trade in",
+     "link": "https://www.backmarket.com/en-us/buyback/home?msclkid=111edd3875ce169eadddb783ea518d26&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&utm_term=Apple%20Airpods%20deals&utm_content=Airpods"
+    },
+    {
+     "text": "Apple AirPods",
+     "link": "https://www.backmarket.com/en-us/l/airpods-series-airpods/3d3ac541-33a1-41b7-92a5-bb2699b475e8?utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&msclkid=c029c851c15511bd560ea2ea5eca09a3"
+    },
+    {
+     "text": "Used Phones",
+     "link": "https://www.backmarket.com/en-us/l/smartphones/0744fd27-8605-465d-8691-3b6dffda5969?utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&msclkid=09c3d255ba3519c08ba4b8ee25aa5b89"
+    },
+    {
+     "text": "Studio Headphones",
+     "link": "https://www.backmarket.com/en-us/p/k702-noise-reducer-headphone-black/165ea283-5328-4229-81ae-5cc0aa3838e8?shopping=gmc&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Apple_Multiple_New_2023&msclkid=50fbaed46cba1fd0fa63c46ff3259dd9"
+    }
+   ],
+   "logo": "https://www.bing.com/th?id=OADD2.7490513275642_199LJ5EBQNBNCM9F7R&pid=21.2",
+   "extensions": [
+    "Service catalog: Free Shipping, Free 1-Year Warranty"
+   ]
+  }
+ ],
+ "text_recognition": [
+  {
+   "text": "MPHPACH/A AirPods Pro 3 Model A3065 A3122",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.125,
+     "y": 0.7525126
+    },
+    "top_right": {
+     "x": 0.55625,
+     "y": 0.7349246
+    },
+    "bottom_right": {
+     "x": 0.55625,
+     "y": 0.7525126
+    },
+    "bottom_left": {
+     "x": 0.12604167,
+     "y": 0.77135676
+    }
+   },
+   "words": [
+    {
+     "text": "MPHPACH/A",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.12604167,
+       "y": 0.75376886
+      },
+      "top_right": {
+       "x": 0.234375,
+       "y": 0.75
+      },
+      "bottom_right": {
+       "x": 0.23541667,
+       "y": 0.7663317
+      },
+      "bottom_left": {
+       "x": 0.12604167,
+       "y": 0.77135676
+      }
+     }
+    },
+    {
+     "text": "AirPods",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.25208333,
+       "y": 0.7487437
+      },
+      "top_right": {
+       "x": 0.31770834,
+       "y": 0.74623114
+      },
+      "bottom_right": {
+       "x": 0.31770834,
+       "y": 0.7625628
+      },
+      "bottom_left": {
+       "x": 0.25208333,
+       "y": 0.7663317
+      }
+     }
+    },
+    {
+     "text": "Pro",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.325,
+       "y": 0.74623114
+      },
+      "top_right": {
+       "x": 0.353125,
+       "y": 0.74497485
+      },
+      "bottom_right": {
+       "x": 0.35416666,
+       "y": 0.7613065
+      },
+      "bottom_left": {
+       "x": 0.32604167,
+       "y": 0.7625628
+      }
+     }
+    },
+    {
+     "text": "3",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.36145833,
+       "y": 0.74371856
+      },
+      "top_right": {
+       "x": 0.36875,
+       "y": 0.74371856
+      },
+      "bottom_right": {
+       "x": 0.36979166,
+       "y": 0.76005024
+      },
+      "bottom_left": {
+       "x": 0.3625,
+       "y": 0.7613065
+      }
+     }
+    },
+    {
+     "text": "Model",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.378125,
+       "y": 0.74371856
+      },
+      "top_right": {
+       "x": 0.434375,
+       "y": 0.74120605
+      },
+      "bottom_right": {
+       "x": 0.434375,
+       "y": 0.75753766
+      },
+      "bottom_left": {
+       "x": 0.378125,
+       "y": 0.76005024
+      }
+     }
+    },
+    {
+     "text": "A3065",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.43854168,
+       "y": 0.74120605
+      },
+      "top_right": {
+       "x": 0.490625,
+       "y": 0.7386935
+      },
+      "bottom_right": {
+       "x": 0.490625,
+       "y": 0.75502515
+      },
+      "bottom_left": {
+       "x": 0.43958333,
+       "y": 0.75753766
+      }
+     }
+    },
+    {
+     "text": "A3122",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.49895832,
+       "y": 0.7386935
+      },
+      "top_right": {
+       "x": 0.5520833,
+       "y": 0.7361809
+      },
+      "bottom_right": {
+       "x": 0.553125,
+       "y": 0.7525126
+      },
+      "bottom_left": {
+       "x": 0.5,
+       "y": 0.75502515
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "Designed by Apple in Califomia",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.12708333,
+     "y": 0.76884425
+    },
+    "top_right": {
+     "x": 0.40520832,
+     "y": 0.75753766
+    },
+    "bottom_right": {
+     "x": 0.40520832,
+     "y": 0.77261305
+    },
+    "bottom_left": {
+     "x": 0.128125,
+     "y": 0.78517586
+    }
+   },
+   "words": [
+    {
+     "text": "Designed",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.12916666,
+       "y": 0.7701005
+      },
+      "top_right": {
+       "x": 0.209375,
+       "y": 0.7650754
+      },
+      "bottom_right": {
+       "x": 0.21041666,
+       "y": 0.78140706
+      },
+      "bottom_left": {
+       "x": 0.13020833,
+       "y": 0.78517586
+      }
+     }
+    },
+    {
+     "text": "by",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.21770833,
+       "y": 0.7650754
+      },
+      "top_right": {
+       "x": 0.23541667,
+       "y": 0.7638191
+      },
+      "bottom_right": {
+       "x": 0.23645833,
+       "y": 0.7801508
+      },
+      "bottom_left": {
+       "x": 0.21875,
+       "y": 0.78140706
+      }
+     }
+    },
+    {
+     "text": "Apple",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.24479167,
+       "y": 0.7638191
+      },
+      "top_right": {
+       "x": 0.290625,
+       "y": 0.7625628
+      },
+      "bottom_right": {
+       "x": 0.290625,
+       "y": 0.7776382
+      },
+      "bottom_left": {
+       "x": 0.24583334,
+       "y": 0.7801508
+      }
+     }
+    },
+    {
+     "text": "in",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.29895833,
+       "y": 0.7613065
+      },
+      "top_right": {
+       "x": 0.31041667,
+       "y": 0.7613065
+      },
+      "bottom_right": {
+       "x": 0.31145832,
+       "y": 0.7776382
+      },
+      "bottom_left": {
+       "x": 0.3,
+       "y": 0.7776382
+      }
+     }
+    },
+    {
+     "text": "Califomia",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.32083333,
+       "y": 0.7613065
+      },
+      "top_right": {
+       "x": 0.39791667,
+       "y": 0.75879395
+      },
+      "bottom_right": {
+       "x": 0.39895833,
+       "y": 0.77261305
+      },
+      "bottom_left": {
+       "x": 0.321875,
+       "y": 0.7763819
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "Product of China",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.13333334,
+     "y": 0.78140706
+    },
+    "top_right": {
+     "x": 0.28333333,
+     "y": 0.7751256
+    },
+    "bottom_right": {
+     "x": 0.28333333,
+     "y": 0.7914573
+    },
+    "bottom_left": {
+     "x": 0.13333334,
+     "y": 0.7964824
+    }
+   },
+   "words": [
+    {
+     "text": "Product",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.134375,
+       "y": 0.78266335
+      },
+      "top_right": {
+       "x": 0.203125,
+       "y": 0.7788945
+      },
+      "bottom_right": {
+       "x": 0.203125,
+       "y": 0.79522616
+      },
+      "bottom_left": {
+       "x": 0.13541667,
+       "y": 0.7977387
+      }
+     }
+    },
+    {
+     "text": "of",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.20729166,
+       "y": 0.7788945
+      },
+      "top_right": {
+       "x": 0.22395833,
+       "y": 0.7788945
+      },
+      "bottom_right": {
+       "x": 0.22395833,
+       "y": 0.79396987
+      },
+      "bottom_left": {
+       "x": 0.20833333,
+       "y": 0.79522616
+      }
+     }
+    },
+    {
+     "text": "China",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.22916667,
+       "y": 0.7788945
+      },
+      "top_right": {
+       "x": 0.27395833,
+       "y": 0.7763819
+      },
+      "bottom_right": {
+       "x": 0.27395833,
+       "y": 0.7927136
+      },
+      "bottom_left": {
+       "x": 0.22916667,
+       "y": 0.79396987
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "(B)serial No. RCOKEQHSM2",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.14270833,
+     "y": 0.80025125
+    },
+    "top_right": {
+     "x": 0.38645834,
+     "y": 0.7914573
+    },
+    "bottom_right": {
+     "x": 0.38645834,
+     "y": 0.8065327
+    },
+    "bottom_left": {
+     "x": 0.14375,
+     "y": 0.8165829
+    }
+   },
+   "words": [
+    {
+     "text": "(B)serial",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.14375,
+       "y": 0.80150753
+      },
+      "top_right": {
+       "x": 0.21875,
+       "y": 0.7977387
+      },
+      "bottom_right": {
+       "x": 0.21979167,
+       "y": 0.81407034
+      },
+      "bottom_left": {
+       "x": 0.14479166,
+       "y": 0.8178392
+      }
+     }
+    },
+    {
+     "text": "No.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.22291666,
+       "y": 0.7977387
+      },
+      "top_right": {
+       "x": 0.25208333,
+       "y": 0.7964824
+      },
+      "bottom_right": {
+       "x": 0.253125,
+       "y": 0.81155777
+      },
+      "bottom_left": {
+       "x": 0.22291666,
+       "y": 0.81407034
+      }
+     }
+    },
+    {
+     "text": "RCOKEQHSM2",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.25520834,
+       "y": 0.7964824
+      },
+      "top_right": {
+       "x": 0.38229167,
+       "y": 0.7927136
+      },
+      "bottom_right": {
+       "x": 0.38229167,
+       "y": 0.8065327
+      },
+      "bottom_left": {
+       "x": 0.25520834,
+       "y": 0.81155777
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "crops": [
+  {
+   "name": "##TextRecognition",
+   "cat": 0,
+   "cal": 0,
+   "car": 1,
+   "cab": 1,
+   "serpapi_link": "https://serpapi.com/search.json?cab=1&cal=0&car=1&cat=0&engine=bing_reverse_image&image_url=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FJtcAAeSw6EJqsVhv%2Fs-l960.jpg"
+  }
+ ],
+ "serpapi_pagination": {
+  "next_page_token": "MGLTi3ica1pcWpRz0yqjpKSg2EpfP1MvNSmxMjM3XS85P1c_MzcxPbVYP13fqyTZ0TE1uNzM1auwOCyjTL9YN8fSzEAvqyB9WX5aWnFqiTIACToa6w",
+  "next": "https://serpapi.com/search.json?count=35&engine=bing_reverse_image&image_url=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FJtcAAeSw6EJqsVhv%2Fs-l960.jpg&next_page_token=MGLTi3ica1pcWpRz0yqjpKSg2EpfP1MvNSmxMjM3XS85P1c_MzcxPbVYP13fqyTZ0TE1uNzM1auwOCyjTL9YN8fSzEAvqyB9WX5aWnFqiTIACToa6w",
+  "current": "https://serpapi.com/search.json?engine=bing_reverse_image&image_url=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FJtcAAeSw6EJqsVhv%2Fs-l960.jpg"
+ },
+ "_probe_latency_s": 4.15
+}

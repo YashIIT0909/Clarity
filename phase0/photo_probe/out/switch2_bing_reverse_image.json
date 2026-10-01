@@ -1,0 +1,1990 @@
+{
+ "search_metadata": {
+  "id": "6abb9b7d6e2237f7e263f34c",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/jl-BSdX656_TjDlX1qTBNmvzJZzTzOUjATzWUnrLGP8/6abb9b7d6e2237f7e263f34c.json",
+  "markdown_endpoint": "https://serpapi.com/searches/jl-BSdX656_TjDlX1qTBNmvzJZzTzOUjATzWUnrLGP8/6abb9b7d6e2237f7e263f34c.md",
+  "created_at": "2026-09-29 11:05:33 UTC",
+  "processed_at": "2026-09-29 11:05:33 UTC",
+  "bing_reverse_image_url": "https://www.bing.com/images/search?q=imgurl:https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F714-Fh3ngmL._SL1500_.jpg&view=detailv2&iss=sbi",
+  "raw_html_file": "https://serpapi.com/searches/jl-BSdX656_TjDlX1qTBNmvzJZzTzOUjATzWUnrLGP8/6abb9b7d6e2237f7e263f34c.html",
+  "prettify_html_file": "https://serpapi.com/searches/jl-BSdX656_TjDlX1qTBNmvzJZzTzOUjATzWUnrLGP8/6abb9b7d6e2237f7e263f34c.prettify",
+  "total_time_taken": 1.23
+ },
+ "search_parameters": {
+  "engine": "bing_reverse_image",
+  "image_url": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg"
+ },
+ "search_information": {
+  "total_estimated_matches": 128
+ },
+ "image_info": {
+  "title": "My Loot Cave",
+  "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=293BF1A8F40FB7887F27ACE034580F517C3CFED7&simid=608044027809712067",
+  "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.uZuaT80rIdxxXoBFy0MNUAHaGt?r=0&pid=Api",
+  "date": "2026-06-22T17:25:00Z",
+  "source": "https://mylootcave.com/",
+  "original": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg",
+  "cdn_original": "https://th.bing.com/th/id/R.b99b9a4fcd2b21dc715e8045cb430d50?rik=1%2f48fFEPWDTgrA&pid=ImgRaw&r=0",
+  "domain": "m.media-amazon.com",
+  "width": 1500,
+  "height": 1359,
+  "format": "jpeg",
+  "thumbnail_width": 474,
+  "thumbnail_height": 429,
+  "file_size": "70905 B"
+ },
+ "related_content": [
+  {
+   "position": 1,
+   "title": "Nintendo Switch 2 | Toys\"R\"Us \u2013 Malaysia",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=30876E7E53ACD14B67B7159A21E3AC0701540FCB&simid=608055654247715382",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.Z8ylJj6vgP36T0-gGLIsQAHaHa?r=0&pid=Api",
+   "date": "2025-06-24T06:26:00Z",
+   "source": "https://www.toysrus.com.my/nintendo-switch-2-10096911.html",
+   "original": "https://www.toysrus.com.my/dw/image/v2/BDGJ_PRD/on/demandware.static/-/Sites-master-catalog-toysrus/default/dwd7614ee5/1/c/b/a/1cbaa91e60b0622430e95c2ba15b36246d4666cf_4902370553147.jpg?sw=500&sh=500&q=75",
+   "cdn_original": "https://th.bing.com/th/id/R.67cca5263eaf80fdfa4f4fa018b22c40?rik=yw9UAQes4yGaFQ&pid=ImgRaw&r=0",
+   "domain": "www.toysrus.com.my",
+   "width": 500,
+   "height": 500,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "file_size": "19865 B"
+  },
+  {
+   "position": 2,
+   "title": "Nintendo Switch 2 is $50 off in early Black Friday sale",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=B5E09F1751BE7608C017452D4F9490E01B9EE003&simid=608050066509749087",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.4HVmgRds8kaBssYeaA36pAHaGt?r=0&pid=Api",
+   "date": "2025-11-17T05:50:00Z",
+   "source": "https://www.gadgetguy.com.au/nintendo-switch-2-50-dollars-off-black-friday-2025/",
+   "original": "https://m.media-amazon.com/images/I/31OOlnexllL.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.e0756681176cf24681b2c61e680dfaa4?rik=A%2bCeG%2bCQlE8tRQ&pid=ImgRaw&r=0",
+   "domain": "m.media-amazon.com",
+   "width": 500,
+   "height": 453,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 429,
+   "file_size": "15543 B"
+  },
+  {
+   "position": 3,
+   "title": "\u300cNintendo Switch 2\u300d\u767a\u58f24\u65e5\u9593\u3067\u4e16\u754c\u8ca9\u58f2350\u4e07\u53f0\u7a81\u7834 \u4efb\u5929\u5802\u53f2\u4e0a\u6700\u9ad8\u306e\u30b9\u30bf\u30fc\u30c8 | \u77ac\u520a\u30e2\u30c3\u30c4\uff5c\u30e2\u30c3\u30c4\u51fa\u7248\u682a\u5f0f\u4f1a\u793e",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=56A1E88B6487C23DE155141E9CD79A2E85507809&simid=608033397726016864",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.VcsHrmiaaEMcl3P32zE5vgHaEK?r=0&pid=Api",
+   "date": "2025-06-11T06:01:00Z",
+   "source": "https://mots.co.jp/20250611-nintendo-switch2/",
+   "original": "https://mots.co.jp/wp-content/uploads/2025/06/IMG_0051.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.55cb07ae689a68431c9773f7db3139be?rik=CXhQhS6a15weFA&pid=ImgRaw&r=0",
+   "domain": "mots.co.jp",
+   "width": 1170,
+   "height": 658,
+   "format": "jpeg",
+   "thumbnail_width": 474,
+   "thumbnail_height": 266,
+   "file_size": "112479 B"
+  }
+ ],
+ "pages_with_this_image": [
+  {
+   "title": "Nintendo Switch\u2122 2 System - Walmart.ca",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=08D1DC8C69ACBA0FCDD8FAA51AF5812D17C4F073&simid=608027895896160309",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.Ekny8fBqYWLOiDszxxim-gHaGt?r=0&pid=Api",
+   "date": "2025-04-24T03:39:00Z",
+   "source": "https://www.walmart.ca/fr/ip/Nintendo-Switch-2-System/2ZGRGZ46D361",
+   "original": "https://i5.walmartimages.com/asr/743d866d-072e-4ffa-8856-35bf75c12cb6.72299fbc364ed4dea2f281e74a6b692d.png",
+   "cdn_original": "https://th.bing.com/th/id/R.1249f2f1f06a6162ce883b33c718a6fa?rik=c%2fDEFy2B9Rql%2bg&pid=ImgRaw&r=0",
+   "domain": "i5.walmartimages.com",
+   "size": "3001 x 2719",
+   "width": 3001,
+   "height": 2719,
+   "format": "png",
+   "file_size": "547354 B"
+  },
+  {
+   "title": "Nintendo Switch 2 : Amazon.de: Games",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=9A700EB99FAE7EF4553F3A2F12AA349613D49ED3&simid=608016428298929560",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.W5VBBLtlCzJePpoOAZU2dAAAAA?r=0&pid=Api",
+   "date": "2025-04-02T15:14:00Z",
+   "source": "https://www.amazon.de/Nintendo-10015151-Switch-2/dp/B0F2J4SYJ2",
+   "original": "https://m.media-amazon.com/images/I/717JrHodikL._SX425_.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.5b954104bb650b325e3e9a0e01953674?rik=057UE5Y0qhIvOg&pid=ImgRaw&r=0",
+   "domain": "m.media-amazon.com",
+   "size": "425 x 385",
+   "width": 425,
+   "height": 385,
+   "format": "jpeg",
+   "file_size": "14060 B"
+  },
+  {
+   "title": "Nintendo Switch\u2122 2 System - Walmart.ca",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=E334FF2EAC11C14D81E4FAA51AF5812D17C4F073&simid=608023081218481460",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.Ekny8fBqYWLOiDszxxim-gHaGt?r=0&pid=Api",
+   "date": "2025-04-24T03:22:00Z",
+   "source": "https://www.walmart.ca/en/ip/Nintendo-Switch-2-System/2ZGRGZ46D361",
+   "original": "https://i5.walmartimages.com/asr/743d866d-072e-4ffa-8856-35bf75c12cb6.72299fbc364ed4dea2f281e74a6b692d.png",
+   "cdn_original": "https://th.bing.com/th/id/R.1249f2f1f06a6162ce883b33c718a6fa?rik=c%2fDEFy2B9Rql%2bg&pid=ImgRaw&r=0",
+   "domain": "i5.walmartimages.com",
+   "size": "3001 x 2719",
+   "width": 3001,
+   "height": 2719,
+   "format": "png",
+   "file_size": "547354 B"
+  },
+  {
+   "title": "New & Trending Video Games | Walmart Canada",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=102DE4F2E9098BEFDBBC58BDE43476ECE4A3A70D&simid=607989936971520740",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.HKY1Nzmkgt0cwOvxo_3uUwHaGt?r=0&pid=Api",
+   "date": "2024-04-05T09:16:00Z",
+   "source": "https://www.walmart.ca/en/shop/new-trending/7599501994259",
+   "original": "https://i5.walmartimages.com/asr/e0fe3e5c-a261-4141-b6e9-ac1213762465.ecbbc07310d7c76daff1b085174e6077.png",
+   "cdn_original": "https://th.bing.com/th/id/R.1ca6353739a482dd1cc0ebf1a3fdee53?rik=Daej5Ox2NOS9WA&pid=ImgRaw&r=0",
+   "domain": "i5.walmartimages.com",
+   "size": "3001 x 2719",
+   "width": 3001,
+   "height": 2719,
+   "format": "png",
+   "file_size": "651116 B"
+  },
+  {
+   "title": "\u697d\u5929\u30d6\u30c3\u30af\u30b9\u3067Switch2\u306e\u78ba\u8a8d\u65b9\u6cd5\u306f\uff1f\u30b2\u30ea\u30e9\u8ca9\u58f2\u3092\u5148\u7740\u3092\u72d9\u3046\u30b3\u30c4 | \u3086\u308b\u30fc\u308a\u80b2\u5150\u7d75\u65e5\u8a18\u30d6\u30ed\u30b0",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=79FE001BE940137F4EDE22A5F33929992E2FBAF7&simid=608053704348537672",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.ynKhYpOqnC6TeISLHyxs3gHaGt?r=0&pid=Api",
+   "date": "2025-10-14T09:31:00Z",
+   "source": "https://ameblo.jp/tachibanamaman/entry-12938442685.html",
+   "original": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3024/4902370553024.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.ca72a16293aa9c2e9378848b1f2c6cde?rik=97ovLpkpOfOlIg&pid=ImgRaw&r=0",
+   "domain": "thumbnail.image.rakuten.co.jp",
+   "size": "1324 x 1200",
+   "width": 1324,
+   "height": 1200,
+   "format": "jpeg",
+   "file_size": "112450 B"
+  },
+  {
+   "title": "Switch 2 : caract\u00e9ristiques techniques, date de sortie, premiers jeux ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=8852AA1A344AF3E5FB0F8E169A37FCCFF2733FB0&simid=608033938878242747",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.1a4przfvTm6T9qj_q9hyzAHaGt?r=0&pid=Api",
+   "date": "2025-03-29T18:16:00Z",
+   "source": "https://www.clubic.com/actualite-559209-switch-2-caracteristiques-techniques-date-de-sortie-premiers-jeux-tout-ce-qu-il-faut-savoir-sur-la-nouvelle-console-portable-de-nintendo.html",
+   "original": "https://cdn.affilizz.com/__s__/images/products/fr_FR/67ed8eb0/ecbdcc/28a1/08ae1b_main.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.d5ae29af37ef4e6e93f6a8ffabd872cc?rik=sD9z8s%2f8N5oWjg&pid=ImgRaw&r=0",
+   "domain": "cdn.affilizz.com",
+   "size": "500 x 453",
+   "width": 500,
+   "height": 453,
+   "format": "jpeg",
+   "file_size": "16870 B"
+  },
+  {
+   "title": "Nintendo Switch 2 - Pre-Order Online - JB Hi-Fi",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=F63E068B99137CE00ECF91D91FA35B5303D35886&simid=608000940634359845",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.f1za4LychR3yXrQUOk3S-wHaHa?r=0&pid=Api",
+   "date": "2025-04-02T16:10:00Z",
+   "source": "https://www.jbhifi.com.au/products/nintendo-switch-2-console",
+   "original": "https://www.jbhifi.com.au/cdn/shop/files/808380-Product-1-I-638792042403487286_35ca3ab6-5767-4c35-817c-1bebca8d3753_1024x1024.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.7f5cdae0bc9c851df25eb4143a4dd2fb?rik=hljTA1Nbox%2fZkQ&pid=ImgRaw&r=0",
+   "domain": "www.jbhifi.com.au",
+   "size": "1024 x 1024",
+   "width": 1024,
+   "height": 1024,
+   "format": "jpeg",
+   "file_size": "61729 B"
+  },
+  {
+   "title": "Switch2\u8cfc\u5165\u65b9\u6cd5\u3092\u5fb9\u5e95\u89e3\u8aac\uff01\u62bd\u9078\u6761\u4ef6\u3084\u78ba\u5b9f\u306b\u624b\u306b\u5165\u308c\u308b\u88cf\u6280\u3082\u7d39\u4ecb | \u30a2\u30cb\u30e1VOD\u30d6\u30ed\u30b0",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=89E51A5449A25F6ED2B6F361ECD1DF2EED7C2EFA&simid=608021792722806114",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.IzaSysLExaNMj6WZNQyciAHaGt?r=0&pid=Api",
+   "date": "2025-04-25T01:15:00Z",
+   "source": "https://onlymoon316.com/archives/3157",
+   "original": "http://image.rakuten.co.jp/book/cabinet/3024/4902370553024.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.233692cac2c4c5a34c8fa599350c9c88?rik=%2bi587S7f0exh8w&riu=http%3a%2f%2fimage.rakuten.co.jp%2fbook%2fcabinet%2f3024%2f4902370553024.jpg&ehk=UCniFboytakFUJSp1VCKNtV%2fl4xfk1RgXeZdPmcnc0c%3d&risl=&pid=ImgRaw&r=0",
+   "domain": "image.rakuten.co.jp",
+   "size": "1324 x 1200",
+   "width": 1324,
+   "height": 1200,
+   "format": "jpeg",
+   "file_size": "146842 B"
+  },
+  {
+   "title": "Nintendo Switch 2 - Ormsson",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=04564E811F05B3A9ED5DCE4764F6642D5D64F354&simid=607986178905087575",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.VE9lozzNITmxS-RRw-2IVgHaGt?r=0&pid=Api",
+   "date": "2025-05-23T15:19:00Z",
+   "source": "https://ormsson.is/product/nintendo-switch-2/",
+   "original": "https://ormsson.is/wp-content/uploads/2025/05/NITSW220001_0-1024x928.png",
+   "cdn_original": "https://th.bing.com/th/id/R.544f65a33ccd2139b14be451c3ed8856?rik=VPNkXS1k9mRHzg&pid=ImgRaw&r=0",
+   "domain": "ormsson.is",
+   "size": "1024 x 928",
+   "width": 1024,
+   "height": 928,
+   "format": "png",
+   "file_size": "456702 B"
+  },
+  {
+   "title": "\u3010Switch2\u3011 \u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c12\u672c\u4f53\uff08\u65e5\u672c\u8a9e\u30fb\u56fd\u5185\u5c02\u7528\uff09 | \u30ce\u30b8\u30de\u30aa\u30f3\u30e9\u30a4\u30f3",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=2C45A0E5140931FBDBC1DB0168A37E3721E4D4AF&simid=607987776584044207",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.ds8kEcX9wZGvA57ajRdwkQHaHa?r=0&pid=Api",
+   "date": "2025-04-23T15:16:00Z",
+   "source": "https://online.nojima.co.jp/commodity/1/4902370553024/",
+   "original": "https://online.nojima.co.jp/image/shop/1/commodity/4902370553024_l.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.76cf2411c5fdc191af039eda8d177091?rik=r9TkITd%2bo2gB2w&pid=ImgRaw&r=0",
+   "domain": "online.nojima.co.jp",
+   "size": "600 x 600",
+   "width": 600,
+   "height": 600,
+   "format": "jpeg",
+   "file_size": "24569 B"
+  },
+  {
+   "title": "Slideshow: Nintendo Switch 2 System and Accessories Box Art Gallery",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=989BAA76582035A015843EB9632FE2701CDA641E&simid=607993561918549265",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.nTPAN2rx11M2gCEL46EkawAAAA?r=0&pid=Api",
+   "date": "2025-06-05T12:10:00Z",
+   "source": "https://br.ign.com/nintendo-switch-2/141241/gallery/nintendo-switch-2-system-and-accessories-box-art-gallery?p=1",
+   "original": "https://sm.ign.com/t/ign_br/gallery/n/nintendo-s/nintendo-switch-2-system-and-accessories-box-art-gallery_d1h9.400.png",
+   "cdn_original": "https://th.bing.com/th/id/R.9d33c0376af1d7533680210be3a1246b?rik=HmTaHHDiL2O5Pg&pid=ImgRaw&r=0",
+   "domain": "sm.ign.com",
+   "size": "400 x 362",
+   "width": 400,
+   "height": 362,
+   "format": "png",
+   "file_size": "58820 B"
+  },
+  {
+   "title": "Nintendo Switch2 \u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d7\u62bd\u9078\u8ca9\u58f2\u60c5\u5831\u307e\u3068\u3081\u30104/24\u4e88\u7d04\u89e3\u7981 6/5\u767a\u58f2\u65e5\u3011\u30b9\u30a4\u30c3\u30c1\u672c\u4f53\u4efb\u5929\u5802 - \u30dd\u30a4\u6d3b ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=9DE7DB2227E2DE50A7BD78D8F0CE9CBD86C025CD&simid=607996637086816245",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.19HwEr5zep9PAfujTwXSkQHaGt?r=0&pid=Api",
+   "date": "2025-04-24T04:04:00Z",
+   "source": "https://zero-yen.net/switch2-raffle/",
+   "original": "https://zero-yen.net/wp-content/uploads/2025/04/2025-04-23_23h39_39.png",
+   "cdn_original": "https://th.bing.com/th/id/R.d7d1f012be737a9f4f01fba34f05d291?rik=zSXAhr2czvDYeA&pid=ImgRaw&r=0",
+   "domain": "zero-yen.net",
+   "size": "500 x 453",
+   "width": 500,
+   "height": 453,
+   "format": "png",
+   "file_size": "162383 B"
+  },
+  {
+   "title": "Switch2\u306e\u4fa1\u683c\u306f49,980\u5186\uff01 5\u4e07\u5186\u3092\u5207\u308b\u4fa1\u683c\u5e2f\u306b\u3010\u30cb\u30f3\u30c0\u30a4\u3011 - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=BED3DAAFA963D020E72B721FF71FA920F03F5B6D&simid=608022827808196702",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.nxgWZb-lEAqjicp5bAyBwQAAAA?r=0&pid=Api",
+   "date": "2025-04-02T14:13:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2003709.html",
+   "original": "https://game.watch.impress.co.jp/img/gmw/list/2015/501/list.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.9f181665bfa5100aa389ca796c0c81c1?rik=bVs%2f8CCpH%2fcfcg&pid=ImgRaw&r=0",
+   "domain": "game.watch.impress.co.jp",
+   "size": "360 x 326",
+   "width": 360,
+   "height": 326,
+   "format": "jpeg",
+   "file_size": "15020 B"
+  },
+  {
+   "title": "NINTENDO - SWITCH 2-Nero | Euronics",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=3C4C0BC4BAE5E0D775358E81F8841F2C3058E878&simid=608002061653254176",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.m2nucb4ZkbA0Y4ijdlzyQgHaGt?r=0&pid=Api",
+   "date": "2025-04-06T10:28:00Z",
+   "source": "https://www.euronics.it/gaming/nintendo-switch-2/console-nintendo-switch-2/nintendo---switch-2-nero/252004356.html",
+   "original": "https://www.euronics.it/dw/image/v2/BFPN_PRD/on/demandware.static/-/Sites-catalog_euronics_master/default/dw8d42c9d9/hi-res/252004356.jpg?sw=1000&q=90&strip=false",
+   "cdn_original": "https://th.bing.com/th/id/R.9b69ee71be1991b0346388a3765cf242?rik=eOhYMCwfhPiBjg&pid=ImgRaw&r=0",
+   "domain": "www.euronics.it",
+   "size": "1000 x 906",
+   "width": 1000,
+   "height": 906,
+   "format": "jpeg",
+   "file_size": "74062 B"
+  },
+  {
+   "title": "\u4efb\u5929\u5802\u300cNintendo Switch 2\u300d\u685c\u4e95\u653f\u535a\u3055\u3093\u5f53\u9078 \u4e2d\u6751\u60a0\u4e00\u3055\u3093\u300c\u3048\uff1f\u300d - \u9031\u520a\u30a2\u30b9\u30ad\u30fc",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=789FC329F3A89AA53F6B58A019497B8E22E75B57&simid=607998771689113096",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.XDZPfcSVRKsAmTm6P840egHaGt?r=0&pid=Api",
+   "date": "2025-04-25T02:39:00Z",
+   "source": "https://weekly.ascii.jp/elem/000/004/265/4265787/",
+   "original": "https://ascii.jp/img/2025/04/25/4198894/xl/613bb424d4ad63c9.png",
+   "cdn_original": "https://th.bing.com/th/id/R.5c364f7dc49544ab009939ba3fce347a?rik=V1vnIo57SRmgWA&pid=ImgRaw&r=0",
+   "domain": "ascii.jp",
+   "size": "1192 x 1080",
+   "width": 1192,
+   "height": 1080,
+   "format": "jpeg",
+   "file_size": "450795 B"
+  },
+  {
+   "title": "\u697d\u5929\u30d6\u30c3\u30af\u30b9: Nintendo Switch 2",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=74713D7C6B84260AD84BF361ECD1DF2EED7C2EFA&simid=608028750620533889",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.IzaSysLExaNMj6WZNQyciAHaGt?r=0&pid=Api",
+   "date": "2025-04-24T03:48:00Z",
+   "source": "https://books.rakuten.co.jp/event/game/switch2/",
+   "original": "http://image.rakuten.co.jp/book/cabinet/3024/4902370553024.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.233692cac2c4c5a34c8fa599350c9c88?rik=%2bi587S7f0exh8w&riu=http%3a%2f%2fimage.rakuten.co.jp%2fbook%2fcabinet%2f3024%2f4902370553024.jpg&ehk=UCniFboytakFUJSp1VCKNtV%2fl4xfk1RgXeZdPmcnc0c%3d&risl=&pid=ImgRaw&r=0",
+   "domain": "image.rakuten.co.jp",
+   "size": "1324 x 1200",
+   "width": 1324,
+   "height": 1200,
+   "format": "jpeg",
+   "file_size": "146842 B"
+  },
+  {
+   "title": "\u3010\u4e2d\u53e4\u5373\u7d0d\u3011[Switch2] (\u672c\u4f53)(\u672a\u4f7f\u7528) Nintendo Switch 2(\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c12)(\u65e5\u672c\u8a9e\u30fb\u56fd\u5185\u5c02\u7528) \u4efb\u5929\u5802 ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=7976A3A51E1AF5101A17E136A36AF59D892FC110&simid=607994820348637802",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.ehwzQgsmkpTSO0Fad081GwHaHa?r=0&pid=Api",
+   "date": "2025-07-08T09:33:00Z",
+   "source": "https://wowma.jp/item/736545875",
+   "original": "https://ic4-a.wowma.net/mis/gr/135/sv04.media-world.jp/pictures/1001/3/cg10013097.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.7a1c33420b269294d23b415a774f351b?rik=EMEviZ31aqM24Q&pid=ImgRaw&r=0",
+   "domain": "ic4-a.wowma.net",
+   "size": "640 x 640",
+   "width": 640,
+   "height": 640,
+   "format": "jpeg",
+   "file_size": "26298 B"
+  },
+  {
+   "title": "\u0648\u062d\u062f\u0629 \u062a\u062d\u0643\u0645 \u0646\u064a\u0646\u062a\u0646\u062f\u0648 \u0633\u0648\u064a\u062a\u0634 2 \u0628\u0631\u0648 - \u0644\u0627\u0633\u0644\u0643\u064a\u0629\u060c \u0639\u0627\u0644\u064a\u0629 \u0627\u0644\u062f\u0642\u0629\u060c \u062a\u062d\u0643\u0645 \u0628\u0627\u0644\u062d\u0631\u0643\u0629",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=747A92A0438D759581C4A3AD8F16940BBCECE96E&simid=608054717951395498",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.W0OaxjKuiavoWI4-G_E-6AHaGt?r=0&pid=Api",
+   "date": "2025-08-01T22:02:00Z",
+   "source": "https://www.lebanonstores.com/t-ar-sa/shop-1/nintendo-switch-2-pro-controller-precision-wireless-gamepad-with-hd-rumble-motion-controls-ergonomic-grip-usb-c-charging",
+   "original": "https://files.cdn-files-a.com/uploads/7681938/800_684c93725374c.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.5b439ac632ae89abe8588e3e1bf13ee8?rik=bunsvAuUFo%2btow&pid=ImgRaw&r=0",
+   "domain": "files.cdn-files-a.com",
+   "size": "800 x 725",
+   "width": 800,
+   "height": 725,
+   "format": "jpeg",
+   "file_size": "30118 B"
+  },
+  {
+   "title": "Nintendo Switch 2 \u9999\u6e2f\u9884\u8ba2\u6307\u5357\uff1a\u89c4\u683c\u4e36\u4ef7\u683c\u4e0e\u5f00\u5356\u65f6\u95f4\u5168\u89e3\u6790 | Fortress \u4e30\u6cfd",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=B79C8B614BEA8DA62D323AD37A88A9780C337F79&simid=608027247389321013",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.6IMaLlSFDxPpiFbEQ8gpIQHaGt?r=0&pid=Api",
+   "date": "2025-06-06T15:49:00Z",
+   "source": "https://www.fortress.com.hk/zh-cn/newsfeed/detail/2025-switch-2",
+   "original": "https://medias.fortress.com.hk/publishing/FTRHK-13913335-front-zoom.jpg?version=1747562044",
+   "cdn_original": "https://th.bing.com/th/id/R.e8831a2e54850f13e98856c443c82921?rik=eX8zDHipiHrTOg&pid=ImgRaw&r=0",
+   "domain": "medias.fortress.com.hk",
+   "size": "2048 x 1856",
+   "width": 2048,
+   "height": 1856,
+   "format": "jpeg",
+   "file_size": "168480 B"
+  },
+  {
+   "title": "\u4efb\u5929\u5802\u3001\u30b9\u30a4\u30c3\u30c12\u9700\u8981\u306b\u8ffd\u3044\u3064\u304b\u305a\u300c\u6df1\u304f\u304a\u8a6b\u3073\u300d \u62bd\u9078\u8ca9\u58f2\u306b220\u4e07\u4eba\u5fdc\u52df\u3001\u843d\u9078\u8005\u306f\u4e8c\u6b21\u62bd\u9078\u306b\u81ea\u52d5\u5fdc\u52df 1\u679a\u76ee\u306e\u5199\u771f\u30fb\u753b\u50cf | \u30c6\u30af\u30ce\u30a8\u30c3\u30b8 ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=0B0BAF6AEB9D5243BA0BDFE5EB275B9FFB53BE86&simid=608042150928529039",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.cv9k-pdHughxbvoVED0BlAHaGs?r=0&pid=Api",
+   "date": "2025-04-23T10:37:00Z",
+   "source": "https://www.techno-edge.net/article/img/2025/04/23/4306/24980.html",
+   "original": "https://www.techno-edge.net/imgs/zoom/24982.png",
+   "cdn_original": "https://th.bing.com/th/id/R.72ff64fa9747ba08716efa15103d0194?rik=hr5T%2b59bJ%2bvl3w&pid=ImgRaw&r=0",
+   "domain": "www.techno-edge.net",
+   "size": "640 x 579",
+   "width": 640,
+   "height": 579,
+   "format": "png",
+   "file_size": "142428 B"
+  },
+  {
+   "title": "Nintendo Switch 2 Deals & Pay Monthly Contracts",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=430A69F8A9ACC830D0F85AC1CFE8AEFE08119C5B&simid=608001095271592784",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.zSSrcXV_UcYooPBzmn_FoAHaHa?r=0&pid=Api",
+   "date": "2025-06-06T01:31:00Z",
+   "source": "https://www.o2.co.uk/shop/nintendo/switch-2?device-type=simfree",
+   "original": "https://econtent.o2.co.uk/o/econtent/media/get/d6d0bd47-e502-4c7e-a8a3-65a3fb74a338",
+   "cdn_original": "https://th.bing.com/th/id/R.cd24ab71757f51c628a0f0739a7fc5a0?rik=W5wRCP6u6M%2fBWg&pid=ImgRaw&r=0",
+   "domain": "econtent.o2.co.uk",
+   "size": "584 x 584",
+   "width": 584,
+   "height": 584,
+   "format": "png",
+   "file_size": "109608 B"
+  },
+  {
+   "title": "\u300eNintendo Switch2\u672c\u4f53\u300f\u304cLOHACO\u306b\u3066\u8ca9\u58f2\u958b\u59cb\uff01 | \u30ec\u30a2\u30c1\u30a7\u30c3\u30af",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=BBAF877A04872E189475C50E885658BC9757133D&simid=608006760349761889",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.IZ3JP1UuXdjgq-wGkIrSQQHaGt?r=0&pid=Api",
+   "date": "2025-10-15T14:12:00Z",
+   "source": "https://rarecheck.one-cc.com/b/?p=39618",
+   "original": "https://rarecheck.one-cc.com/b/wp-content/uploads/2025/04/switch2.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.219dc93f552e5dd8e0abec06908ad241?rik=PRNXl7xYVogOxQ&pid=ImgRaw&r=0",
+   "domain": "rarecheck.one-cc.com",
+   "size": "800 x 725",
+   "width": 800,
+   "height": 725,
+   "format": "jpeg",
+   "file_size": "31080 B"
+  },
+  {
+   "title": "Amazon.com: Nintendo Switch 2 System : Everything Else",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=5BDE54594E85E215555409960F4B1BF805499A0E&simid=607998213376525378",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.Tpt6WJCxV4oYgpk1EnYKwwAAAA?r=0&pid=Api",
+   "date": "2025-04-24T00:40:00Z",
+   "source": "https://www.amazon.com/Nintendo-Switch-2-System/dp/B0F3GWXLTS",
+   "original": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SX385_.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.4e9b7a5890b1578a1882993512760ac3?rik=DppJBfgbSw%2bWCQ&pid=ImgRaw&r=0",
+   "domain": "m.media-amazon.com",
+   "size": "385 x 349",
+   "width": 385,
+   "height": 349,
+   "format": "jpeg",
+   "file_size": "11912 B"
+  },
+  {
+   "title": "Console Nintendo Switch 2 Noir - Console Nintendo Switch 2 - Achat ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=BF7754BE5D8CA19A18526D1F4E4A89307712DB1E&simid=608011167029622275",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.p_OjOyWGjc7woeUCw0-1xAHaGt?r=0&pid=Api",
+   "date": "2025-04-02T21:50:00Z",
+   "source": "https://www.fnac.com/Console-Nintendo-Switch-2-Noir/a21424368/w-4",
+   "original": "https://static.fnac-static.com/multimedia/Images/FR/MDM/da/23/ab/27993050/3756-1/tsp20251027152622/Console-Nintendo-Switch-2-Noir.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.a7f3a33b25868dcef0a1e502c34fb5c4?rik=HtsSdzCJSk4fbQ&pid=ImgRaw&r=0",
+   "domain": "static.fnac-static.com",
+   "size": "1000 x 906",
+   "width": 1000,
+   "height": 906,
+   "format": "jpeg",
+   "file_size": "55761 B"
+  },
+  {
+   "title": "Nintendo Switch 2 + Mario Kart World Bundle - $499 - 2025-06-04",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=021AD98E38C7B3191A9738FEC3730C91C821D030&simid=608036322631355745",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.e3sywMLPmb8TTGji-fr0wwAAAA?r=0&pid=Api",
+   "date": "2025-06-05T04:06:00Z",
+   "source": "https://slickdeals.net/f/18360865-nintendo-switch-2-mario-kart-world-bundle-499",
+   "original": "https://slickdeals.net/attachment/3/8/4/3/1/0/8/450x450/17689975.thumb",
+   "cdn_original": "https://th.bing.com/th/id/R.7b7b32c0c2cf99bf134c68e2f9faf4c3?rik=MNAhyJEMc8P%2bOA&pid=ImgRaw&r=0",
+   "domain": "slickdeals.net",
+   "size": "400 x 400",
+   "width": 400,
+   "height": 400,
+   "format": "jpeg",
+   "file_size": "40143 B"
+  },
+  {
+   "title": "Switch2\u306e\u62bd\u9078\u4e88\u7d04\u8ca9\u58f2\u304c\u3042\u307f\u3042\u307f\u901a\u8ca9\u672c\u5e97\u3067\u958b\u59cb - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=17D45AA5FB9313D81AB9A59E7103D55B4A1E5FF1&simid=608041768626692323",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP._mrc_tUvdCQVjt1dJA0sKQHaGt?r=0&pid=Api",
+   "date": "2025-05-08T02:48:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2012433.html",
+   "original": "https://game.watch.impress.co.jp/img/gmw/list/2012/433/1.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.fe6adcfed52f7424158edd5d240d2c29?rik=8V8eSlvVA3GepQ&pid=ImgRaw&r=0",
+   "domain": "game.watch.impress.co.jp",
+   "size": "1920 x 1740",
+   "width": 1920,
+   "height": 1740,
+   "format": "jpeg",
+   "file_size": "282531 B"
+  },
+  {
+   "title": "\u4efb\u5929\u5802\uff08Nintendo\uff09 \u300e\u4e2d\u53e4\u5373\u7d0d\u300f{Switch2} (\u672c\u4f53) Nintendo Switch 2(\u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c12)(\u65e5\u672c\u8a9e ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=6C95472E66B0AF0503DF3B36131BE50FE498ADFD&simid=608015685279092500",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.zqTKX3I3VVAG0fpEemuXGQHaHa?r=0&pid=Api",
+   "date": "2025-07-03T11:56:00Z",
+   "source": "https://store.shopping.yahoo.co.jp/mediaworld-plus/10013096001.html",
+   "original": "https://item-shopping.c.yimg.jp/i/n/mediaworld-plus_10013096001",
+   "cdn_original": "https://th.bing.com/th/id/R.cea4ca5f7237555006d1fa447a6b9719?rik=%2fa2Y5A%2flGxM2Ow&pid=ImgRaw&r=0",
+   "domain": "item-shopping.c.yimg.jp",
+   "size": "900 x 900",
+   "width": 900,
+   "height": 900,
+   "format": "jpeg",
+   "file_size": "43944 B"
+  },
+  {
+   "title": "Nintendo Switch 2 - Light Red & Light Blue Joy-Con - Releases 6/5/2025",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=6B1E37EFA84B54068CFCB6C13F8EA59CA3C2AC89&simid=608048601898103669",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.ER1OcKOU0KWDL1_M0kLELgHaHa?r=0&pid=Api",
+   "date": "2025-05-01T04:46:00Z",
+   "source": "https://www.nfm.com/nintendo-switch-2-with-light-red-and-light-blue-joy-con-68167980/68167980.html",
+   "original": "https://www.nfm.com/dw/image/v2/BDFM_PRD/on/demandware.static/-/Sites-nfm-master-catalog/default/dwec084f36/images/068/16/68167980-1.jpg?sw=1000&sh=1000&sm=fit",
+   "cdn_original": "https://th.bing.com/th/id/R.111d4e70a394d0a5832f5fccd242c42e?rik=iazCo5yljj%2fBtg&pid=ImgRaw&r=0",
+   "domain": "www.nfm.com",
+   "size": "1000 x 1000",
+   "width": 1000,
+   "height": 1000,
+   "format": "jpeg",
+   "file_size": "51435 B"
+  },
+  {
+   "title": "Spielekonsolen Vergleich & Test \u00bb Top 13 im Juli 2026",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=9763DDCF14CDDC764DDBDC2F5A7D3137A78E8D1D&simid=608035777149608283",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.zwzPHlKMEajvnZWdylFgDQHaHa?r=0&pid=Api",
+   "date": "2016-03-28T08:39:00Z",
+   "source": "https://www.vergleich.org/spielekonsolen/",
+   "original": "https://cdn.vergleich.org/v2/comparison-tables/nintendo-switch-2.jpg?d=1000x1000&q=70&fill=true",
+   "cdn_original": "https://th.bing.com/th/id/R.cf0ccf1e528c11a8ef9d959dca51600d?rik=HY2OpzcxfVov3A&pid=ImgRaw&r=0",
+   "domain": "cdn.vergleich.org",
+   "size": "1000 x 1000",
+   "width": 1000,
+   "height": 1000,
+   "format": "jpeg",
+   "file_size": "37497 B"
+  },
+  {
+   "title": "\u3010Switch2\u3011\u300c\u697d\u5929\u30d6\u30c3\u30af\u30b9\u306e\u30b2\u30ea\u30e9\u8ca9\u58f2\u3067\u8cb7\u3048\u305f\u300d\u4eca\u306e\u3046\u3061\u306b\u304a\u6c17\u306b\u5165\u308a\u767b\u9332\u3092\u3002 | \u6771\u4eac\u30d0\u30fc\u30b2\u30f3\u30de\u30cb\u30a2",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=744FA3769A913F53A0237506BB77C046F23B767F&simid=608033457894460967",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.ikzzyPNWKQIXGmdbdDcAyAHaGt?r=0&pid=Api",
+   "date": "2025-07-19T09:38:00Z",
+   "source": "https://bg-mania.jp/2025/07/19697285.html",
+   "original": "https://cdn.bg-mania.jp/images/2025/07/tbm_20250718102111.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.8a4cf3c8f3562902171a675b743700c8?rik=f3Y78kbAd7sGdQ&pid=ImgRaw&r=0",
+   "domain": "cdn.bg-mania.jp",
+   "size": "882 x 800",
+   "width": 882,
+   "height": 800,
+   "format": "jpeg",
+   "file_size": "41655 B"
+  },
+  {
+   "title": "\ub2cc\ud150\ub3c4\uc2a4\uc704\uce582 \uac00\uaca9 30% \ub6f4\ub2e4? \ubbf8\uad6d \uad00\uc138\uc5d0 \u2018\ucda9\uaca9\u2019 | \uae40\ubbfc\uc218 \uae30\uc790 | \ud1b1\uc2a4\ud0c0\ub274\uc2a4",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=74AD38228FF87ED89276E49729F5D5652FB45195&simid=608037619696537473",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.aqnKVXPrKdQBFI3Bheae6wHaGs?r=0&pid=Api",
+   "date": "2025-04-15T03:07:00Z",
+   "source": "https://www.topstarnews.net/news/articleView.html?idxno=15638685",
+   "original": "https://cdn.topstarnews.net/news/photo/202504/15638685_1543894_248.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.6aa9ca5573eb29d401148dc185e69eeb?rik=lVG0L2XV9SmX5A&pid=ImgRaw&r=0",
+   "domain": "cdn.topstarnews.net",
+   "size": "600 x 543",
+   "width": 600,
+   "height": 543,
+   "format": "jpeg",
+   "file_size": "39093 B"
+  },
+  {
+   "title": "\u300cSwitch2\u300d\u7b2c2\u56de\u62bd\u9078\u8ca9\u58f2\u304c\u30bb\u30d6\u30f3\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u306b\u30665\u670830\u65e5\u4ee5\u964d\u5b9f\u65bd\u4e88\u5b9a - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=627BE325301ABB87F25C047AA9A86905AA764FC9&simid=608043396449987068",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.1M7qETPMIewYzM06SyPPhQAAAA?r=0&pid=Api",
+   "date": "2025-05-23T04:27:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2016681.html",
+   "original": "https://asset.watch.impress.co.jp/img/gmw/list/2017/100/list.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.d4ceea1133cc21ec18cccd3a4b23cf85?rik=yU92qgVpqKl6BA&pid=ImgRaw&r=0",
+   "domain": "asset.watch.impress.co.jp",
+   "size": "360 x 326",
+   "width": 360,
+   "height": 326,
+   "format": "jpeg",
+   "file_size": "14603 B"
+  },
+  {
+   "title": "Nintendo Switch 2 is $50 off in early Black Friday sale",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=B5E09F1751BE7608C017452D4F9490E01B9EE003&simid=608050066509749087",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.4HVmgRds8kaBssYeaA36pAHaGt?r=0&pid=Api",
+   "date": "2025-11-17T05:50:00Z",
+   "source": "https://www.gadgetguy.com.au/nintendo-switch-2-50-dollars-off-black-friday-2025/",
+   "original": "https://m.media-amazon.com/images/I/31OOlnexllL.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.e0756681176cf24681b2c61e680dfaa4?rik=A%2bCeG%2bCQlE8tRQ&pid=ImgRaw&r=0",
+   "domain": "m.media-amazon.com",
+   "size": "500 x 453",
+   "width": 500,
+   "height": 453,
+   "format": "jpeg",
+   "file_size": "15543 B"
+  },
+  {
+   "title": "Amazon.com: Nintendo Switch 2 System : Todo lo dem\u00e1s",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=ABD2DFEB908ED2A4C31A09960F4B1BF805499A0E&simid=608032603176718793",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.Tpt6WJCxV4oYgpk1EnYKwwAAAA?r=0&pid=Api",
+   "date": "2025-07-08T17:38:00Z",
+   "source": "https://www.amazon.com/-/es/Nintendo-Switch-2-System/dp/B0F3GWXLTS",
+   "original": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SX385_.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.4e9b7a5890b1578a1882993512760ac3?rik=DppJBfgbSw%2bWCQ&pid=ImgRaw&r=0",
+   "domain": "m.media-amazon.com",
+   "size": "385 x 349",
+   "width": 385,
+   "height": 349,
+   "format": "jpeg",
+   "file_size": "11912 B"
+  },
+  {
+   "title": "\u30a4\u30c8\u30fc\u30e8\u30fc\u30ab\u30c9\u30fc\u30cd\u30c3\u30c8\u901a\u8ca9\u3001\u300cSwitch2\u300d\u7b2c2\u56de\u62bd\u9078\u8ca9\u58f2\u306e\u53d7\u4ed8\u958b\u59cb - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=35839CB695621ABE1173831B53D3AB8A3872323D&simid=608003882762330604",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.6j5xF4gjsmLOcJL5DqG8rAHaGt?r=0&pid=Api",
+   "date": "2025-05-26T03:22:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2017100.html",
+   "original": "https://asset.watch.impress.co.jp/img/gmw/docs/2017/100/1_l.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.ea3e71178823b262ce7092f90ea1bcac?rik=PTJyOIqr01Mbgw&pid=ImgRaw&r=0",
+   "domain": "asset.watch.impress.co.jp",
+   "size": "480 x 435",
+   "width": 480,
+   "height": 435,
+   "format": "jpeg",
+   "file_size": "28181 B"
+  },
+  {
+   "title": "NintendoSwitch2_HW_pkg \u2013 NintendoSoup",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=781919AD4842112180A1D804725C96E7A8B95BCD&simid=608010947920856900",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.eR2ENqzSglAJk1miaw2e_QHaGt?r=0&pid=Api",
+   "date": "2025-04-07T03:14:00Z",
+   "source": "https://nintendosoup.com/nintendoswitch2_hw_pkg/",
+   "original": "https://nintendosoup.com/wp-content/uploads/2025/04/NintendoSwitch2_HW_pkg-600x544.png",
+   "cdn_original": "https://th.bing.com/th/id/R.791d8436acd28250099359a26b0d9efd?rik=zVu5qOeWXHIE2A&pid=ImgRaw&r=0",
+   "domain": "nintendosoup.com",
+   "size": "600 x 544",
+   "width": 600,
+   "height": 544,
+   "format": "png",
+   "file_size": "106936 B"
+  },
+  {
+   "title": "Nintendo Switch 2 (Unofficial Name)",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=6A88388E103F12AECD37386FBA535243961880B7&simid=608023467823350968",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.RnQNERukdv-n9lxtZbYFoQHaGt?r=0&pid=Api",
+   "date": "2024-01-10T21:59:00Z",
+   "source": "https://sea.ign.com/nintendo-switch-2-unofficial-name",
+   "original": "https://sm.ign.com/t/ign_ap/gallery/n/nintendo-s/nintendo-switch-2-system-and-accessories-box-art-gallery_2qzf.600.png",
+   "cdn_original": "https://th.bing.com/th/id/R.46740d111ba476ffa7f65c6d65b605a1?rik=t4AYlkNSU7pvOA&pid=ImgRaw&r=0",
+   "domain": "sm.ign.com",
+   "size": "600 x 544",
+   "width": 600,
+   "height": 544,
+   "format": "png",
+   "file_size": "112010 B"
+  },
+  {
+   "title": "Nintendo Switch 2 - B\u1ea3o h\u00e0nh 6 th\u00e1ng \u2013 TOPO Shop",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=D0AA3FB94228054BA086C35885FFAFD5492B6A8F&simid=608055027205081211",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.teGz74-rT4Ql0_0KnBD1CgAAAA?r=0&pid=Api",
+   "date": "2025-06-16T06:44:00Z",
+   "source": "https://toposhop.vn/products/nintendo-switch-2",
+   "original": "https://product.hstatic.net/200000272737/product/switch2_b930ebd0fc4b48ae9369cb33c44e8098_master.png",
+   "cdn_original": "https://th.bing.com/th/id/R.b5e1b3ef8fab4f8425d3fd0a9c10f50a?rik=j2orSdWv%2f4VYww&pid=ImgRaw&r=0",
+   "domain": "product.hstatic.net",
+   "size": "300 x 300",
+   "width": 300,
+   "height": 300,
+   "format": "png",
+   "file_size": "50304 B"
+  },
+  {
+   "title": "\u30d3\u30c3\u30af\u30ab\u30e1\u30e9\u3001Switch2\u62bd\u9078\u8ca9\u58f2\u306e\u7d50\u679c\u3092\u672c\u65e56\u670819\u65e517\u6642\u4ee5\u964d\u306b\u767a\u8868 - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=08DDCB4BAF3E0F37FE248B9D50B8989CA805CC27&simid=607999549101670047",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.iMLvhqpYv_a-TOyGRG4s7gHaHa?r=0&pid=Api",
+   "date": "2025-06-18T15:00:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2023741.html",
+   "original": "https://game.watch.impress.co.jp/img/gmw/list/2023/741/1.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.88c2ef86aa58bff6be4cec86446e2cee?rik=J8wFqJyYuFCdiw&pid=ImgRaw&r=0",
+   "domain": "game.watch.impress.co.jp",
+   "size": "600 x 600",
+   "width": 600,
+   "height": 600,
+   "format": "jpeg",
+   "file_size": "88390 B"
+  },
+  {
+   "title": "\u30d3\u30c3\u30af\u30ab\u30e1\u30e9.com\u3001Switch2\u62bd\u9078\u8ca9\u58f2\u306e\u5fdc\u52df\u53d7\u4ed8\u958b\u59cb\uff01 7\u670817\u65e5\u307e\u3067 - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=93AA284884F72EBACDE4940248C8B2D99B90B5C2&simid=607997298532702694",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.eVBYnHa4cVVFPg2kf2r5JgHaHa?r=0&pid=Api",
+   "date": "2025-07-15T01:42:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2031230.html",
+   "original": "https://asset.watch.impress.co.jp/img/gmw/docs/2031/230/1_l.png",
+   "cdn_original": "https://th.bing.com/th/id/R.7950589c76b87155453e0da47f6af926?rik=wrWQm9myyEgClA&pid=ImgRaw&r=0",
+   "domain": "asset.watch.impress.co.jp",
+   "size": "480 x 480",
+   "width": 480,
+   "height": 480,
+   "format": "png",
+   "file_size": "105666 B"
+  },
+  {
+   "title": "\u30d3\u30c3\u30af\u30ab\u30e1\u30e9.com\u306b\u3066\u5b9f\u65bd\u4e2d\u306eSwitch2\u62bd\u9078\u8ca9\u58f2\u306f\u672c\u65e57\u670817\u65e520\u664259\u5206\u307e\u3067 - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=AAD95C78CB90D2BA8CF8892511E3DB6F6A0987CB&simid=608023111252916524",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.OJ1En3y7YuGMpJcNOHAv_QHaHa?r=0&pid=Api",
+   "date": "2025-07-16T15:01:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2031563.html",
+   "original": "https://game.watch.impress.co.jp/img/gmw/list/2031/563/003.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.389d449f7cbb62e18ca4970d38702ffd?rik=y4cJam%2fb4xEliQ&pid=ImgRaw&r=0",
+   "domain": "game.watch.impress.co.jp",
+   "size": "600 x 600",
+   "width": 600,
+   "height": 600,
+   "format": "jpeg",
+   "file_size": "34462 B"
+  },
+  {
+   "title": "\u30d3\u30c3\u30af\u30ab\u30e1\u30e9.com\u300cSwitch2\u300d\u62bd\u9078\u8ca9\u58f2\u53d7\u4ed8\u306f\u672c\u65e56\u670812\u65e520\u664259\u5206\u307e\u3067 - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=FDBEE7689981B6F29FD15203C161C45D3EFA057F&simid=608030069149819867",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.unVNG4-b0gmwrnmx-vxCSgHaHa?r=0&pid=Api",
+   "date": "2025-06-11T15:00:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2021864.html",
+   "original": "https://asset.watch.impress.co.jp/img/gmw/docs/2021/864/0_l.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.ba754d1b8f9bd209b0ae79b1fafc424a?rik=fwX6Pl3EYcEDUg&pid=ImgRaw&r=0",
+   "domain": "asset.watch.impress.co.jp",
+   "size": "480 x 480",
+   "width": 480,
+   "height": 480,
+   "format": "jpeg",
+   "file_size": "31929 B"
+  },
+  {
+   "title": "\u30a4\u30c8\u30fc\u30e8\u30fc\u30ab\u30c9\u30fc\u30cd\u30c3\u30c8\u901a\u8ca9\u306b\u3066\u300cNintendo Switch 2\u300d\u62bd\u9078\u8ca9\u58f2\u304c4\u670824\u65e5\u3088\u308a\u53d7\u4ed8\u958b\u59cb - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=E2D1A1D4B64D9027F9C2C5F9A9D9A41623BE52F2&simid=607997676492757798",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP._yUbRvM2WH4IDBbTrlzClAHaGt?r=0&pid=Api",
+   "date": "2025-04-21T06:46:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2008635.html",
+   "original": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/635/sub1_l.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.ff251b46f336587e080c16d3ae5cc294?rik=8lK%2bIxak2an5xQ&pid=ImgRaw&r=0",
+   "domain": "asset.watch.impress.co.jp",
+   "size": "480 x 435",
+   "width": 480,
+   "height": 435,
+   "format": "jpeg",
+   "file_size": "20571 B"
+  },
+  {
+   "title": "Nintendo Swtich\u2122 Console Mario Kart World Bundle, 1 ct - Fred Meyer",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=73BFE887B4EFD744EFD530E6C3F589C166F93690&simid=608008727416953974",
+   "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.y9PWlqNGM_zjxU10nMnzHwHaHa?r=0&pid=Api",
+   "date": "2025-06-17T15:24:00Z",
+   "source": "https://www.fredmeyer.com/p/nintendo-swtich-console-mario-kart-world-bundle/0004549688531",
+   "original": "https://www.kroger.com/product/images/xlarge/front/0004549688531",
+   "cdn_original": "https://th.bing.com/th/id/R.cbd3d696a34633fce3c54d749cc9f31f?rik=kDb5ZsGJ9cPmMA&pid=ImgRaw&r=0",
+   "domain": "www.kroger.com",
+   "size": "1000 x 1000",
+   "width": 1000,
+   "height": 1000,
+   "format": "jpeg",
+   "file_size": "67096 B"
+  },
+  {
+   "title": "Nintendo 6614313 Switch 2 Console Multicolored 256GB 7.9in LCD Touchsc ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=828CDFB33791C19FC85B8066620D45A5FECFC1BA&simid=608008358080557313",
+   "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.6I1LvvXlcW31MfBtvPLlogHaHa?r=0&pid=Api",
+   "date": "2025-06-17T16:53:00Z",
+   "source": "https://vipoutlet.com/products/nintendo-test-8_nsw-switch-2-console-multicolored-256gb-7-9in-lcd-touchscreen",
+   "original": "https://vipoutlet.com/cdn/shop/files/92ad8018cca74901a45247529632915b.jpg?v=1751554234",
+   "cdn_original": "https://th.bing.com/th/id/R.e88d4bbef5e5716df531f06dbcf2e5a2?rik=usHP%2fqVFDWJmgA&pid=ImgRaw&r=0",
+   "domain": "vipoutlet.com",
+   "size": "1000 x 1000",
+   "width": 1000,
+   "height": 1000,
+   "format": "jpeg",
+   "file_size": "47479 B"
+  },
+  {
+   "title": "Nintendo Switch\u2122 2 System, 1 ct - Fred Meyer",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=A9C21BA1626CD6CB7C0A8C79CB1F0101832253FD&simid=608009629398301234",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.fiYalrFr8v3t4-rEVEkZ3AHaHa?r=0&pid=Api",
+   "date": "2025-06-05T04:08:00Z",
+   "source": "https://www.fredmeyer.com/p/nintendo-switch-2-system/0004549688581",
+   "original": "https://www.kroger.com/product/images/large/front/0004549688581",
+   "cdn_original": "https://th.bing.com/th/id/R.7e261a96b16bf2fdede3eac4544919dc?rik=%2fVMigwEBH8t5jA&pid=ImgRaw&r=0",
+   "domain": "www.kroger.com",
+   "size": "500 x 500",
+   "width": 500,
+   "height": 500,
+   "format": "jpeg",
+   "file_size": "16568 B"
+  },
+  {
+   "title": "Nintendo Switch\u2122 2 System, 1 ct - Smith\u2019s Food and Drug",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=91780295F276E0A9F3498C79CB1F0101832253FD&simid=608039436426238331",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.fiYalrFr8v3t4-rEVEkZ3AHaHa?r=0&pid=Api",
+   "date": "2026-02-15T15:50:00Z",
+   "source": "https://www.smithsfoodanddrug.com/p/nintendo-switch-2-system/0004549688581",
+   "original": "https://www.kroger.com/product/images/large/front/0004549688581",
+   "cdn_original": "https://th.bing.com/th/id/R.7e261a96b16bf2fdede3eac4544919dc?rik=%2fVMigwEBH8t5jA&pid=ImgRaw&r=0",
+   "domain": "www.kroger.com",
+   "size": "500 x 500",
+   "width": 500,
+   "height": 500,
+   "format": "jpeg",
+   "file_size": "16568 B"
+  },
+  {
+   "title": "Open Box Nintendo 6614313 Switch 2 Console Multicolored 256GB 7.9in LCD ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=C94A2AAFA05E48ADE45D5DA4BB98A749CE758E2A&simid=608004428188034726",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.xSydSDPTHB6n7sWMW-VMuAAAAA?r=0&pid=Api",
+   "date": "2025-11-20T16:39:00Z",
+   "source": "https://www.walmart.com/ip/Open-Box-Nintendo-Switch-2-System/18679664260",
+   "original": "https://i5.walmartimages.com/asr/abc6e8d1-1f42-4ee6-be84-940ade697c05.781431791dc2af70fb8857d107c85add.jpeg",
+   "cdn_original": "https://th.bing.com/th/id/R.c52c9d4833d31c1ea7eec58c5be54cb8?rik=Ko51zkmnmLukXQ&pid=ImgRaw&r=0",
+   "domain": "i5.walmartimages.com",
+   "size": "474 x 429",
+   "width": 474,
+   "height": 429,
+   "format": "jpeg",
+   "file_size": "184244 B"
+  },
+  {
+   "title": "\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6\u3001\u7b2c3\u56de\u300cSwitch2\u300d\u62bd\u9078\u8ca9\u58f2\u306e\u53d7\u4ed8\u958b\u59cb\uff01 \u300cmajica\u300d\u30a2\u30d7\u30ea\u306b\u3066\u5fdc\u52df\u53ef\u80fd - GAME Watch",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=F650273E5AF58D34FD5CD6025901BE6C57E2F24F&simid=608055387970022090",
+   "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.K7-qWfOoEzRc6y2QBFWEVwAAAA?r=0&pid=Api",
+   "date": "2025-06-12T05:05:00Z",
+   "source": "https://game.watch.impress.co.jp/docs/news/2022136.html",
+   "original": "https://asset.watch.impress.co.jp/img/gmw/list/2021/864/list.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.2bbfaa59f3a813345ceb2d9004558457?rik=T%2fLiV2y%2bAVkC1g&pid=ImgRaw&r=0",
+   "domain": "asset.watch.impress.co.jp",
+   "size": "360 x 360",
+   "width": 360,
+   "height": 360,
+   "format": "jpeg",
+   "file_size": "12358 B"
+  },
+  {
+   "title": "Nintendo Switch 2: all the models, bundles, Limited Editions, etc ...",
+   "link": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&id=1CEE8FCF5C1DCAD6A32D771C0C5C98B7D83A96FB&simid=608024537236638804",
+   "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.w7udtkcl_Iw4bQZYqG9GuwHaGt?r=0&pid=Api",
+   "date": "2013-01-01T12:00:00Z",
+   "source": "https://www.perfectly-nintendo.com/nintendo-switch-2-all-the-models-bundles-limited-editions-etc/",
+   "original": "https://www.perfectly-nintendo.com/wp-content/uploads/2025/09/Switch-2-Launch-ver-1-1-1024x928.jpg",
+   "cdn_original": "https://th.bing.com/th/id/R.c3bb9db64725fc8c386d0658a86f46bb?rik=%2b5Y62LeYXAwcdw&pid=ImgRaw&r=0",
+   "domain": "www.perfectly-nintendo.com",
+   "size": "1024 x 928",
+   "width": 1024,
+   "height": 928,
+   "format": "jpeg",
+   "file_size": "54552 B"
+  }
+ ],
+ "ads": [
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Switch 2 System",
+   "link": "https://www.bestbuy.com/product/switch-2-system/J7GSL57TGH/sku/6614313?utm_source=feed",
+   "price": 499.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.SWCrPlzc1p3LDQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 487,
+   "description": "Get a free Super Mario Bros. 40th Anniversary Collectible Game Case when you purchase two select Mario titles or a Nintendo Switch 2 system. Discover Nintendo Switch 2Your games will leap to life on the vivid, 7.9\" 1080p screen that showcases the systems powerful processing and graphics performance. The updated dock also supports up to 4K resolution and frame rates up to 120 fps with compatible games and TVs. The reimagined Joy-Con 2 controllers snap into place with magnetic connectors-and each controller can even be used as a mouse in compatible games. Plus, you can still enjoy compatible games from your existing Nintendo Switch library.Connect with friends and family with GameChatOnce GameChat is set up, press the C Button on your right Joy-Con 2 to start it up, a seamless way to voice chat with your friends, share your game screen, and connect via video chat with a compatible USB-C camera (sold separately). Nintendo Switch 2 also has a built-in microphone that filters out noise around you for a clear experience. Its like hanging out together\u2026from wherever you are.Gear up for exclusive games and moreNintendo Switch 2 is the exclusive home to games like Mario Kart World, Donkey Kong Bananza, and more. You can also purchase upgrade packs for certain Nintendo Switch games like The Legend of Zelda: Tears of the Kingdom, Super Mario Party Jamboree, and Kirby and the Forgotten Land for enhanced experiences and new content!Features:The next evolution of Nintendo Switch. One system, three play modes: TV, Tabletop, and Handheld.Larger, vivid, 7.9\" LCD touch screen with support for HDR and up to 120 fps.Dock that supports 4K when connected to a compatible TV.GameChat lets you voice chat, share your game screen, and connect via video chat as you play.256GB internal storage (a portion of which is used by the system), expandable with microSD Express cards (sold separately).Nintendo Switch 2 plays physical and digital Nintendo Switch games.Joy-Con 2 controllers attach magnetically and now offer mouse controls.Same-system multiplayer, local wireless, and online multiplayer.TV and game must be compatible with 4K resolution.Frame rate is fixed to a maximum of 60 fps for 4K output.Some Nintendo Switch games may not be supported or fully compatible with Nintendo Switch 2. Visit Nintendos website for compatibility information. Internet, Nintendo Switch Online membership and Nintendo Account required for online features, including GameChat. Nintendo Switch 2 camera or compatible USB-C camera required for video features. Not available in all countries. Terms and GameChat requirements apply. support.nintendo.com Nintendo Switch Online membership, Nintendo Switch 2 camera, and compatible USB-C camera sold separately. Additional games, systems and/or accessories may be required for multiplayer mode. Games, systems and some accessories sold separately.",
+   "seller_name": "Best Buy",
+   "seller_domain": "bestbuy.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496885816"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch With Neon Blue And Red Joy-Con (Renewed) | Handheld, Tabletop And TV Play Modes",
+   "link": "https://www.amazon.com/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y/ref=asc_df_B0BS9Y9L2Y?tag=bingshoppinga-20&linkCode=df0&hvadid=80539436593502&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4584138915422479&psc=1&hvocijid=6082781552719155532-B0BS9Y9L2Y-&hvexpln=0",
+   "price": 330.49,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.drvTYb3MO0pcmQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 205,
+   "description": "This pre-owned product is not Apple certified, but has been professionally inspected, tested and cleaned by Amazon-qualified suppliers. 6.2\" LCD screen. Three play modes: TV, tabletop, and handheld Local co-op, online, and local wireless multiplayer Detachable Joy-Con controllers Nintendo Switch is the home of Mario & friends There will be no visible cosmetic imperfections when held at an arms length. This product is eligible for a replacement or refund within 90 days of receipt if you are not satisfied. Product may come in generic Box. Get the gaming system that lets you play the games you want, wherever you are, however you like. Bring the full home gaming system experience with you to the park, on an airplane, in a car, or to a friends apartment.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00657768265204"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch 2 Console System",
+   "link": "https://www.target.com/p/nintendo-switch-2-console/-/A-94693225?TCID=PDS-9224351998",
+   "price": 499.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.2fioDGgektp4sg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 401,
+   "description": "Limited quantities. While supplies last. Start your next gaming adventure with the Nintendo Switch\u2122 2 system -packed with upgrades and fun ways to connect and play together! Discover Nintendo Switch 2 Your games will leap to life on the vivid, 7.9\" 1080p screen that showcases the systems powerful processing and graphics performance. The updated dock also supports up to 4K resolution and frame rates up to 120 fps with compatible games and TVs.* The reimagined Joy-Con\u2122 2 controllers snap into place with magnetic connectors-and each controller can even be used as a mouse in compatible games. Plus, you can still enjoy compatible games from your existing Nintendo Switch library**. Connect with friends and family with GameChat Once GameChat*** is setp up, press the C Button on your right Joy-Con 2 to start it up, a seamless way to voice chat with your friends, share your game screen, and connect via video chat with a compatible USB-C\u00ae camera (sold separately). Nintendo Switch 2 also has a built-in microphone that filters out noise around you for a clear experience. Its like hanging out together\u2026from wherever you are. Gear up for exclusive games and more Nintendo Switch 2 is the exclusive home to games like Mario Kart\u2122 World, Donkey Kong\u2122 Bananza, and more. You can also purchase upgrade packs for certain Nintendo Switch games like The Legend of Zelda\u2122: Tears of the Kingdom, Super Mario Party\u2122 Jamboree, and Kirby\u2122 and the Forgotten Land for enhanced experiences and new content! Includes: Nintendo Switch\u2122 2 Console Joy-Con 2 (L) in Light Blue Joy-Con 2 (R) in Light Red Nintendo Switch 2 AC Adapter USB-C\u00ae Charging Cable Nintendo Switch 2 Dock Joy-Con 2 Grip Joy-Con 2 Strap (\u00d72) Ultra High Speed HDMI\u2122 Cable * TV and game must be compatible with 4K resolution. Frame rate is fixed to a maximum of 60 fps for 4K output. ** Some Nintendo Switch games may not be supported or fully compatible with Nintendo Switch 2. Visit Nintendos website for compatibility information. *** Internet, Nintendo Switch Online membership and Nintendo Account required for online features, including GameChat. Nintendo Switch 2 camera or compatible USB-C\u00ae camera required for video features. Not available in all countries. Terms and GameChat requirements apply. support.nintendo.com Nintendo Switch Online membership, Nintendo Switch 2 camera, and compatible USB-C\u00ae camera sold separately. **** Additional games, systems and/or accessories may be required for multiplayer mode. Games, systems and some accessories sold separately. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496885816"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch With Neon Blue And Neon Red Joy Con Gaming Console - Manufacturer Refurbished",
+   "link": "https://www.target.com/p/nintendo-switch-with-neon-blue-and-neon-blue-joy-con-gaming-console-manufacturer-refurbished/-/A-92445315?TCID=PDS-21069328545",
+   "price": 299.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.qdLdtZJg7m7R1A474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 335,
+   "description": "Unleash your gaming potential with the Nintendo Switch with Neon Blue and Neon Red Joy-Con Gaming Console. Perfect for gamers of all ages, this versatile console offers a unique combination of home console power and portable convenience. Whether youre at home, on the go, or with friends, the Nintendo Switch provides endless gaming opportunities and an immersive experience like no other. These pre-owned/refurbished products are inspected and tested to ensure they are fully functional. There may be signs of light usage. We perform an additional diagnostics examination to ensure quality control. We also thoroughly clean the products. Every shipment may arrive in a brown or white generic box. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00716203001873"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Newest Nintendo Switch Fortnite Wildcat Special Edition With Yellow And Blue Joy-Con, Fortnite Game Pre-Installed - 6.2\" Touchscreen LCD Display, 32GB",
+   "link": "https://www.amazon.com/Nintendo-Fortnite-Wildcat-Special-Pre-Installed/dp/B08PQBRF4W/ref=asc_df_B08PQBRF4W?tag=bingshoppinga-20&linkCode=df0&hvadid=80264559055141&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4583864035362203&psc=1&hvocijid=8287056579444465098-B08PQBRF4W-&hvexpln=0",
+   "price": 1499.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.8qHcxvCPjzcUnQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 341,
+   "description": "The bundle includes a uniquely designed Nintendo Switch system with special art on the system and Nintendo Switch dock, a yellow Joy-Con (L) and blue Joy-Con (R), the Fortnite game pre-installed, 2,000 V-Bucks, and a download code for The Wildcat Bundle. The Wildcat Bundle is an in-game pack that includes cosmetic items like the Sleek Strike Back Bling and the Wildcat Outfit.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045491122213"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch OLED Model W/ White Joy-Con (Renewed)",
+   "link": "https://www.amazon.com/Nintendo-Switch-Model-White-Renewed/dp/B09J652L1P/ref=asc_df_B09J652L1P?tag=bingshoppinga-20&linkCode=df0&hvadid=80539436595346&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4584138917124136&psc=1&hvocijid=8108057378437935984-B09J652L1P-&hvexpln=0",
+   "price": 399,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.THHdJt1d64DB6Q474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 458,
+   "description": "Vivid 7\" OLED screen Local co-op, online, and local wireless multiplayer 64 GB internal storage (a portion of which is reserved for use by the system) Enhanced audio in handheld and tabletop modes Wide adjustable stand This pre-owned or refurbished product has been professionally inspected and tested to work and look like new. How a product becomes part of Amazon Renewed, your destination for pre-owned, refurbished products: A customer buys a new product and returns it or trades it in for a newer or different model. That product is inspected and tested to work and look like new by Amazon-qualified suppliers. Then, the product is sold as an Amazon Renewed product on Amazon. If not satisfied with the purchase, renewed products are eligible for replacement or refund under the Amazon Renewed Guarantee.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00656942440871"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Joy-Con 2 (L)/(R) Blue / Light Yellow - Switch 2",
+   "link": "https://www.target.com/p/nintendo-joy-con-2-l-r-blue-light-yellow-switch-2/-/A-1011032437?store=1442",
+   "price": 99.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.3le7zrXjIFVd3g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 483,
+   "description": "This set includes both a left and right Joy-Con 2 controller (along with a pair of Joy-Con 2 straps) so you can start playing locally with a friend in compatible games right out of the box. *Additional games, systems and/or accessories may be required for multiplayer mode. Internet, Nintendo Switch Online membership and Nintendo Account required for online features, including GameChat. Not available in all countries. Terms and GameChat requirements apply. support.nintendo.com Games, systems, some accessories and membership sold separately. It's possible that information related to the game, including ratings and download size, may not be finalized at time of preorder. This item has an internal lithium-ion battery. California shipping address: 1.5% Environmental Waste Recycling Fee will be applied. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496886295"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Geek Squad Refurbished Good - Switch OLED Model W/Joy-Con",
+   "link": "https://www.bestbuy.com/product/switch-oled-model-w-joy-con/JCQ6HKQZ3F/sku/6626264?utm_source=feed",
+   "price": 399.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Zy%2fLrRzjjoKdFQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 614,
+   "description": "Play at home or on the go with a vibrant OLED screen. Play on your TV at home or pick up and play in handheld mode on a vivid 7-inch OLED screen with the Nintendo Switch - OLED Model system. The system also features 64 GB of internal storage, enhanced audio, a wide, adjustable stand, and a dock with a wired LAN port. Enjoy three modes in one system. TV mode: Connect your system to the TV using the included dock to enjoy a traditional gaming experience in HD. Handheld mode: Bring your games on your next travel adventure and enjoy playing on a 7-inch OLED screen that makes colors pop. Tabletop mode: Use the wide, adjustable stand to position the screen and detach the included Joy-Con controllers to enjoy game time even without a TV. Games for the whole family. Nintendo Switch systems are the home of games like Super Mario Bros. Wonder, Mario Kart 8 Deluxe, and others starring Mario and friends. And dont forget series like Animal Crossing, The Legend of Zelda, Splatoon, Pikmin, and more! Connect and play together. Share the smiles! You can buddy up on one system, play online, or even link your systems together wherever you are for multiplayer favorites like the Super Smash Bros. Ultimate game. Joy-Con controllers included. The two included Joy-Con controllers let you play multiplayer games right out of the box-just pass one to a friend and go. Attach them to the screen for handheld mode or use both as a single controller when you play on the big screen. Plus, built-in motion controls really put you in the game in titles like Super Mario Party. All vital parts and accessories that would have been included with the original product are present, and our thorough inspection process ensures that the product is clean and in working condition.",
+   "seller_name": "Best Buy",
+   "seller_domain": "bestbuy.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Open Box Nintendo Switch Console With Neon Red/Blue Joy-Con Standard Version",
+   "link": "https://swiftronicsinc.com/products/open-box-nintendo-switch-console-with-neon-red-blue-joy-con?variant=53762891841902&msclkid=7e7a6fd8e4c21e9cc75705637fbcdd1a&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Feed%20US&utm_term=4585719416975228&utm_content=Ad%20group%20%231",
+   "price": 219.97,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.859WoYT9fMvxYQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 397,
+   "description": "The Nintendo Switch redefines gaming freedom with its versatile hybrid design that lets you play at home on your TV or on the go as a handheld system. This innovative console seamlessly transitions between TV Mode, Tabletop Mode, and Handheld Mode, giving you multiple ways to enjoy your favorite games. Equipped with a vivid 6.2-inch LCD touchscreen and detachable Joy-Con controllers, the Nintendo Switch delivers immersive gameplay whether youre at home, traveling, or playing with friends. The console supports local multiplayer with up to four players and online play via Nintendo Switch Online, so you can join friends in competitive and co-op experiences. With a robust game library including exclusive titles like The Legend of Zelda: Breath of the Wild, Mario Kart 8 Deluxe, Super Mario Odyssey, and more, the Nintendo Switch HAC-001 stands out as one of the most flexible and popular gaming platforms for players of all ages. Key Features Hybrid gaming console with TV, Tabletop, and Handheld modes 6.2-inch capacitive multi-touch LCD screen Detachable Joy-Con controllers with motion controls and HD Rumble Local multiplayer support up to 4 players Expandable storage with microSD support Compatible with a large Nintendo Switch game library Specifications Model: Nintendo Switch Display: 6.2-inch LCD, 1280 \u00d7 720 resolution Battery Life: Approx. 2.5-6.5 hours (varies by game) Connectivity: Wi-Fi, Bluetooth, USB-C charging Controllers: Left and Right Joy-Con (included)",
+   "seller_name": "Swiftronics USA",
+   "seller_domain": "swiftronicsinc.com",
+   "gtin_ids": [
+    "00045496883775"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch Lite - Turquoise",
+   "link": "https://www.target.com/p/nintendo-switch-lite-turquoise/-/A-77419248?store=2822",
+   "price": 229.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.zblGqs0SsP2wDw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 271,
+   "description": "Dedicated to portable play The Nintendo Switch\u2122 Lite system is a lightweight, compact, and designed exclusively for handheld play. Bring it along and enjoy a little \"me time\" wherever you happen to be, whether youre on the road or in your own backyard! Games for the whole family Nintendo Switch systems are the home of games like Super Mario Bros.\u2122 Wonder, Mario Kart\u2122 8 Deluxe, and others starring Mario and friends. And dont forget series like Animal Crossing\u2122, The Legend of Zelda\u2122, Splatoon\u2122, Pikmin\u2122, and more! Connect and play together Share the smiles! Play online with friends or connect Nintendo Switch Lite with any other Nintendo Switch models via local wireless for multiplayer favorites like the Super Smash Bros.\u2122 Ultimate game. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496882266"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch With Neon Blue And Neon Red Joy-Con",
+   "link": "https://www.target.com/p/nintendo-switch-with-neon-blue-and-neon-red-joy-con/-/A-77464001?store=3223",
+   "price": 339.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.tnGDDnch3JQ9dQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 282,
+   "description": "Play at home or on the go with one system The Nintendo Switch\u2122 system is designed to go wherever you do, instantly transforming from a home console you play on TV to a portable system you can play anywhere. So you get more time to play the games you love, however you like. Enjoy three modes in one system TV mode: Connect your system to the TV using the included dock to enjoy a traditional gaming experience in HD. Handheld mode: Bring your games on your next travel adventure, or simply carve out some \"me\" time in the coziest seat in the house. Tabletop mode: Pop the kickstand on the screen and detach the included Joy-Con\u2122 controllers to enjoy game time even without a TV. Games for the whole family Nintendo Switch systems are the home of games like Super Mario Bros.\u2122 Wonder, Mario Kart\u2122 8 Deluxe, and others starring Mario and friends. And dont forget series like Animal Crossing\u2122, The Legend of Zelda\u2122, Splatoon\u2122, Pikmin\u2122, and more! Connect and play together Share the smiles! You can buddy up on one system, play online, or even link your systems together wherever you are for multiplayer favorites like the Super Smash Bros.\u2122 Ultimate game. Joy-Con controllers included The two included Joy-Con controllers let you play multiplayer games right out of the box-just pass one to a friend and go. Attach both to the screen for handheld mode or use both as a single controller when you play on the big screen. Plus, built-in motion controls really put you in the game in titles like Super Mario Party\u2122. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496883775"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch Lite Hand-Held Gaming Console - Turquoise (HDH-001) (Renewed)",
+   "link": "https://www.amazon.com/Nintendo-Switch-Lite-Turquoise-Renewed/dp/B081XLXZ4P/ref=asc_df_B081XLXZ4P?tag=bingshoppinga-20&linkCode=df0&hvadid=80264559055141&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4583864035928692&psc=1&hvocijid=10816599564728334311-B081XLXZ4P-&hvexpln=0",
+   "price": 227.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.0K07XPPN9UjEkg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 208,
+   "description": "Handheld Nintendo Switch gaming at a great price Optimized for personal, handheld play, Nintendo Switch Lite is a small and light Nintendo Switch system Features a sleek, unibody design with fully integrated controls and a built in +Control Pad Compatible with all physical and digital Nintendo Switch games that support Handheld mode Please make sure to fully charge your device at least once every 30 days even if not used. This will prevent the battery from going into the deep discharge mode.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00714752895585"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch HAC-001(-01) Mario Red & Blue Edition - 32GB",
+   "link": "https://www.kleobis.com/track?clid=87e1316bd9cc187601595bd042b2417a&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F278029375470%3Fvar%3D0%26mkevt%3D1%26mkcid%3D1%26mkrid%3D711-53200-19255-0%26toolid%3D20006%26_ul%3DUS%26campid%3D5339156175%26customid%3D87e1316bd9cc187601595bd042b2417a%26cid%3D5339156175%26c%3D87e1316bd9cc187601595bd042b2417a&market=us&pid=v1%7C278029375470%7C0&cid=5339156175&source=msa&msclkid=87e1316bd9cc187601595bd042b2417a",
+   "price": 300.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.AO%2f5r2DGkjc9HQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 254,
+   "description": "Nintendo Switch HAC-001(-01) Mario Red & Blue Edition - 32GB",
+   "seller_name": "eBay US",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496882853"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Switch Lite Console, Random Color (Refurbished)",
+   "link": "https://www.temu.com/ul/kuiper/un9.html?subj=goods-un-v2&_bg_fs=1&_p_jump_id=1054&_x_vst_scene=adg&goods_id=602235572459442&sku_id=43590294224095&adg_ctx=a-192a285e~j-c087c202&_x_ns_product_id=1251695-43590294224095&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_gmc_catalog=1251695&locale_override=211~en~USD&_x_ns_sku_id=43590294224095&mrk_rec=1&_x_ns_catalog_id=1251695&_x_ads_channel=bing&_x_gmc_account=3544491&_x_ads_creative_id=524603386&_x_ns_device=c&_x_ads_account=176805763&_x_ns_match_type=e&_x_ns_msclkid=24d26316f4c51270909709ad6fbb3776&_x_ads_set=524603386&_x_ns_source=o&_x_ads_id=524603386&_x_ns_keyword=mintendo%20switch%20currys&msclkid=24d26316f4c51270909709ad6fbb3776",
+   "price": 230,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.sa2Nxd162CJEUw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Color: Any Power Mode: Without electricity Wireless Property: With Wi-Fi function Battery Properties: Rechargeable Battery Rechargeable Battery: Lithium Battery-Other Series Product Charging Port: Charging From Other Ports Brand: NINTENDO related topic swich,game console,switch 2 console,nintendo switch console,switch nintendo",
+   "seller_name": "Temu US",
+   "seller_domain": "temu.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch Lite Console, Turquoise - (Japan Version)",
+   "link": "https://www.walmart.com/ip/Nintendo-Switch-Lite-Console-Turquoise-International-Spec-Functional-in-US-NEW/5254318480?wmlspartner=wlpa&selectedSellerId=101029120&sourceid=dsn_mpmax_b7816648-c1aa-4cbe-a348-bade7e6d185e&veh=dsn&wmlspartner=dsn_mpmax_b7816648-c1aa-4cbe-a348-bade7e6d185e&cn=00pd_fy27_mp_mp_lo_int_dis_mpmax-p13n&wl9=&wl11=Online&msclkid=d9663d1e987f184678ed57a503014097",
+   "price": 235,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.39Y1XXH0BuI66w474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 270,
+   "description": "Item Version - Japan Version. Introducing Nintendo Switch Lite, a new version of the Nintendo Switch system that's optimized for personal, handheld play. Nintendo Switch Lite is a small and light Nintendo Switch system at a great price. With a built-in +Control Pad, and a sleek, unibody design, Nintendo Switch Lite is great for on-the-go gaming. Nintendo Switch Lite is compatible with popular games such as Super Mario Odyssey, Mario Kart 8 Deluxe, Super Smash Bros. Ultimate, The Legend of Zelda: Breath of the Wild, and more. If you're looking for a gaming system all your own, Nintendo Switch Lite is ready to hit the road whenever you are. If you don't already have a Nintendo Switch Online membership, you can try it out with a free 7-day trial. Don't worry if you already activated a previous free trial- an additional seven-day free trial is now available. Nintendo Switch Online membership and Nintendo Account required for online features. Free trial automatically converts to 1-month auto-renewing membership unless automatic renewal is turned off by the end of the free trial. Credit card/PayPal account required for 18+. Free trial cannot be redeemed by a Nintendo Account with an active Individual Membership or Family Membership. Not available in all countries. Internet access required for online features. Terms apply.",
+   "seller_name": "Walmart",
+   "seller_domain": "walmart.com",
+   "shipping_description": "+$30.00 shipping",
+   "shipping_price": 30,
+   "gtin_ids": [
+    "38319141726858"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Switch Lite - Blue (Japanese Version) (US Plug)",
+   "link": "https://www.temu.com/ul/kuiper/un9.html?subj=goods-un-v2&_bg_fs=1&_p_jump_id=1054&_x_vst_scene=adg&goods_id=603274946120935&sku_id=46162845376664&adg_ctx=a-0357daed~j-deb8a987&_x_ns_product_id=1251695-46162845376664&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_gmc_catalog=1251695&locale_override=211~en~USD&_x_ns_sku_id=46162845376664&mrk_rec=1&_x_ns_catalog_id=1251695&_x_ads_channel=bing&_x_gmc_account=3544491&_x_ads_creative_id=524603386&_x_ns_device=c&_x_ads_account=176805763&_x_ns_match_type=e&_x_ns_msclkid=ec334b05d7831c7341ee21be4cfd9fd0&_x_ads_set=524603386&_x_ns_source=o&_x_ads_id=524603386&_x_ns_keyword=mintendo%20switch%20currys&msclkid=ec334b05d7831c7341ee21be4cfd9fd0",
+   "price": 168.52,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.rzWXqTSv6m5Qxg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Color: Blue Power Mode: Power Supply Operating Voltage: 85V-265V Wireless Property: With Wi-Fi function Battery Properties: Rechargeable Battery Rechargeable Battery: Lithium Battery-Polymer Brand: NINTENDO",
+   "seller_name": "Temu US",
+   "seller_domain": "temu.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Doubleupgames Nintendo Switch OLED With Blue And Red Joy-Con - Nintendo Switch, Double Up Games / Loose",
+   "link": "https://shop.app/products/9228425101468?variantId=47505203724444&msclkid=a404cf1620481e5d0ac1a5adbb360c6e&utm_source=bing&utm_medium=cpc&utm_campaign=PMAX%20Campaign%20-%20New&utm_term=2328422032044031&utm_content=General",
+   "price": 269.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.nTrbG%2fF8PEsGZw474C474&o=5&pid=21.1",
+   "thumbnail_width": 402,
+   "thumbnail_height": 500,
+   "description": "Available Qualities: Used Nintendo Switch OLED model with Blue and Red Joy-Con controllers, SKU 045496883409, a popular gaming console for versatile gaming experiences.",
+   "seller_name": "Shop",
+   "seller_domain": "shop.app",
+   "gtin_ids": [
+    "00045496883409"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch OLED Game Console - Blue & Red Joy Cons (Good Condition Replacement Box) (No Dock)",
+   "link": "https://www.temu.com/ul/kuiper/un9.html?subj=goods-un-v2&_bg_fs=1&_p_jump_id=1054&_x_vst_scene=adg&goods_id=602518503396443&sku_id=50958310626668&adg_ctx=a-e182eb4c~j-da3aaeb1&_x_ns_product_id=1251695-50958310626668&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_gmc_catalog=1251695&locale_override=211~en~USD&_x_ns_sku_id=50958310626668&mrk_rec=1&_x_ns_catalog_id=1251695&_x_ads_channel=bing&_x_gmc_account=3544491&_x_ads_creative_id=524603386&_x_ns_device=c&_x_ads_account=176805763&_x_ns_match_type=e&_x_ns_msclkid=bc879e3fc648133d3828f4845d361ec1&_x_ads_set=524603386&_x_ns_source=o&_x_ads_id=524603386&_x_ns_keyword=mintendo%20switch%20currys&msclkid=bc879e3fc648133d3828f4845d361ec1",
+   "price": 173.22,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.z655ppZawLEO8w474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 200,
+   "description": "Color: Neon Blue and Red Power Mode: USB Charging Operating Voltage: \u226436V Wireless Property: With Wi-Fi function Battery Properties: Rechargeable Battery Rechargeable Battery: Lithium Battery-Polymer Brand: NINTENDO",
+   "seller_name": "Temu US",
+   "seller_domain": "temu.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch 2 Console System In Box - Never Used - Opened Box",
+   "link": "https://www.ebay.com/itm/168407716166?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=168407716166&targetid=4580840345259669&device=c&mktype=&googleloc=103403&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259669&abcId=10641719&merchantid=51291&msclkid=bf384452e8fa19f027642ee973849add",
+   "price": 475,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.5IL7PjccqDbWkQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 298,
+   "thumbnail_height": 400,
+   "description": "The Nintendo Switch 2 Console System in Box is a brand new handheld gaming system by Nintendo. This sleek black device offers Wi-Fi capability and 1080p resolution for immersive gameplay. With 256GB of storage capacity, this console provides ample space for storing games, apps, and media. The system includes a charger and HDMI connectivity for easy setup and use. Perfect for gaming on the go or at home, this Nintendo Switch is a versatile and reliable gaming console for any gaming enthusiast.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Mainline",
+   "title": "Nintendo Switch Oled, Box Is Opened, Used One Time, In Perfect",
+   "link": "https://www.ebay.com/itm/377013662500?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=377013662500&targetid=4580840345259665&device=c&mktype=&googleloc=103403&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259665&abcId=10641719&merchantid=51291&msclkid=350817c4d5101220b7027d7f4e6e6e55",
+   "price": 250,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.tFSsaJnnl%2bTG6w474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "description": "Nintendo switch OLED with a bigger and brighter screen than the original! Used one time. Just selling because its not used.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com"
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Mainline",
+   "title": "Switch Console Only - Exclusive Deals and Offers",
+   "link": "https://www.amazon.com/s/?ie=UTF8&keywords=switch+console+only&index=aps&tag=mh0b-20&ref=&adgrpid=1344705319517533&hvadid=84044375891513&hvnetw=o&hvqmt=b&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=kwd-84045345883630:loc-190&hydadcr=19109_13351537_9365&mcid=&hvocijid=17557704127907142643--&hvexpln=0&language=English&gb=2",
+   "displayed_link": "https://www.amazon.com/Shop",
+   "description": "Get Deals and Low Prices On Switch console only On Amazon. Read Customer Reviews & Find Best Sellers. Free, Easy Returns On Millions Of Items.",
+   "seller_name": "amazon.com",
+   "seller_domain": "amazon.com",
+   "sitelinks": [
+    {
+     "text": "Home Audio",
+     "link": "https://www.amazon.com/b/?ie=UTF8&node=667846011&ext=11625-63413&ref=&tag=mh0b-20&hvqmt=b&hvbmt=bb&hvdev=c&tag=mh0b-20&ref=&adgrpid=1344705319517533&hvadid=84044375891513&hvnetw=o&hvqmt=b&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=kwd-84045345883630:loc-190&hydadcr=19109_13351537_9365&mcid=&hvocijid=6781240226425220114--7559424724284&hvexpln=0&language=English&gb=2"
+    },
+    {
+     "text": "Shop Amazon Devices",
+     "link": "https://www.amazon.com/b/?ie=UTF8&node=2102313011&ext=11625-63408&ref=&tag=mh0b-20&hvqmt=b&hvbmt=bb&hvdev=c&tag=mh0b-20&ref=&adgrpid=1344705319517533&hvadid=84044375891513&hvnetw=o&hvqmt=b&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=kwd-84045345883630:loc-190&hydadcr=19109_13351537_9365&mcid=&hvocijid=5707011870162164676--7559424724285&hvexpln=0&language=English&gb=2"
+    },
+    {
+     "text": "Amazon Prime Benefits",
+     "link": "https://www.amazon.com/prime?ext=11625-63409&ref=&tag=mh0b-20&hvqmt=b&hvbmt=bb&hvdev=c&tag=mh0b-20&ref=&adgrpid=1344705319517533&hvadid=84044375891513&hvnetw=o&hvqmt=b&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=kwd-84045345883630:loc-190&hydadcr=19109_13351537_9365&mcid=&hvocijid=3367989364891618098--7559424724289&hvexpln=0&language=English&gb=2"
+    },
+    {
+     "text": "Computer Selection",
+     "link": "https://www.amazon.com/b/?ie=UTF8&node=541966&ext=11625-63411&ref=&tag=mh0b-20&hvqmt=b&hvbmt=bb&hvdev=c&tag=mh0b-20&ref=&adgrpid=1344705319517533&hvadid=84044375891513&hvnetw=o&hvqmt=b&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=kwd-84045345883630:loc-190&hydadcr=19109_13351537_9365&mcid=&hvocijid=17193738393933054782--7559424724283&hvexpln=0&language=English&gb=2"
+    },
+    {
+     "text": "Deals in Electronics",
+     "link": "https://www.amazon.com/b/?ie=UTF8&node=540734&ext=11625-63407&ref=&tag=mh0b-20&hvqmt=b&hvbmt=bb&hvdev=c&tag=mh0b-20&ref=&adgrpid=1344705319517533&hvadid=84044375891513&hvnetw=o&hvqmt=b&hvbmt=bb&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=kwd-84045345883630:loc-190&hydadcr=19109_13351537_9365&mcid=&hvocijid=3440568893353706108--7559424724286&hvexpln=0&language=English&gb=2"
+    }
+   ],
+   "logo": "https://th.bing.com/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&pid=AdsPlus"
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Mainline",
+   "title": "Refurbished Nintendo Switch - Shop Premium Refurbished Tech",
+   "link": "https://www.backmarket.com/en-us/l/nintendo-switch/a14cbb76-cdfc-4658-a0b9-d1275ba984e8?msclkid=2a7644dd1665147b990c2e668d1b45fc&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&utm_term=nintendo%20switch%20offer&utm_content=Nintendo%20Switch",
+   "displayed_link": "https://www.backmarket.com/refurbished/deals",
+   "description": "Refurbished Nintendo Switch guaranteed to work like new. 1-year warranty, 30-day returns, free standard shipping. Find the best offers.",
+   "seller_name": "Back Market",
+   "sitelinks": [
+    {
+     "text": "Used Phones",
+     "link": "https://www.backmarket.com/en-us/l/smartphones/0744fd27-8605-465d-8691-3b6dffda5969?utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&msclkid=247fb08ec6831c20aa5eda355dfd2da4"
+    },
+    {
+     "text": "Certified Refurbished...",
+     "link": "https://www.backmarket.com/refurbished-google-pixel-4.html?utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&msclkid=3512550b0f7d124f8bb33fb09403e769"
+    },
+    {
+     "text": "Consoles & Gaming",
+     "link": "https://www.backmarket.com/refurbished-consoles-gaming.html?msclkid=d54929b002601de4619c430b991ea832&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&utm_term=nintendo%20switch%20offer&utm_content=Nintendo%20Switch"
+    },
+    {
+     "text": "iPhone refurbished",
+     "link": "https://www.backmarket.com/en-us/l/iphone/e8724fea-197e-4815-85ce-21b8068020cc?utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&msclkid=4ae618dbd53f1cbce00572604e4186c8"
+    },
+    {
+     "text": "College Student Discount",
+     "link": "https://www.backmarket.com/en-us/student-discount?msclkid=1359e374a9741413bfbe89cf320ad58a&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&utm_term=nintendo%20switch%20offer&utm_content=Nintendo%20Switch"
+    },
+    {
+     "text": "Back Market Smartphones",
+     "link": "https://www.backmarket.com/en-us/l/smartphone-under-300-dollars/5fa927c1-e43f-4fc2-a967-06e430586aa3?utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&msclkid=39737abe6769137196ca1005fc177838"
+    },
+    {
+     "text": "Our best deals",
+     "link": "https://www.backmarket.com/en-us/l/good-deals/480f0d03-7690-4d7b-8de9-fc55165f498a?msclkid=3f34084329bb13d7929562f8b2c53b97&utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&utm_term=nintendo%20switch%20offer&utm_content=Nintendo%20Switch"
+    },
+    {
+     "text": "Nintendo Switch",
+     "link": "https://www.backmarket.com/en-us/l/nintendo-switch/a14cbb76-cdfc-4658-a0b9-d1275ba984e8?utm_source=bing&utm_medium=cpc&utm_campaign=US_SA_SEARCH_M_GEN_Video%20Game%20Consoles_New_2023&msclkid=1a213fcac3d81e0ebc75557158a6c914"
+    }
+   ],
+   "logo": "https://www.bing.com/th?id=OADD2.7490513275642_199LJ5EBQNBNCM9F7R&pid=21.2",
+   "extensions": [
+    "Service catalog: Free Shipping, Free 1-Year Warranty"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Nintendo Switch With Neon Blue And Neon Red Joy-Con",
+   "link": "https://www.target.com/p/nintendo-switch-with-neon-blue-and-neon-red-joy-con/-/A-77464001?store=3223",
+   "price": 339.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.tnGDDnch3JQ9dQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 282,
+   "description": "Play at home or on the go with one system The Nintendo Switch\u2122 system is designed to go wherever you do, instantly transforming from a home console you play on TV to a portable system you can play anywhere. So you get more time to play the games you love, however you like. Enjoy three modes in one system TV mode: Connect your system to the TV using the included dock to enjoy a traditional gaming experience in HD. Handheld mode: Bring your games on your next travel adventure, or simply carve out some \"me\" time in the coziest seat in the house. Tabletop mode: Pop the kickstand on the screen and detach the included Joy-Con\u2122 controllers to enjoy game time even without a TV. Games for the whole family Nintendo Switch systems are the home of games like Super Mario Bros.\u2122 Wonder, Mario Kart\u2122 8 Deluxe, and others starring Mario and friends. And dont forget series like Animal Crossing\u2122, The Legend of Zelda\u2122, Splatoon\u2122, Pikmin\u2122, and more! Connect and play together Share the smiles! You can buddy up on one system, play online, or even link your systems together wherever you are for multiplayer favorites like the Super Smash Bros.\u2122 Ultimate game. Joy-Con controllers included The two included Joy-Con controllers let you play multiplayer games right out of the box-just pass one to a friend and go. Attach both to the screen for handheld mode or use both as a single controller when you play on the big screen. Plus, built-in motion controls really put you in the game in titles like Super Mario Party\u2122. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496883775"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Nintendo Switch Lite Hand-Held Gaming Console - Turquoise (HDH-001) (Renewed)",
+   "link": "https://www.amazon.com/Nintendo-Switch-Lite-Turquoise-Renewed/dp/B081XLXZ4P/ref=asc_df_B081XLXZ4P?tag=bingshoppinga-20&linkCode=df0&hvadid=80264559055141&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4583864035928692&psc=1&hvocijid=10816599564728334311-B081XLXZ4P-&hvexpln=0",
+   "price": 227.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.0K07XPPN9UjEkg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 208,
+   "description": "Handheld Nintendo Switch gaming at a great price Optimized for personal, handheld play, Nintendo Switch Lite is a small and light Nintendo Switch system Features a sleek, unibody design with fully integrated controls and a built in +Control Pad Compatible with all physical and digital Nintendo Switch games that support Handheld mode Please make sure to fully charge your device at least once every 30 days even if not used. This will prevent the battery from going into the deep discharge mode.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00714752895585"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Nintendo Switch HAC-001(-01) Mario Red & Blue Edition - 32GB",
+   "link": "https://www.kleobis.com/track?clid=df8f4a9c7be910b079cf2027e0975652&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F278029375470%3Fvar%3D0%26mkevt%3D1%26mkcid%3D1%26mkrid%3D711-53200-19255-0%26toolid%3D20006%26_ul%3DUS%26campid%3D5339156175%26customid%3Ddf8f4a9c7be910b079cf2027e0975652%26cid%3D5339156175%26c%3Ddf8f4a9c7be910b079cf2027e0975652&market=us&pid=v1%7C278029375470%7C0&cid=5339156175&source=msa&msclkid=df8f4a9c7be910b079cf2027e0975652",
+   "price": 300.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.AO%2f5r2DGkjc9HQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 254,
+   "description": "Nintendo Switch HAC-001(-01) Mario Red & Blue Edition - 32GB",
+   "seller_name": "eBay US",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496882853"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Switch Lite Console, Random Color (Refurbished)",
+   "link": "https://www.temu.com/ul/kuiper/un9.html?subj=goods-un-v2&_bg_fs=1&_p_jump_id=1054&_x_vst_scene=adg&goods_id=602235572459442&sku_id=43590294224095&adg_ctx=a-192a285e~j-c087c202&_x_ns_product_id=1251695-43590294224095&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_gmc_catalog=1251695&locale_override=211~en~USD&_x_ns_sku_id=43590294224095&mrk_rec=1&_x_ns_catalog_id=1251695&_x_ads_channel=bing&_x_gmc_account=3544491&_x_ads_creative_id=524603386&_x_ns_device=c&_x_ads_account=176805763&_x_ns_match_type=e&_x_ns_msclkid=49acf5126e6e1f57e9479fa9f5107829&_x_ads_set=524603386&_x_ns_source=o&_x_ads_id=524603386&_x_ns_keyword=mintendo%20switch%20currys&msclkid=49acf5126e6e1f57e9479fa9f5107829",
+   "price": 230,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.sa2Nxd162CJEUw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Color: Any Power Mode: Without electricity Wireless Property: With Wi-Fi function Battery Properties: Rechargeable Battery Rechargeable Battery: Lithium Battery-Other Series Product Charging Port: Charging From Other Ports Brand: NINTENDO related topic swich,game console,switch 2 console,nintendo switch console,switch nintendo",
+   "seller_name": "Temu US",
+   "seller_domain": "temu.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Interspersed",
+   "title": "Nintendo Switch Lite Console, Turquoise - (Japan Version)",
+   "link": "https://www.walmart.com/ip/Nintendo-Switch-Lite-Console-Turquoise-International-Spec-Functional-in-US-NEW/5254318480?wmlspartner=wlpa&selectedSellerId=101029120&sourceid=dsn_mpmax_b7816648-c1aa-4cbe-a348-bade7e6d185e&veh=dsn&wmlspartner=dsn_mpmax_b7816648-c1aa-4cbe-a348-bade7e6d185e&cn=00pd_fy27_mp_mp_lo_int_dis_mpmax-p13n&wl9=&wl11=Online&msclkid=bf015ac4453e1a6a09f3307fde400782",
+   "price": 235,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.39Y1XXH0BuI66w474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 270,
+   "description": "Item Version - Japan Version. Introducing Nintendo Switch Lite, a new version of the Nintendo Switch system that's optimized for personal, handheld play. Nintendo Switch Lite is a small and light Nintendo Switch system at a great price. With a built-in +Control Pad, and a sleek, unibody design, Nintendo Switch Lite is great for on-the-go gaming. Nintendo Switch Lite is compatible with popular games such as Super Mario Odyssey, Mario Kart 8 Deluxe, Super Smash Bros. Ultimate, The Legend of Zelda: Breath of the Wild, and more. If you're looking for a gaming system all your own, Nintendo Switch Lite is ready to hit the road whenever you are. If you don't already have a Nintendo Switch Online membership, you can try it out with a free 7-day trial. Don't worry if you already activated a previous free trial- an additional seven-day free trial is now available. Nintendo Switch Online membership and Nintendo Account required for online features. Free trial automatically converts to 1-month auto-renewing membership unless automatic renewal is turned off by the end of the free trial. Credit card/PayPal account required for 18+. Free trial cannot be redeemed by a Nintendo Account with an active Individual Membership or Family Membership. Not available in all countries. Internet access required for online features. Terms apply.",
+   "seller_name": "Walmart",
+   "seller_domain": "walmart.com",
+   "shipping_description": "+$30.00 shipping",
+   "shipping_price": 30,
+   "gtin_ids": [
+    "38319141726858"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Switch 2 System",
+   "link": "https://www.bestbuy.com/product/switch-2-system/J7GSL57TGH/sku/6614313?utm_source=feed",
+   "price": 499.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.SWCrPlzc1p3LDQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 487,
+   "description": "Get a free Super Mario Bros. 40th Anniversary Collectible Game Case when you purchase two select Mario titles or a Nintendo Switch 2 system. Discover Nintendo Switch 2Your games will leap to life on the vivid, 7.9\" 1080p screen that showcases the systems powerful processing and graphics performance. The updated dock also supports up to 4K resolution and frame rates up to 120 fps with compatible games and TVs. The reimagined Joy-Con 2 controllers snap into place with magnetic connectors-and each controller can even be used as a mouse in compatible games. Plus, you can still enjoy compatible games from your existing Nintendo Switch library.Connect with friends and family with GameChatOnce GameChat is set up, press the C Button on your right Joy-Con 2 to start it up, a seamless way to voice chat with your friends, share your game screen, and connect via video chat with a compatible USB-C camera (sold separately). Nintendo Switch 2 also has a built-in microphone that filters out noise around you for a clear experience. Its like hanging out together\u2026from wherever you are.Gear up for exclusive games and moreNintendo Switch 2 is the exclusive home to games like Mario Kart World, Donkey Kong Bananza, and more. You can also purchase upgrade packs for certain Nintendo Switch games like The Legend of Zelda: Tears of the Kingdom, Super Mario Party Jamboree, and Kirby and the Forgotten Land for enhanced experiences and new content!Features:The next evolution of Nintendo Switch. One system, three play modes: TV, Tabletop, and Handheld.Larger, vivid, 7.9\" LCD touch screen with support for HDR and up to 120 fps.Dock that supports 4K when connected to a compatible TV.GameChat lets you voice chat, share your game screen, and connect via video chat as you play.256GB internal storage (a portion of which is used by the system), expandable with microSD Express cards (sold separately).Nintendo Switch 2 plays physical and digital Nintendo Switch games.Joy-Con 2 controllers attach magnetically and now offer mouse controls.Same-system multiplayer, local wireless, and online multiplayer.TV and game must be compatible with 4K resolution.Frame rate is fixed to a maximum of 60 fps for 4K output.Some Nintendo Switch games may not be supported or fully compatible with Nintendo Switch 2. Visit Nintendos website for compatibility information. Internet, Nintendo Switch Online membership and Nintendo Account required for online features, including GameChat. Nintendo Switch 2 camera or compatible USB-C camera required for video features. Not available in all countries. Terms and GameChat requirements apply. support.nintendo.com Nintendo Switch Online membership, Nintendo Switch 2 camera, and compatible USB-C camera sold separately. Additional games, systems and/or accessories may be required for multiplayer mode. Games, systems and some accessories sold separately.",
+   "seller_name": "Best Buy",
+   "seller_domain": "bestbuy.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496885816"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch With Neon Blue And Red Joy-Con (Renewed) | Handheld, Tabletop And TV Play Modes",
+   "link": "https://www.amazon.com/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y/ref=asc_df_B0BS9Y9L2Y?tag=bingshoppinga-20&linkCode=df0&hvadid=80539436593502&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4584138915422479&psc=1&hvocijid=6082781552719155532-B0BS9Y9L2Y-&hvexpln=0",
+   "price": 330.49,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.drvTYb3MO0pcmQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 205,
+   "description": "This pre-owned product is not Apple certified, but has been professionally inspected, tested and cleaned by Amazon-qualified suppliers. 6.2\" LCD screen. Three play modes: TV, tabletop, and handheld Local co-op, online, and local wireless multiplayer Detachable Joy-Con controllers Nintendo Switch is the home of Mario & friends There will be no visible cosmetic imperfections when held at an arms length. This product is eligible for a replacement or refund within 90 days of receipt if you are not satisfied. Product may come in generic Box. Get the gaming system that lets you play the games you want, wherever you are, however you like. Bring the full home gaming system experience with you to the park, on an airplane, in a car, or to a friends apartment.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00657768265204"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch 2 Console System",
+   "link": "https://www.target.com/p/nintendo-switch-2-console/-/A-94693225?TCID=PDS-9224351998",
+   "price": 499.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.2fioDGgektp4sg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 401,
+   "description": "Limited quantities. While supplies last. Start your next gaming adventure with the Nintendo Switch\u2122 2 system -packed with upgrades and fun ways to connect and play together! Discover Nintendo Switch 2 Your games will leap to life on the vivid, 7.9\" 1080p screen that showcases the systems powerful processing and graphics performance. The updated dock also supports up to 4K resolution and frame rates up to 120 fps with compatible games and TVs.* The reimagined Joy-Con\u2122 2 controllers snap into place with magnetic connectors-and each controller can even be used as a mouse in compatible games. Plus, you can still enjoy compatible games from your existing Nintendo Switch library**. Connect with friends and family with GameChat Once GameChat*** is setp up, press the C Button on your right Joy-Con 2 to start it up, a seamless way to voice chat with your friends, share your game screen, and connect via video chat with a compatible USB-C\u00ae camera (sold separately). Nintendo Switch 2 also has a built-in microphone that filters out noise around you for a clear experience. Its like hanging out together\u2026from wherever you are. Gear up for exclusive games and more Nintendo Switch 2 is the exclusive home to games like Mario Kart\u2122 World, Donkey Kong\u2122 Bananza, and more. You can also purchase upgrade packs for certain Nintendo Switch games like The Legend of Zelda\u2122: Tears of the Kingdom, Super Mario Party\u2122 Jamboree, and Kirby\u2122 and the Forgotten Land for enhanced experiences and new content! Includes: Nintendo Switch\u2122 2 Console Joy-Con 2 (L) in Light Blue Joy-Con 2 (R) in Light Red Nintendo Switch 2 AC Adapter USB-C\u00ae Charging Cable Nintendo Switch 2 Dock Joy-Con 2 Grip Joy-Con 2 Strap (\u00d72) Ultra High Speed HDMI\u2122 Cable * TV and game must be compatible with 4K resolution. Frame rate is fixed to a maximum of 60 fps for 4K output. ** Some Nintendo Switch games may not be supported or fully compatible with Nintendo Switch 2. Visit Nintendos website for compatibility information. *** Internet, Nintendo Switch Online membership and Nintendo Account required for online features, including GameChat. Nintendo Switch 2 camera or compatible USB-C\u00ae camera required for video features. Not available in all countries. Terms and GameChat requirements apply. support.nintendo.com Nintendo Switch Online membership, Nintendo Switch 2 camera, and compatible USB-C\u00ae camera sold separately. **** Additional games, systems and/or accessories may be required for multiplayer mode. Games, systems and some accessories sold separately. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496885816"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch With Neon Blue And Neon Red Joy Con Gaming Console - Manufacturer Refurbished",
+   "link": "https://www.target.com/p/nintendo-switch-with-neon-blue-and-neon-blue-joy-con-gaming-console-manufacturer-refurbished/-/A-92445315?TCID=PDS-21069328545",
+   "price": 299.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.qdLdtZJg7m7R1A474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 335,
+   "description": "Unleash your gaming potential with the Nintendo Switch with Neon Blue and Neon Red Joy-Con Gaming Console. Perfect for gamers of all ages, this versatile console offers a unique combination of home console power and portable convenience. Whether youre at home, on the go, or with friends, the Nintendo Switch provides endless gaming opportunities and an immersive experience like no other. These pre-owned/refurbished products are inspected and tested to ensure they are fully functional. There may be signs of light usage. We perform an additional diagnostics examination to ensure quality control. We also thoroughly clean the products. Every shipment may arrive in a brown or white generic box. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00716203001873"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Newest Nintendo Switch Fortnite Wildcat Special Edition With Yellow And Blue Joy-Con, Fortnite Game Pre-Installed - 6.2\" Touchscreen LCD Display, 32GB",
+   "link": "https://www.amazon.com/Nintendo-Fortnite-Wildcat-Special-Pre-Installed/dp/B08PQBRF4W/ref=asc_df_B08PQBRF4W?tag=bingshoppinga-20&linkCode=df0&hvadid=80264559055141&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4583864035362203&psc=1&hvocijid=8287056579444465098-B08PQBRF4W-&hvexpln=0",
+   "price": 1499.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.8qHcxvCPjzcUnQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 341,
+   "description": "The bundle includes a uniquely designed Nintendo Switch system with special art on the system and Nintendo Switch dock, a yellow Joy-Con (L) and blue Joy-Con (R), the Fortnite game pre-installed, 2,000 V-Bucks, and a download code for The Wildcat Bundle. The Wildcat Bundle is an in-game pack that includes cosmetic items like the Sleek Strike Back Bling and the Wildcat Outfit.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045491122213"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch OLED Model W/ White Joy-Con (Renewed)",
+   "link": "https://www.amazon.com/Nintendo-Switch-Model-White-Renewed/dp/B09J652L1P/ref=asc_df_B09J652L1P?tag=bingshoppinga-20&linkCode=df0&hvadid=80539436595346&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4584138917124136&psc=1&hvocijid=8108057378437935984-B09J652L1P-&hvexpln=0",
+   "price": 399,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.THHdJt1d64DB6Q474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 458,
+   "description": "Vivid 7\" OLED screen Local co-op, online, and local wireless multiplayer 64 GB internal storage (a portion of which is reserved for use by the system) Enhanced audio in handheld and tabletop modes Wide adjustable stand This pre-owned or refurbished product has been professionally inspected and tested to work and look like new. How a product becomes part of Amazon Renewed, your destination for pre-owned, refurbished products: A customer buys a new product and returns it or trades it in for a newer or different model. That product is inspected and tested to work and look like new by Amazon-qualified suppliers. Then, the product is sold as an Amazon Renewed product on Amazon. If not satisfied with the purchase, renewed products are eligible for replacement or refund under the Amazon Renewed Guarantee.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00656942440871"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Joy-Con 2 (L)/(R) Blue / Light Yellow - Switch 2",
+   "link": "https://www.target.com/p/nintendo-joy-con-2-l-r-blue-light-yellow-switch-2/-/A-1011032437?store=1442",
+   "price": 99.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.3le7zrXjIFVd3g474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 483,
+   "description": "This set includes both a left and right Joy-Con 2 controller (along with a pair of Joy-Con 2 straps) so you can start playing locally with a friend in compatible games right out of the box. *Additional games, systems and/or accessories may be required for multiplayer mode. Internet, Nintendo Switch Online membership and Nintendo Account required for online features, including GameChat. Not available in all countries. Terms and GameChat requirements apply. support.nintendo.com Games, systems, some accessories and membership sold separately. It's possible that information related to the game, including ratings and download size, may not be finalized at time of preorder. This item has an internal lithium-ion battery. California shipping address: 1.5% Environmental Waste Recycling Fee will be applied. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496886295"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Geek Squad Refurbished Good - Switch OLED Model W/Joy-Con",
+   "link": "https://www.bestbuy.com/product/switch-oled-model-w-joy-con/JCQ6HKQZ3F/sku/6626264?utm_source=feed",
+   "price": 399.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.Zy%2fLrRzjjoKdFQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 614,
+   "description": "Play at home or on the go with a vibrant OLED screen. Play on your TV at home or pick up and play in handheld mode on a vivid 7-inch OLED screen with the Nintendo Switch - OLED Model system. The system also features 64 GB of internal storage, enhanced audio, a wide, adjustable stand, and a dock with a wired LAN port. Enjoy three modes in one system. TV mode: Connect your system to the TV using the included dock to enjoy a traditional gaming experience in HD. Handheld mode: Bring your games on your next travel adventure and enjoy playing on a 7-inch OLED screen that makes colors pop. Tabletop mode: Use the wide, adjustable stand to position the screen and detach the included Joy-Con controllers to enjoy game time even without a TV. Games for the whole family. Nintendo Switch systems are the home of games like Super Mario Bros. Wonder, Mario Kart 8 Deluxe, and others starring Mario and friends. And dont forget series like Animal Crossing, The Legend of Zelda, Splatoon, Pikmin, and more! Connect and play together. Share the smiles! You can buddy up on one system, play online, or even link your systems together wherever you are for multiplayer favorites like the Super Smash Bros. Ultimate game. Joy-Con controllers included. The two included Joy-Con controllers let you play multiplayer games right out of the box-just pass one to a friend and go. Attach them to the screen for handheld mode or use both as a single controller when you play on the big screen. Plus, built-in motion controls really put you in the game in titles like Super Mario Party. All vital parts and accessories that would have been included with the original product are present, and our thorough inspection process ensures that the product is clean and in working condition.",
+   "seller_name": "Best Buy",
+   "seller_domain": "bestbuy.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Open Box Nintendo Switch Console With Neon Red/Blue Joy-Con Standard Version",
+   "link": "https://swiftronicsinc.com/products/open-box-nintendo-switch-console-with-neon-red-blue-joy-con?variant=53762891841902&msclkid=371971b3d38a1d43a7931b0848f48760&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Feed%20US&utm_term=4585719416975228&utm_content=Ad%20group%20%231",
+   "price": 219.97,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.859WoYT9fMvxYQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 397,
+   "description": "The Nintendo Switch redefines gaming freedom with its versatile hybrid design that lets you play at home on your TV or on the go as a handheld system. This innovative console seamlessly transitions between TV Mode, Tabletop Mode, and Handheld Mode, giving you multiple ways to enjoy your favorite games. Equipped with a vivid 6.2-inch LCD touchscreen and detachable Joy-Con controllers, the Nintendo Switch delivers immersive gameplay whether youre at home, traveling, or playing with friends. The console supports local multiplayer with up to four players and online play via Nintendo Switch Online, so you can join friends in competitive and co-op experiences. With a robust game library including exclusive titles like The Legend of Zelda: Breath of the Wild, Mario Kart 8 Deluxe, Super Mario Odyssey, and more, the Nintendo Switch HAC-001 stands out as one of the most flexible and popular gaming platforms for players of all ages. Key Features Hybrid gaming console with TV, Tabletop, and Handheld modes 6.2-inch capacitive multi-touch LCD screen Detachable Joy-Con controllers with motion controls and HD Rumble Local multiplayer support up to 4 players Expandable storage with microSD support Compatible with a large Nintendo Switch game library Specifications Model: Nintendo Switch Display: 6.2-inch LCD, 1280 \u00d7 720 resolution Battery Life: Approx. 2.5-6.5 hours (varies by game) Connectivity: Wi-Fi, Bluetooth, USB-C charging Controllers: Left and Right Joy-Con (included)",
+   "seller_name": "Swiftronics USA",
+   "seller_domain": "swiftronicsinc.com",
+   "gtin_ids": [
+    "00045496883775"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch Lite - Turquoise",
+   "link": "https://www.target.com/p/nintendo-switch-lite-turquoise/-/A-77419248?store=2822",
+   "price": 229.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.zblGqs0SsP2wDw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 271,
+   "description": "Dedicated to portable play The Nintendo Switch\u2122 Lite system is a lightweight, compact, and designed exclusively for handheld play. Bring it along and enjoy a little \"me time\" wherever you happen to be, whether youre on the road or in your own backyard! Games for the whole family Nintendo Switch systems are the home of games like Super Mario Bros.\u2122 Wonder, Mario Kart\u2122 8 Deluxe, and others starring Mario and friends. And dont forget series like Animal Crossing\u2122, The Legend of Zelda\u2122, Splatoon\u2122, Pikmin\u2122, and more! Connect and play together Share the smiles! Play online with friends or connect Nintendo Switch Lite with any other Nintendo Switch models via local wireless for multiplayer favorites like the Super Smash Bros.\u2122 Ultimate game. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496882266"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch With Neon Blue And Neon Red Joy-Con",
+   "link": "https://www.target.com/p/nintendo-switch-with-neon-blue-and-neon-red-joy-con/-/A-77464001?store=3223",
+   "price": 339.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.tnGDDnch3JQ9dQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 282,
+   "description": "Play at home or on the go with one system The Nintendo Switch\u2122 system is designed to go wherever you do, instantly transforming from a home console you play on TV to a portable system you can play anywhere. So you get more time to play the games you love, however you like. Enjoy three modes in one system TV mode: Connect your system to the TV using the included dock to enjoy a traditional gaming experience in HD. Handheld mode: Bring your games on your next travel adventure, or simply carve out some \"me\" time in the coziest seat in the house. Tabletop mode: Pop the kickstand on the screen and detach the included Joy-Con\u2122 controllers to enjoy game time even without a TV. Games for the whole family Nintendo Switch systems are the home of games like Super Mario Bros.\u2122 Wonder, Mario Kart\u2122 8 Deluxe, and others starring Mario and friends. And dont forget series like Animal Crossing\u2122, The Legend of Zelda\u2122, Splatoon\u2122, Pikmin\u2122, and more! Connect and play together Share the smiles! You can buddy up on one system, play online, or even link your systems together wherever you are for multiplayer favorites like the Super Smash Bros.\u2122 Ultimate game. Joy-Con controllers included The two included Joy-Con controllers let you play multiplayer games right out of the box-just pass one to a friend and go. Attach both to the screen for handheld mode or use both as a single controller when you play on the big screen. Plus, built-in motion controls really put you in the game in titles like Super Mario Party\u2122. Size: Color: Pattern:",
+   "seller_name": "Target",
+   "seller_domain": "target.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496883775"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch Lite Hand-Held Gaming Console - Turquoise (HDH-001) (Renewed)",
+   "link": "https://www.amazon.com/Nintendo-Switch-Lite-Turquoise-Renewed/dp/B081XLXZ4P/ref=asc_df_B081XLXZ4P?tag=bingshoppinga-20&linkCode=df0&hvadid=80264559055141&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=103403&hvtargid=pla-4583864035928692&psc=1&hvocijid=10816599564728334311-B081XLXZ4P-&hvexpln=0",
+   "price": 227.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.0K07XPPN9UjEkg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 208,
+   "description": "Handheld Nintendo Switch gaming at a great price Optimized for personal, handheld play, Nintendo Switch Lite is a small and light Nintendo Switch system Features a sleek, unibody design with fully integrated controls and a built in +Control Pad Compatible with all physical and digital Nintendo Switch games that support Handheld mode Please make sure to fully charge your device at least once every 30 days even if not used. This will prevent the battery from going into the deep discharge mode.",
+   "seller_name": "Amazon.com",
+   "seller_domain": "amazon.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00714752895585"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch HAC-001(-01) Mario Red & Blue Edition - 32GB",
+   "link": "https://www.kleobis.com/track?clid=0df1d640baea1bdd942fbcfb2194a8c5&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F278029375470%3Fvar%3D0%26mkevt%3D1%26mkcid%3D1%26mkrid%3D711-53200-19255-0%26toolid%3D20006%26_ul%3DUS%26campid%3D5339156175%26customid%3D0df1d640baea1bdd942fbcfb2194a8c5%26cid%3D5339156175%26c%3D0df1d640baea1bdd942fbcfb2194a8c5&market=us&pid=v1%7C278029375470%7C0&cid=5339156175&source=msa&msclkid=0df1d640baea1bdd942fbcfb2194a8c5",
+   "price": 300.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.AO%2f5r2DGkjc9HQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 254,
+   "description": "Nintendo Switch HAC-001(-01) Mario Red & Blue Edition - 32GB",
+   "seller_name": "eBay US",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0,
+   "gtin_ids": [
+    "00045496882853"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Switch Lite Console, Random Color (Refurbished)",
+   "link": "https://www.temu.com/ul/kuiper/un9.html?subj=goods-un-v2&_bg_fs=1&_p_jump_id=1054&_x_vst_scene=adg&goods_id=602235572459442&sku_id=43590294224095&adg_ctx=a-192a285e~j-c087c202&_x_ns_product_id=1251695-43590294224095&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_gmc_catalog=1251695&locale_override=211~en~USD&_x_ns_sku_id=43590294224095&mrk_rec=1&_x_ns_catalog_id=1251695&_x_ads_channel=bing&_x_gmc_account=3544491&_x_ads_creative_id=524603386&_x_ns_device=c&_x_ads_account=176805763&_x_ns_match_type=e&_x_ns_msclkid=cddeb0de76661d9f50a8da65ed181dbd&_x_ads_set=524603386&_x_ns_source=o&_x_ads_id=524603386&_x_ns_keyword=mintendo%20switch%20currys&msclkid=cddeb0de76661d9f50a8da65ed181dbd",
+   "price": 230,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.sa2Nxd162CJEUw474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Color: Any Power Mode: Without electricity Wireless Property: With Wi-Fi function Battery Properties: Rechargeable Battery Rechargeable Battery: Lithium Battery-Other Series Product Charging Port: Charging From Other Ports Brand: NINTENDO related topic swich,game console,switch 2 console,nintendo switch console,switch nintendo",
+   "seller_name": "Temu US",
+   "seller_domain": "temu.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch Lite Console, Turquoise - (Japan Version)",
+   "link": "https://www.walmart.com/ip/Nintendo-Switch-Lite-Console-Turquoise-International-Spec-Functional-in-US-NEW/5254318480?wmlspartner=wlpa&selectedSellerId=101029120&sourceid=dsn_mpmax_b7816648-c1aa-4cbe-a348-bade7e6d185e&veh=dsn&wmlspartner=dsn_mpmax_b7816648-c1aa-4cbe-a348-bade7e6d185e&cn=00pd_fy27_mp_mp_lo_int_dis_mpmax-p13n&wl9=&wl11=Online&msclkid=c3d7916d8c321b246871fbd6174ce833",
+   "price": 235,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.39Y1XXH0BuI66w474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 270,
+   "description": "Item Version - Japan Version. Introducing Nintendo Switch Lite, a new version of the Nintendo Switch system that's optimized for personal, handheld play. Nintendo Switch Lite is a small and light Nintendo Switch system at a great price. With a built-in +Control Pad, and a sleek, unibody design, Nintendo Switch Lite is great for on-the-go gaming. Nintendo Switch Lite is compatible with popular games such as Super Mario Odyssey, Mario Kart 8 Deluxe, Super Smash Bros. Ultimate, The Legend of Zelda: Breath of the Wild, and more. If you're looking for a gaming system all your own, Nintendo Switch Lite is ready to hit the road whenever you are. If you don't already have a Nintendo Switch Online membership, you can try it out with a free 7-day trial. Don't worry if you already activated a previous free trial- an additional seven-day free trial is now available. Nintendo Switch Online membership and Nintendo Account required for online features. Free trial automatically converts to 1-month auto-renewing membership unless automatic renewal is turned off by the end of the free trial. Credit card/PayPal account required for 18+. Free trial cannot be redeemed by a Nintendo Account with an active Individual Membership or Family Membership. Not available in all countries. Internet access required for online features. Terms apply.",
+   "seller_name": "Walmart",
+   "seller_domain": "walmart.com",
+   "shipping_description": "+$30.00 shipping",
+   "shipping_price": 30,
+   "gtin_ids": [
+    "38319141726858"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Switch Lite - Blue (Japanese Version) (US Plug)",
+   "link": "https://www.temu.com/ul/kuiper/un9.html?subj=goods-un-v2&_bg_fs=1&_p_jump_id=1054&_x_vst_scene=adg&goods_id=603274946120935&sku_id=46162845376664&adg_ctx=a-0357daed~j-deb8a987&_x_ns_product_id=1251695-46162845376664&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_gmc_catalog=1251695&locale_override=211~en~USD&_x_ns_sku_id=46162845376664&mrk_rec=1&_x_ns_catalog_id=1251695&_x_ads_channel=bing&_x_gmc_account=3544491&_x_ads_creative_id=524603386&_x_ns_device=c&_x_ads_account=176805763&_x_ns_match_type=e&_x_ns_msclkid=19e39599071415e88fceff229c6a744c&_x_ads_set=524603386&_x_ns_source=o&_x_ads_id=524603386&_x_ns_keyword=mintendo%20switch%20currys&msclkid=19e39599071415e88fceff229c6a744c",
+   "price": 168.52,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.rzWXqTSv6m5Qxg474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 474,
+   "description": "Color: Blue Power Mode: Power Supply Operating Voltage: 85V-265V Wireless Property: With Wi-Fi function Battery Properties: Rechargeable Battery Rechargeable Battery: Lithium Battery-Polymer Brand: NINTENDO",
+   "seller_name": "Temu US",
+   "seller_domain": "temu.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Doubleupgames Nintendo Switch OLED With Blue And Red Joy-Con - Nintendo Switch, Double Up Games / Loose",
+   "link": "https://shop.app/products/9228425101468?variantId=47505203724444&msclkid=dbe708ecb6cd1f657ba162572db3465f&utm_source=bing&utm_medium=cpc&utm_campaign=PMAX%20Campaign%20-%20New&utm_term=2328422032044031&utm_content=General",
+   "price": 269.99,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.nTrbG%2fF8PEsGZw474C474&o=5&pid=21.1",
+   "thumbnail_width": 402,
+   "thumbnail_height": 500,
+   "description": "Available Qualities: Used Nintendo Switch OLED model with Blue and Red Joy-Con controllers, SKU 045496883409, a popular gaming console for versatile gaming experiences.",
+   "seller_name": "Shop",
+   "seller_domain": "shop.app",
+   "gtin_ids": [
+    "00045496883409"
+   ]
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch OLED Game Console - Blue & Red Joy Cons (Good Condition Replacement Box) (No Dock)",
+   "link": "https://www.temu.com/ul/kuiper/un9.html?subj=goods-un-v2&_bg_fs=1&_p_jump_id=1054&_x_vst_scene=adg&goods_id=602518503396443&sku_id=50958310626668&adg_ctx=a-e182eb4c~j-da3aaeb1&_x_ns_product_id=1251695-50958310626668&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_gmc_catalog=1251695&locale_override=211~en~USD&_x_ns_sku_id=50958310626668&mrk_rec=1&_x_ns_catalog_id=1251695&_x_ads_channel=bing&_x_gmc_account=3544491&_x_ads_creative_id=524603386&_x_ns_device=c&_x_ads_account=176805763&_x_ns_match_type=e&_x_ns_msclkid=476e37f306201a72e3a25d489d5e173e&_x_ads_set=524603386&_x_ns_source=o&_x_ads_id=524603386&_x_ns_keyword=mintendo%20switch%20currys&msclkid=476e37f306201a72e3a25d489d5e173e",
+   "price": 173.22,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.z655ppZawLEO8w474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 200,
+   "description": "Color: Neon Blue and Red Power Mode: USB Charging Operating Voltage: \u226436V Wireless Property: With Wi-Fi function Battery Properties: Rechargeable Battery Rechargeable Battery: Lithium Battery-Polymer Brand: NINTENDO",
+   "seller_name": "Temu US",
+   "seller_domain": "temu.com"
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch 2 Console System In Box - Never Used - Opened Box",
+   "link": "https://www.ebay.com/itm/168407716166?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=168407716166&targetid=4580840345259669&device=c&mktype=&googleloc=103403&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259669&abcId=10641719&merchantid=51291&msclkid=fcfe91e7f6481c4e4379fb5c6d366757",
+   "price": 475,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.5IL7PjccqDbWkQ474C474&o=5&pid=21.1",
+   "thumbnail_width": 298,
+   "thumbnail_height": 400,
+   "description": "The Nintendo Switch 2 Console System in Box is a brand new handheld gaming system by Nintendo. This sleek black device offers Wi-Fi capability and 1080p resolution for immersive gameplay. With 256GB of storage capacity, this console provides ample space for storing games, apps, and media. The system includes a charger and HDMI connectivity for easy setup and use. Perfect for gaming on the go or at home, this Nintendo Switch is a versatile and reliable gaming console for any gaming enthusiast.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com",
+   "shipping_description": "Free shipping",
+   "shipping_price": 0
+  },
+  {
+   "type": "Ads/ProductAd",
+   "block_position": "Bottom",
+   "title": "Nintendo Switch Oled, Box Is Opened, Used One Time, In Perfect",
+   "link": "https://www.ebay.com/itm/377013662500?chn=ps&norover=1&mkevt=1&mkrid=711-177437-589451-2&mkcid=2&itemid=377013662500&targetid=4580840345259665&device=c&mktype=&googleloc=103403&poi=&campaignid=607179387&mkgroupid=1235852715644042&rlsatarget=pla-4580840345259665&abcId=10641719&merchantid=51291&msclkid=46d78e28f82f180acfe5e4936351393c",
+   "price": 250,
+   "price_currency": "USD",
+   "price_currency_symbol": "$",
+   "thumbnail": "https://www.bing.com/th?id=OPHS.tFSsaJnnl%2bTG6w474C474&o=5&pid=21.1",
+   "thumbnail_width": 474,
+   "thumbnail_height": 632,
+   "description": "Nintendo switch OLED with a bigger and brighter screen than the original! Used one time. Just selling because its not used.",
+   "seller_name": "eBay",
+   "seller_domain": "ebay.com"
+  },
+  {
+   "type": "Ads/TextAd",
+   "block_position": "Bottom",
+   "title": "10 Best Nintendo Switch Deals - Top Console Bundles of 2025",
+   "link": "https://www.bestproductsreviews.com/nintendo-switch-console-bundle?msclkid=a95a6e62a6fb1844180304d93d851a5e&targetid=dat-2336187331310752:loc-190&matchtype=b&device=c&campaignid=424189022&creative=&adgroupid=1350201646411266&feeditemid=&loc_physical_ms=103403&loc_interest_ms=&network=o&devicemodel=&placement=&keyword=$nintendo&target=&aceid={aceid}&adposition=&trackid=us_all_top_bing&mId=H149003CQN&utm_source=bestproductsreviews.com~b&utm_campaign=YmVzdHByb2R1Y3RzcmV2aWV3cy5jb21-Yg~424189022~1350201646411266&ctx=b~a95a6e62a6fb1844180304d93d851a5e&utm_medium=cpc&utm_term=nintendo&utm_content=all%20website",
+   "displayed_link": "https://bestproductsreviews.com",
+   "description": "Find and compare the best products based on price, features, ratings & reviews. Stop wasting time compiling reviews & use our list to make an informed purchase.",
+   "seller_name": "BestProductsReviews.com",
+   "seller_domain": "bestproductsreviews.com",
+   "sitelinks": [
+    {
+     "text": "10 Best Laptops",
+     "link": "https://www.bestproductsreviews.com/best-laptop&gb=2"
+    },
+    {
+     "text": "10 Best Lawn Mowers",
+     "link": "https://www.bestproductsreviews.com/top-lawn-mowers&gb=2"
+    },
+    {
+     "text": "10 Best Air Fryers",
+     "link": "https://www.bestproductsreviews.com/non-toxic-air-fryer&gb=2"
+    },
+    {
+     "text": "10 Best Robot Vacuums",
+     "link": "https://ranking-expert.com/best-robot-vacuum&gb=2"
+    }
+   ],
+   "logo": "https://www.bing.com/th?pid=AdsPlus&id=ODF.JOzzP0YzadE5qO-EhTB4Lw&w=32&h=32"
+  }
+ ],
+ "text_recognition": [
+  {
+   "text": "092",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.39451477,
+     "y": 0.3170163
+    },
+    "top_right": {
+     "x": 0.5485232,
+     "y": 0.3053613
+    },
+    "bottom_right": {
+     "x": 0.5590717,
+     "y": 0.4032634
+    },
+    "bottom_left": {
+     "x": 0.4008439,
+     "y": 0.4172494
+    }
+   },
+   "words": [
+    {
+     "text": "092",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.39451477,
+       "y": 0.3170163
+      },
+      "top_right": {
+       "x": 0.5485232,
+       "y": 0.3053613
+      },
+      "bottom_right": {
+       "x": 0.556962,
+       "y": 0.4032634
+      },
+      "bottom_left": {
+       "x": 0.4008439,
+       "y": 0.4172494
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "NINTENDO",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.4029536,
+     "y": 0.43123543
+    },
+    "top_right": {
+     "x": 0.5485232,
+     "y": 0.41491842
+    },
+    "bottom_right": {
+     "x": 0.5506329,
+     "y": 0.44055945
+    },
+    "bottom_left": {
+     "x": 0.4050633,
+     "y": 0.45687646
+    }
+   },
+   "words": [
+    {
+     "text": "NINTENDO",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.4050633,
+       "y": 0.43123543
+      },
+      "top_right": {
+       "x": 0.54219407,
+       "y": 0.4172494
+      },
+      "bottom_right": {
+       "x": 0.5443038,
+       "y": 0.44289044
+      },
+      "bottom_left": {
+       "x": 0.407173,
+       "y": 0.45687646
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "SWITCH.",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.4050633,
+     "y": 0.45221445
+    },
+    "top_right": {
+     "x": 0.5506329,
+     "y": 0.43589744
+    },
+    "bottom_right": {
+     "x": 0.5548523,
+     "y": 0.47086248
+    },
+    "bottom_left": {
+     "x": 0.407173,
+     "y": 0.4871795
+    }
+   },
+   "words": [
+    {
+     "text": "SWITCH.",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.4050633,
+       "y": 0.45454547
+      },
+      "top_right": {
+       "x": 0.5506329,
+       "y": 0.43589744
+      },
+      "bottom_right": {
+       "x": 0.5527426,
+       "y": 0.47319347
+      },
+      "bottom_left": {
+       "x": 0.4092827,
+       "y": 0.48951048
+      }
+     }
+    }
+   ]
+  },
+  {
+   "text": "SWITCH",
+   "bounding_box": {
+    "top_left": {
+     "x": 0.4978903,
+     "y": 0.6666667
+    },
+    "top_right": {
+     "x": 0.5527426,
+     "y": 0.66200465
+    },
+    "bottom_right": {
+     "x": 0.5548523,
+     "y": 0.67832166
+    },
+    "bottom_left": {
+     "x": 0.4978903,
+     "y": 0.6829837
+    }
+   },
+   "words": [
+    {
+     "text": "SWITCH",
+     "bounding_box": {
+      "top_left": {
+       "x": 0.4978903,
+       "y": 0.66899765
+      },
+      "top_right": {
+       "x": 0.5506329,
+       "y": 0.66433567
+      },
+      "bottom_right": {
+       "x": 0.5527426,
+       "y": 0.6806527
+      },
+      "bottom_left": {
+       "x": 0.5,
+       "y": 0.6853147
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "crops": [
+  {
+   "name": "human_made_object | packaged_product | packaged_box",
+   "cat": 0.23917161,
+   "cal": 0.2528571,
+   "car": 0.7725757,
+   "cab": 0.83260703,
+   "serpapi_link": "https://serpapi.com/search.json?cab=0.83260703&cal=0.2528571&car=0.7725757&cat=0.23917161&engine=bing_reverse_image&image_url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F714-Fh3ngmL._SL1500_.jpg"
+  },
+  {
+   "name": "##TextRecognition",
+   "cat": 0,
+   "cal": 0,
+   "car": 1,
+   "cab": 1,
+   "serpapi_link": "https://serpapi.com/search.json?cab=1&cal=0&car=1&cat=0&engine=bing_reverse_image&image_url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F714-Fh3ngmL._SL1500_.jpg"
+  }
+ ],
+ "serpapi_pagination": {
+  "next_page_token": "LRECtnica1pcWpRz0yajpKSg2EpfP1cvNzUlM1E3MTexKj9PLzk_Vz8zNzE9tVjfU9_c0ETXLcM4Lz3XRy8-2MfQ1MAgXi-rIH1ZflpacWoJMwAnthqI",
+  "next": "https://serpapi.com/search.json?count=35&engine=bing_reverse_image&image_url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F714-Fh3ngmL._SL1500_.jpg&next_page_token=LRECtnica1pcWpRz0yajpKSg2EpfP1cvNzUlM1E3MTexKj9PLzk_Vz8zNzE9tVjfU9_c0ETXLcM4Lz3XRy8-2MfQ1MAgXi-rIH1ZflpacWoJMwAnthqI",
+  "current": "https://serpapi.com/search.json?engine=bing_reverse_image&image_url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F714-Fh3ngmL._SL1500_.jpg"
+ },
+ "_probe_latency_s": 1.74
+}

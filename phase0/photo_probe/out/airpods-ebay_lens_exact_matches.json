@@ -1,0 +1,51 @@
+{
+ "search_metadata": {
+  "id": "6abb9b160e4be08ecc6c5e39",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/SkUjmtTFjYtaaREULzRwhM4Spht_VORwJhonvGl4unY/6abb9b160e4be08ecc6c5e39.json",
+  "markdown_endpoint": "https://serpapi.com/searches/SkUjmtTFjYtaaREULzRwhM4Spht_VORwJhonvGl4unY/6abb9b160e4be08ecc6c5e39.md",
+  "created_at": "2026-09-29 11:03:50 UTC",
+  "processed_at": "2026-09-29 11:03:50 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FtyMAAeSwbUdqsYQI%2Fs-l960.jpg",
+  "raw_html_file": "https://serpapi.com/searches/SkUjmtTFjYtaaREULzRwhM4Spht_VORwJhonvGl4unY/6abb9b160e4be08ecc6c5e39.html",
+  "total_time_taken": 9.71
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://i.ebayimg.com/images/g/tyMAAeSwbUdqsYQI/s-l960.jpg",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Apple \u8033\u673a - eBay",
+   "source": "eBay",
+   "source_icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBgCdASocABwAPtEwtFooIigoGAEAGglsAFUngV_2b0ANUA6VUiORf6rJjZ2yA1prvBfhcoTO1gAA_vYCWzyeGx1VOX124lf5SN-0wqPWZlnzYRooSJWeafWaXMJxGAwKNDOgcbj8zupbWhXAHDeRKIqoToOjueo7nQq_85EcXyyRzK77p_kf_n_rOtyzzGZbSSP5rjGDPGTe_mAkVl1c3c_x547FXeg4yPFt8nK2dj-wd6Rjwscuf_7Fzfc1-0Jtx_xT3jmE6B8J8hvAAA.webp",
+   "link": "https://cn.ebay.com/b/Apple-Headphones/112529/bn_886136",
+   "thumbnail": "https://serpapi.com/searches/6abb9b160e4be08ecc6c5e39/images/poBGUI8Xvi62mT7JohGHPYfoul9q9R-7jkryJlrJ8Yk.jpeg",
+   "actual_image_width": 1200,
+   "actual_image_height": 1069
+  },
+  {
+   "position": 2,
+   "title": "Apple products for sale - eBay",
+   "source": "eBay",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+   "link": "https://www.ebay.com/b/Apple/bn_7000259040",
+   "thumbnail": "https://serpapi.com/searches/6abb9b160e4be08ecc6c5e39/images/YKvgh0zAujmfrTf9L0qKBOA6oLKYFsLakQv5vnJevkk.jpeg",
+   "actual_image_width": 1200,
+   "actual_image_height": 1069
+  },
+  {
+   "position": 3,
+   "title": "Las mejores ofertas en Auriculares Apple - eBay",
+   "source": "eBay",
+   "source_icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBgCdASocABwAPtEwtFooIigoGAEAGglsAFUngV_2b0ANUA6VUiORf6rJjZ2yA1prvBfhcoTO1gAA_vYCWzyeGx1VOX124lf5SN-0wqPWZlnzYRooSJWeafWaXMJxGAwKNDOgcbj8zupbWhXAHDeRKIqoToOjueo7nQq_85EcXyyRzK77p_kf_n_rOtyzzGZbSSP5rjGDPGTe_mAkVl1c3c_x547FXeg4yPFt8nK2dj-wd6Rjwscuf_7Fzfc1-0Jtx_xT3jmE6B8J8hvAAA.webp",
+   "link": "https://ve.ebay.com/b/Apple-Headphones/112529/bn_886136",
+   "thumbnail": "https://serpapi.com/searches/6abb9b160e4be08ecc6c5e39/images/kLvjnw0WQF6C4blpHnz3qr7lO5kgxh0CP2Z8aTCKBLE.jpeg",
+   "actual_image_width": 1200,
+   "actual_image_height": 1069
+  }
+ ],
+ "_probe_latency_s": 10.25
+}
