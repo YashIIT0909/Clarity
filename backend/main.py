@@ -3,6 +3,7 @@ import json
 import os
 import time
 import uuid
+from contextlib import asynccontextmanager
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, Form, HTTPException, UploadFile
@@ -17,7 +18,17 @@ import orchestrator  # noqa: E402
 from demo_products import DEMO_CHIPS  # noqa: E402
 from resolve import ResolveError, resolve, resolve_screenshot  # noqa: E402
 
-app = FastAPI(title="Clarity")
+from clarity_mcp.server import mcp_app, mcp_server  # noqa: E402
+
+
+@asynccontextmanager
+async def lifespan(app):
+    async with mcp_server.session_manager.run():  # the SDK's Streamable HTTP sessions need this running
+        yield
+
+
+app = FastAPI(title="Clarity", lifespan=lifespan)
+app.router.routes.extend(mcp_app.routes)  # POST/GET/DELETE /mcp exactly: a route, not a Mount, so no /mcp/ 307
 app.add_middleware(
     CORSMiddleware,
     allow_origins=os.getenv("CORS_ORIGINS", "http://localhost:3000").split(","),

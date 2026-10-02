@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="color-scheme" content="light dark">
+<style>
+  :root { --color-text-primary: light-dark(#171717, #fafafa); --color-background-primary: light-dark(#fff, #171717);
+          --font-sans: system-ui, sans-serif; --font-mono: ui-monospace, monospace; }
+  body { margin: 0; padding: 12px; font-family: var(--font-sans); color: var(--color-text-primary);
+         background: var(--color-background-primary); }
+  pre { font-family: var(--font-mono); font-size: 12px; white-space: pre-wrap; word-break: break-all; margin: 4px 0 12px; }
+  h1 { margin: 0 0 8px; font-size: 20px; }
+</style>
+</head>
+<body>
+<h1>hello</h1>
+<b>Tool input</b><pre id="input">(waiting)</pre>
+<b>Tool result</b><pre id="result">(waiting)</pre>
+<button id="ping">Call app-only tool spike_ping</button><pre id="ping-out"></pre>
+<b>Host context</b><pre id="ctx"></pre>
+<b>host-context-changed received</b><pre id="hcc">0</pre>
+<b>Every message received (ms since load)</b><pre id="log"></pre>
+<script>
+// Raw postMessage, per the spec's "you don't need an SDK" section. Probe only.
+const t0 = performance.now(), $ = (id) => document.getElementById(id);
+let nextId = 1, hcc = 0; const pending = {};
+const send = (msg) => window.parent.postMessage({ jsonrpc: "2.0", ...msg }, "*");
+const request = (method, params) => new Promise((resolve, reject) => {
+  const id = nextId++; pending[id] = { resolve, reject }; send({ id, method, params });
+});
+window.addEventListener("message", (e) => {
+  const m = e.data; if (!m || m.jsonrpc !== "2.0") return;
+  // Counted, not logged: logging them grows the page -> size-changed -> another host-context-changed (a loop).
+  if (m.method === "ui/notifications/host-context-changed") { $("hcc").textContent = ++hcc + " (last: " + JSON.stringify(m.params) + ")"; return; }
+  $("log").textContent += `${Math.round(performance.now() - t0)}  ${m.method || "response#" + m.id}\n`;
+  if (m.id && pending[m.id] && !m.method) {
+    m.error ? pending[m.id].reject(m.error) : pending[m.id].resolve(m.result); delete pending[m.id]; return;
+  }
+  if (m.method === "ui/notifications/tool-input") $("input").textContent = JSON.stringify(m.params, null, 1);
+  if (m.method === "ui/notifications/tool-result") $("result").textContent = JSON.stringify(m.params, null, 1);
+  if (m.method === "ui/resource-teardown") send({ id: m.id, result: {} });
+});
+const size = () => send({ method: "ui/notifications/size-changed",
+                          params: { width: document.body.scrollWidth, height: document.documentElement.scrollHeight } });
+new ResizeObserver(size).observe(document.body);
+$("ping").onclick = () => request("tools/call", { name: "spike_ping", arguments: {} })
+  .then((r) => $("ping-out").textContent = JSON.stringify(r)).catch((e) => $("ping-out").textContent = "ERROR " + JSON.stringify(e));
+request("ui/initialize", { appCapabilities: {}, appInfo: { name: "clarity-spike", version: "0" }, protocolVersion: "2026-01-26" })
+  .then((r) => {
+    const c = r.hostContext || {}, vars = (c.styles && c.styles.variables) || {};
+    for (const [k, v] of Object.entries(vars)) if (v) document.documentElement.style.setProperty(k, v);
+    if (c.theme) document.documentElement.style.colorScheme = c.theme;
+    $("ctx").textContent = JSON.stringify({ hostInfo: r.hostInfo, hostCapabilities: r.hostCapabilities, theme: c.theme,
+      containerDimensions: c.containerDimensions, displayMode: c.displayMode, platform: c.platform,
+      styleVariables: Object.keys(vars).length, fonts: !!(c.styles && c.styles.css && c.styles.css.fonts),
+      toolInfo: c.toolInfo && c.toolInfo.tool && c.toolInfo.tool.name }, null, 1);
+    send({ method: "ui/notifications/initialized", params: {} });
+  }).catch((e) => $("ctx").textContent = "initialize failed " + JSON.stringify(e));
+</script>
+</body>
+</html>
