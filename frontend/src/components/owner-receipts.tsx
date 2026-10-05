@@ -58,6 +58,7 @@ export type Receipts = {
   story?: { text: string; fallback?: boolean };
   queryId?: string;
   run?: { state: "running" | "failed"; startedAt: number; message?: string }; // the on-request live run
+  afterVerdict?: boolean; // from an on-request live run: the verdict was already shown, so these didn't score
 };
 
 /** The SSE "receipts" and "owners" events (after the verdict, or from /receipts/stream/{id}), folded into card state. */
@@ -112,7 +113,7 @@ export function reduceReceipts(r: Receipts | null, e: ReceiptsEvent): Receipts {
 }
 
 /** The on-request live run begins: engines dim until its "start" event arrives. */
-export const startLiveRun = (r: Receipts): Receipts => ({ ...r, engines: idle(), run: { state: "running", startedAt: Date.now() } });
+export const startLiveRun = (r: Receipts): Receipts => ({ ...r, engines: idle(), run: { state: "running", startedAt: Date.now() }, afterVerdict: true });
 export const failLiveRun = (r: Receipts, message: string): Receipts => ({ ...r, run: { state: "failed", startedAt: r.run?.startedAt ?? Date.now(), message } });
 
 const mmss = (s: number) => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`;
@@ -157,7 +158,12 @@ export function OwnerReceipts({ r, onRequest }: { r: Receipts; onRequest: () => 
           <UsersRound className="size-4" />
           What owners say
         </h2>
-        <span className="text-xs text-muted-foreground">Independent reviews and forums · context only, not part of the verdict</span>
+        <span className="text-xs text-muted-foreground">
+          Independent reviews and forums ·{" "}
+          {r.afterVerdict
+            ? "checked after the verdict, so it didn't change it"
+            : "defects 2+ sources confirm can only nudge timing toward wait (weight 0.10)"}
+        </span>
       </div>
 
       {(r.engines.youtube.status !== "idle" || live) && <EngineStrip r={r} live={live} />}

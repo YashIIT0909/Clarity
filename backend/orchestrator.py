@@ -1,6 +1,7 @@
 """Orchestrator: trust gates timing, then the narrator writes it up. Yields each step as it happens.
-"What owners say" (receipts) runs beside timing once trust passes: weight 0, it never feeds timing or the verdict, and
-it arrives after the verdict."""
+"What owners say" (receipts) runs beside timing once trust passes, cache-only. Timing reads it as a small wait-only
+signal (weight 0.10: corroborated defects only; anything missing scores 0). Its full evidence and narration still
+arrive after the verdict; a live on-request run later never re-scores a verdict already shown."""
 import logging
 import queue
 import time
@@ -97,7 +98,7 @@ def stream(product: dict, label: str | None = None, with_receipts: bool = True):
             pool.shutdown(wait=False)
         yield step(stage="timing", status="running", message="Checking demand trend, price position and maker signal…")
         # Successor radar streams the same way while timing runs: {"stage": "lifecycle", "type": ...}.
-        tm = yield from _live(timing.run, "lifecycle", product, t["signals"])
+        tm = yield from _live(lambda p, s, emit: timing.run(p, s, emit, owners=rx), "lifecycle", product, t["signals"])
         db.table("timing_results").insert(
             {"query_id": query_id, "verdict": tm["verdict"], "confidence": tm["confidence"], "signals_json": tm["signals"]}
         ).execute()
@@ -115,7 +116,7 @@ def stream(product: dict, label: str | None = None, with_receipts: bool = True):
                timing_judged=tm["judged"] if tm else None)
     db.table("verdicts").insert({"query_id": query_id, "final_verdict": final, "reasoning_chain_json": steps}).execute()
 
-    # After the verdict, never part of it (not in reasoning_chain_json).
+    # After the verdict: the evidence and narration (timing already scored the counted defects; not in reasoning_chain_json).
     owners = None
     if rx is not None:
         owners = rx.result()

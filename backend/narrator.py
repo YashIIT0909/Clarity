@@ -22,7 +22,7 @@ Every trust reason and every timing evidence fact must appear in some step, incl
 Never write internal labels or field names: no "pulls toward", no direction tags in parentheses, no snake_case names, no JSON keys.
 Each step is 1–2 short sentences. No hype, no emoji, no hedging filler.
 
-main_reason — computed by Clarity from the scores: the one signal that contributed most to the verdict (name, its contribution, and its fact). For timing, name is demand (search interest), price (price position), maker (maker stock) or lifecycle (newer model); for a walk-away it is the trust flag that counted most. The headline names this reason and no other. The summary's "why" names it first and quotes its number. Never say another signal outweighs it, drives the verdict, or is the main reason. Say it in plain words from its fact: never write its name or its contribution number. If main_reason is null, name no main reason.
+main_reason — computed by Clarity from the scores: the one signal that contributed most to the verdict (name, its contribution, and its fact). For timing, name is demand (search interest), price (price position), maker (maker stock), lifecycle (newer model) or receipts (defects owners report); for a walk-away it is the trust flag that counted most. The headline names this reason and no other. The summary's "why" names it first and quotes its number. Never say another signal outweighs it, drives the verdict, or is the main reason. Say it in plain words from its fact: never write its name or its contribution number. If main_reason is null, name no main reason.
 
 Tone matches confidence: if the confidence is below 0.60, the headline says it's a close call (e.g. "Buy now — close call: demand is rising"). Never use intensifiers (strongly, notably, significantly, sharply, far below…) unless the number they describe is 20% or more.
 
@@ -37,6 +37,7 @@ What the timing signals mean:
 - Price comparisons: a new listing is compared with new retail; a used/open-box/refurbished listing with other eBay listings in the same condition. Keep the trust reasons' own wording ("below new retail" vs "below the usual price for used units"); never compare a secondhand listing with new retail.
 - Price vs retail median, cheaper retailers: paying above the market today favours waiting or buying elsewhere; at or below market favours buying.
 - Maker stock trend: a weak, supporting signal only. A rising stock suggests the maker has little pressure to cut prices; a falling stock suggests discounts are more plausible. Never call it an endorsement.
+- Owner reports (signal receipts): defects that several independent reviewers or owners report. A small signal that only ever favours waiting (a fix, a revised unit or more owner reports may come). Say who reports it and how many sources, exactly as given; never call it widespread, never give a rate, never say it affects every unit.
 - Retail events (Prime Day, Black Friday, ...) are never in your facts: code adds that context line after you write. Never mention events or sales, and never state or imply a price change or a discount.
 
 - lifecycle: a newer model of this product found in searches and news, with its release status and the dated headlines behind it, or null. If null, never mention newer models or successors. Cite only a headline's title, source and date; never quote or invent anything beyond the headline. Never predict a price drop or its size, and never say the current model will get cheaper ("waiting means you can choose between both models at launch" is fine).
@@ -51,7 +52,7 @@ Return JSON exactly in this shape:
   "headline": "<sentence case, <=10 words: the verdict plus its main reason, e.g. 'Wait — you are paying 24% over market'>",
   "summary": "<2 sentences: the decision and the single most important why. For buy/wait verdicts, state the confidence as a percentage.>"
 }
-Steps: one for the trust check; then, only if photo_and_store_evidence has concerns, one step for them right after it (title like "Photo evidence" or "Shop check"); then, only if trust passed, one for demand trend, one for price position, one for the maker signal (skip the maker step if no maker signal is given), and the lifecycle step as described above (only if lifecycle is not null). Then, only if lifecycle status is "released", ONE final step titled "Also worth knowing" holding that context sentence (code may add a retail-event line to it).
+Steps: one for the trust check; then, only if photo_and_store_evidence has concerns, one step for them right after it (title like "Photo evidence" or "Shop check"); then, only if trust passed, one for demand trend, one for price position, one for the maker signal (skip the maker step if no maker signal is given), the lifecycle step as described above (only if lifecycle is not null), and one "What owners report" step if there is owner-report evidence. Then, only if lifecycle status is "released", ONE final step titled "Also worth knowing" holding that context sentence (code may add a retail-event line to it).
 If trust failed, add one final step explaining that timing was deliberately skipped because a risky listing should not be bought at any price or time. If trust passed, do NOT write any step about skipping — never write a step for something that did not happen.
 A walk-away verdict has no confidence figure; never state one for it.
 If timing.judged is false, there was no demand, price or maker data to judge: write ONE timing step titled "Timing not judged" saying exactly "Nothing found suggests waiting, but we couldn't judge timing for this product" (instead of the demand/price/maker steps), state no confidence figure anywhere, and make the headline "Safe to buy — timing not judged"."""
@@ -142,7 +143,7 @@ def _event_sentence(ev):
     trend = ("there isn't enough past search data around it to compare" if avg is None else
              f"in past years search interest for \"{ev['search_term']}\" {'rose' if avg >= 0 else 'fell'} "
              f"{abs(avg) * 100:.0f}% on average around it")
-    return (f"{ev['name']} starts in {ev['days_away']} days; {trend}. That's context only: it didn't count toward this "
+    return (f"{ev['name']} starts in {ev['days_away']} day{'s' if ev['days_away'] != 1 else ''}; {trend}. That's context only: it didn't count toward this "
             f"verdict, and it says nothing about whether prices will change.")
 
 
@@ -190,6 +191,7 @@ TIMING_NAMES = {
     "price": r"price[sd]?\b|pricing|retail|market|median|cheaper|\$\d",
     "maker": r"maker|shares|(?-i:\b[A-Z]{3,5}\b) stock|stock (?:price|is|has|up|down|ris|rose|fell|fall|gain|climb|surg|jump)",
     "lifecycle": r"newer model|successor|announc|rumou?r|leak",
+    "receipts": r"owners?|reviewers?|known problem|reported by|possible risk",
 }
 TRUST_NAMES = {
     "too_cheap": r"below|cheap|discount|too good|under (?:the )?(?:market|retail|median)",
@@ -207,7 +209,8 @@ TRUST_NAMES = {
 }
 # Short headline phrase per main reason, (buy, wait).
 HEAD = {"demand": ("demand is rising", "demand is falling"), "price": ("price is below market", "price is above market"),
-        "maker": ("maker's stock is rising", "maker's stock is falling"), "lifecycle": (None, "a newer model is {}")}
+        "maker": ("maker's stock is rising", "maker's stock is falling"), "lifecycle": (None, "a newer model is {}"),
+        "receipts": (None, "owners report a known problem")}
 
 
 def _group(name):
@@ -220,11 +223,22 @@ def _named(text, names):
     return sorted((n for n, m in hits.items() if m), key=lambda n: hits[n].start())
 
 
+# Walk-away headline phrase per trust flag ({pct}: the main reason's first percentage). Each names its own flag.
+TRUST_HEAD = {"too_cheap": "price is {pct} below market", "too_expensive": "price is {pct} above market",
+              "unproven_seller": "unproven seller", "no_returns": "no returns accepted", "low_rating": "low seller rating",
+              "sudden_drop": "sudden price drop", "few_reviews": "few reviews", "photo": "photo doesn't show the actual item",
+              "store_complaints": "shoppers complain about this store", "no_web_footprint": "shop has little online presence"}
+
+
 def _headline(result, facts, close_call=False):
-    """Rule-based headline: the verdict plus its main reason (timing), or the plain verdict."""
+    """Rule-based headline: the verdict plus its main reason (timing, or the trust flag for a walk-away), or the plain
+    verdict."""
     v, main = VERDICT_WORDS[result["final_verdict"]], facts.get("main_reason")
     phrase = None
-    if main and main["name"] in HEAD:
+    if main and _group(main["name"]) in TRUST_HEAD:
+        pct = re.search(r"\d+%", main["text"])
+        phrase = TRUST_HEAD[_group(main["name"])].replace("{pct}", pct.group() if pct else "").replace("  ", " ")
+    elif main and main["name"] in HEAD:
         phrase = HEAD[main["name"]][result["final_verdict"] == "wait"]
         if main["name"] == "lifecycle":
             phrase = phrase.format("announced" if facts["lifecycle"]["status"] == "announced" else "rumored")
@@ -240,8 +254,9 @@ def _main_reason_only(out, result, facts):
         return out
     names = TIMING_NAMES if main["name"] in TIMING_NAMES else TRUST_NAMES
     want = _group(main["name"])
-    if any(n != want for n in _named(out["headline"], names)):
-        out["headline"] = _headline(result, facts)
+    named = _named(out["headline"], names)
+    if want not in named or any(n != want for n in named):  # names no reason, or another one
+        out["headline"] = _headline(result, facts, close_call=bool(re.search(r"close call", out["headline"], re.I)))
     first = _named(out["summary"], names)[:1]
     pct = re.search(r"\d+%", main["text"])
     if first != [want] or (pct and pct.group() not in out["summary"]):
@@ -255,8 +270,9 @@ def _main_reason_only(out, result, facts):
 WORD_NUMS = "zero one two three four five six seven eight nine ten eleven twelve".split()
 DIRECTION = {"buy now": "points to buying now", "wait": "points to waiting", "neutral": "doesn't point either way"}
 STEP_TITLE = {"demand": r"demand|interest|search", "price": r"price|retail", "maker": r"maker|stock",
-              "lifecycle": r"model|successor"}
-NEW_STEP = {"demand": "Demand trend", "price": "Price position", "maker": "Maker stock", "lifecycle": "Newer model"}
+              "lifecycle": r"model|successor", "receipts": r"owner|review|known"}
+NEW_STEP = {"demand": "Demand trend", "price": "Price position", "maker": "Maker stock", "lifecycle": "Newer model",
+            "receipts": "What owners report"}
 
 
 def _signature(fact):
@@ -269,13 +285,45 @@ def _signature(fact):
         return rf"\${m[1]}\b"
     if m := re.search(r"\b(\d+) of (\d+)\b", fact):
         return rf"\b{num(m[1])} of {num(m[2])}\b"
+    if m := re.search(r"^(?:Known problem|Possible risk|Reported by owners)[^:]*: (.+?) \(\d+ ", fact):  # owner report
+        return re.escape(m[1])
     return r"not enough|n't (?:judge|enough)|no (?:price|data)|couldn't|wasn't"
 
 
+def _trust_signature(reason):
+    """Regex a narration must match for a trust reason to count as told: its most specific detail (a date, a count like
+    5,558, a percentage, a price), else the words naming its check ("returns", "photo"). None: nothing checkable."""
+    for rx, sig in ((r"\b(\d{4}-\d{2}-\d{2})\b", lambda m: re.escape(m[1])),
+                    (r"\b(\d{1,3}(?:,\d{3})+)\b", lambda m: rf"\b{re.escape(m[1])}\b|\b{m[1].replace(',', '')}\b"),
+                    (r"(\d+)%", lambda m: rf"\b{m[1]} ?%|\b{m[1]} percent"), (r"\$(\d+)", lambda m: rf"\${m[1]}\b")):
+        if m := re.search(rx, reason):
+            return sig(m)
+    return next((rx for rx in TRUST_NAMES.values() if re.search(rx, reason, re.I)), None)
+
+
+def _trust_told(out, result):
+    """Every trust reason must appear in the narration: a missing one is appended to the trust step (a new first step
+    if there is none). The prompt asks for all of them; this catches the model dropping one."""
+    steps = [dict(s) for s in out["steps"]]
+    for reason in result["trust"]["reasons"]:
+        sig = _trust_signature(reason)
+        told = " ".join(s["text"] for s in steps) + " " + out["summary"]
+        if not sig or re.search(sig, re.sub(r"[\u2010-\u2013]", "-", told), re.I):  # the model writes "2026‑09‑24" (U+2011)
+            continue
+        i = next((i for i, s in enumerate(steps) if re.search(r"trust", s["title"], re.I)), None)
+        if i is None:
+            steps.insert(0, {"title": "Trust check", "text": ""})
+            i = 0
+        steps[i]["text"] = f"{steps[i]['text']} {reason[0].upper() + reason[1:].rstrip('.')}.".strip()
+    return {**out, "steps": steps}
+
+
 def _all_facts_told(out, result, facts):
-    """Every scored timing fact, and the newer-model line, must appear in the narration. Each missing one gets its
-    rule-based line appended to its signal's step (or a new step in demand/price/maker order, before "Also worth
-    knowing"). The retail event line is already guaranteed by _event_as_context_only."""
+    """Every trust reason (_trust_told), every scored timing fact, and the newer-model line must appear in the
+    narration. Each missing timing fact gets its rule-based line appended to its signal's step (or a new step in
+    demand/price/maker order, before "Also worth knowing"). The retail event line is already guaranteed by
+    _event_as_context_only."""
+    out = _trust_told(out, result)
     tm = result["timing"]
     if not tm or not tm["judged"]:
         return out
@@ -641,9 +689,13 @@ if __name__ == "__main__":
     assert kept["steps"] == [{"title": ALSO, "text": "Prime Big Deal Days starts in 6 days; interest rose 10% around it."}]
 
     # Main reason is computed, not narrated. Heater, 2026-09-30: demand +0.20 (0.5 x 0.40) > maker +0.15 > price -0.11.
-    heater = {"final_verdict": "buy_now", "confidence": 0.62, "timing": {"judged": True, "evidence": [
+    heater = {"final_verdict": "buy_now", "confidence": 0.62, "trust": {"reasons": [
+        "Price $41.99 is in line with the new-retail median of $38.77 (5 retail prices compared) — no anomaly",
+        "Priced about the same ($41.99) across 80 earlier checks since 2026-09-24", "5,558 reviews on this listing",
+        "Photo checked across 2 search engine(s) (400+ matches) — nothing unusual"]},
+        "timing": {"judged": True, "evidence": [
         {"signal": "demand", "fact": "Search interest up 0% over the last 4 weeks vs the 8 before", "pulls_toward": "neutral"},
-        {"signal": "demand", "fact": "In past years (2 yrs), interest rose 150% over the 8 weeks after this point",
+        {"signal": "demand", "fact": "Over the 8 weeks after this date, search interest rose 150% on average, based on 2 earlier years",
          "pulls_toward": "buy now"},
         {"signal": "price", "fact": "$41.99 is 8% above the retail median of $38.77", "pulls_toward": "wait"},
         {"signal": "price", "fact": "1 of 2 retailers on the product page are cheaper right now", "pulls_toward": "wait"},
@@ -655,8 +707,8 @@ if __name__ == "__main__":
                       "rise in HELE stock suggests it's a good time to purchase."}
     fixed = _main_reason_only(dict(llm), heater, hf)
     assert fixed["headline"] == "Buy now — demand is rising", fixed
-    assert fixed["summary"] == ("Buy now (62% confidence). Main reason: In past years, interest rose 150% over "
-                                "the 8 weeks after this point."), fixed
+    assert fixed["summary"] == ("Buy now (62% confidence). Main reason: Over the 8 weeks after this date, search "
+                                "interest rose 150% on average, based on 2 earlier years."), fixed
     good = {"headline": "Buy now — demand usually rises from here", "steps": [],
             "summary": "Buy now with 62% confidence. In past years search interest rose 150% over the next 8 weeks, "
                        "more than the 8% price premium."}
@@ -664,14 +716,29 @@ if __name__ == "__main__":
     assert _named("HELE stock is up, but demand", TIMING_NAMES) == ["maker", "demand"]
 
     # Dropped facts: the demand step lost the past-year line and there is no maker step -> both restored in place.
+    trust_step = {"title": "Trust check", "text": "Price $41.99 is in line with the median; photo check found nothing unusual."}
     told = _all_facts_told({"headline": "h", "summary": "s", "steps": [
+        trust_step,
         {"title": "Demand trend", "text": "Search interest is flat over the last 4 weeks."},
         {"title": "Price position", "text": "$41.99 is 8% above the median; one of two retailers is cheaper."},
         {"title": ALSO, "text": "x"}]}, heater, hf)["steps"]
-    assert told[0]["text"].endswith("In past years (2 yrs), interest rose 150% over the 8 weeks after this point, "
-                                    "which points to buying now."), told[0]
-    assert [s["title"] for s in told] == ["Demand trend", "Price position", "Maker stock", ALSO]
-    assert told[2]["text"] == "HELE stock up 93% over 6 months, which points to buying now."
+    # the heater's 2026-10-04 regeneration dropped these two trust reasons: restored to the trust step, in order
+    assert told[0]["text"] == trust_step["text"] + " Priced about the same ($41.99) across 80 earlier checks since " \
+        "2026-09-24. 5,558 reviews on this listing.", told[0]
+    assert told[1]["text"].endswith("Over the 8 weeks after this date, search interest rose 150% on average, based on 2 earlier years, "
+                                    "which points to buying now."), told[1]
+    assert [s["title"] for s in told] == ["Trust check", "Demand trend", "Price position", "Maker stock", ALSO]
+    assert told[3]["text"] == "HELE stock up 93% over 6 months, which points to buying now."
+    assert _trust_told({"summary": "", "steps": []}, {"trust": {"reasons": ["Seller accepts no returns"]}})["steps"] == \
+        [{"title": "Trust check", "text": "Seller accepts no returns."}]  # no trust step at all: one is added first
+    assert _trust_told({"summary": "", "steps": [{"title": "Trust check", "text": "Same price since 2026\u201109\u201124."}]},
+                       {"trust": {"reasons": ["Priced about the same across earlier checks since 2026-09-24"]}})["steps"][0]["text"] \
+        == "Same price since 2026\u201109\u201124."  # non-breaking hyphens still count as told
+    # A headline naming no reason gets the rule-based one: the 2026-10-04 walk-aways said only "Walk away".
+    cheap = {"name": "too_cheap", "text": "Price $25.00 is 62% below the usual price for used units — too good to be true"}
+    walk = _main_reason_only({"headline": "Walk away", "summary": "The price is 62% below the usual price.", "steps": []},
+                             {"final_verdict": "walk_away", "confidence": None}, {"main_reason": cheap})
+    assert walk["headline"] == "Walk away — price is 62% below market", walk
 
     # Tone: no intensifier on a 9% gap, kept on 93%; below 60% the headline is a close call.
     assert _calm("The price is notably 9% below market, strongly favouring buying.") == \

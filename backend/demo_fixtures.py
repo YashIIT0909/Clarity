@@ -2,6 +2,7 @@
 judging; the cache TTL is 72h). Costs 0 searches: it only pins what is already cached, or imports a raw response a
 phase0 probe fetched outside the cache. Re-runnable. Run: .venv/bin/python demo_fixtures.py"""
 import json
+from concurrent.futures import Future
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -91,15 +92,19 @@ def pin_demo_runs():
             runs.append((k, resolve_screenshot((Path(__file__).parent / shot["file"]).read_bytes(), shot["price"])[1]))
         for key, product in runs:
             t = trust.run(product)
-            tm = timing.run(product, trust_signals=t["signals"]) if t["verdict"] == "pass" else None
+            tm = r = None
+            if t["verdict"] == "pass":  # receipts first: timing scores them, as in the orchestrator
+                r = receipts.run(*orchestrator._receipts_args(product, t))
+                assert r["status"] in ("found", "none", "unavailable") and not r.get("retry"), f"{key}: receipts {r['status']}"
+                done = Future()
+                done.set_result(r)
+                tm = timing.run(product, trust_signals=t["signals"], owners=done)
             final = orchestrator.VERDICT[tm["verdict"]] if tm else "walk_away"
             story = narrator.run({"query_id": None, "final_verdict": final, "confidence": tm and tm["confidence"],
                                   "trust": t, "timing": tm})
             assert not story.get("fallback"), f"{key}: verdict narration not cached ({story.get('error')})"
             owners = None
             if tm:
-                r = receipts.run(*orchestrator._receipts_args(product, t))
-                assert r["status"] in ("found", "none", "unavailable") and not r.get("retry"), f"{key}: receipts {r['status']}"
                 owners = narrator.owners(r, r.get("name") or product.get("label"))
                 assert r["status"] != "found" or not owners.get("fallback"), f"{key}: owners narration not cached"
             print(f"read {key}: trust {t['verdict']}, {final}, receipts {owners and r['status']}")

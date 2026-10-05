@@ -1,5 +1,5 @@
-"""Timing agent: demand trend + price position + maker signal + lifecycle (successor radar) -> buy/wait with
-confidence. Rule-based, no ML.
+"""Timing agent: demand trend + price position + maker signal + lifecycle (successor radar) + owner receipts -> buy/wait
+with confidence. Rule-based, no ML.
 
 Each signal scores in [-1, 1]: positive = buy now, negative = wait. Weighted sum decides the verdict;
 its magnitude sets the confidence.
@@ -18,7 +18,13 @@ from serpapi import search
 # lifecycle only ever pushes toward wait (score in [-1, 0]); it is added on top, so at 0 every other score is unchanged.
 # 0.25: an announcement due within 30 days (-1.0) moves a borderline product to wait, but can't outweigh a strongly
 # positive price alone (+1.0 x 0.45). Signed off 2026-09-30 (open decision #11): properties in test_lifecycle_weights.py.
-WEIGHTS = {"demand": 0.40, "price": 0.45, "maker": 0.15, "lifecycle": 0.25}
+# receipts, like lifecycle, only pushes toward wait (score in [-1, 0]). 0.10: corroborated defects owners report flip
+# only a buy at 55% confidence or less, and never a strongly positive price. Signed off 2026-10-04:
+# properties in test_receipts_weight.py.
+WEIGHTS = {"demand": 0.40, "price": 0.45, "maker": 0.15, "lifecycle": 0.25, "receipts": 0.10}
+# Per counted card. Criticisms (design, price) and praise are permanent traits, not a reason to wait: 0.
+RECEIPTS_SCORE = {"problem": 1.0, "concern": 0.5, "forum": 0.5}
+RECEIPTS_WAIT = 8  # s. Cache-only receipts: a miss returns in ~0.2 s, a full cached replay in 3-5 s (22 cache reads)
 NOT_JUDGED = "Nothing found suggests waiting, but we couldn't judge timing for this product"
 SEASON_AHEAD_WEEKS = 8
 MIN_SEASON_BASE = 5          # a past year counts only if its average interest is >= this (product existed)
@@ -65,8 +71,9 @@ def _demand(t, query, category, today):
                 pull(momentum, 0.05))]
     if seasonal is not None:
         reasons.append((
-            f"In past years ({len(ahead)} yrs), interest {'rose' if seasonal >= 1 else 'fell'} {abs(seasonal - 1) * 100:.0f}% "
-            f"over the {SEASON_AHEAD_WEEKS} weeks after this point",
+            # One average over N earlier years, never a span: "(2 yrs)" was narrated as "in the past two years".
+            f"Over the {SEASON_AHEAD_WEEKS} weeks after this date, search interest {'rose' if seasonal >= 1 else 'fell'} "
+            f"{abs(seasonal - 1) * 100:.0f}% on average, based on {len(ahead)} earlier year{'s' if len(ahead) != 1 else ''}",
             pull(seasonal - 1, 0.05),
         ))
     event_reasons, event = _event(t, query, category, today)
@@ -96,12 +103,12 @@ def _event(t, query, category, today):
             changes[d.year] = round(statistics.mean(around) / statistics.mean(before) - 1, 3)
     signals = {"name": name, "days_away": days, "interest_change_by_year": changes}
     if not changes:
-        return [(f"{name} starts in {days} days; not enough past search data around it to compare; context only, not scored",
+        return [(f"{name} starts in {days} day{'s' if days != 1 else ''}; not enough past search data around it to compare; context only, not scored",
                  "neutral")], signals
     avg = statistics.mean(changes.values())
     years = ", ".join(f"{y} {c * 100:+.0f}%" for y, c in changes.items())
     return [(
-        f"{name} starts in {days} days; in past years search interest for \"{query}\" "
+        f"{name} starts in {days} day{'s' if days != 1 else ''}; in past years search interest for \"{query}\" "
         f"{'rose' if avg >= 0 else 'fell'} {abs(avg) * 100:.0f}% on average in the two weeks around it "
         f"vs the 4 weeks before ({years}); context only, not scored",
         "neutral",
@@ -217,13 +224,35 @@ def _lifecycle(product, today, emit=None):
     return done(s, [(reason, "wait" if s < 0 else "neutral")] if reason else [], signals, top)
 
 
+def _receipts(owners):
+    """What owners say, as a wait-only signal. owners: the cache-only receipts.run future (started before timing), or
+    None. Counts only corroborated defects: a known problem (2+ independent sources report it) -1.0, a known concern
+    (2+ sources, hedged) or a forum-reported issue (3+ threads) -0.5; capped at -1. Anything else (none, unavailable,
+    on request, a timeout, praise or criticism only) is 0: missing data is never a signal."""
+    try:
+        r = owners.result(timeout=RECEIPTS_WAIT) if owners else None
+    except Exception:  # noqa: BLE001 — a timeout (or any failure) is absence, never a penalty
+        return 0.0, [], {"status": "timed out"}
+    if not r or r.get("status") != "found":
+        return 0.0, [], {"status": r and r.get("status")}
+    counted = [(c["type"], c) for c in r["known_issues"] if c["type"] in RECEIPTS_SCORE] + \
+              [("forum", c) for c in r["forum_reported"]]
+    text = {"problem": lambda c: f"Known problem from owners and reviewers: {c['label_display']} ({c['source_count']} independent sources report it)",
+            "concern": lambda c: f"Possible risk raised by reviewers: {c['label_display']} ({c['source_count']} independent sources)",
+            "forum": lambda c: f"Reported by owners in forums: {c['label_display']} ({c['thread_count']} threads)"}
+    score = -min(1.0, sum(RECEIPTS_SCORE[k] for k, _ in counted))
+    return score, [(text[k](c), "wait") for k, c in counted], {
+        "status": "found", "counted": [{"type": k, "label": c["label_display"]} for k, c in counted]}
+
+
 def main_reason(parts, verdict):
     """The component pushing hardest toward the verdict (weight x score), as a fact for the narrator: {name,
     contribution, text}. A newer model that decided the verdict is the main reason by definition. None when nothing
-    pushes toward the verdict (timing not judged, or a 0.0 tie)."""
+    pushes toward the verdict (timing not judged, or a 0.0 tie). Owner receipts that decided it, likewise (newer model first)."""
     toward = 1 if verdict == "buy" else -1
     contrib = {k: WEIGHTS[k] * parts[k][0] for k in parts}
-    k = "lifecycle" if parts["lifecycle"][2].get("decided_verdict") else max(contrib, key=lambda k: toward * contrib[k])
+    k = next((k for k in ("lifecycle", "receipts") if k in parts and parts[k][2].get("decided_verdict")), None) or \
+        max(contrib, key=lambda k: toward * contrib[k])
     if toward * contrib[k] <= 0:
         return None
     lines = parts[k][1]
@@ -231,9 +260,10 @@ def main_reason(parts, verdict):
     return {"name": k, "contribution": round(contrib[k], 3), "text": text}
 
 
-def run(product: dict, trust_signals: dict | None = None, emit=None) -> dict:
+def run(product: dict, trust_signals: dict | None = None, emit=None, owners=None) -> dict:
     """product: demo-product dict. trust_signals: reuse trust agent's listing/market (else re-fetched, cached).
-    emit(event): live lifecycle progress (the orchestrator streams it as {"stage": "lifecycle", ...})."""
+    emit(event): live lifecycle progress (the orchestrator streams it as {"stage": "lifecycle", ...}).
+    owners: the cache-only receipts.run future, read last (it ran beside the other parts); None -> receipts score 0."""
     if trust_signals is None:
         trust_signals = trust.run(product)["signals"]
     listing, market = trust_signals["listing"], trust_signals["market"]
@@ -247,13 +277,14 @@ def run(product: dict, trust_signals: dict | None = None, emit=None) -> dict:
         "price": _price(listing, market),
         "maker": _maker(product.get("brand")),  # no brand or no ticker -> neutral
         "lifecycle": _lifecycle(product, date.today(), emit),
+        "receipts": _receipts(owners),
     }
     total = sum(WEIGHTS[k] * parts[k][0] for k in parts)
     # A component is judged when it had data to score (its signals carry the measured value).
     judged = {"demand": "momentum" in parts["demand"][2], "price": "position_vs_median" in parts["price"][2],
               "maker": "six_month_change" in parts["maker"][2],
               # released / none / stale is context, not evidence either way: counts only when it pushes
-              "lifecycle": parts["lifecycle"][0] != 0}
+              "lifecycle": parts["lifecycle"][0] != 0, "receipts": parts["receipts"][0] != 0}
     reasons = [text for k in parts for text, _ in parts[k][1]]
     if not any(judged.values()):
         # Nothing to judge is not a tie: 0.0 must not become WAIT. Trust passed and nothing suggests waiting -> buy,
@@ -264,8 +295,9 @@ def run(product: dict, trust_signals: dict | None = None, emit=None) -> dict:
         verdict = "buy" if total > 0 else "wait"
         confidence = round(0.5 + min(abs(total), 0.9) / 2, 2)  # 0.50 .. 0.95
 
-    # Lifecycle decided the verdict when the other signals alone say buy and it tips the total to wait.
-    parts["lifecycle"][2]["decided_verdict"] = verdict == "wait" and total - WEIGHTS["lifecycle"] * parts["lifecycle"][0] > 0
+    # Lifecycle (or receipts) decided the verdict when the other signals alone say buy and it tips the total to wait.
+    for k in ("lifecycle", "receipts"):
+        parts[k][2]["decided_verdict"] = verdict == "wait" and total - WEIGHTS[k] * parts[k][0] > 0
 
     return {
         "verdict": verdict,

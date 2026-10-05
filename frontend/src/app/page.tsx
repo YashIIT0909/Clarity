@@ -455,7 +455,8 @@ export default function Home() {
         <VerdictCard final={final} busy={busy} />
       </section>
 
-      {/* The chain's final section, after the verdict: context only, never part of it. */}
+      {/* The chain's final section, shown after the verdict. Timing already scored its confirmed defects (wait-only, weight 0.10);
+          an on-request live run comes later and never re-scores the verdict. */}
       {receipts && final?.final_verdict && <OwnerReceipts r={receipts} onRequest={requestReceipts} />}
     </main>
   );

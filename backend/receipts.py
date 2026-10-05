@@ -1,5 +1,7 @@
 """Owner Receipts: what independent reviewers and owners say about this product, with receipts (video timestamps,
-thread links). Context only: weight 0, never moves a verdict. No SerpApi calls here: callers pass the responses.
+thread links). Feeds timing as a small wait-only signal (timing._receipts, weight 0.10): only corroborated defects
+(known problems, known concerns, forum-reported issues) count; praise, criticism, single sources and missing data score 0.
+Never touches trust. No SerpApi calls here: callers pass the responses.
 
 1. review_target: what a video title must name. Generation products (Sony WH-1000XM5, Nintendo Switch 2) reuse
    lifecycle.parse_model: brand + family + exactly this identifier. Model-code products (Honeywell HHF360V) match
@@ -52,6 +54,17 @@ class NotCached(Abort):
 
 
 CACHE_ONLY = contextvars.ContextVar("receipts_cache_only", default=False)
+
+
+def _each(fn, items):
+    """[fn(x) for x in items], in order. Live: sequential (Groq's free tier, 8k tokens/min). Cache-only: every call is a
+    cache read, so in parallel (a demo replay is ~22 reads). Each thread runs in a copy of this context (CACHE_ONLY)."""
+    items = list(items)
+    if not CACHE_ONLY.get() or len(items) < 2:
+        return [fn(x) for x in items]
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(len(items)) as pool:
+        return list(pool.map(lambda c, x: c.run(fn, x), [contextvars.copy_context() for _ in items], items))
 
 COMPARISON = re.compile(r"\b(vs\.?|versus|compared|comparison)\b", re.I)
 UNBOXING = re.compile(r"\b(unboxing|unbox|first look|hands[- ]on)\b", re.I)
@@ -524,8 +537,8 @@ def extract_points(video, transcript, name=None, llm=_groq):
         size += len(s["snippet"])
     llm = _with_cache(llm, "groq_receipts_points", video_id=video["video_id"])
     try:
-        raw = [p for c in chunks
-               for p in llm(POINTS_PROMPT.format(name=name or video.get("title")), "\n".join(c)).get("points") or []]
+        raw = [p for r in _each(lambda c: llm(POINTS_PROMPT.format(name=name or video.get("title")), "\n".join(c)), chunks)
+               for p in r.get("points") or []]
     except Abort:
         raise
     except Exception as e:  # noqa: BLE001 — no points beats a crash
@@ -675,9 +688,8 @@ def verify_groups(groups, transcripts, name, llm=_groq, min_sources=2, model=Non
     transcripts: {video_id: youtube_video_transcript response}."""
     for g in groups:
         g["known"], g["forum_known"], g["left_group"] = False, False, []
-        if not (_is_known(g, min_sources) or _forum_known(g)):
-            continue
-        res = verify_group(name, g, transcripts, llm=llm, model=model)
+    todo = [g for g in groups if _is_known(g, min_sources) or _forum_known(g)]
+    for g, res in zip(todo, _each(lambda g: verify_group(name, g, transcripts, llm=llm, model=model), todo)):
         keep = [p for i, p in enumerate(g["points"]) if res[f"v{i}"][0]]
         fkeep = [f for i, f in enumerate(g.get("forums") or []) if res[f"t{i}"][0]]
         g["left_group"] = [{**p, "why": res[f"v{i}"][1]} for i, p in enumerate(g["points"]) if not res[f"v{i}"][0]] + \
@@ -897,7 +909,8 @@ def summarize_receipts(product, video_points, forum_threads, marketplace_reviews
     """product: demo/resolved product (brand, label). video_points: points_for_video results (one per picked video).
     forum_threads: the google_forums response(s). marketplace_reviews: the amazon_product response (or None).
     transcripts: {video_id: transcript response} for the verifier pass. Returns {status, why?, known_issues,
-    known_praise, forum_reported, mentioned_once, forum_only, mismatch, audit}. Context only: weight 0.
+    known_praise, forum_reported, mentioned_once, forum_only, mismatch, audit}. timing._receipts scores known_issues
+    (problem / concern) and forum_reported; the rest is context only.
     Forum sources carry title, site, date and link only: snippets are used inside mapping/verifier calls, never kept."""
     import domains
     target = review_target(product, listing_title)
@@ -1015,7 +1028,7 @@ def _forums(base):
 
 
 def run(product, listing, amazon=None, emit=lambda e: None, live=False):
-    """The "What owners say" step. Context only, weight 0: reads nothing from timing, feeds nothing back.
+    """The "What owners say" step. Reads nothing from timing; timing reads its result (timing._receipts, wait-only).
     listing: trust's listing (title, ...). amazon: the cached amazon_product response (review insights), or None.
     live=False (the pipeline's automatic run) reads caches only; anything missing gives status "on_request" and the
     user can ask for a live run (live=True, about 2-3 min on Groq's free tier). Any engine error or timeout makes that
@@ -1081,13 +1094,12 @@ def _run(product, listing, amazon, emit):
         transcripts = {vid: f.result() for vid, f in tr_f.items()}
         forums = forums_f.result()
     features = listing_features(amazon, listing)
-    video_points = []
-    for v in sel["picked"]:  # sequential: the free tier's 8k tokens/min can't take parallel extraction
-        tr = transcripts.get(v["video_id"])
-        if tr and (tr.get("transcript") or []):
-            vp = points_for_video(target, v, tr, features)
-            video_points.append(vp)
-            emit({"type": "points", "video_id": v["video_id"], "points": vp["points"]})
+    # live: sequential (the free tier's 8k tokens/min can't take parallel extraction); cache-only: parallel reads
+    def points(v):
+        vp = points_for_video(target, v, transcripts[v["video_id"]], features)
+        emit({"type": "points", "video_id": v["video_id"], "points": vp["points"]})  # live: as each video finishes
+        return vp
+    video_points = _each(points, [v for v in sel["picked"] if (transcripts.get(v["video_id"]) or {}).get("transcript")])
     out = summarize_receipts(product, video_points, forums or [], amazon, transcripts, listing_title=title)
     missing = [e for e, s in engines.items() if s != "ok"]
     if out["status"] == "unavailable":

@@ -20,11 +20,15 @@ def _hash(engine, params):
 def cached(engine: str, cache_key: dict | None = None, **params) -> dict | None:
     """The cached response if fresh (or pinned), else None. Never fetches."""
     cutoff = (datetime.now(timezone.utc) - TTL).strftime("%Y-%m-%dT%H:%M:%SZ")
-    hit = (
+    read = lambda: (
         db.table("serpapi_cache").select("response_json, fetched_at")
         .eq("engine", engine).eq("query_params_hash", _hash(engine, cache_key or params))
         .or_(f"fetched_at.gte.{cutoff},pinned.is.true").limit(1).execute().data
     )
+    try:
+        hit = read()
+    except httpx.TransportError:  # Supabase ending the shared HTTP/2 connection fails every read in flight: retry once
+        hit = read()
     return hit and {**hit[0]["response_json"], "_fetched_at": hit[0]["fetched_at"]}
 
 
