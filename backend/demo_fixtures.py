@@ -22,6 +22,7 @@ IMAGES_TO_SAVE = {"airpods-openbox": PROBE / "287595183543.jpg"}
 # Successor radar (lifecycle) probe, 2026-09-30: same US-locale calls timing makes. The heater has no model identifier
 # ("space heater"), so it makes no lifecycle calls.
 LIFECYCLE_PROBE = Path(__file__).parent.parent / "phase0" / "successor_probe" / "out"
+GATE_SCREENS = Path(__file__).parent.parent / "phase0" / "photo_probe" / "screens"  # test_gate.py's synthetic ads
 LIFECYCLE_FILES = {"trends": "trends_rising", "autocomplete": "google_autocomplete", "news": "google_news"}
 
 
@@ -108,6 +109,16 @@ def pin_demo_runs():
                 owners = narrator.owners(r, r.get("name") or product.get("label"))
                 assert r["status"] != "found" or not owners.get("fallback"), f"{key}: owners narration not cached"
             print(f"read {key}: trust {t['verdict']}, {final}, receipts {owners and r['status']}")
+        # test_gate's generation-less screenshot: its Lens, market and photo-check lookups must never go live again (4 searches)
+        from resolve import ResolveError
+        try:  # resolved -> test_gate also runs trust (photo forensics) and narrates the walk-away: pin those too
+            vague = resolve_screenshot((GATE_SCREENS / "ad_airpods_49.png").read_bytes(), 49.0)[1]
+            t = trust.run(vague)
+            story = narrator.run({"query_id": None, "final_verdict": "walk_away", "confidence": None, "trust": t, "timing": None})
+            assert t["verdict"] == "fail" and not story.get("fallback"), "test_gate ad_airpods_49: not a cached walk-away"
+            print("read test_gate ad_airpods_49: resolved, trust fail, walk_away")
+        except ResolveError:
+            print("read test_gate ad_airpods_49: clean stop (too general to price-check)")
     finally:
         serpapi.cached, serpapi.httpx.get, httpx_module.post = real_cached, real_get, real_post
         orchestrator.cached = real_cached

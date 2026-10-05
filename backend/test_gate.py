@@ -70,12 +70,18 @@ if __name__ == "__main__":
     assert fail["timing_agent_calls"] == 0 and fail["timing_results_rows"] == 0 and not fail["timing_in_response"]
     assert not {"google_trends", "google_finance"} & set(fail["serpapi_engines_hit"]), "timing data was fetched"
 
-    # A screenshot too general to price-check stops before trust with a clean message: no verdict at all.
+    # A generation-less "AirPods Pro" ad at $49 must never get past the gate: a clean stop before trust, or a walk-away
+    # with timing never run, whichever the market data allows.
+    # Was: always a clean "too general" stop; superseded by live market data (retail listings since 2026-10), follow-up: option B.
     try:
-        resolve_screenshot((SCREENS / "ad_airpods_49.png").read_bytes(), 49.0)
-        raise AssertionError("'AirPods Pro' at $49 should not have produced a product to judge")
+        _, vague = resolve_screenshot((SCREENS / "ad_airpods_49.png").read_bytes(), 49.0)
     except ResolveError as e:
         print(f"\nUNPRICEABLE SCREENSHOT (clean stop, no verdict): {e}")
+    else:
+        fail = check("screenshot:ad_airpods_49", vague)
+        print("\nGENERATION-LESS SCREENSHOT (priced, stopped at trust):\n" + json.dumps(fail, indent=2))
+        assert fail["trust_verdict"] == "fail" and fail["final_verdict"] == "walk_away"
+        assert fail["timing_agent_calls"] == 0 and fail["timing_results_rows"] == 0 and not fail["timing_in_response"]
 
     control = check("sony-xm5")
     print("\nCONTROL (passing product, proves the tripwire fires):\n" + json.dumps(control, indent=2))
