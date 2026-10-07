@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import {
   ArrowRight,
   CheckCircle2,
@@ -17,15 +17,8 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import {
-  boardReasons,
-  EvidenceBoard,
-  isPhotoSummary,
-  reduceForensics,
-  type Forensics,
-  type ForensicsEvent,
-} from "@/components/evidence-board";
-import { isLifecycleReason, reduceLifecycle, SuccessorRadar, type Lifecycle, type LifecycleEvent } from "@/components/successor-radar";
+import { EvidenceBoard, isBoardCalm, reduceForensics, type Forensics, type ForensicsEvent } from "@/components/evidence-board";
+import { hasSuccessor, reduceLifecycle, SuccessorRadar, type Lifecycle, type LifecycleEvent } from "@/components/successor-radar";
 import {
   failLiveRun,
   OwnerReceipts,
@@ -34,6 +27,7 @@ import {
   type Receipts,
   type ReceiptsEvent,
 } from "@/components/owner-receipts";
+import { DecisionCharts, VerdictGauge, type DecisionResult } from "@/components/decision-charts";
 import { compressForUpload, IMAGE_TYPES, MAX_UPLOAD_BYTES } from "@/lib/image";
 import { cn } from "@/lib/utils";
 
@@ -69,6 +63,7 @@ type Evt = {
   headline?: string;
   summary?: string;
   steps?: { title: string; text: string }[];
+  result?: DecisionResult; // the "done" event: full trust/timing signals
 };
 type Node = { status: "pending" | "running" | "done" | "skipped"; data?: Evt };
 type Demo = { key: string; label: string; url: string };
@@ -79,11 +74,10 @@ const CHAIN: { stage: Stage; title: string; icon: typeof ShieldCheck }[] = [
   { stage: "trust", title: "Trust check", icon: ShieldCheck },
   { stage: "gate", title: "Gate", icon: ArrowRight },
   { stage: "timing", title: "Timing check", icon: TrendingUp },
-  { stage: "narrator", title: "Compose verdict", icon: Timer },
 ];
 
 const emptyChain = () =>
-  Object.fromEntries(CHAIN.map((c) => [c.stage, { status: "pending" }])) as Record<Stage, Node>;
+  Object.fromEntries([...CHAIN.map((c) => c.stage), "narrator"].map((s) => [s, { status: "pending" }])) as Record<Stage, Node>;
 
 const VERDICT_STYLE: Record<Verdict, { label: string; icon: typeof ShieldCheck; card: string; accent: string }> = {
   walk_away: {
@@ -116,6 +110,7 @@ export default function Home() {
   const [forensics, setForensics] = useState<Forensics | null>(null);
   const [radar, setRadar] = useState<Lifecycle | null>(null);
   const [receipts, setReceipts] = useState<Receipts | null>(null);
+  const [result, setResult] = useState<DecisionResult | null>(null);
   const [picked, setPicked] = useState<Picked | null>(null);
   const [price, setPrice] = useState("");
   const [dragging, setDragging] = useState(false);
@@ -152,6 +147,7 @@ export default function Home() {
     }
     if (e.stage === "done") {
       setBusy(false);
+      if (e.result) setResult(e.result);
       return;
     }
     if (e.stage === "verdict") {
@@ -210,6 +206,7 @@ export default function Home() {
     setForensics(null);
     setRadar(null);
     setReceipts(null);
+    setResult(null);
     setBusy(true);
   }
 
@@ -450,10 +447,14 @@ export default function Home() {
         </div>
       )}
 
-      <section className="grid gap-6 md:grid-cols-[1fr_1.1fr]">
-        <ReasoningChain chain={chain} forensics={forensics} radar={radar} busy={busy} />
-        <VerdictCard final={final} busy={busy} />
+      <section className="grid items-start gap-6 md:grid-cols-[1fr_1.1fr]">
+        <ReasoningChain chain={chain} forensics={forensics} radar={radar} result={result} busy={busy} />
+        <VerdictCard final={final} result={result} busy={busy} />
       </section>
+
+      {result && final?.final_verdict && (
+        <DecisionCharts r={result} successor={radar && hasSuccessor(radar) ? <SuccessorRadar l={radar} running={busy} bare /> : undefined} />
+      )}
 
       {/* The chain's final section, shown after the verdict. Timing already scored its confirmed defects (wait-only, weight 0.10);
           an on-request live run comes later and never re-scores the verdict. */}
@@ -466,11 +467,13 @@ function ReasoningChain({
   chain,
   forensics,
   radar,
+  result,
   busy,
 }: {
   chain: Record<Stage, Node>;
   forensics: Forensics | null;
   radar: Lifecycle | null;
+  result: DecisionResult | null;
   busy: boolean;
 }) {
   return (
@@ -519,14 +522,9 @@ function ReasoningChain({
                   <span className="font-medium">{title}</span>
                   <StageTag stage={stage} node={node} />
                 </div>
-                <StageBody
-                  stage={stage}
-                  node={node}
-                  hide={stage === "trust" && forensics ? boardReasons(forensics) : undefined}
-                  hideIf={stage === "timing" && radar ? isLifecycleReason : undefined}
-                />
-                {stage === "trust" && forensics && node.status !== "pending" && <EvidenceBoard f={forensics} running={busy} />}
-                {stage === "timing" && radar && node.status !== "pending" && node.status !== "skipped" && (
+                <StageBody stage={stage} node={node} result={result} />
+                {stage === "trust" && forensics && node.status !== "pending" && !(result && isBoardCalm(forensics)) && <EvidenceBoard f={forensics} running={busy} />}
+                {stage === "timing" && radar && node.status !== "pending" && node.status !== "skipped" && !(result && hasSuccessor(radar)) && (
                   <SuccessorRadar l={radar} running={busy} />
                 )}
               </div>
@@ -558,15 +556,14 @@ function StageTag({ stage, node }: { stage: Stage; node: Node }) {
   if (stage === "trust") return d.verdict === "pass" ? tag("passed", "green") : tag("risk detected", "red");
   if (stage === "gate") return d.decision === "stop" ? tag("stopped", "red") : tag("open", "green");
   if (stage === "timing" && d.judged === false) return tag("safe to buy · timing not judged", "green");
-  if (stage === "timing")
-    return tag(`${d.verdict === "buy" ? "buy now" : "wait"} · ${Math.round((d.confidence ?? 0) * 100)}%`, d.verdict === "buy" ? "green" : "amber");
+  if (stage === "timing") return tag(d.verdict === "buy" ? "buy now" : "wait", d.verdict === "buy" ? "green" : "amber");
   return null;
 }
 
-function StageBody({ stage, node, hide, hideIf }: { stage: Stage; node: Node; hide?: Set<string>; hideIf?: (r: string) => boolean }) {
+/** One line per step: status and its key number, linking to the chart that shows the evidence. */
+function StageBody({ stage, node, result }: { stage: Stage; node: Node; result: DecisionResult | null }) {
   const d = node.data;
-  if (node.status === "skipped")
-    return <p className="text-sm text-muted-foreground">Not run. A risky listing isn’t worth buying at any price or time.</p>;
+  if (node.status === "skipped") return null;
   if (!d) return null;
   if (node.status === "running") return <p className="text-sm text-muted-foreground">{d.message}</p>;
   if (stage === "resolve" && d.marketplace === "screenshot")
@@ -586,21 +583,28 @@ function StageBody({ stage, node, hide, hideIf }: { stage: Stage; node: Node; hi
         {d.label} · {d.marketplace === "ebay" ? "eBay" : "Amazon"} {d.listing_id}
       </p>
     );
-  if (stage === "gate") return <p className="text-sm">{d.message}</p>;
-  if (stage === "narrator") return <p className="text-sm text-muted-foreground">Verdict written from the signals above.</p>;
-  return (
-    <ul className="flex flex-col gap-1 text-sm text-muted-foreground">
-      {(d.reasons ?? []).filter((r) => !(hide && (hide.has(r) || isPhotoSummary(r))) && !hideIf?.(r)).map((r) => (
-        <li key={r} className="flex gap-2">
-          <span aria-hidden>·</span>
-          <span>{r}</span>
-        </li>
-      ))}
-    </ul>
+  const link = (href: string, text: ReactNode) => (
+    <a href={href} className="text-sm text-muted-foreground underline decoration-foreground/20 underline-offset-2 hover:text-foreground">
+      {text}
+    </a>
   );
+  if (stage === "trust" && result) {
+    const t = result.trust.signals;
+    const n = t.penalties.length;
+    return link("#trust-checks", n ? `${n} check${n > 1 ? "s" : ""} failed · see checks ↓` : "See checks ↓");
+  }
+  if (stage === "timing" && result?.timing?.judged)
+    return link("#timing", "See what drives it ↓");
+  return null;
 }
 
-function VerdictCard({ final, busy }: { final: Evt | null; busy: boolean }) {
+/** "Buy now — $298 is 9% below…" -> "$298 is 9% below…": the card's title already says the verdict. */
+function reasonOnly(headline: string) {
+  const rest = headline.replace(/^(buy now|wait|walk away|safe to buy)\s*[—–:-]\s*/i, "");
+  return rest.charAt(0).toUpperCase() + rest.slice(1);
+}
+
+function VerdictCard({ final, result, busy }: { final: Evt | null; result: DecisionResult | null; busy: boolean }) {
   if (!final?.final_verdict)
     return (
       <div className="flex min-h-64 items-center justify-center rounded-xl border border-dashed p-6 text-center text-sm text-muted-foreground">
@@ -612,15 +616,20 @@ function VerdictCard({ final, busy }: { final: Evt | null; busy: boolean }) {
   const Icon = v.icon;
   return (
     <div className={cn("flex flex-col gap-5 rounded-xl border p-6 animate-in fade-in zoom-in-95", v.card)}>
-      <div className="flex items-start justify-between gap-4">
+      <div className="flex flex-wrap items-start justify-between gap-4">
         <div className="flex flex-col gap-1">
           <div data-testid="verdict" className={cn("flex items-center gap-2 text-3xl font-semibold tracking-tight", v.accent)}>
             <Icon className="size-7" />
             {final.timing_judged === false ? "Safe to buy — timing not judged" : v.label}
           </div>
-          {final.headline && <p className="text-base">{final.headline}</p>}
+          {final.headline && <p className="text-base">{reasonOnly(final.headline)}</p>}
         </div>
-        {final.confidence != null && (
+        {result && (result.final_verdict === "walk_away" || result.timing?.judged) ? (
+          <div className="flex shrink-0 flex-col items-center">
+            <VerdictGauge r={result} />
+            <span className="text-xs text-muted-foreground">{result.final_verdict === "walk_away" ? "trust score" : "confidence"}</span>
+          </div>
+        ) : final.confidence != null && (
           <div className="flex shrink-0 flex-col items-end">
             <span className={cn("text-2xl font-semibold tabular-nums", v.accent)}>
               {Math.round(final.confidence * 100)}%
@@ -630,25 +639,6 @@ function VerdictCard({ final, busy }: { final: Evt | null; busy: boolean }) {
         )}
       </div>
 
-      {final.summary && <p className="text-sm leading-relaxed">{final.summary}</p>}
-
-      {final.steps && final.steps.length > 0 && (
-        <div className="flex flex-col gap-3">
-          <h3 className="text-sm font-medium uppercase tracking-wide text-muted-foreground">Why</h3>
-          <ol className="flex flex-col gap-3">
-            {final.steps.map((s, i) => (
-              <li key={i} className="flex gap-3 text-sm">
-                <span className="flex size-5 shrink-0 items-center justify-center rounded-full bg-foreground/10 text-xs font-medium tabular-nums">
-                  {i + 1}
-                </span>
-                <div>
-                  <span className="font-medium">{s.title}.</span> <span className="text-muted-foreground">{s.text}</span>
-                </div>
-              </li>
-            ))}
-          </ol>
-        </div>
-      )}
     </div>
   );
 }

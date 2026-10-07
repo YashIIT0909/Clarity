@@ -45,7 +45,11 @@ const TRACK = ["rumored", "announced", "released"] as const;
 const day = (iso: string | null | undefined) =>
   iso ? new Date(iso.length === 10 ? `${iso}T12:00:00Z` : iso).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }) : null;
 
-export function SuccessorRadar({ l, running }: { l: Lifecycle; running: boolean }) {
+/** A newer model was found (the full card, not a one-line "none"/"unavailable"). */
+export const hasSuccessor = (l: Lifecycle | null) => !!l?.status && l.status.status !== "none" && l.status.status !== "unavailable";
+
+/** bare: drawn inside an evidence card, so no border or padding of its own. */
+export function SuccessorRadar({ l, running, bare }: { l: Lifecycle; running: boolean; bare?: boolean }) {
   const s = l.status;
   const engines = Object.entries(l.engines);
   const down = engines.filter(([, e]) => e.status === "unavailable");
@@ -78,8 +82,9 @@ export function SuccessorRadar({ l, running }: { l: Lifecycle; running: boolean 
     <div
       data-testid="successor-radar"
       className={cn(
-        "mt-2 flex min-w-0 flex-col gap-3 rounded-lg border p-3 animate-in fade-in",
-        current === "announced" ? "border-amber-500/40 bg-amber-500/[0.03]" : "bg-muted/30",
+        "flex min-w-0 flex-col gap-3 animate-in fade-in",
+        !bare && "mt-2 rounded-lg border p-3",
+        !bare && (current === "announced" ? "border-amber-500/40 bg-amber-500/[0.03]" : "bg-muted/30"),
       )}
     >
       <EngineStrip engines={engines} running={running && !s} />
@@ -87,7 +92,7 @@ export function SuccessorRadar({ l, running }: { l: Lifecycle; running: boolean 
       {top ? (
         <div className="flex min-w-0 flex-col gap-2">
           <div className="flex min-w-0 flex-wrap items-baseline gap-x-2 gap-y-1">
-            <span className="text-xs uppercase tracking-wide text-muted-foreground">Newer model</span>
+            {!bare && <span className="text-xs uppercase tracking-wide text-muted-foreground">Newer model</span>}
             <span data-testid="radar-model" className="min-w-0 break-words text-xl font-semibold tracking-tight">
               {top.name}
             </span>
@@ -186,7 +191,6 @@ function StatusTrack({ current, tone, date, window, stale }: { current?: string;
 }
 
 function EngineStrip({ engines, running }: { engines: [string, EngineState][]; running: boolean }) {
-  const done = engines.filter(([, s]) => s.status === "done");
   return (
     <div className="flex flex-wrap items-center gap-x-3 gap-y-1.5 text-xs">
       {engines.map(([name, s]) => (
@@ -210,11 +214,8 @@ function EngineStrip({ engines, running }: { engines: [string, EngineState][]; r
         </span>
       ))}
       <span className="ml-auto tabular-nums text-muted-foreground">
-        {running ? "checking for a newer model…" : `${done.length} of ${engines.length} sources`}
+        {running && "checking for a newer model…"}
       </span>
     </div>
   );
 }
-
-/** Timing reasons the card already shows: hidden from the list. */
-export const isLifecycleReason = (r: string) => r.startsWith("A newer model, ");

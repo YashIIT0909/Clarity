@@ -102,6 +102,10 @@ const SIGNAL_TITLE: Record<string, string> = {
   no_web_footprint: "Shop has almost no web presence",
 };
 
+/** Nothing flagged: the board would only restate the photo rows in Trust checks. */
+export const isBoardCalm = (f: Forensics) =>
+  f.signals !== undefined && !f.store && !f.signals.some((s) => s.status === "fired");
+
 export function EvidenceBoard({ f, running }: { f: Forensics; running: boolean }) {
   const engines = Object.entries(f.engines);
   const used = engines.filter(([, s]) => s.status === "done");
@@ -323,10 +327,3 @@ function StoreCard({ store }: { store: NonNullable<Forensics["store"]> }) {
     </div>
   );
 }
-
-/** Trust reasons the board already shows (photo summary line, fired photo/store findings): hidden from the list. */
-export function boardReasons(f: Forensics | null): Set<string> {
-  const fired = [...(f?.signals ?? []), ...(f?.store?.signals ?? [])].filter((s) => s.status === "fired");
-  return new Set(fired.map((s) => s.reason));
-}
-export const isPhotoSummary = (r: string) => r.startsWith("Photo checked across") || r.startsWith("The photo search found");
