@@ -306,10 +306,11 @@ other eBay listings, so they have no retailer store list and get no alternative.
 
 A **Wait** comes with a plan (`timing.wait_plan`), written by code, never by the LLM:
 
-- **Target price:** the lower of today's cheapest trusted store (the stage 6 rule) and a good
-  price one typical spread below the median (median − σ). Never below the too-cheap line
-  (median − 2σ), since a lower price would itself be flagged. Shown only when it's below the
-  listing's price.
+- **Target price:** today's cheapest trusted store (the stage 6 rule) when it's cheaper than
+  the listing, so the target is a price someone charges now. Otherwise a good price one
+  typical spread below the median (median − σ). Never below the too-cheap line (median − 2σ),
+  since a lower price would itself be flagged. Shown only when it's below the listing's
+  price.
 - **When to check again**, the first that applies: an announced newer model's release date,
   the next retail event (within 12 weeks), or a seasonal fall in search interest over the
   next 8 weeks. Otherwise no window is given.

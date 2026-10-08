@@ -277,9 +277,10 @@ def _wait_window(product, parts, today):
 
 def wait_plan(product, listing, market, parts, today):
     """What a WAIT waits for: a target price and when to check again, each with its reason; either can be None.
-    Target = the lower of today's cheapest trusted store (alternatives.best) and a good price (median - 1 sigma),
-    never below the too_cheap line (median - 2 sigma: a lower price would itself be flagged), and only when it's below
-    this listing's price. None when there's nothing to say."""
+    Target = today's cheapest trusted store (alternatives.best) when it's cheaper than this listing: a price someone
+    charges now, not a hoped-for one. Otherwise a good price (median - 1 sigma). Never below the too_cheap line
+    (median - 2 sigma: a lower price would itself be flagged; a trusted store is inside the band by definition), and only
+    when it's below this listing's price. None when there's nothing to say."""
     target = None
     price, median, sigma = listing.get("price"), market.get("median"), market.get("sigma")
     if price is not None and median and sigma:
@@ -287,7 +288,7 @@ def wait_plan(product, listing, market, parts, today):
         good = max(floor, float(int(median - sigma)))  # whole dollars: "$310 or less", not "$310.42"
         store = alternatives.best(listing, market)
         usual = "the new-retail median" if market.get("basis", "new") == "new" else f"the usual price for {market['basis']} units"
-        if store and store["price"] <= good:
+        if store and store["price"] < price:
             target = {"price": store["price"], "basis": "store",
                       "reason": f"{store['store']} sells it for ${store['price']:.2f} today"}
         else:

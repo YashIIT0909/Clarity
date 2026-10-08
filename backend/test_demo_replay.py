@@ -39,7 +39,7 @@ for key, product in runs:
     alt = verdict_event["alternative"]
     assert (alt and alt["store"]) == {"screenshot-sony-59": "Best Buy", "honeywell-ebay": "Walmart Supercenter"}.get(key), (key, alt)
     plan = verdict_event["wait_plan"]  # wait only: the eBay heater, 83% over market
-    assert (plan and (plan["target"]["price"], plan["window"]["kind"])) == ({"honeywell-ebay": (29.0, "event")}.get(key)), (key, plan)
+    assert (plan and (plan["target"]["price"], plan["window"]["kind"])) == ({"honeywell-ebay": (36.24, "event")}.get(key)), (key, plan)
     if rx and rx["status"] == "found":
         assert not owners["fallback"], (key, "owners narration not pinned", owners.get("error"))
     types = [e.get("type") for e in events if e.get("stage") == "receipts"]

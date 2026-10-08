@@ -43,11 +43,14 @@ p = plan(listing(330.0), market())
 assert p["target"] == {"price": 280.0, "basis": "band",
                        "reason": "a good price: one typical price spread ($20.00) below the new-retail median of $300.00"}, p
 assert p["text"].startswith("Wait for $280.00 or less (a good price"), p["text"]
-# A trusted store at or under the good price is the target, and it's available today.
+# A trusted store cheaper than the listing is the target: a price someone charges today (the cheapest such store).
 p = plan(listing(330.0), market(300.0, 20.0, ("Best Buy", 275.0), ("Target", 290.0)))
 assert (p["target"]["price"], p["target"]["basis"]) == (275.0, "store") and "Best Buy sells it for $275.00 today" in p["text"], p
-# A store dearer than the good price doesn't lower the bar: the band target stays.
-assert plan(listing(330.0), market(300.0, 20.0, ("Target", 290.0)))["target"]["price"] == 280.0
+# ...even when it's above the good price (median - sigma, $280): no hoped-for $280 while Target charges $290 now.
+assert plan(listing(330.0), market(300.0, 20.0, ("Target", 290.0)))["target"] == {
+    "price": 290.0, "basis": "store", "reason": "Target sells it for $290.00 today"}
+# A store at or above the listing's price isn't a target: the band target applies instead.
+assert plan(listing(330.0), market(300.0, 20.0, ("Target", 330.0)))["target"]["basis"] == "band"
 # The listing's own store never sets the target (Batch 1 rule).
 assert plan(listing(330.0), market(300.0, 20.0, ("Amazon.com", 270.0)))["target"]["basis"] == "band"
 # Whole dollars for a computed target.
