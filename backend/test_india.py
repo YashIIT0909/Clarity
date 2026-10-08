@@ -132,6 +132,12 @@ said = [r_ad["narration"]["headline"], r_ad["narration"]["summary"]] + [x["text"
 assert not [t for t in said if "$" in t] and any("₹4,999" in t for t in said), said  # the rupee guard restored it
 import re as _re  # noqa: E402
 assert not [t for t in said if _re.search(r"(?<![₹\d,])4,999\b", t)], said  # no bare amount left
+# The ₹ guard also fixes a wrong sign: the LLM wrote "¥25,082" on the India wait demo (seen in the browser).
+import narrator  # noqa: E402
+fixed = narrator._rupees({"headline": "", "summary": "", "steps": [{"title": "", "text": "median of ¥25,082 or ¥ ₹29,990"}]},
+                         {"trust": {"signals": {"listing": {"market": "in"}}, "reasons": ["₹25,082 and ₹29,990"]},
+                          "timing": None})["steps"][0]["text"]
+assert fixed == "median of ₹25,082 or ₹29,990", fixed
 alt_ad = next(e for e in ev_ad if e.get("stage") == "verdict")["alternative"]
 assert (alt_ad["store"], alt_ad["price_text"]) == ("Amazon.in", "₹19,989"), alt_ad
 print("INDIA TEST PASSED (pinned data, 0 searches, 0 Groq calls)")

@@ -362,14 +362,20 @@ INTENSIFIERS = ("strongly", "strong", "notably", "notable", "significantly", "si
                 "substantial", "dramatically", "dramatic", "sharply", "sharp", "considerably", "considerable",
                 "markedly", "remarkably", "hugely", "huge", "massively", "massive")
 BIG_ENOUGH = 20
-INTENSE = re.compile(r"\b(?:" + "|".join(INTENSIFIERS) + r")\b,?\s*|\bfar (?=below|above|more|less|cheaper|higher|lower)", re.I)
+# An intensifier modifying the next word is dropped ("strongly favouring" -> "favouring"). At the end of a phrase an
+# adverb can go too ("rose sharply." -> "rose."), but a predicate adjective can't: "reviews are strong." would read
+# "reviews are ." (seen on the India demo, 2026-10-09), so it stays.
+INTENSE = re.compile(r"\b(?:" + "|".join(INTENSIFIERS) + r")\b,?\s+(?=\w)|\bfar (?=below|above|more|less|cheaper|higher|lower)",
+                     re.I)
+INTENSE_END = re.compile(r"\s+\b(?:" + "|".join(w for w in INTENSIFIERS if w.endswith("ly")) + r")\b(?=\s*(?:[,.;:!?]|$))",
+                         re.I)
 
 
 def _calm(text):
     out = []
     for s in SENTENCES.split(text):
         if not any(int(p) >= BIG_ENOUGH for p in re.findall(r"(\d+) ?%", s)):
-            s = INTENSE.sub("", s)
+            s = INTENSE_END.sub("", INTENSE.sub("", s))
             s = s[:1].upper() + s[1:]
         out.append(s)
     return " ".join(out)
@@ -453,8 +459,10 @@ def _rupees(out, result):
     told = result["trust"]["reasons"] + (result["timing"]["reasons"] if result["timing"] else [])
     amounts = sorted({a for t in told for a in RUPEES.findall(t) if len(a) >= 3}, key=len, reverse=True)
     # a comma or point belongs to the number only between digits ("14,999" isn't "4,999"; "25,082, or" is 25,082)
-    fix = lambda text: re.sub(rf"(?<![₹\d])(?<!\d[,.])({'|'.join(map(re.escape, amounts))})(?!\d|[,.]\d)", r"₹\1",
-                              text) if amounts else text
+    amount = rf"({'|'.join(map(re.escape, amounts))})(?!\d|[,.]\d)"
+    # a wrong sign becomes ₹ first ("¥25,082": the LLM wrote yen on the India wait demo), then a missing one is added
+    wrong = lambda text: re.sub(rf"(?:[¥$€£]|\bRs\.?|\bINR)\s?(?=₹|{amount})", "₹", text).replace("₹₹", "₹")
+    fix = lambda text: re.sub(rf"(?<![₹\d])(?<!\d[,.]){amount}", r"₹\1", wrong(text)) if amounts else text
     return {**out, "headline": fix(out["headline"]), "summary": fix(out["summary"]),
             "steps": [{**st, "text": fix(st["text"])} for st in out["steps"]]}
 
@@ -763,6 +771,7 @@ if __name__ == "__main__":
         "The price is 9% below market, favouring buying."
     assert _calm("Strongly rising demand. HELE stock rose sharply, up 93%.") == "Rising demand. HELE stock rose sharply, up 93%."
     assert _calm("It's far below the median.") == "It's below the median."
+    assert _calm("Demand rose sharply. Reviews are strong.") == "Demand rose. Reviews are strong."  # never "are ."
     close = _tone({"headline": "Buy now — demand is rising", "summary": "", "steps": []},
                   {**heater, "confidence": 0.57}, hf)
     assert close["headline"] == "Buy now — close call: demand is rising", close
