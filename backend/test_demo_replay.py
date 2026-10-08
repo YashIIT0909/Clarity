@@ -33,6 +33,9 @@ for key, product in runs:
     rx = r["receipts"]
     assert not r["narration"].get("fallback"), (key, "verdict narration not pinned", r["narration"].get("error"))
     assert (r["final_verdict"], rx and rx["status"]) == expect[key], (key, r["final_verdict"], rx and rx["status"])
+    # Where to buy instead, on the verdict event the UI reads (the eBay walk-aways are used: no store list, so none).
+    alt = next(e for e in events if e.get("stage") == "verdict")["alternative"]
+    assert (alt and alt["store"]) == {"screenshot-sony-59": "Best Buy"}.get(key), (key, alt)
     if rx and rx["status"] == "found":
         assert not owners["fallback"], (key, "owners narration not pinned", owners.get("error"))
     types = [e.get("type") for e in events if e.get("stage") == "receipts"]

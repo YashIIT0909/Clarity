@@ -7,6 +7,7 @@ import queue
 import time
 from concurrent.futures import ThreadPoolExecutor
 
+import alternatives
 import narrator
 import receipts
 import timing
@@ -106,14 +107,17 @@ def stream(product: dict, label: str | None = None, with_receipts: bool = True):
                    reasons=tm["reasons"])
         final, confidence = VERDICT[tm["verdict"]], tm["confidence"]
 
-    result = {"query_id": query_id, "final_verdict": final, "confidence": confidence, "trust": t, "timing": tm}
+    # Where to buy instead: information only, after the verdict is fixed. The narrator never sees it.
+    alt = alternatives.offer(final, t["signals"]["listing"], t["signals"]["market"], product.get("store_domain"))
+    result = {"query_id": query_id, "final_verdict": final, "confidence": confidence, "trust": t, "timing": tm,
+              "alternative": alt}
 
     yield step(stage="narrator", status="running", message="Composing the verdict…")
     story = narrator.run(result)
     yield step(stage="narrator", status="done", **story)
 
     yield step(stage="verdict", status="done", final_verdict=final, confidence=confidence, headline=story["headline"],
-               timing_judged=tm["judged"] if tm else None)
+               timing_judged=tm["judged"] if tm else None, alternative=alt)
     db.table("verdicts").insert({"query_id": query_id, "final_verdict": final, "reasoning_chain_json": steps}).execute()
 
     # After the verdict: the evidence and narration (timing already scored the counted defects; not in reasoning_chain_json).

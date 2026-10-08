@@ -78,6 +78,13 @@ MAJOR_RETAILERS = {
 }
 
 
+def _is_major(store):
+    """The retailer itself ("Walmart", "Walmart Supercenter"), never a marketplace seller on its platform
+    ("Walmart - SomeSeller"), which Google Shopping names with a " - " suffix."""
+    s = (store or "").lower()
+    return " - " not in s and any(s == m or s.startswith(m + " ") for m in MAJOR_RETAILERS)
+
+
 def _condition(text):
     """Condition bucket a price is compared within: new | used (incl. open box) | refurbished | parts.
     Open box sits with used: AirPods Pro 2 open-box listings ($45-65) priced like used ($65 median), not new ($99)."""
@@ -172,8 +179,9 @@ def _market(query, match, exclude=None):
     if hero:
         imm = search("google_immersive_product", page_token=hero["immersive_product_page_token"])
         observed_at = imm["_fetched_at"]
+        # link + major feed "where to buy instead" (alternatives.py); the market sample still takes every store.
         stores = [
-            {"store": s.get("name"), "price": s["extracted_price"]}
+            {"store": s.get("name"), "price": s["extracted_price"], "link": s.get("link"), "major": _is_major(s.get("name"))}
             for s in (imm.get("product_results") or {}).get("stores", [])
             if s.get("extracted_price") and not PEER_MARKETS.search(s.get("name") or "")
         ]

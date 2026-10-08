@@ -32,8 +32,9 @@ good time to buy, and why. Every reason links back to live search evidence pulle
   - [1. Resolve](#1-resolve-what-is-the-user-looking-at)
   - [2. Trust](#2-trust-is-the-listing-legit)
   - [3. Timing](#3-timing-buy-now-or-wait)
-  - [4. What owners say](#4-what-owners-say-weight-0)
+  - [4. What owners say](#4-what-owners-say-weight-010-wait-only)
   - [5. Narrator](#5-narrator)
+  - [6. Where to buy instead](#6-where-to-buy-instead)
 - [Full request lifecycle](#full-request-lifecycle)
 - [Caching and search budget](#caching-and-search-budget)
 - [Project layout](#project-layout)
@@ -57,7 +58,12 @@ other stores, is a sale coming, and is a newer model about to launch? The answer
 
 Next to the verdict, Clarity shows **What owners say**: problems and praise from
 independent YouTube reviews and forum threads, each linked to a video timestamp or thread.
-This section is context only and never changes the verdict.
+Only defects that several independent sources confirm count, as a small signal that can
+push toward **Wait** but never toward Buy Now.
+
+When the answer is **Walk Away**, or **Wait** because a big retailer is cheaper, Clarity
+also says **where to buy instead**: a major retailer selling the same product at a normal
+market price, with a link.
 
 Every check is a rule you can read in the code, with no black-box score. An LLM (Groq)
 only turns the finished signals into plain English.
@@ -73,10 +79,11 @@ flowchart LR
     T -- "fail" --> W(["❌ WALK AWAY"])
     T -- "pass" --> M["⏱️ Timing<br/>buy now or wait?"]
     M --> V(["✅ BUY NOW<br/>or ⏳ WAIT"])
-    T -- "pass" --> O["💬 What owners say<br/>(context only)"]
+    T -- "pass" --> O["💬 What owners say<br/>(confirmed defects only)"]
+    O -.->|"w 0.10, only toward wait"| M
+    O -.-> N
     W --> N["✍️ Narrator<br/>plain-English reasons"]
     V --> N
-    O -.-> N
 
     S[("SerpApi<br/>18 engines")]
     S -.-> R & T & M & O
@@ -206,11 +213,12 @@ size sets the confidence.
 
 ```mermaid
 flowchart TD
-    OK(["Trusted listing"]) --> D & PP & MK & LC
+    OK(["Trusted listing"]) --> D & PP & MK & LC & OW
 
     D["📈 Demand + season<br/>SerpApi · google_trends (TIMESERIES)<br/>+ retail events calendar"]
     PP["💲 Price position<br/>vs. the trust market band"]
     MK["🏭 Maker signal<br/>SerpApi · google_finance"]
+    OW["💬 Owner-reported defects<br/>(stage 4, cache-only)"]
 
     subgraph LC["🛰️ Successor Radar"]
         TR["SerpApi · google_trends<br/>(RELATED_QUERIES)"]
@@ -223,6 +231,7 @@ flowchart TD
     PP -- "w 0.45" --> SUM
     MK -- "w 0.15" --> SUM
     RS -- "w 0.25 (only pushes toward wait)" --> SUM
+    OW -- "w 0.10 (only pushes toward wait)" --> SUM
     SUM{"Weighted sum"} -- "> 0" --> B(["✅ BUY NOW"])
     SUM -- "< 0" --> WT(["⏳ WAIT"])
 
@@ -238,10 +247,13 @@ flowchart TD
 | Price position | Trust market band | 0.45 |
 | Maker signal | `google_finance` | 0.15 |
 | Successor Radar | `google_trends` (RELATED_QUERIES), `google_autocomplete`, `google_news` | 0.25, only pushes toward wait |
+| Owner-reported defects | Stage 4 (known problem −1.0, known concern or forum-reported issue −0.5, capped at −1) | 0.10, only pushes toward wait |
 
-### 4. What owners say (weight 0)
+### 4. What owners say (weight 0.10, wait only)
 
-This stage runs next to timing once trust passes, and it arrives after the verdict.
+This stage runs next to timing once trust passes. Timing reads it from the cache only (it
+never spends a search or a Groq call there, and waits at most 8 s), and the full evidence
+arrives after the verdict.
 
 ```mermaid
 flowchart LR
@@ -258,14 +270,35 @@ flowchart LR
 An issue counts as **known** only if two or more independent sources back it. Code checks
 every quote against the transcript or thread it came from.
 
+Only corroborated defects score. Praise, design or price criticism, single-source points
+and missing data all score 0, so an unchecked product is never penalised.
+
 > [!IMPORTANT]
-> Tests prove this stage never changes a score (`test_receipts_weight0.py`).
+> Tests prove its limits (`test_receipts_weight.py`): it only ever pushes toward wait, it
+> flips only a buy at 55% confidence or less, and it can't outweigh a strongly positive price.
+> A live run started later from the UI never re-scores a verdict already shown.
 
 ### 5. Narrator
 
 Groq (`openai/gpt-oss-120b`) turns the structured trust and timing signals into the
 reasoning chain the user reads. It makes **no SerpApi calls** and **never decides the
 verdict**.
+
+### 6. Where to buy instead
+
+On **Walk Away**, and on **Wait** when the store is cheaper than the listing, Clarity names
+the cheapest store from the reference product's store list (`google_immersive_product`,
+already fetched by the trust check) that:
+
+- is a major retailer itself (Best Buy, Walmart, Target, …), never a marketplace seller on
+  its platform ("Walmart - SomeSeller") and never an unknown shop;
+- prices inside the market band (median ± 2σ), so it's a normal price, not a bargain that
+  is itself suspicious;
+- isn't the store the listing is already on.
+
+It makes **no extra searches**, never changes the verdict, and the narrator never sees it.
+If no store qualifies, nothing is shown. Used and refurbished listings are compared with
+other eBay listings, so they have no retailer store list and get no alternative.
 
 ---
 
@@ -320,6 +353,7 @@ Clarity/
 │   ├── resolve.py           URL / text / screenshot → product
 │   ├── serpapi.py           The only SerpApi client, cached in Supabase
 │   ├── trust.py             Price, listing and seller checks
+│   ├── alternatives.py      Where to buy instead (a major retailer in the market band)
 │   ├── photo_forensics.py   Google Lens + Bing reverse image
 │   ├── store_reputation.py  Five searches about an unknown shop
 │   ├── timing.py            Demand, price, maker, lifecycle → buy/wait
@@ -375,9 +409,10 @@ npm run dev
 cd backend
 uv run python test_gate.py
 uv run python test_demo_replay.py
-uv run python test_receipts_weight0.py
+uv run python test_receipts_weight.py
 uv run python test_lifecycle_weights.py
 uv run python test_non_demo.py
+uv run python test_alternatives.py
 ```
 
 ### Configuration

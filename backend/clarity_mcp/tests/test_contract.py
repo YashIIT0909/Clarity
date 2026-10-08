@@ -28,7 +28,7 @@ httpx.post = lambda *a, **k: (_ for _ in ()).throw(ConnectionError("Groq blocked
 # Current_State.md demo table (verdict, confidence, trust score)
 EXPECT = {"airpods-ebay": ("walk_away", None, 5), "airpods-openbox": ("walk_away", None, 0),
           "sony-xm5": ("buy_now", 0.62, 100), "honeywell-heater": ("buy_now", 0.62, None),
-          "switch2": ("buy_now", 0.57, None)}
+          "switch2": ("buy_now", 0.54, None)}  # 0.57 before owner receipts scored (b3f6ebb): a known concern, -0.05
 shown = {}
 for key, (verdict, conf, score) in EXPECT.items():
     s, meta = contract.build(runner.run(DEMO_CHIPS[key]["url"], source="mcp-test"))

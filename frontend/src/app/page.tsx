@@ -5,11 +5,13 @@ import {
   ArrowRight,
   CheckCircle2,
   CircleDashed,
+  ExternalLink,
   ImagePlus,
   Loader2,
   OctagonX,
   ShieldAlert,
   ShieldCheck,
+  Store,
   Timer,
   TrendingUp,
   X,
@@ -46,6 +48,8 @@ const DEMO_SCREENSHOT = { label: "Screenshot: Sony XM5 ad at $59", src: "/demo/a
 
 type Stage = "resolve" | "trust" | "gate" | "timing" | "narrator" | "verdict";
 type Verdict = "walk_away" | "wait" | "buy_now";
+// Where to buy instead (backend alternatives.py): a major retailer at a normal market price. Information only.
+type Alternative = { store: string; price: number; link: string; saving: number | null; text: string };
 type Evt = {
   stage: Stage | "done" | "error" | "forensics" | "lifecycle" | "receipts" | "owners";
   type?: string;
@@ -69,6 +73,7 @@ type Evt = {
   headline?: string;
   summary?: string;
   steps?: { title: string; text: string }[];
+  alternative?: Alternative | null; // verdict step
 };
 type Node = { status: "pending" | "running" | "done" | "skipped"; data?: Evt };
 type Demo = { key: string; label: string; url: string };
@@ -632,6 +637,8 @@ function VerdictCard({ final, busy }: { final: Evt | null; busy: boolean }) {
 
       {final.summary && <p className="text-sm leading-relaxed">{final.summary}</p>}
 
+      {final.alternative && <BuyHereInstead a={final.alternative} />}
+
       {final.steps && final.steps.length > 0 && (
         <div className="flex flex-col gap-3">
           <h3 className="text-sm font-medium uppercase tracking-wide text-muted-foreground">Why</h3>
@@ -649,6 +656,35 @@ function VerdictCard({ final, busy }: { final: Evt | null; busy: boolean }) {
           </ol>
         </div>
       )}
+    </div>
+  );
+}
+
+function BuyHereInstead({ a }: { a: Alternative }) {
+  return (
+    <div data-testid="alternative" className="flex flex-col gap-2 rounded-lg border bg-background/60 p-4">
+      <div className="flex items-center gap-2 text-sm font-medium">
+        <Store className="size-4 text-emerald-600 dark:text-emerald-400" />
+        Buy it here instead
+      </div>
+      <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+        <span className="text-lg font-semibold">
+          {a.store} · <span className="tabular-nums">${a.price.toFixed(2)}</span>
+        </span>
+        {a.saving != null && (
+          <span className="text-sm text-emerald-700 tabular-nums dark:text-emerald-400">${a.saving.toFixed(2)} less</span>
+        )}
+      </div>
+      <p className="text-sm text-muted-foreground">{a.text}</p>
+      <a
+        href={a.link}
+        target="_blank"
+        rel="noopener noreferrer nofollow"
+        className="inline-flex w-fit items-center gap-1 text-sm font-medium underline decoration-foreground/30 underline-offset-2 hover:decoration-foreground"
+      >
+        Open at {a.store}
+        <ExternalLink className="size-3.5" />
+      </a>
     </div>
   );
 }

@@ -18,6 +18,7 @@ import orchestrator
 import receipts
 import serpapi
 import trust
+from events import EVENTS
 from resolve import resolve
 
 FIXTURE = Path(__file__).parent / "fixtures" / "non_demo.json.gz"
@@ -78,8 +79,8 @@ def run():
     if r["timing"]:
         comp = r["timing"]["signals"]["components"]
         assert comp["maker"]["ticker"] is None and comp["maker"]["score"] == 0  # no ticker -> neutral
-        assert comp["demand"]["event"] and comp["demand"]["event"]["name"] == "Prime Big Deal Days" or \
-            comp["demand"]["event"] is None  # unknown category: only all-category events can appear
+        ev = comp["demand"]["event"]  # unknown category: only all-category events can appear (which one is date-dependent)
+        assert ev is None or EVENTS[ev["name"]]["categories"] == "all", ev
     assert narrator._facts(r) and r["narration"]["steps"]  # facts build; fallback narration rendered
     if r["timing"]:  # no model identifier in the name -> lifecycle unavailable, no searches, no exception
         lc = r["timing"]["signals"]["components"]["lifecycle"]

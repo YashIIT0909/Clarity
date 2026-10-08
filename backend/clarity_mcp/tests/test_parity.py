@@ -95,7 +95,8 @@ for key, chip in DEMO_CHIPS.items():
     assert s["verdict"] == verdict, (key, s["verdict"], verdict)
     assert s["trust"]["score"] == wres["trust"]["signals"]["score"], key
     assert (s["timing"] or {}).get("confidence") == wv["confidence"], key
-    assert s["reasons"] == [f"{x['title']}: {x['text']}" for x in one(w, "narrator")["steps"]][:5], key
+    # The narration repeats trust's price-history count too (narrator._trust_told), so it gets the same allowance.
+    assert same_run(s["reasons"]) == same_run([f"{x['title']}: {x['text']}" for x in one(w, "narrator")["steps"]][:5]), key
     for stage in ("trust", "timing"):
         assert same_run((one(log, stage) or {}).get("reasons")) == same_run((one(w, stage) or {}).get("reasons")), (key, stage)
     assert s["query_id"] != wres["query_id"]  # two real runs, both in the history

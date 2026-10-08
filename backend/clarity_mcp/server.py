@@ -34,7 +34,8 @@ Verdicts:
 - could_not_check: the check didn't complete. This is not a pass: the listing is unverified, not safe.
 
 The result's summary line gives the verdict, its main reason and the date of the data; reasons and evidence give the \
-details."""
+details. On walk_away, or wait when it's cheaper, `alternative` may name a major retailer selling the same product at \
+a normal market price, with a link: a safer place to buy. It is null when no such store was found."""
 
 apps = Apps()
 
@@ -49,6 +50,8 @@ def clarity_check_listing(
     text = structured["summary"]
     if structured["reasons"]:
         text += "\n" + "\n".join(f"- {r}" for r in structured["reasons"][:TOP_REASONS])
+    if structured["alternative"]:
+        text += f"\nWhere to buy instead: {structured['alternative']['text']} {structured['alternative']['link']}"
     return CallToolResult(content=[TextContent(type="text", text=text)], structured_content=structured, meta=meta)
 
 
