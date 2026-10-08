@@ -1,0 +1,1571 @@
+{
+ "search_parameters": {
+  "engine": "amazon_product",
+  "asin": "B09XS7JWHH",
+  "amazon_domain": "amazon.in",
+  "device": "desktop"
+ },
+ "product_results": {
+  "categories": [
+   {
+    "position": 1,
+    "name": "Electronics",
+    "link": "https://www.amazon.in/electronics/b/ref=dp_bc_1?ie=UTF8&node=976419031",
+    "node": "976419031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=976419031"
+   },
+   {
+    "position": 2,
+    "name": "Headphones, Earbuds & Accessories",
+    "link": "https://www.amazon.in/Headphones-Earbuds-Accessories/b/ref=dp_bc_2?ie=UTF8&node=29561348031",
+    "node": "29561348031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=29561348031"
+   },
+   {
+    "position": 3,
+    "name": "Headphones",
+    "link": "https://www.amazon.in/headphones/b/ref=dp_bc_3?ie=UTF8&node=1388921031",
+    "node": "1388921031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=1388921031"
+   },
+   {
+    "position": 4,
+    "name": "Over-Ear",
+    "link": "https://www.amazon.in/b/ref=dp_bc_4?ie=UTF8&node=14146390031",
+    "node": "14146390031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=14146390031"
+   }
+  ],
+  "asin": "B09XS7JWHH",
+  "title": "Sony WH-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Over Ear Headphones with Mic for Clear Calling,Battery Life 30 Hours -Black",
+  "link": "https://www.amazon.in/Sony-WH-1000XM5-Wireless-Cancelling-Headphones/dp/B09XS7JWHH/",
+  "link_clean": "https://www.amazon.in/dp/B09XS7JWHH/",
+  "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B09XS7JWHH&device=desktop&engine=amazon_product",
+  "badges": [
+   "Amazon's Choice",
+   "Mega Festival Deal"
+  ],
+  "variants": [
+   {
+    "title": "Colour",
+    "items": [
+     {
+      "position": 1,
+      "asin": "B09XS7JWHH",
+      "name": "WH-1000XM5, Black",
+      "image": "https://m.media-amazon.com/images/I/31vOBg8cPaL._SS64_.jpg",
+      "selected": true,
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B09XS7JWHH&device=desktop&engine=amazon_product"
+     },
+     {
+      "position": 2,
+      "asin": "B09XSDMT4F",
+      "name": "Silver",
+      "image": "https://m.media-amazon.com/images/I/21F6MKKV6EL._SS64_.jpg",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B09XSDMT4F&device=desktop&engine=amazon_product"
+     },
+     {
+      "position": 3,
+      "asin": "B0DGL6R3SX",
+      "name": "Smoky Pink",
+      "image": "https://m.media-amazon.com/images/I/31bNDAcLWEL._SS64_.jpg",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0DGL6R3SX&device=desktop&engine=amazon_product"
+     },
+     {
+      "position": 4,
+      "asin": "B0BZP2H373",
+      "name": "WH-1000XM5, Mid Night Blue",
+      "image": "https://m.media-amazon.com/images/I/31nVFQSCKvL._SS64_.jpg",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0BZP2H373&device=desktop&engine=amazon_product"
+     }
+    ]
+   }
+  ],
+  "brand": "Visit the Sony Store",
+  "thumbnail": "https://m.media-amazon.com/images/I/31fEv99XZ+L._SX300_SY300_QL70_FMwebp_.jpg",
+  "thumbnails": [
+   "https://m.media-amazon.com/images/I/61O3iMlnJIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51A17cIdhKL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/81+4fB1ehJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61VUD9Zh9sL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/81kCCjRFZTL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81q1SrpG1PL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81zk7HFkz7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51pFYV7FHdL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61Gdpfwb4VL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71GMFf-4cwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51QK24rMqIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81qBGts7k7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71NHOYt5-xL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wfM0kcGiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61hSY1MJ2OL._SL1500_.jpg"
+  ],
+  "rating": 5.0,
+  "reviews": 17252,
+  "bought_last_month": "100+ bought in past month",
+  "discount": "-43%",
+  "price": "₹19,989",
+  "extracted_price": 19989,
+  "old_price": "₹34,990",
+  "extracted_old_price": 34990,
+  "delivery": [
+   "FREE delivery Sunday, 11 October. Details",
+   "Or fastest delivery Tomorrow 8 am - 12 pm. Details"
+  ],
+  "purchase_policies": [
+   {
+    "title": "10 days Service Centre Replacement",
+    "icon": "https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-returns._CB562506492_.png",
+    "table": [
+     {
+      "heading": "Replacement Reason",
+      "content": [
+       "Defective Item",
+       "Physical Damage, Wrong and Missing Item"
+      ]
+     },
+     {
+      "heading": "Replacement Period",
+      "content": [
+       "10 days from delivery",
+       "10 days from delivery"
+      ]
+     },
+     {
+      "heading": "Replacement Policy",
+      "content": [
+       "Sony warranty policy (at Service Centre)",
+       "Replacement"
+      ]
+     }
+    ],
+    "alert": {
+     "items": [
+      {
+       "heading": "Defective item",
+       "content": [
+        "Amazon may provide support via self-help guides or on call or at doorstep, as applicable.",
+        "If this issue is not resolved, please contact Sony or visit the Service Centre.",
+        "Sony will repair the product or provide a replacement or Defective certificate, as applicable. The time taken for resolution will be as per Sony warranty policies.",
+        "Please check for nearest Brand service center in your location. For details click here"
+       ]
+      },
+      {
+       "heading": "Physical Damage, Wrong, Missing Items",
+       "content": [
+        "Returns will not be accepted if it is an Open Box Delivery order",
+        "Remote verification by image/video will be done by Amazon"
+       ]
+      }
+     ]
+    },
+    "links": [
+     {
+      "text": "click here",
+      "link": "https://www.amazon.in/gp/help/customer/display.html?ie=UTF8&nodeId=202064020"
+     },
+     {
+      "text": "Read full returns policy",
+      "link": "https://www.amazon.in/gp/help/customer/display.html/?ie=UTF8&nodeId=201149900"
+     }
+    ]
+   },
+   {
+    "title": "Free Delivery",
+    "icon": "https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/trust_icon_free_shipping_81px._CB562549966_.png",
+    "description": "The product is eligible for Free delivery. Learn more",
+    "links": [
+     {
+      "text": "Learn more",
+      "link": "https://www.amazon.in/gp/help/customer/display.html?nodeId=200534000"
+     }
+    ]
+   },
+   {
+    "title": "1 Year Warranty",
+    "icon": "https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-warranty._CB485935626_.png",
+    "description": "1 year warranty provided by the manufacturer from date of purchase"
+   },
+   {
+    "title": "Pay on Delivery",
+    "icon": "https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-cod._CB562506657_.png",
+    "description": "Pay on Delivery (Cash/Card) payment method includes Cash on Delivery (COD) as well as Debit card / Credit card / Net banking payments at your doorstep."
+   },
+   {
+    "title": "Top Brand",
+    "icon": "https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-top-brand._CB562506657_.png",
+    "description": "Top Brand indicates high quality, trusted brands on Amazon aggregated basis verified ratings, returns/refunds and recent order history at brand level."
+   },
+   {
+    "title": "Amazon Delivered",
+    "icon": "https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-amazon-delivered._CB562550117_.png",
+    "description": "Order processed by Amazon; delivered through our courier partners"
+   },
+   {
+    "title": "Secure transaction",
+    "icon": "https://m.media-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/Secure-payment._CB650126890_.png",
+    "description": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more",
+    "links": [
+     {
+      "text": "Learn more",
+      "link": "https://www.amazon.in/gp/help/customer/display.html?nodeId=202115020"
+     }
+    ]
+   }
+  ],
+  "stock": "In stock",
+  "bank_offers": [
+   {
+    "title": "Bank Offer",
+    "content": "Upto ₹1,750.00 discount on SBI Credit Cards, SBI Debit Cards",
+    "savings": "₹1,750.00",
+    "extracted_savings": 1750.0,
+    "offers_count": 10
+   },
+   {
+    "title": "No Cost EMI",
+    "content": "Upto ₹2,453.89 EMI interest savings on select Credit Cards, HDFC Bank Debit Cards, Bajaj Finserv EMI cards, Amazon Pay Later",
+    "savings": "₹2,453.89",
+    "extracted_savings": 2453.89,
+    "offers_count": 4
+   },
+   {
+    "title": "Cashback",
+    "content": "Upto ₹599.00 cashback as Amazon Pay Balance when you pay with Amazon Pay ICICI Bank Credit Cards",
+    "savings": "₹599.00",
+    "extracted_savings": 599.0,
+    "offers_count": 1
+   },
+   {
+    "title": "Partner Offers",
+    "content": "Get GST invoice and save up to 18% on business purchases. Sign up for free",
+    "link": "https://www.amazon.in/gp/b/ref=apay_upi_sopp?node=16179244031",
+    "offers_count": 1
+   }
+  ]
+ },
+ "purchase_options": {
+  "single_offer": {
+   "price": "₹19,989.00",
+   "extracted_price": 19989.0,
+   "delivery": [
+    "FREE delivery Sunday, 11 October. Details",
+    "Or fastest delivery Tomorrow 8 am - 12 pm. Details"
+   ],
+   "stock": "In stock",
+   "features": {
+    "ships_from": {
+     "text": "Amazon",
+     "details": {
+      "heading": "Ships from",
+      "content": "Amazon"
+     }
+    },
+    "sold_by": {
+     "text": "Clicktech Retail Private Ltd",
+     "details": {
+      "heading": "Sold by",
+      "content": "Clicktech Retail Private Ltd"
+     },
+     "link": {
+      "text": "Clicktech Retail Private Ltd",
+      "link": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B09XS7JWHH&ref_=dp_merchant_link&isAmazonFulfilled=1"
+     }
+    },
+    "gift_options": {
+     "text": "Available at checkout Available at checkout This item is a gift. Change",
+     "details": {
+      "content": "Add gift options at checkout"
+     }
+    }
+   }
+  }
+ },
+ "protection_plan": [
+  {
+   "position": 1,
+   "asin": "B0CYHH1X7L",
+   "link": "https://www.amazon.in/dp/B0CYHH1X7L/",
+   "title": "1 Year Extended warranty by Acko",
+   "price": "₹1,599.00",
+   "extracted_price": 1599.0
+  },
+  {
+   "position": 2,
+   "asin": "B09QMQJ16R",
+   "link": "https://www.amazon.in/dp/B09QMQJ16R/",
+   "title": "1 Year Extended Warranty by OneAssist",
+   "price": "₹1,449.00",
+   "extracted_price": 1449.0
+  },
+  {
+   "position": 3,
+   "asin": "B09QMNQKNV",
+   "link": "https://www.amazon.in/dp/B09QMNQKNV/",
+   "title": "2 Years Extended Warranty Plan by OneAssist",
+   "price": "₹2,529.00",
+   "extracted_price": 2529.0
+  }
+ ],
+ "item_specifications": {
+  "brand": "Sony",
+  "colour": "WH-1000XM5, Black",
+  "ear_placement": "Over Ear",
+  "form_factor": "Over Ear",
+  "impedance": "48 Ohms"
+ },
+ "about_item": [
+  "Industry Leading noise cancellation-two processors control 8 microphones for unprecedented noise cancellation. With Auto NC Optimizer, noise cancelling is automatically optimized based on your wearing conditions and environment.",
+  "Industry-leading call quality with our Precise Voice Pickup Technology uses four beamforming microphones and an AI-based noise reduction algorithm",
+  "Magnificent Sound, engineered to perfection with the new Integrated Processor V1",
+  "Crystal clear hands-free calling with 4 beamforming microphones, precise voice pickup, and advanced audio signal processing.",
+  "Up to 40-hour battery life for continuous music playtime (With Noise Cancellation ON, get up to 30 Hours of playtime, and With Noise Cancellation off get up to 40 Hours.) All-day power and quick charging (3 min charge for 3 hours of playback)."
+ ],
+ "bought_together": [
+  {
+   "position": 1,
+   "title": "Sony WH-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Over Ear Headphones with Mic for Clear Calling,Battery Life 30 Hours -Black",
+   "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61O3iMlnJIL._AC_UL116_SR116,116_.jpg",
+   "price": "₹19,989.00",
+   "extracted_price": 19989.0,
+   "delivery": [
+    "Get it by Sunday, October 11"
+   ],
+   "stock": "In stock"
+  },
+  {
+   "position": 2,
+   "title": "Logitech MX Master 3S Bluetooth Edition Wireless Mouse, No USB Receiver - Ultra-Fast Scrolling, Ergo, 8K DPI, Track on Glass, Quiet Clicks, Works with Apple Mac, Windows PC, Linux, Chrome - Graphite",
+   "link": "https://www.amazon.in/Logitech-MX-Master-3S-Chrome-Graphite/dp/B0B11LJ69K/ref=pd_bxgy_thbs_d_sccl_1/522-9646452-3009425?pd_rd_w=W0f2w&content-id=amzn1.sym.142c0d31-3594-485b-b879-def9251f61c0&pf_rd_p=142c0d31-3594-485b-b879-def9251f61c0&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0B11LJ69K&psc=1",
+   "asin": "B0B11LJ69K",
+   "link_clean": "https://www.amazon.in/Logitech-MX-Master-3S-Chrome-Graphite/dp/B0B11LJ69K/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0B11LJ69K&device=desktop&engine=amazon_product",
+   "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/618IJzC-fFL._AC_UL116_SR116,116_.jpg",
+   "price": "₹8,995.00",
+   "extracted_price": 8995.0,
+   "stock": "In stock"
+  }
+ ],
+ "related_products": [
+  {
+   "position": 1,
+   "title": "Sony ULT Wear WH-ULT900N Noise Cancellation Wireless Bluetooth Over Ear Headphones with Massive Bass, Up to 50Hrs Battery-Bla",
+   "link": "https://www.amazon.in/Sony-Headphones-Wh-Ult900N-Cancelling-Pair-Black/dp/B0CWVX1GNX/ref=pd_sbs_d_sccl_1_1/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0CWVX1GNX&psc=1",
+   "asin": "B0CWVX1GNX",
+   "link_clean": "https://www.amazon.in/Sony-Headphones-Wh-Ult900N-Cancelling-Pair-Black/dp/B0CWVX1GNX/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CWVX1GNX&device=desktop&engine=amazon_product",
+   "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/610DB8Cwm7L._AC_UL165_SR165,165_.jpg",
+   "rating": 4.3,
+   "reviews": 3902,
+   "price": "₹12,989.00",
+   "extracted_price": 12989.0,
+   "price_unit": "M.R.P: ₹24,990.00",
+   "extracted_price_unit": 24990.0,
+   "old_price": "₹24,990.00",
+   "extracted_old_price": 24990.0,
+   "delivery": [
+    "Get it by Sunday, October 11"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, Adaptive Sound Control, Quick Charg",
+   "link": "https://www.amazon.in/Sony-Cancellation-Headphones-Multi-Point-Connection/dp/B0BS1QCFHX/ref=pd_sbs_d_sccl_1_2/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0BS1QCFHX&psc=1",
+   "asin": "B0BS1QCFHX",
+   "link_clean": "https://www.amazon.in/Sony-Cancellation-Headphones-Multi-Point-Connection/dp/B0BS1QCFHX/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0BS1QCFHX&device=desktop&engine=amazon_product",
+   "badges": [
+    "#1 Best Seller"
+   ],
+   "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/51rpbVmi9XL._AC_UL165_SR165,165_.jpg",
+   "rating": 4.3,
+   "reviews": 16979,
+   "price": "₹6,989.00",
+   "extracted_price": 6989.0,
+   "price_unit": "M.R.P: ₹14,990.00",
+   "extracted_price_unit": 14990.0,
+   "old_price": "₹14,990.00",
+   "extracted_old_price": 14990.0,
+   "delivery": [
+    "Get it by Monday, October 12"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Sony WH-1000XM6 The Best Wireless Noise Canceling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mas",
+   "link": "https://www.amazon.in/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ/ref=pd_sbs_d_sccl_1_3/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0F3PQHWTZ&psc=1",
+   "asin": "B0F3PQHWTZ",
+   "link_clean": "https://www.amazon.in/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0F3PQHWTZ&device=desktop&engine=amazon_product",
+   "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61ddahpESML._AC_UL165_SR165,165_.jpg",
+   "rating": 4.5,
+   "reviews": 3730,
+   "price": "₹35,989.00",
+   "extracted_price": 35989.0,
+   "price_unit": "M.R.P: ₹49,990.00",
+   "extracted_price_unit": 49990.0,
+   "old_price": "₹49,990.00",
+   "extracted_old_price": 49990.0,
+   "delivery": [
+    "Get it by Sunday, October 11"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Bose NEW QuietComfort Wireless Noise Cancelling Headphones, Bluetooth Over Ear Headphones with Up to 24 Hours of Battery Life",
+   "link": "https://www.amazon.in/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V/ref=pd_sbs_d_sccl_1_4/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0CCZ26B5V&psc=1",
+   "asin": "B0CCZ26B5V",
+   "link_clean": "https://www.amazon.in/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CCZ26B5V&device=desktop&engine=amazon_product",
+   "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61windvlNZL._AC_UL165_SR165,165_.jpg",
+   "rating": 4.4,
+   "reviews": 21611,
+   "price": "₹15,490.00",
+   "extracted_price": 15490.0,
+   "price_unit": "M.R.P: ₹27,900.00",
+   "extracted_price_unit": 27900.0,
+   "old_price": "₹27,900.00",
+   "extracted_old_price": 27900.0,
+   "delivery": [
+    "Get it by Sunday, October 11"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Sennheiser Momentum 4 Wireless Over Ear Headphones (Smartchoice), German Design, ANC, 60h Battery, Customizable Sound, 4 Digi",
+   "link": "https://www.amazon.in/Sennheiser-Customizable-Crystal-Clear-Connectivity-Black-Copper/dp/B0CCRZPKR1/ref=pd_sbs_d_sccl_1_5/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0CCRZPKR1&psc=1",
+   "asin": "B0CCRZPKR1",
+   "link_clean": "https://www.amazon.in/Sennheiser-Customizable-Crystal-Clear-Connectivity-Black-Copper/dp/B0CCRZPKR1/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CCRZPKR1&device=desktop&engine=amazon_product",
+   "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71sLOtsK2UL._AC_UL165_SR165,165_.jpg",
+   "rating": 4.3,
+   "reviews": 12828,
+   "price": "₹20,990.00",
+   "extracted_price": 20990.0,
+   "price_unit": "M.R.P: ₹34,990.00",
+   "extracted_price_unit": 34990.0,
+   "old_price": "₹34,990.00",
+   "extracted_old_price": 34990.0,
+   "delivery": [
+    "Get it by Monday, October 12"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Sennheiser ACCENTUM Plus Wireless Over Ear Headphones,German Design,Adaptive ANC,50H Battery,Sound Personalization,Touch Cont",
+   "link": "https://www.amazon.in/Sennheiser-ACCENTUM-Wireless-Bluetooth-Headphones/dp/B0CQKDKPS6/ref=pd_sbs_d_sccl_1_6/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0CQKDKPS6&psc=1",
+   "asin": "B0CQKDKPS6",
+   "link_clean": "https://www.amazon.in/Sennheiser-ACCENTUM-Wireless-Bluetooth-Headphones/dp/B0CQKDKPS6/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CQKDKPS6&device=desktop&engine=amazon_product",
+   "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71Q-uiqUGSL._AC_UL165_SR165,165_.jpg",
+   "rating": 4.2,
+   "reviews": 1729,
+   "price": "₹13,990.00",
+   "extracted_price": 13990.0,
+   "price_unit": "M.R.P: ₹19,990.00",
+   "extracted_price_unit": 19990.0,
+   "old_price": "₹19,990.00",
+   "extracted_old_price": 19990.0,
+   "delivery": [
+    "Get it by Monday, October 12"
+   ]
+  },
+  {
+   "position": 7,
+   "asin": "B0CJL1QQN6",
+   "title": "Sennheiser Momentum 4 Wireless Over Ear Headphones, German Design, ANC, 60h Battery, Customizable Sound, 4 Digital Mics for Crystal-Clear Calls, Multipoint Connectivity, 1 Yr Warranty, Denim",
+   "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDA3MTIxNzExNDUxMzI6Ojo6&url=%2Fdp%2FB0CJL1QQN6%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0CJL1QQN6%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3DRutsW8wc4e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=RutsW8wc4e&sp_cr=ZAZ",
+   "link_clean": "https://www.amazon.in/dp/B0CJL1QQN6/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CJL1QQN6&device=desktop&engine=amazon_product",
+   "sponsored": true,
+   "badges": [
+    "Great Indian Festival"
+   ],
+   "thumbnail": "https://m.media-amazon.com/images/I/51+olzGKl4L._AC_UF480,480_SR480,480_.jpg",
+   "rating": 4.3,
+   "reviews": 12828,
+   "discount": "-40%",
+   "price": "₹20,990.00",
+   "extracted_price": 20990.0,
+   "old_price": "null",
+   "save_with_coupon": "You pay ₹19,490.00"
+  },
+  {
+   "position": 8,
+   "asin": "B0HGK7B21H",
+   "title": "Sennheiser HDB 630 Wireless Headphones incl. Hi-Res BT Dongle, Lunar Silver | Included BTD 700 for high resolution audio, parametric EQ in-app and crossfeed function.",
+   "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDEzOTE3ODM2ODAwMzI6Ojo6&url=%2Fdp%2FB0HGK7B21H%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0HGK7B21H%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3DEdLeac9TSq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=EdLeac9TSq&sp_cr=ZAZ",
+   "link_clean": "https://www.amazon.in/dp/B0HGK7B21H/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0HGK7B21H&device=desktop&engine=amazon_product",
+   "sponsored": true,
+   "badges": [
+    "Limited time deal"
+   ],
+   "thumbnail": "https://m.media-amazon.com/images/I/71M6y0l8t+L._AC_UF480,480_SR480,480_.jpg",
+   "rating": 4.6,
+   "reviews": 120,
+   "discount": "-25%",
+   "price": "₹41,490.00",
+   "extracted_price": 41490.0,
+   "old_price": "null",
+   "save_with_coupon": "You pay ₹38,990.00"
+  },
+  {
+   "position": 9,
+   "asin": "B0F5PX1JVY",
+   "title": "Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery-Pink",
+   "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDEwODk2ODkyODM0MzI6Ojo6&url=%2Fdp%2FB0F5PX1JVY%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0F5PX1JVY%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3D1ONbzGnlQ9%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=1ONbzGnlQ9&sp_cr=ZAZ",
+   "link_clean": "https://www.amazon.in/dp/B0F5PX1JVY/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0F5PX1JVY&device=desktop&engine=amazon_product",
+   "sponsored": true,
+   "badges": [
+    "Mega Festival Deal"
+   ],
+   "thumbnail": "https://m.media-amazon.com/images/I/61wSmw6oC7L._AC_UF480,480_SR480,480_.jpg",
+   "rating": 4.3,
+   "reviews": 16608,
+   "discount": "-50%",
+   "price": "₹2,989.00",
+   "extracted_price": 2989.0,
+   "old_price": "null"
+  },
+  {
+   "position": 10,
+   "asin": "B0FQNYX1H6",
+   "title": "Srhythm NiceComfort 95 Hybrid Noise Cancelling Headphones Wireless | Bluetooth with Transparency,ENC,HD Sound,Slim Headphones Lightweight",
+   "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDA5Nzc1NTg4NTEzMzI6Ojo6&url=%2Fdp%2FB0FQNYX1H6%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0FQNYX1H6%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3Dwu9XKWCS0r%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=wu9XKWCS0r&sp_cr=ZAZ",
+   "link_clean": "https://www.amazon.in/dp/B0FQNYX1H6/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0FQNYX1H6&device=desktop&engine=amazon_product",
+   "sponsored": true,
+   "thumbnail": "https://m.media-amazon.com/images/I/61hpYehzRkL._AC_UF480,480_SR480,480_.jpg",
+   "rating": 4.3,
+   "reviews": 2311,
+   "discount": "-9%",
+   "price": "₹9,999.00",
+   "extracted_price": 9999.0,
+   "old_price": "null"
+  },
+  {
+   "position": 11,
+   "asin": "B0DD8SHVZL",
+   "title": "Sony MDR-M1 Wired High Resolution Monitor Over Ear Headphones, Closed Back Design for Audiophile",
+   "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDEyNzYxNjU1MTg1MzI6Ojo6&url=%2Fdp%2FB0DD8SHVZL%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DD8SHVZL%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3DezWoJMDsTv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=ezWoJMDsTv&sp_cr=ZAZ",
+   "link_clean": "https://www.amazon.in/dp/B0DD8SHVZL/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0DD8SHVZL&device=desktop&engine=amazon_product",
+   "sponsored": true,
+   "thumbnail": "https://m.media-amazon.com/images/I/519hVWS5TCL._AC_UF480,480_SR480,480_.jpg",
+   "rating": 4.6,
+   "reviews": 249,
+   "discount": "-50%",
+   "price": "₹19,990.00",
+   "extracted_price": 19990.0,
+   "old_price": "null"
+  },
+  {
+   "position": 12,
+   "asin": "B0BS1QCFHX",
+   "title": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, Adaptive Sound Control, Quick Charge, Up to 35Hrs Battery, Customized EQ- Black",
+   "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDAyODEzNzkzMzI1MzI6Ojo6&url=%2Fdp%2FB0BS1QCFHX%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0BS1QCFHX%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3DqkfTN3T8op%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=qkfTN3T8op&sp_cr=ZAZ",
+   "link_clean": "https://www.amazon.in/dp/B0BS1QCFHX/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0BS1QCFHX&device=desktop&engine=amazon_product",
+   "sponsored": true,
+   "badges": [
+    "#1 Best Seller",
+    "Great Indian Festival"
+   ],
+   "thumbnail": "https://m.media-amazon.com/images/I/51rpbVmi9XL._AC_UF480,480_SR480,480_.jpg",
+   "rating": 4.3,
+   "reviews": 16979,
+   "discount": "-53%",
+   "price": "₹6,989.00",
+   "extracted_price": 6989.0,
+   "old_price": "null"
+  },
+  {
+   "position": 13,
+   "asin": "B0F3PQHWTZ",
+   "title": "Sony WH-1000XM6 The Best Wireless Noise Canceling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality- Black, Over Ear",
+   "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDA3NTA4MzEyOTQ0MzI6Ojo6&url=%2Fdp%2FB0F3PQHWTZ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0F3PQHWTZ%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3Db0lrMNeXtY%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=b0lrMNeXtY&sp_cr=ZAZ",
+   "link_clean": "https://www.amazon.in/dp/B0F3PQHWTZ/",
+   "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0F3PQHWTZ&device=desktop&engine=amazon_product",
+   "sponsored": true,
+   "badges": [
+    "Great Indian Festival"
+   ],
+   "thumbnail": "https://m.media-amazon.com/images/I/61ddahpESML._AC_UF480,480_SR480,480_.jpg",
+   "rating": 4.5,
+   "reviews": 3730,
+   "discount": "-28%",
+   "price": "₹35,989.00",
+   "extracted_price": 35989.0,
+   "old_price": "null"
+  }
+ ],
+ "related_product_sections": [
+  {
+   "title": "Customers who viewed this item also viewed",
+   "items": [
+    {
+     "position": 1,
+     "title": "Sony ULT Wear WH-ULT900N Noise Cancellation Wireless Bluetooth Over Ear Headphones with Massive Bass, Up to 50Hrs Battery-Bla",
+     "link": "https://www.amazon.in/Sony-Headphones-Wh-Ult900N-Cancelling-Pair-Black/dp/B0CWVX1GNX/ref=pd_sbs_d_sccl_1_1/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0CWVX1GNX&psc=1",
+     "asin": "B0CWVX1GNX",
+     "link_clean": "https://www.amazon.in/Sony-Headphones-Wh-Ult900N-Cancelling-Pair-Black/dp/B0CWVX1GNX/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CWVX1GNX&device=desktop&engine=amazon_product",
+     "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/610DB8Cwm7L._AC_UL165_SR165,165_.jpg",
+     "rating": 4.3,
+     "reviews": 3902,
+     "price": "₹12,989.00",
+     "extracted_price": 12989.0,
+     "price_unit": "M.R.P: ₹24,990.00",
+     "extracted_price_unit": 24990.0,
+     "old_price": "₹24,990.00",
+     "extracted_old_price": 24990.0,
+     "delivery": [
+      "Get it by Sunday, October 11"
+     ]
+    },
+    {
+     "position": 2,
+     "title": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, Adaptive Sound Control, Quick Charg",
+     "link": "https://www.amazon.in/Sony-Cancellation-Headphones-Multi-Point-Connection/dp/B0BS1QCFHX/ref=pd_sbs_d_sccl_1_2/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0BS1QCFHX&psc=1",
+     "asin": "B0BS1QCFHX",
+     "link_clean": "https://www.amazon.in/Sony-Cancellation-Headphones-Multi-Point-Connection/dp/B0BS1QCFHX/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0BS1QCFHX&device=desktop&engine=amazon_product",
+     "badges": [
+      "#1 Best Seller"
+     ],
+     "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/51rpbVmi9XL._AC_UL165_SR165,165_.jpg",
+     "rating": 4.3,
+     "reviews": 16979,
+     "price": "₹6,989.00",
+     "extracted_price": 6989.0,
+     "price_unit": "M.R.P: ₹14,990.00",
+     "extracted_price_unit": 14990.0,
+     "old_price": "₹14,990.00",
+     "extracted_old_price": 14990.0,
+     "delivery": [
+      "Get it by Monday, October 12"
+     ]
+    },
+    {
+     "position": 3,
+     "title": "Sony WH-1000XM6 The Best Wireless Noise Canceling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mas",
+     "link": "https://www.amazon.in/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ/ref=pd_sbs_d_sccl_1_3/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0F3PQHWTZ&psc=1",
+     "asin": "B0F3PQHWTZ",
+     "link_clean": "https://www.amazon.in/Sony-WH-1000XM6-Headphones-Microphones-Studio-Quality/dp/B0F3PQHWTZ/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0F3PQHWTZ&device=desktop&engine=amazon_product",
+     "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61ddahpESML._AC_UL165_SR165,165_.jpg",
+     "rating": 4.5,
+     "reviews": 3730,
+     "price": "₹35,989.00",
+     "extracted_price": 35989.0,
+     "price_unit": "M.R.P: ₹49,990.00",
+     "extracted_price_unit": 49990.0,
+     "old_price": "₹49,990.00",
+     "extracted_old_price": 49990.0,
+     "delivery": [
+      "Get it by Sunday, October 11"
+     ]
+    },
+    {
+     "position": 4,
+     "title": "Bose NEW QuietComfort Wireless Noise Cancelling Headphones, Bluetooth Over Ear Headphones with Up to 24 Hours of Battery Life",
+     "link": "https://www.amazon.in/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V/ref=pd_sbs_d_sccl_1_4/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0CCZ26B5V&psc=1",
+     "asin": "B0CCZ26B5V",
+     "link_clean": "https://www.amazon.in/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CCZ26B5V&device=desktop&engine=amazon_product",
+     "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/61windvlNZL._AC_UL165_SR165,165_.jpg",
+     "rating": 4.4,
+     "reviews": 21611,
+     "price": "₹15,490.00",
+     "extracted_price": 15490.0,
+     "price_unit": "M.R.P: ₹27,900.00",
+     "extracted_price_unit": 27900.0,
+     "old_price": "₹27,900.00",
+     "extracted_old_price": 27900.0,
+     "delivery": [
+      "Get it by Sunday, October 11"
+     ]
+    },
+    {
+     "position": 5,
+     "title": "Sennheiser Momentum 4 Wireless Over Ear Headphones (Smartchoice), German Design, ANC, 60h Battery, Customizable Sound, 4 Digi",
+     "link": "https://www.amazon.in/Sennheiser-Customizable-Crystal-Clear-Connectivity-Black-Copper/dp/B0CCRZPKR1/ref=pd_sbs_d_sccl_1_5/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0CCRZPKR1&psc=1",
+     "asin": "B0CCRZPKR1",
+     "link_clean": "https://www.amazon.in/Sennheiser-Customizable-Crystal-Clear-Connectivity-Black-Copper/dp/B0CCRZPKR1/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CCRZPKR1&device=desktop&engine=amazon_product",
+     "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71sLOtsK2UL._AC_UL165_SR165,165_.jpg",
+     "rating": 4.3,
+     "reviews": 12828,
+     "price": "₹20,990.00",
+     "extracted_price": 20990.0,
+     "price_unit": "M.R.P: ₹34,990.00",
+     "extracted_price_unit": 34990.0,
+     "old_price": "₹34,990.00",
+     "extracted_old_price": 34990.0,
+     "delivery": [
+      "Get it by Monday, October 12"
+     ]
+    },
+    {
+     "position": 6,
+     "title": "Sennheiser ACCENTUM Plus Wireless Over Ear Headphones,German Design,Adaptive ANC,50H Battery,Sound Personalization,Touch Cont",
+     "link": "https://www.amazon.in/Sennheiser-ACCENTUM-Wireless-Bluetooth-Headphones/dp/B0CQKDKPS6/ref=pd_sbs_d_sccl_1_6/522-9646452-3009425?pd_rd_w=2esoW&content-id=amzn1.sym.d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_p=d1406b44-aa69-47e4-9270-f613e12d52dc&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010&pd_rd_i=B0CQKDKPS6&psc=1",
+     "asin": "B0CQKDKPS6",
+     "link_clean": "https://www.amazon.in/Sennheiser-ACCENTUM-Wireless-Bluetooth-Headphones/dp/B0CQKDKPS6/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CQKDKPS6&device=desktop&engine=amazon_product",
+     "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/71Q-uiqUGSL._AC_UL165_SR165,165_.jpg",
+     "rating": 4.2,
+     "reviews": 1729,
+     "price": "₹13,990.00",
+     "extracted_price": 13990.0,
+     "price_unit": "M.R.P: ₹19,990.00",
+     "extracted_price_unit": 19990.0,
+     "old_price": "₹19,990.00",
+     "extracted_old_price": 19990.0,
+     "delivery": [
+      "Get it by Monday, October 12"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Related products with free delivery on eligible orders",
+   "items": [
+    {
+     "position": 1,
+     "asin": "B0CJL1QQN6",
+     "title": "Sennheiser Momentum 4 Wireless Over Ear Headphones, German Design, ANC, 60h Battery, Customizable Sound, 4 Digital Mics for Crystal-Clear Calls, Multipoint Connectivity, 1 Yr Warranty, Denim",
+     "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDA3MTIxNzExNDUxMzI6Ojo6&url=%2Fdp%2FB0CJL1QQN6%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0CJL1QQN6%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3DRutsW8wc4e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=RutsW8wc4e&sp_cr=ZAZ",
+     "link_clean": "https://www.amazon.in/dp/B0CJL1QQN6/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0CJL1QQN6&device=desktop&engine=amazon_product",
+     "sponsored": true,
+     "badges": [
+      "Great Indian Festival"
+     ],
+     "thumbnail": "https://m.media-amazon.com/images/I/51+olzGKl4L._AC_UF480,480_SR480,480_.jpg",
+     "rating": 4.3,
+     "reviews": 12828,
+     "discount": "-40%",
+     "price": "₹20,990.00",
+     "extracted_price": 20990.0,
+     "old_price": "null",
+     "save_with_coupon": "You pay ₹19,490.00"
+    },
+    {
+     "position": 2,
+     "asin": "B0HGK7B21H",
+     "title": "Sennheiser HDB 630 Wireless Headphones incl. Hi-Res BT Dongle, Lunar Silver | Included BTD 700 for high resolution audio, parametric EQ in-app and crossfeed function.",
+     "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDEzOTE3ODM2ODAwMzI6Ojo6&url=%2Fdp%2FB0HGK7B21H%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0HGK7B21H%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3DEdLeac9TSq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=EdLeac9TSq&sp_cr=ZAZ",
+     "link_clean": "https://www.amazon.in/dp/B0HGK7B21H/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0HGK7B21H&device=desktop&engine=amazon_product",
+     "sponsored": true,
+     "badges": [
+      "Limited time deal"
+     ],
+     "thumbnail": "https://m.media-amazon.com/images/I/71M6y0l8t+L._AC_UF480,480_SR480,480_.jpg",
+     "rating": 4.6,
+     "reviews": 120,
+     "discount": "-25%",
+     "price": "₹41,490.00",
+     "extracted_price": 41490.0,
+     "old_price": "null",
+     "save_with_coupon": "You pay ₹38,990.00"
+    },
+    {
+     "position": 3,
+     "asin": "B0F5PX1JVY",
+     "title": "Sony WH-CH520 Wireless Bluetooth Headphones On Ear with Mic, Up to 50Hrs Battery-Pink",
+     "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDEwODk2ODkyODM0MzI6Ojo6&url=%2Fdp%2FB0F5PX1JVY%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0F5PX1JVY%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3D1ONbzGnlQ9%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=1ONbzGnlQ9&sp_cr=ZAZ",
+     "link_clean": "https://www.amazon.in/dp/B0F5PX1JVY/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0F5PX1JVY&device=desktop&engine=amazon_product",
+     "sponsored": true,
+     "badges": [
+      "Mega Festival Deal"
+     ],
+     "thumbnail": "https://m.media-amazon.com/images/I/61wSmw6oC7L._AC_UF480,480_SR480,480_.jpg",
+     "rating": 4.3,
+     "reviews": 16608,
+     "discount": "-50%",
+     "price": "₹2,989.00",
+     "extracted_price": 2989.0,
+     "old_price": "null"
+    },
+    {
+     "position": 4,
+     "asin": "B0FQNYX1H6",
+     "title": "Srhythm NiceComfort 95 Hybrid Noise Cancelling Headphones Wireless | Bluetooth with Transparency,ENC,HD Sound,Slim Headphones Lightweight",
+     "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDA5Nzc1NTg4NTEzMzI6Ojo6&url=%2Fdp%2FB0FQNYX1H6%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0FQNYX1H6%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3Dwu9XKWCS0r%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=wu9XKWCS0r&sp_cr=ZAZ",
+     "link_clean": "https://www.amazon.in/dp/B0FQNYX1H6/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0FQNYX1H6&device=desktop&engine=amazon_product",
+     "sponsored": true,
+     "thumbnail": "https://m.media-amazon.com/images/I/61hpYehzRkL._AC_UF480,480_SR480,480_.jpg",
+     "rating": 4.3,
+     "reviews": 2311,
+     "discount": "-9%",
+     "price": "₹9,999.00",
+     "extracted_price": 9999.0,
+     "old_price": "null"
+    },
+    {
+     "position": 5,
+     "asin": "B0DD8SHVZL",
+     "title": "Sony MDR-M1 Wired High Resolution Monitor Over Ear Headphones, Closed Back Design for Audiophile",
+     "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDEyNzYxNjU1MTg1MzI6Ojo6&url=%2Fdp%2FB0DD8SHVZL%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DD8SHVZL%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3DezWoJMDsTv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=ezWoJMDsTv&sp_cr=ZAZ",
+     "link_clean": "https://www.amazon.in/dp/B0DD8SHVZL/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0DD8SHVZL&device=desktop&engine=amazon_product",
+     "sponsored": true,
+     "thumbnail": "https://m.media-amazon.com/images/I/519hVWS5TCL._AC_UF480,480_SR480,480_.jpg",
+     "rating": 4.6,
+     "reviews": 249,
+     "discount": "-50%",
+     "price": "₹19,990.00",
+     "extracted_price": 19990.0,
+     "old_price": "null"
+    },
+    {
+     "position": 6,
+     "asin": "B0BS1QCFHX",
+     "title": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, Adaptive Sound Control, Quick Charge, Up to 35Hrs Battery, Customized EQ- Black",
+     "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDAyODEzNzkzMzI1MzI6Ojo6&url=%2Fdp%2FB0BS1QCFHX%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0BS1QCFHX%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3DqkfTN3T8op%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=qkfTN3T8op&sp_cr=ZAZ",
+     "link_clean": "https://www.amazon.in/dp/B0BS1QCFHX/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0BS1QCFHX&device=desktop&engine=amazon_product",
+     "sponsored": true,
+     "badges": [
+      "#1 Best Seller",
+      "Great Indian Festival"
+     ],
+     "thumbnail": "https://m.media-amazon.com/images/I/51rpbVmi9XL._AC_UF480,480_SR480,480_.jpg",
+     "rating": 4.3,
+     "reviews": 16979,
+     "discount": "-53%",
+     "price": "₹6,989.00",
+     "extracted_price": 6989.0,
+     "old_price": "null"
+    },
+    {
+     "position": 7,
+     "asin": "B0F3PQHWTZ",
+     "title": "Sony WH-1000XM6 The Best Wireless Noise Canceling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality- Black, Over Ear",
+     "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDY0ODk3NDcwNDY5NjQ0OjE3OTE0ODg0MDI6c3BfZGV0YWlsMjozMDA3NTA4MzEyOTQ0MzI6Ojo6&url=%2Fdp%2FB0F3PQHWTZ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0F3PQHWTZ%26pd_rd_w%3DuusHu%26content-id%3Damzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_p%3D9a67d0ba-b3d8-41ee-8e29-a3d839054b56%26pf_rd_r%3D111G1CE7KXQFWXE090R5%26pd_rd_wg%3DYReyI%26pd_rd_r%3D15fa26b6-a64d-4265-8dc7-716ab0b2d010%26aref%3Db0lrMNeXtY%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy&aref=b0lrMNeXtY&sp_cr=ZAZ",
+     "link_clean": "https://www.amazon.in/dp/B0F3PQHWTZ/",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0F3PQHWTZ&device=desktop&engine=amazon_product",
+     "sponsored": true,
+     "badges": [
+      "Great Indian Festival"
+     ],
+     "thumbnail": "https://m.media-amazon.com/images/I/61ddahpESML._AC_UF480,480_SR480,480_.jpg",
+     "rating": 4.5,
+     "reviews": 3730,
+     "discount": "-28%",
+     "price": "₹35,989.00",
+     "extracted_price": 35989.0,
+     "old_price": "null"
+    }
+   ]
+  }
+ ],
+ "product_description": [
+  {
+   "position": 1,
+   "title": "WH-1000XM5",
+   "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b655a6f6-2e25-41fb-8197-1850ceaba938.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+  },
+  {
+   "position": 2,
+   "carousel_images": [
+    {
+     "position": 1,
+     "title": "digit",
+     "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1c758652-500d-48a0-bfe4-afb717fcbbb3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    },
+    {
+     "position": 2,
+     "title": "Exhibit Tech",
+     "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/02859b3c-fa14-433c-a79d-fb3db1549c4c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    },
+    {
+     "position": 3,
+     "title": "Stuff",
+     "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41563562-76fc-430c-9fe8-07cd2efbdb1b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    },
+    {
+     "position": 4,
+     "title": "Gadget Bridge",
+     "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f0cfc8c7-bf7b-4109-8f03-254a86821259.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    },
+    {
+     "position": 5,
+     "title": "WH-1000XM5",
+     "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0fba43b-0718-428c-86e3-8961d9231da4.__CR0,0,1465,600_PT0_SX1464_V1___.jpg"
+    }
+   ]
+  },
+  {
+   "position": 3
+  },
+  {
+   "position": 4
+  },
+  {
+   "position": 5
+  },
+  {
+   "position": 6
+  },
+  {
+   "position": 7
+  }
+ ],
+ "product_details": {
+  "brand_name": "Sony",
+  "model_number": "XM5BK",
+  "model_name": "XM Series",
+  "box_contents": "Carring Case, Connection Cable, USB C-Type cable, Reference Guide",
+  "age_range_description": "Adult",
+  "country_of_origin": "Malaysia",
+  "warranty_description": "1 Year",
+  "customer_package_type": "Standard Packaging",
+  "number_of_items": "1",
+  "series_number": "5",
+  "global_trade_identification_number": "04548736132627",
+  "manufacturer": "Sony Corporation, sony corporation, 1-7-1, konan, minato-ku, tokyo, 108-0075, japan",
+  "external_testing_certification": "ANATEL: 096692409568/ Modelo: X-M5",
+  "importer_contact_information": "Sony India Private Limited, A-18, Mohan Co-operative Industrial Estate, Mathura Road, NEW DELHI 110044, INDIA , Customer Care Number : 080 6500 6500, email: sonyindia.care@ap.sony.com",
+  "is_autographed": "No",
+  "item_type_name": "Headphones",
+  "manufacturer_contact_information": "sony corporation, 1-7-1, konan, minato-ku, tokyo, 108-0075, japan",
+  "packer_contact_information": "sony corporation, 1-7-1, konan, minato-ku, tokyo, 108-0075, japan",
+  "best_sellers_rank": [
+   {
+    "text": "#242 in Electronics (See Top 100 in Electronics)",
+    "extracted_rank": 242,
+    "link": "https://www.amazon.in/gp/bestsellers/electronics/ref=pd_zg_ts_electronics",
+    "link_text": "See Top 100 in Electronics"
+   },
+   {
+    "text": "#3 in Over-Ear Headphones",
+    "extracted_rank": 3,
+    "link": "https://www.amazon.in/gp/bestsellers/electronics/14146390031/ref=pd_zg_hrsr_electronics",
+    "link_text": "Over-Ear Headphones"
+   }
+  ],
+  "asin": "B09XS7JWHH",
+  "customer_reviews": "4.4 out of 5 stars",
+  "rating": 4.4,
+  "reviews": 17252,
+  "colour": "WH-1000XM5, Black",
+  "style_name": "WH-1000XM5/Black",
+  "theme": "Fantasy",
+  "item_weight_unit_of_measure": "8.82 Ounces",
+  "unit_count": "1 Count",
+  "impedance_unit_of_measure": "48 Ohms",
+  "noise_control": "Active Noise Cancellation",
+  "audio_driver_type": "Dynamic Driver",
+  "audio_driver_size": "30 Millimetres",
+  "enclosure_material": "Leather",
+  "specific_uses_for_product": "Music",
+  "antenna_location": "Entertainment, Calling, Gaming, Outdoor, Recording, Exercising, Running, Audio Monitoring, Travelling, Listening Music",
+  "compatible_devices": "iphones, ipods, Android smartphones, Laptops, Computers & other bluetooth device",
+  "cable_features": "Without Cable",
+  "water_resistance_level": "Not Water Resistant",
+  "product_features": "Unfoldable",
+  "headphone_jack": "3.5 mm Jack",
+  "network_connectivity_technology": "Bluetooth, Wireless",
+  "wireless_technology_type": "Bluetooth",
+  "bluetooth_range": "10 Metres",
+  "bluetooth_version": "5.2",
+  "headphones_ear_placement": "Over Ear",
+  "headphone_form_factor": "Over Ear",
+  "earpiece_shape": "Oval",
+  "control_type": "Voice Control, Touch Control, Volume Control",
+  "control_method": "Voice",
+  "controller_type": "AMAZON ALEXA, BUTTON, GOOGLE ASSISTANT, SIRI",
+  "battery_charge_time": "3 Hours",
+  "battery_average_life": "40 Hours"
+ },
+ "sponsored_brands": [
+  {
+   "position": 1,
+   "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/fa40487f-50f1-4654-a9ff-51e91dc44528._CR0,0,1200,628_SX460_CB1169409_QL70_.jpg",
+   "name": "Sony",
+   "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8bb65e6f-a51e-4a5a-ae7e-a88b750d0372._CR0,0,500,500_AC_SX96_SY48_CB1169409_QL70_.png",
+   "headline": "Sony ULT Power Sound Series",
+   "link": "https://aax-eu-zaz.amazon.in/x/c/JGrm9MrG-zez8rYvW5CLVWkAAAGhHQemRQoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBeVqNl/clv1c_ek-wBYHXFcbWDn2nI7fIOog9g9gbaPb9SvCm9lHqndoPFXsCnQ0irEHbE0WVP3hbYEjHTASy51Fay2KU71bkYE5Y-AHkLnj7-j1yFknXHsQVB4n6Xnw4vJl84vQUltNxmmDfAXMRvOtzieb9Gh0xGdXUqqVcFlH-rs_Sly_qbIQaQx-1AK6YTHi4mTrchjR4ptdSEWkjf2aIVK16u0C0qfzOGCcrEFsZLeIjidEh57AlkwL51H43DseHzsyd9cfvCR0ClI0wEKwi6KN7fF_0Wm_qp5kxgdTkGxguy1g6DSKpkJB76G32h7My2ywCa1H7u5fLHm1CFdcOSgTdAH4ByB5t5hKpKpKDTtDTu-0ksKhQ5l1i6iOiWebZMmpvAVTCSscdKjXAx0CGI5FGrFaONVLdloj7UWs9nDeuiLQHz7hThivoPC4H5tCkwE8PTFgo8NXWXr5Ka7feeBSzSGivd23p7auGQ7xSNAop4V6EZQ8tqc91T-7rpLcoSWnt0bxUgOoaYFLAAzBh29lgyaKQPpJ7i4Yd9j_fqINH_wAe13d-WXhe8uLuvz-4t-CzJzX2dpwb1RuSOHSsdQshXOb__rX9mL9lEpn5yh1NoIrkO_f97v23rwE5RWm2NWi4BEV_gdQ7YCCfh0z1U8olTExfuNEN4mr0efNzL16WewqD3HzoGGnapVrPGWcS3MyNH6pD76uOQCBrLhsHknCs2uOjuUlcRRsJ3PrLOhjIAIWxEFyKgGbOG7He1sh12pL7l5p4oomJ-l2qyj4wFlFgH_KlcvDSPx0H6sSmKWe6ZsxskIW9DnADwBic6WiznC1vGTKXUdNrHITWUfP1YJWYuISjIsFOcWWQoDwakPY59bhVZc8dRCWtenFbquaObi_VpALhUJT_4Mv9LjyXDCwduexv8bskWLHhKNpzOekzurGPZmPJ_JlF_lDcvvJQH0bIliK4azkk1KJuFKpP82VTmVSdBht4ywZD6HRkgcbZo1jQJEDvBQ-bFGF-U3Fg5gZA8OUqAu2iDYO0vzwmK13rLuuu2HNCY0tBazs02TMYJ6OhQ-M2Z1feENBSRmrf_Jm4YjtliLvge9_oNCCdhIfrrbNfoTYNgNedgJqgmzkaHq2tBExQhZCjVg-xNKwUFVDCzH0LGOAcSd9FnRGcjdI9GParJ-i_xLWIwqKu3Htqn_OfptSb0AWtx47wFfvdFEY0wmhmecOsu2Hd6tRiw7i4GTsrn2IoyTOtUpmt_duo9nm1NWAOIuVAqYgGTHy-gNqyMG5riWm7BDrz-DxTS-X4_UwLeFKVVyx_IBcxFE8cK9cRP6DxNxIuOJsI334AeZ_oFPk0wB68r6zUWyRpLykIW_asE0W2rr5Ytcwqp8e_J1oQVomfVf6O2Om3rW84xvGMQU_d_hWlK8_U6g2ZwRoRKCku2BaFGbtx8Lj6OGWoPe6EY31jnc2CYuylmjQPYinJ9L95EGHWPczRx1s5KtvNKYcfd0s0V_pKc5DeCr6jhi_xVdo0eWEHrzG8VSRmw2yRhJgLUwGvD1bOphZ-I46cv1kK6z-pqrvn5lZB9iX2u3SKJEwpbopndMcL3doHlnRLLlz-HvtdSMrGCL1uGw/https://www.amazon.in/stores/page/29E4F2E6-54B8-4AD4-99F8-AA5441A0ED46/?_encoding=UTF8&store_ref=SB_A06681532NPVPB1R3BFVL-A08477962CDD78GV7CKM6&pd_rd_plhdr=t&aaxitk=e9d893005effe4cf5bc4321bc894218b&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09XS7JWHH&aref=HsGd3J7fzg&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mblsd_mb0_bkgd&pd_rd_w=pNzYC&content-id=amzn1.sym.7e7fd29d-32f9-46bd-a74b-f5f2ade509dd&pf_rd_p=7e7fd29d-32f9-46bd-a74b-f5f2ade509dd&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010"
+  },
+  {
+   "position": 2,
+   "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/b2c405db-25ec-47af-9883-25495b162a5d._CR0,0,1200,628_SX460_CB1169409_QL70_.png",
+   "name": "Noise Audio",
+   "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/082cf8c0-d675-4f7b-9cba-7075432c1252._CR0,0,2500,525_AC_SX96_SY48_CB1169409_QL70_.png",
+   "headline": "Air Clips | Open Beam Design | Chrome Finish",
+   "link": "https://aax-eu-zaz.amazon.in/x/c/JOY_BOt67Ki3bv_FvtVfBiwAAAGhHQemRgoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBjnHt2/clv1c_ek-wBff3Vcba3jI2mMVy-l3hTE1Wb8XwbJ5fqoN3NUEiLFzzDF7wmX2Uk6lyil8Q2hhValy-3eWigj9QbPK1gLBmwekSFM7EXuOHnW-DEOxVB1CLsgCK77f96__0BjCySetT_GW-tairCYqKl92uUlvbopkcllDtA0n80SGKZAacXXhnc-D65sd5IK9GohVMeT-LfwEq3QfH3v6RkRywwkfSTzufPVIz3Pz-GrIXOaDRz3fo2wPuf5RTJdaAyt2ahJJUTZoFx11LBnV60b3CkZ-RDafTsP_CZkrYySHRotya0dlj62SDuP6BRvIq5jVkGpE6lWNqd4v2zB5rFji-2Vvb51NZFWo8xpR_43nbaCW4KKvAlEyqJIEc5HjtQ08ziWlteYmTGEoAZez9D2-kGW6Cc4j2G3vfVF_N5LMtcV_ZbzggrKM6tzcGNbdCSSZBEff25GXVCxPsgMooohXfyKL_FIUEMqI4IiEj5HMjieqmnneA-ROdEcoU4m2Rk6C8NICZllWYVD4qkBEQi4Agz3-Os4Yiz8vXTwvYoBrab-GT5UjKv1cCBdJ-jCSzqa1g7ar1bPaSLIatf1MRJyeLtQEFpPvvSSG4NzQnoZJQ8rTTUE8t1dER6zJy9hDPTJDK4i7OoptT7AMSaMKZgLoFmJs8aVUxdarGIXD8PUrfJa2AotYIb7qJEg732poQ3CJTzNCb97KWlSFlAaueKJpgRGz-8WbFs4V0WCh1X-webGlkzXBtLvZ5_JdZ1kodDWXQdw5rhcHAVWFrU1DJCTrNgsnUfnpkZlkGmSvt_mHFtc0ATSM8--PE_mGENsHRdLZCeTB0itoh1xRojo_xUTC5Ta3ZL91wFov-CmnxbMyZIRcH_VHVAAU4HEokPVMMMecD5xM3mw65X3gAi6FPesYj4r-OZanuyIFRiFUTaWPXtvfokWlT2fHXo5ONVgGRHnzTB-9YNjR936_8rj2KxqvX_Bc0xEF-5OQzDDT6NaBjvtLZY28e9BlWExKXAZm0EIVUTInKUlGbRuylaBcEDXJ9UHnnM9QtJgwaA7_D7m_c1L9LQVcwJHDObCuY-7E4ye6-lf3R92eBqmrkKAbsdSiL6txKlfHMXHq-LYe7cFfRTTFJtj-1HGxV6u9IkVIjbyU94KLpt0IYJYYHFCfWzStDJcSx5pArzjanf8ewjl3PCQY-zsByfXzoM-cLUoqoD9cswYspjNj450f8S3GNdfWzyQYAYWzAm317NJbuYx3JKwVzyac0-9zSVDPradAfjerFmWY_G0SHrWa65pkbJ_lJQnzT31-2JVM9xHOZpzMlTXF5oG94pxyjWntIL101fJHZNtmfeV7O-vD0XnrAtiqwlF9luEDRl0zvcB81SQRStJ4hZbNAlMkWo4G40jVzFKck-96YcNnoy0ZbRK3SPAMZsjVKJVhphWJKKC2FoPV__8fElIuV93FlF0feTlgr3--HVhiXbbVzG9jbwzjETRYlKXic68ro52QBYWnPw860f6Ovo-GuIz7CNEnJvJJfD8gfE-0ziZ4d4rSrV9OrZoxEWiJ21jJ5VTUqVQfvWg/https://www.amazon.in/stores/page/54A0E070-3298-46B8-A774-73C5E97971E1/?_encoding=UTF8&store_ref=SB_A08919381LX4KUSIJL2T9-A0818456NOWM361839QJ&pd_rd_plhdr=t&aaxitk=064cca45e0e0fff6d31f7c585759391a&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09XS7JWHH&aref=UYp871CEwk&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mblsd_mb1_bkgd&pd_rd_w=pNzYC&content-id=amzn1.sym.7e7fd29d-32f9-46bd-a74b-f5f2ade509dd&pf_rd_p=7e7fd29d-32f9-46bd-a74b-f5f2ade509dd&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010"
+  },
+  {
+   "position": 3,
+   "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/63f57353-d047-4ef6-a268-f94edd336a06._CR0,0,1200,628_SX460_CB1169409_QL70_.jpg",
+   "name": "Zebronics",
+   "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/454aa010-2d69-46ff-9e8a-94dacbc437f4._CR0,0,3000,493_AC_SX96_SY48_CB1169409_QL70_.png",
+   "headline": "Headphones for All-Day Comfort",
+   "link": "https://aax-eu-zaz.amazon.in/x/c/JFIq8aivzi0KqzSblZ71_hsAAAGhHQemRgoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICB6iqPK/clv1c_ek-wBXf2VcbW3jI2m8Vy-l3hTE1Wb8XwLPwDw7aoyu6epxwLbC9R9fgMwLky62pEiHCqTPOgaShwmtyQ_xriUETQAj6kKVqiNv2gRmGFWNxwkzJvSgtPhAHvhqF0JXsysdJYNprE3-vfhbRZQLDG38vKtJUcl1zCtuKkx0cqjIMVbbMtXdOC7Mrr6MBPpMXbLKRIHDZq3oXI0uKhjTyAkjEpsXX_p-4e7AyF_g8tpdIC8znkw-PvChlIExMgAOn7kCWc__XUUtRPi62WNu7o-wYHUlwYad_6fItGiuLSdC63BtSvcFCXu31oYhybgghu_plZ0NSFHNqEzJ0de8Rw_J6siC6rhGdRVrRTl9ej2JBMRQ0zuUby5BFqk2AhJJ5oJ4G_RryXW8AsWYvtDw_kNcolC2cNpRCrNYakOUhv_KH4NUygR03iMbst2UJeV-V2_7ohSXIYMTF_pVWoX7Ih0mbnocxa-GO-LSNOXO7l-Y-fDgbiO70ntCduE5V4K3R3IKXKQXjdJEL6b1vpNZBYQGeNSuW9TQUpnttYLUpkL2yjTdJSG4ad6ScbY-v0sNMjkCh1X3-KWlLDSfIkDiauuZyqv_cPiu6jA0DxojeZ72GPSdF72q36zWIfszmzhPdX4i3Q_dA3F_rQNRhP0cnLZIR2GrDo8wXSskqetxSPx1FkO4bQOURLeQRZMmGeK3OqpU3t9vA-3ZxX_7m7RPNUwueJVS9TtYK9JWR3yJffsGFPSeSZ7V2S2C7AFark61JPsyoE1l-ctweTF9AXa4rnEFPK67T-TgqqK_vZy5ER4cXEpIIQdh6KuctP7sPmdrVSwLBVfJO-CAIQFJEDlcGgmoXGvow3NMDNTBioz-x28x2hFoEfB9Ht3QQotDfhbjj8BeQfV8_zUFwFw5Ojigo8ONoKfq9szriU63r74FZN7I4nBDnVgnnRHi2SfE_cRZ32pDhcYUU6kIUCKYaNP3soC32xn9ZMRfhYq-vYsDJheAGRxwImyH6g8rcqjkzzGH3Guci3-rckD2rxbMh02CDxtMP38BmIE1aRLQFWo_lTz2uXxRAwnN5sZby0TyEM-Y5oGi6cFMwwbdYj3z1_bA6hWctoRnXdlyNBUMT7e5LlSih_4dYn5Fk-i6HuBfQv71rqkytiqeRudTkK_E0Rhz_wBlgtOjisCInEXCfaN8AZU8L8-twOtkAiGbnVEvlTCUEYZRc5RDz6yeQhUJZjpTJTz-6CP7PRxAAwQ9OIEVKWBwis507M5E_8sWsJ03cJjbvsYzHBRtzZqiuVVKRvW3X8lT2erfwzTfDn_4NrcCSH5q-AMYrCCOj1L01jWxCVJiztzvHmYHt_WNQbz0axzaZQNA-ZlSbXqGbhq95Rorbc8KZFhxdCI-wR14EO-KyYM1gr0ysF1woNxVHCpzwb8IzR9zYow_98pTi2qYh0SwMl9hmOnVtYFIbNQLPvZtOi6lD-UGJBzsrCkD0Xwg54q4l5sCsg4OHJQ37Cjv-jsa9RAbmwtIivxE8dbW62WSStKDXjScs8p3PX3XYt8aar6kcjIv0m6O24T0aWBA-pcTABLVZHNmKmtTbwhAskRuy-18dBQsRVOQDd5KzAKfU/https://www.amazon.in/stores/page/4BD6B852-A839-4FA4-92CB-9603FFA1E7FD/?_encoding=UTF8&store_ref=SB_A07989482FBW1TVIG2ZU8-A0738425PETVMFG8M9OD&pd_rd_plhdr=t&aaxitk=fbdef2663a5316c0895eadee8645930d&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09XS7JWHH&aref=En7hjcXsJ1&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mblsd_mb2_bkgd&pd_rd_w=pNzYC&content-id=amzn1.sym.7e7fd29d-32f9-46bd-a74b-f5f2ade509dd&pf_rd_p=7e7fd29d-32f9-46bd-a74b-f5f2ade509dd&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010"
+  },
+  {
+   "position": 4,
+   "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/b1c475f8-8fac-46d8-b6d6-e6da7ca24e8a._CR0,0,1200,628_SX460_CB1169409_QL70_.jpg",
+   "name": "Sennheiser",
+   "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8bf02e8e-060c-4d6a-8877-7a7d736af039._CR0,0,500,428_AC_SX96_SY48_CB1169409_QL70_.png",
+   "headline": "Control freaks, it's your time to shine",
+   "link": "https://aax-eu-zaz.amazon.in/x/c/JPz_ltiq7wtcGWMYGcZHqIgAAAGhHQemRwoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD_bpGd/clv1c_ek-wBff3FcTW3et7cOoWGqIaA0wyLPK6BmyLC3TDC1MEZ3mlq9HcjAG7AcVRWyYaYUnOTBsoY_-rbysQLKLXVFTA0VSSmn7AIZhd3GFqXY066QGI8gBCbob55--0xrGxrmGz8mPeVYQRiOa8Kv02aVnTurlcFlH-oNe0R0cqjIMVVbMtx5B2PUvtx6Ik_IU2LKBIJxB_RxcpFWS2NEbInjENSFo7EFqjE_mfYn1tf9HZe3fdUx9Ti2Xp1yaVdizGE42JvKQfbFR3iy2zZ02Y5QYLklz2Gd_6fgD5bcIslfbGZ9LtTAbvlq6fF12yKRcZhzpidCeioKmMyp1h-F4NvzTGJ1q8ghxZ-_nC4Igg0fZpC9vYaMiaqnenpUzQsTP2dv1NtszZzFrYZMEBMcDn_njrexOcS_W1F9UGVr_CUO-XD0UIOC7SvVXtGf_tMmnMVZuOHdTRBse8_SuU4Vmtd2ViijLi7m591X1gzaz6p2mtLm4txUxLfdVBVBds2pMgPYgZwxW5qXKeZNyMJSmnVPx8suAGGOVgN4weIciaql-fbC12m859dQKgCe_ixK9DIpFgfiF0EfVc4RKxAX2S8wcmOpCjusDBvM6m-uLmA_f5DVz_9wEnRQoFJa5zXcWA4wrgdyydv0y5yc0ll5fw_kGLfgNNDuG_0t13uo1Rj5vc1BtvVOsPb3psXqzJUszCBeSp3i_lXGpLOwaMMH-3GqywbaFpnTb0qs3XABSMcPn7vjyOBEKp9z-4JDh3RPXzp9O4tpuQUyQLl8vlHXove25S41iIkFPvHuh591pcP55rthsgNROc4WgwlUI7oHX_um3tWEtC_F5CTyUvN0UxH73HXpAThDxvCmscJun766ZlsNWnFIEK5Ehj-g-_CgLTI8H6ytHIzyZMV6P4yIssxnYpNia3HU9ZOKNh05kIhzjAe_YM3IbYeKfnwPaTJD8ISj_Au_tb9rAfHIz0TJzvxdpCSI2I99Vvs1Nkpi9EYfbS3lRBmKIm01YTMEH0qlfQwGnPM1pXqDZih2xVVwA2aw0Amr9Ti7y-TiLXLqCwJmIYeESSQRnrNZ26l1DiR93sdkKZIw5-rMmS873v_wB5qZOtlOjpxuuGmUlsmkT7Rk51nb5aTU6URwf9pielfp-3nu2WAK6WPyyX1fJM3ft-GEqVJohx4IitjVswzbMK5QxiHxci36gVEEiT9v4yyRdHHw_2NODf7dQXZe5XkulbtHCHVY24w2NhCx8NTvrrSdSQbU4wNjigca68svvkrlS7Vy5E47cP1dqlBqdYfOGGs2ZLHILCX9ui7hf9VVYv7Tb-MbEmzZEL9FfYf7rVaOr0DSgvZbKwH-ZtEEsV0O8sB9ioyfCRtD4ICmcHfOwsqz8AY2BDH9QuHUAT8j7q3m97jt03CEazYhisj8vMGxEJrbTjkYGvBU-XgUD3vczvAAJm5vRFhYo9XQS34AoyefRs_FV1nn6uKfviTmWS4KM7UB-rj9dbuz1ueJWp72HkKJMDcILfL3OC5IlIz2pWEg7x0XeycPrazl6rvdhO-t9MG0zF2OyyqkCAW4PV6_INo1oELuIGiyZuJg9mU4w7KAL8ubmqGE85lcaa/https://www.amazon.in/stores/page/7F5E8E4C-96CD-417D-B9AD-FE7768DE3AFC/?_encoding=UTF8&store_ref=SB_A063692735XBJ2VSL5P62-A03310793SGO75CY4YTT9&pd_rd_plhdr=t&aaxitk=905494504881c105b19b30bcf109a453&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09XS7JWHH&aref=MzxkOqz1FA&pd_rd_i=ad4&ref_=sbx_be_dp_arbies_mblsd_mb3_bkgd&pd_rd_w=pNzYC&content-id=amzn1.sym.7e7fd29d-32f9-46bd-a74b-f5f2ade509dd&pf_rd_p=7e7fd29d-32f9-46bd-a74b-f5f2ade509dd&pf_rd_r=111G1CE7KXQFWXE090R5&pd_rd_wg=YReyI&pd_rd_r=15fa26b6-a64d-4265-8dc7-716ab0b2d010"
+  }
+ ],
+ "reviews_information": {
+  "summary": {
+   "text": "Customers praise the headphones' noise cancellation, with one noting it blocks around 70% of outside noise, and appreciate their 30 hours of battery life. The comfort, reliability, and connectivity receive mixed feedback - while some find them comfortable and reliable, others report headaches after 30 minutes and sudden disconnection issues. Moreover, durability and value for money are also mixed aspects, with some finding them worth the price while others consider them a worst investment in decades.",
+   "insights": [
+    {
+     "title": "Noise cancellation",
+     "sentiment": "positive",
+     "mentions": {
+      "total": 163,
+      "positive": 128,
+      "negative": 35
+     },
+     "summary": "Customers praise the headphones' noise cancellation capabilities, with one customer noting they block up to 70% of outside noise, while another mentions their effectiveness in crowded environments.",
+     "examples": [
+      {
+       "position": 1,
+       "snippet": "...TL,DR: Great quality, noise cancellation and transparency works well both wired and when connected to bluetooth, speak-to-chat is finicky and is...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RCUCUHQBY04SB"
+      },
+      {
+       "position": 2,
+       "snippet": "The Sony WH-1000XM5 offers great sound, excellent noise cancellation, superb comfort, and long-lasting battery life, making it a top choice for...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R2UW5GWRQ032N7"
+      },
+      {
+       "position": 3,
+       "snippet": "...2 devices at a time is awesome, charging speed is awsome, noise cancellation is good, overall build quality of product is nice.",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RZYDN1YSJ3D4H"
+      },
+      {
+       "position": 4,
+       "snippet": "Noise cancellation is not upto th Mark for the price paid",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R1LW8DIGHPCU5X"
+      }
+     ]
+    },
+    {
+     "title": "Battery life",
+     "sentiment": "positive",
+     "mentions": {
+      "total": 74,
+      "positive": 59,
+      "negative": 15
+     },
+     "summary": "Customers are satisfied with the headphones' battery life, which provides up to 30 hours on a full charge and works for 3-4 days with one charge.",
+     "examples": [
+      {
+       "position": 1,
+       "snippet": "...Overall the headphones are good. For me the standout feature is it's battery life, It's been a week now and battery is still at 16 % without single...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R3GFH7S6XQ8EU"
+      },
+      {
+       "position": 2,
+       "snippet": "...Battery life is impressive, and the quick charge feature is convenient. The premium build quality and carrying case add to the overall value....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R291QV8BYUX4JT"
+      },
+      {
+       "position": 3,
+       "snippet": "...3 Battery is good last for 24 Hours and Fast Charging 4 The price for these headphones is good....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R5XFLVSK4F6ZZ"
+      },
+      {
+       "position": 4,
+       "snippet": "Sound and ANC is very good. Very low battery backup. After 20 minute of whatsapp call battery reduced to 25% from 100%.",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R359VYCKDFRLYT"
+      }
+     ]
+    },
+    {
+     "title": "Sound quality",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 295,
+      "positive": 205,
+      "negative": 90
+     },
+     "summary": "Customers have mixed opinions about the headphones' sound quality, with some praising the awesome sound and crisp treble, while others find it unsatisfactory.",
+     "examples": [
+      {
+       "position": 1,
+       "snippet": "...wins hands down on build quality and the Noise cancellation and sound quality. Sound quality is only limited by the quality of the source.",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RDNEVHLD6014B"
+      },
+      {
+       "position": 2,
+       "snippet": "...Things which I liked about this model is are great sound , awesome bass, light weight compare other headphones in this premier category, comfortable...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R1DC7RYMCOO7E2"
+      },
+      {
+       "position": 3,
+       "snippet": "Awesome headphones to buy but sound quality is not as expected as compared to the range of headphones Otherwise you can use as daily driver too",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R1I0DRCXDDS59Y"
+      },
+      {
+       "position": 4,
+       "snippet": "...Amazing sound quality, can wear it for long periods of time without strain, and the app has a lot of useful features",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R1GGS4FM13VI9F"
+      }
+     ]
+    },
+    {
+     "title": "Value for money",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 143,
+      "positive": 66,
+      "negative": 77
+     },
+     "summary": "Customers have mixed opinions about the headphones' value for money, with some finding them worth the price and considering them the best investment they've made, while others feel they are not worth the premium price and don't align with their price point.",
+     "examples": [
+      {
+       "position": 1,
+       "snippet": "...is good but if u think about sound quality then don't buy it'd waste of money .. thoday I used this product after 5 min I started NECK pain and...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R1ZLV8MEUOCTJ7"
+      },
+      {
+       "position": 2,
+       "snippet": "...Concluding this very long review, these are a value for Money pair of Headphones, I got them at a good discount and hence I went with xm5s rather...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R140P7UFODZTCO"
+      },
+      {
+       "position": 3,
+       "snippet": "...point as this varies person to person, I feel no it is not value for money because something that is costing around 25K is not having so magical...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R2B2Y70X35XK9T"
+      },
+      {
+       "position": 4,
+       "snippet": "...But as a first time user of XM series really impressed and worth the money. - classy look, comfortable cushioning for ears -...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RWYQ6C1WCCJNP"
+      }
+     ]
+    },
+    {
+     "title": "Comfort",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 139,
+      "positive": 93,
+      "negative": 46
+     },
+     "summary": "Customers have mixed opinions about the headphones' comfort, with some praising the soft ear pads and cushioned design, while others report feeling discomfort, particularly after extended use.",
+     "examples": [
+      {
+       "position": 1,
+       "snippet": "Edit 2: Got the replacement unit. It is comfortable. Indeed the previous unit was faulty. Sound quality is bit dim but can be adjusted via sony app....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RSCVJSX5B38N3"
+      },
+      {
+       "position": 2,
+       "snippet": "Top-Notch Sound and Comfort! The Sony WH-1000XM5's noise cancellation is the best I've experienced, making it perfect for travel and work....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R2YS20ZO64UBDM"
+      },
+      {
+       "position": 3,
+       "snippet": "...was sucking the air and creating a vacuum and saying that it was uncomfortable is putting it mildly. Had to return it....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RPV8YQQVHQP3J"
+      },
+      {
+       "position": 4,
+       "snippet": "...for about 7 hours continuously and seriously these headphones are very comfortable, although I was expecting this because of memory foam used on the...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R3D02IOVC6BGM6"
+      }
+     ]
+    },
+    {
+     "title": "Reliability",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 84,
+      "positive": 46,
+      "negative": 38
+     },
+     "summary": "Customers report mixed experiences with the headphones' reliability, with some saying they perform flawlessly and work well with Microsoft Teams, while others mention issues where one ear cup or speaker stops working suddenly.",
+     "examples": [
+      {
+       "position": 1,
+       "snippet": "...smoke pink is really a colour for all - Performance, Battery & Sound quality is top notch - best in the market for ANC....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RWYQ6C1WCCJNP"
+      },
+      {
+       "position": 2,
+       "snippet": "I bought this headphone on 2024 now on 2025 it's one side is not working. And service center is asking for 13k for replacing speaker ??...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R2ZX77IEAJ1R6W"
+      },
+      {
+       "position": 3,
+       "snippet": "It gives what it promises. ANC in general has a very low bar set, and it's the best among those available....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R20LUJA3PKJKRY"
+      },
+      {
+       "position": 4,
+       "snippet": "Poor build quality, one side stops working.",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R2QSV4ONJACR8T"
+      }
+     ]
+    },
+    {
+     "title": "Durability",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 76,
+      "positive": 31,
+      "negative": 45
+     },
+     "summary": "Customers have mixed experiences with the headphones' durability, with some finding them long-lasting and suitable for extended wear, while others report issues with the hinges breaking and the rotatable part failing within two months of use.",
+     "examples": [
+      {
+       "position": 1,
+       "snippet": "Headphone rotatable part broke within 2 months",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RPJZPMJ6G84XZ"
+      },
+      {
+       "position": 2,
+       "snippet": "...Extremely comfortable for long duration. I used it continuously for 8 to 9 hours. Light weight so no discomfort....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R27XBVAUKDALYF"
+      },
+      {
+       "position": 3,
+       "snippet": "Headphones are fragile .Broke within a month. Sony refused replacement citing \" no warranty \" !!!",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/RHU72COJ02IH8"
+      },
+      {
+       "position": 4,
+       "snippet": "...These are very lightweight & can be worn for longer periods without any ear pain or discomfort....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R3G9L5I9CHJIV4"
+      }
+     ]
+    },
+    {
+     "title": "Connectivity",
+     "sentiment": "mixed",
+     "mentions": {
+      "total": 66,
+      "positive": 36,
+      "negative": 30
+     },
+     "summary": "Customers have mixed experiences with the headphones' connectivity, with some reporting excellent and seamless Bluetooth pairing with multiple devices, while others mention that the headphones sometimes fail to connect and keep disconnecting.",
+     "examples": [
+      {
+       "position": 1,
+       "snippet": "...It offers a top notch performance and quality and, connectivity, compatible with all type of devices be in Mac, iOS or Windows....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R1JWTY6LOWZFIY"
+      },
+      {
+       "position": 2,
+       "snippet": "...Not great quality music either. Keeps disconnecting and some times just doesn't connect. Sometimes connects but no music / voice....",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R2XIJKV9QADIRF"
+      },
+      {
+       "position": 3,
+       "snippet": "Everything is great for this masterpiece,fast pairing, great NC, great comfort, customisation through app, sound profile, top notch stuff",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R2ZA3VEISI70SG"
+      },
+      {
+       "position": 4,
+       "snippet": "...connecting to 2 devices at same time drops call quality and frequent disconnection. Though the device auto switches off when connected to...",
+       "link": "https://www.amazon.in/portal/customer-reviews/srp/-/R37YX7N2JM19XQ"
+      }
+     ]
+    }
+   ],
+   "images": [
+    "https://m.media-amazon.com/images/I/71tHpgroalL.jpg",
+    "https://m.media-amazon.com/images/I/71yp429O9aL.jpg",
+    "https://m.media-amazon.com/images/I/81PK3rBPXtL.jpg",
+    "https://m.media-amazon.com/images/I/61MwPkhiwpL.jpg",
+    "https://m.media-amazon.com/images/I/71q011YXYrL.jpg",
+    "https://m.media-amazon.com/images/I/61ZiD5v2b3L.jpg",
+    "https://m.media-amazon.com/images/I/71pTAkrFUyL.jpg",
+    "https://m.media-amazon.com/images/I/71o4Is0QH7L.jpg",
+    "https://m.media-amazon.com/images/I/81KDaRoCwuL.jpg",
+    "https://m.media-amazon.com/images/I/71A0cWr48VL.jpg",
+    "https://m.media-amazon.com/images/I/61WDPS-meuL.jpg",
+    "https://m.media-amazon.com/images/I/61Hqf3q7P7L.jpg"
+   ],
+   "customer_reviews": {
+    "5 star": 71,
+    "4 star": 15,
+    "3 star": 5,
+    "2 star": 2,
+    "1 star": 7
+   }
+  },
+  "authors_reviews": [
+   {
+    "position": 1,
+    "title": "Highly Recommend ✅",
+    "text": "I’ve been using the Sony WH-1000XM5 for several months now and they’ve been excellent in every key area. The noise cancellation is superb — it removes airplane and city noise almost completely while keeping voices clear when needed. Sound quality is rich and balanced with detailed mids and smooth, non-fatiguing highs; bass is present but not overpowering. Battery life easily lasts a full workday of heavy use, and quick charging gives hours of playback from a short charge. The cushions are very comfortable for long listening sessions and the headband feels lightweight yet sturdy. Call quality is impressive too — people on the other end say I sound clear even in windy conditions. Pairing with my Android phone was seamless and the Sony app gives useful EQ and ANC controls without being intrusive. Overall, these are the best over-ear headphones I’ve owned for travel and daily use — highly recommend.(5 stars)",
+    "rating": 5.0,
+    "date": "28 June 2026",
+    "author": "Xubyr",
+    "author_link": "https://www.amazon.in/gp/profile/amzn1.account.AHBEM3MTBVMKJSGRFQ4Q5YOL47VQ?ref=cm_cr_dp_d_bdcrb_top",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/1f01260d-06c1-4c02-85ed-eb05c089dd1f._CR0%2C26%2C281%2C281_UX460_SX48_.jpg",
+    "images": [
+     "https://m.media-amazon.com/images/I/61MwPkhiwpL.jpg",
+     "https://m.media-amazon.com/images/I/71q011YXYrL.jpg"
+    ],
+    "helpful_votes": "6 people found this helpful",
+    "verified_purchase": true,
+    "product": {
+     "colour": "WH-1000XM5, Mid Night Blue"
+    }
+   },
+   {
+    "position": 2,
+    "title": "Best consumer headphones.",
+    "text": "These are the best headphones from Sony. Previously I used Sony headphones but they're entry-level headphones. I also used headphones from other brands like Sennheiser, One Audio and JBL but all of them are entry-level headphones. This is the first time I bought high-end headphones and I trust Sony. You can't go wrong with Sony as per my experience. Coming to the headphones, I already knew that these were best. However, I researched thoroughly on YouTube and read many articles for almost 3 months before buying these. I want to get the best value for the price. These headphones are costly and I don't want to go wrong with my purchase decision.Build quality: These are made of high-quality plastic and feel lightweight and comfortable to wear for longer durations. The only thing is, that the headband is thin and hurts a little on my head after wearing it for a few hours. Just move or adjust it a little and I'm good to go for another hour.Sound quality: It's Sony, no need to brag about sound quality. Sony is known for sound clarity. Every small musical instrument is heard in great detail. I can't forget my first experience of listening to music using these headphones. I'm blown away by the details and the clarity of sound.Battery life: It is mentioned 30 hours. Seems to be true. Headphones will easily last up to two days of mixed usage.Noise cancellation (N.C.): These headphones are my first experience with noise cancellation. When NC is turned on, it is silent. Zero noise. But after a few days, I realised that I could still hear voices from other people when they were shouting or talking loudly. It's good not to completely block all sound.Update on N.C.:I want to address one thing people who are saying that NC is not good. I think they feel like that because of the adaptive NC feature in the Sony headphones app. Due to this feature, the level of Noise cancelling is adjusted automatically according to the surroundings. I know it doesn't work 100% accurately every time. It works sort of 70 - 80 % accurately depending on the surroundings. That's why some people complain that NC is not completely silent or perfect. Some are complaining there is no option to disable the adaptive NC feature. It is available in the Sony headphones app after the latest update. We can also manually disable the adaptive NC of headphones using the app. I mentioned these details because some people may not be aware of these features available in the headphones app.Note: When NC is turned on, a sound pressure is created between ears and headphones. So there is a vacuum-like seal between ears and headphones and it blocks external sound. I'm not sure how NC works. This is the first time for me experienced noise cancellation. It was a shock and a surprise feeling when NC was on. My brother got scared due to this effect. I got used to it now. Check the Sony manual regarding the safety of NC. In the Sony Headphones Connect app, there is a safe listening setting. Please follow it and you don't need to worry about your ears getting damaged due to headphones. I have attached screenshots of the same. Please check.Final Verdict: I can say that these headphones are the best consumer headphones. Audiophile headphones are different that's why I mentioned them as the best consumer headphones. Most people who use them will love them.",
+    "rating": 5.0,
+    "date": "15 June 2023",
+    "author": "Swaroop",
+    "author_link": "https://www.amazon.in/gp/profile/amzn1.account.AFF5MZFOMHHIARV5NTTIWTGLBYPA?ref=cm_cr_dp_d_bdcrb_top",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+    "images": [
+     "https://m.media-amazon.com/images/I/71yp429O9aL.jpg",
+     "https://m.media-amazon.com/images/I/71tHpgroalL.jpg"
+    ],
+    "helpful_votes": "234 people found this helpful",
+    "verified_purchase": true,
+    "product": {
+     "colour": "Silver"
+    }
+   },
+   {
+    "position": 3,
+    "title": "Very comfortable but..",
+    "text": "Please excuse the long review!!This is a review from someone who never used headphones.I assumed that it’s going to be absolutely silent once I put on the headphones with ANC on.It’s not absolutely silent, but it’s a lot better than direct noises from vehicles, horns and general noise outside.When we try to play videos on laptop or mobile speakers, if there is noise from outside, we can’t make out the video sound. That issue is resolved with this. You can always hear the video sounds even with considerable amount of drilling and other noises in the background.I never used headphones before. So I cannot compare them with anything or comment about the weight. However they are comfortable to wear. I never felt the urge to remove them. When I wore them for hours together, after removing them I felt a little tingling and numbness around the area the first day. But it’s probably because I never wore headphones.Then I also noticed that after long hours of wearing, my ears started to hurt on the inside. I decided to limit the usage however comfortable they feel.The first time I had some trouble connecting to laptop and mobile, but we can figure it out. It’s working seamlessly now and I know where and what to click if it doesn’t connect automatically.I didn’t like the ambient sound. It feels strange with that on. I turned it off. Also I deactivated auto motion detection. For someone like me, speak to chat is also not suitable. Sometimes while watching an anime, when you say something out of excitement, it pauses the video. Ha ha… Very well built. These are all personal preferences though.Additional observations:All these below points are without playing in the headphones.You can hear the voices from TV with them. Voices won’t be cancelled out.You can hear the person talking who is next to you.It doesn’t cancel out hand blender noise. You can constantly hear it.It doesn’t cancel the dogs barking from a distance. This is the most irritating thing.It cannot nullify drilling noises completely. It reduces the intensity.The day to day simple noises are almost nullified. This gives better call quality during teams calls.I was told my voice quality improved a lot when I switched from laptop mic to xm5 mic.With the drilling noise in the back, I tried to record my voice in a normal tone. The background noise is almost gone. However my voice itself sounded muffled. It wasn’t clear and a bit difficult to even make out the words.On the other hand, when I recorded it using iPhone, the voice was clear but there was background noise too.Overall the iPhone mic is the best. The audio sounds crystal clear when recorded on iPhone but of course background noise is heard.When you turn on some other audio in headphones, like music at 40% sound, most of the outside is gone including drilling, horns, people talking in proximity. That is wonderful. 😄I’m saying most because, drilling noise is quiet difficult to nullify.Overall I like them. I’m going to use them a lot but for limited durations at a time.Update after few weeks:Sometimes the connection to laptop is seamless. Sometimes it troubles a lot. Yesterday it never connected at all. I didn’t know what to do. It could be a problem from laptop too.Another things I noticed, when noise cancellation is on, and there is a certain amount of noise around you, it creates a pressure within the earcups. It is very evident if observed without music playing. This pressure is a bit less in ambient mode as this mode doesn’t cancel out everything. I realised that this is the reason why my ears hurt on the inside when I wear these. It could be probably because of the negative noise waves that are generated to cancel out the actual noise. The phenomenon is probably same for all active ANC devices. But xm5s are the first I’m trying.When ANC is off and say the headphones themselves are off and you are wearing them, then there is is continuous sound that is generated like wind howling. So these cannot be used like this.These devices cannot provide the natural peace we get when present in an actual place. I was hoping it’d be possible to some extent. But nope!",
+    "rating": 4.0,
+    "date": "29 July 2023",
+    "author": "Vinyasa",
+    "author_link": "https://www.amazon.in/gp/profile/amzn1.account.AFOJE6HNACM3AY66HYDVBJPXVVUQ?ref=cm_cr_dp_d_bdcrb_top",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+    "helpful_votes": "213 people found this helpful",
+    "verified_purchase": true,
+    "product": {
+     "colour": "Silver"
+    }
+   },
+   {
+    "position": 4,
+    "title": "One of the best in this range",
+    "text": "I went for it because of its sound quality and it has not disappointed me yet.Fit is excellent and very comfortable with high quality faux leather pads which will last long. The only problem with them is that if you are not in a cooler environment your ears will sweat a lot while wearing these. The outer side of the ear cups are smudge magnets especially in the black ones so you have to clean them regularly. The touch controls works fine.Sound quality is excellent when compared to other wireless headphones in this range. There is ample amount of bass and vocal clarity. Instrument separation is good and so is the dynamic range. Imaging is also good making it perfect for movies. You have to play with the equaliser a bit to find your favourite tuning and then you are all set.I have not used them for gaming so no comments about their performance in that regard.Connectivity is seamless and it can be connected to two devices at a time with auto switching.Battery performance is excellent and with average use you can easily get a week out of it in one charge. It also gets charged very fast.ANC works fine (better than my Airpods Pro)and blocks most of the noise quite well. You might feel a little pressure inside your ears when ANC is on if they are not playing anything.Transparency is good with most the sounds allowed but if you are speaking with someone while wearing them with transparency on, the voice of the person might sound a little mechanical. If you have experienced transparency mode in apple devices you may get a little dissatisfied but otherwise they are ok.",
+    "rating": 5.0,
+    "date": "25 September 2024",
+    "author": "Manojit",
+    "author_link": "https://www.amazon.in/gp/profile/amzn1.account.AFDW77XCMKNLQ5ATGQJX5IHBWQZA?ref=cm_cr_dp_d_bdcrb_top",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+    "helpful_votes": "9 people found this helpful",
+    "verified_purchase": true,
+    "product": {
+     "colour": "WH-1000XM5, Black"
+    }
+   },
+   {
+    "position": 5,
+    "title": "Industry leading ?",
+    "text": "Hello Fellow buyer's!!Many of you must have ended up being interested in this product after watching many reviews on the YouTube already, afterall below 25-30K isnts a small amount of money for a pair of Headphones right? So I will sum my experience about this pair in three major areas Comfort, ANC and Call quality and Sound quality.1. Comfort:These are very lightweight, people complain them for feeling cheap and plasticky thats obvious you dont get lightweight with metal constructions, having said that they provide enough coushioning you will ever need for long hours. But since they are not as flexible as their predecessors they have a bigger footpring which isnt very comfortable carrying always.2. Coming to ANC and Call quality:As many reviewers have already said, its amazing and Mind-blowing you will enjoy the ANC, I use in in Public Transport (Train) and when I have my volume level at 50-60% (recommend not to go beyond that for ear safety) you would barely even hear what the next person sitting to you is speaking unless you pay attention. Call quality is amazing outdoors and indoors it almost matches phone microphone reproduction when indoors but!! They struggle in windy situations so if you on the window seats try avoiding wind for calls.3. Sound quality:I have been using expensive earphones for quite a long time I have my audiophile 1more quad drivers, Sennheiser HD 202, Sennheiser Momentum wired earbuds, Oppo enco x and x2's so I believe I now have some understanding about how a good pair should sound, having said that The default Audio quality is decent also it varies which device you are connected, I wud suggest that you should use them with LDAC enabled all the time!! Its pretty decent nothing mind-blowing but it can be tweaked for amazing soundgazmic experience using app, u can enjoy A.R. Rehman tracks such as Dil Se and experience a variety of instruments audible suddenly.I woud not compare it with bose, Sennheiser Momentum 4, Airpod max, i believe sound is subjective and everyone has to adjust accordingly and be satisfied with their purchase after they have made an investment and not be disappointed due to subjective opinions other have.Concluding this very long review, these are a value for Money pair of Headphones, I got them at a good discount and hence I went with xm5s rather than xm4s. If you want custom eq screenshot and settings I use for tweaking my Xm5s do let me know in reply section.Happy Buying you have made a good decision 🙂",
+    "rating": 5.0,
+    "date": "29 January 2023",
+    "author": "Imran",
+    "author_link": "https://www.amazon.in/gp/profile/amzn1.account.AF23ZPXBAZ5O33D5JVCUEACIXXEA?ref=cm_cr_dp_d_bdcrb_top",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/a3e2b8d5-91d6-4abb-b7ae-435690b25cf5._CR0%2C0%2C1512%2C1512_SX460_SX48_.jpg",
+    "images": [
+     "https://m.media-amazon.com/images/I/81KDaRoCwuL.jpg",
+     "https://m.media-amazon.com/images/I/71o4Is0QH7L.jpg",
+     "https://m.media-amazon.com/images/I/61Hqf3q7P7L.jpg",
+     "https://m.media-amazon.com/images/I/71hQRAVVJlL.jpg",
+     "https://m.media-amazon.com/images/I/61+bmrCj85L.jpg"
+    ],
+    "helpful_votes": "97 people found this helpful",
+    "verified_purchase": true,
+    "product": {
+     "colour": "Silver"
+    }
+   },
+   {
+    "position": 6,
+    "title": "Headphone review after a month of usage",
+    "text": "Using these headphones for my S24 Ultra. These headphones are truly worth the investment, with exceptional sound quality that immerses you in your music. The comfort level is outstanding, making them easy to wear for extended periods without any discomfort. The noise cancellation feature is simply incredible, effectively blocking out distractions and allowing for pure listening enjoyment. Overall, this is a fantastic premium purchase, providing a top-tier audio experience. I highly recommend them to anyone seeking a superior set of headphones!Didn't use them much for calls but can vouch that they have good mics.Don't have to frequently keep the charger plugged in, so definitely a premium headphone with good battery life.",
+    "rating": 5.0,
+    "date": "22 September 2025",
+    "author": "Unknown",
+    "author_link": "https://www.amazon.in/gp/profile/amzn1.account.AEAAA2LKUJ3PXEI67PPPVTHUKPGA?ref=cm_cr_dp_d_bdcrb_top",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+    "helpful_votes": "19 people found this helpful",
+    "verified_purchase": true,
+    "product": {
+     "colour": "WH-1000XM5, Black"
+    }
+   },
+   {
+    "position": 7,
+    "title": "EDIT : DO NOT BUY",
+    "text": "EDIT 09/10/2023 : The headphone hinge for the right side just snapped off without any warning. The headphones are unusable now. Went to multiple Sony Service centers in bangalore, and they do not support any repair or replacement even if the headphones are in warranty.DO NOT BUY. If by any chance there is a mechanical failure, the headphones are completely useless. Extremely shameless behavior by Sony for its Indian customers. The Sony centers have also reported that most units being sold in India are refurb units and already have some degree of wear and tear before they reach their first-time customers.I REPEAT. DO NOT BUY.Original Review below:==================The XM5s were in my wishlist for so long, and I was hyped on finally getting them. But people buying them in India should be wary about a few points:PROS:1. Excellent sound quality, once you tweak the EQ. Look up the ideal EQ settings online, should be easy to find. I tried the flat profile (which still sneaks some lower frequencies in though, be mindful).2. Call quality is surprisingly good. Works really well with Teams / Zoom as well.3. Noise cancellation is supreme. I have not tried out the Airpods Max / Bose QCxx series so cannot compare with those though.4. Sony Headphones Connect app makes it easy to setup and upgrade firmware (which you should do immediately after switching them on for the first time)5. Multi Device Connect works flawlessly. Its disabled in the app by default though.CONS:1. Ear pressure : Sometimes the headphones cause quite a bit of ear pressure. It eventually got better after a day, but check it out on your own.2. In the hot Delhi summers, wearing these without an AC in the vicinity can cause some serious amounts of sweat to build up. Not the fault of the headphones, our weather can be toasty :)3. People with spectacles can have varying amounts of comfort. I have thick acetate specs and I took a bit of time to make sure the headphones dont dig in too much.That being said, I'm happy with these headphones, would recommend.",
+    "rating": 1.0,
+    "date": "1 September 2023",
+    "author": "Tapas Trivedi",
+    "author_link": "https://www.amazon.in/gp/profile/amzn1.account.AFA5W5F2M6PRQD7PIPCY7RO5WCOA?ref=cm_cr_dp_d_bdcrb_top",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/a3321432-9fb2-4020-bba4-35c8ac248aa6._CR0%2C0%2C375%2C375_UX460_SX48_.jpg",
+    "images": [
+     "https://m.media-amazon.com/images/I/61WivHeH71L.jpg"
+    ],
+    "helpful_votes": "128 people found this helpful",
+    "verified_purchase": true,
+    "product": {
+     "colour": "WH-1000XM5, Black"
+    }
+   },
+   {
+    "position": 8,
+    "title": "Industry leading headphone!! Really it is.",
+    "text": "Got it for around 20k in sale. And in this price it’s easily value for money product. Since xm4 is also around 20k i got upgraded product over xm4.Only drawback is not foldable design but trust me you’ll not see this as problem once u start using it.Note : I sometimes experienced a audio glitch it’s like headphone is not in the range and flickering of audio but after disconnecting and connecting it fixes… but this is something I don’t expect from sony i hope it fixes with update if possible..or maybe I’ve connected a lot of devices with the headphone.. maybe that causes issue but still it shouldn’t happn..And accidental touch is obvious it happens when u lay down or sitting on sofa and move your head back..Now the sony thing.Everything is top notch1. Performance 5/52. Fit 5/5 very comfortable and lightweight but sweating with longer wearing is uncomfortable sometimes it happens with all the headphones. Can’t blame to headphone it’s Delhi summer.3. Connectivity 4/5 -1 for my audio glitch issue4. Battery 5/5 not a problem. Sony claims reality5. Sound quality 10/5 yes.. that’s the real thing u would buy sonyAnd it delivers the quality of your premium purchase.A Pro tip.If u want to use it to its actual potentialUse DAC and CD quality song. If you have few personal fav song purchase its CD and listen to feel the lyrics. I know you’ll have to spend money for song.. sounds waste of money for just musics but trust me you’ll feel worth it when u use this sony headphone with NC and HiRes/lossless quality musics.. or if u have iPhone use apple music it supports lossless quality for some musicsFor ex: a song of size around 100 MB or more is the lossless quality what it meant to be heard.Worth the money. 20K just buy it.Thanks.Wish u great life ahead guys.",
+    "rating": 5.0,
+    "date": "29 May 2024",
+    "author": "Kunal Verma",
+    "author_link": "https://www.amazon.in/gp/profile/amzn1.account.AFHLX7BJNEBPOPBGJGY5IXBTZI4A?ref=cm_cr_dp_d_bdcrb_top",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/9704723b-2d89-4e92-82df-85ef23e9f4cc._CR0%2C0%2C748%2C748_SX460_SX48_.jpg",
+    "images": [
+     "https://m.media-amazon.com/images/I/61s1REQS+nL.jpg",
+     "https://m.media-amazon.com/images/I/712Xu9oEkfL.jpg",
+     "https://m.media-amazon.com/images/I/81Wpx0JdDsL.jpg",
+     "https://m.media-amazon.com/images/I/81PmUGhBHXL.jpg",
+     "https://m.media-amazon.com/images/I/61QCdCjUeAL.jpg"
+    ],
+    "helpful_votes": "24 people found this helpful",
+    "verified_purchase": true,
+    "product": {
+     "colour": "WH-1000XM5, Black"
+    }
+   }
+  ],
+  "other_countries_reviews": [
+   {
+    "position": 1,
+    "title": "Are you Older? READ THIS.",
+    "text": "I am almost 65 years old SO, I DO NOT have the ears of a 18 year old. That said, I consider these to be good for these reasons:A: Exceptional battery life.B: Call quality that was considered good UNTIL I did a direct comparison to my Blueparrott B450-XT’s - NO WHERE NEAR the quality of the Blue 450’s, BUT the Blues are made specifically for calls in noisey environments. . Blues are in my opionion the defacto standard by which all other ANC phone calls should be judged. My \"demo\" for people is to run my upright vacuum cleaner whilst on a call. People on the other end cannot hear it AT ALL – REALLY!, I hear them, and they hear me perfectly! TRULY amazing! I did the same test with these and alas they failed miserably in comparison. I expected that. I was told they sound like I am in a room away from the microphone, a bit fishtank like, and muddy. SO, they’ll do in a call but not as a primary phone call device in noise. I heard a sample of the BOSE 700’s and they were terrible, which is what prompted me to get the Sony’s.C: One unconventional thing they do great at: A Sleep Aid. Yup, they drown out all the extraneous noises like people talking, Air conditioners, fans, Water coolers, hums, etc. ALL gone with nothing playing through them!I bought them primarily for playing on my PS5, and watching TV late at night. They do both quite well.D: Amazingly, my ears do not sweat much in these even after prolonged use. I’ve ordered those Dekoni Suede Earpads for them as well just for added comfort.(https://www.amazon.com/dp/B0BS4T3X62?psc=1&ref=ppx_yo2ov_dt_b_product_details)(5/16/23 - Returned The earpads: they claim they are suede when in fact they are 2/3 suede. The inner part inside the cup is something else, not leather so NOT durable. Considering this, $49 seems FAR too expensive.)E: They are long-term comfortable unless you have ears like a B-52 in which case you will probably be stuffing bits.As for music, I find them to be more flat without pronounced highs or bass - which I prefer. The EQ on the app is a nice feature. The ANC works very well listening to music and will be adequate to the task in both quiet and noisey settings. Again, I remind you, I’m not 18. ;-)Pricewise, they ARE a bit expensive but the build quality seems better than most.If you have the time, I would HIGHLY recommend you test several brands and models at a store simply because sound quality is subjective and EVERYONE has their preference.UPDATE: 5/23/23 - Returning (REPLACING) Headphones - Why? They started acting \"Funky\". By that, I mean that if you turn them off, they will not turn on unless you do not hit any buttons for about 15 sec. NOT normal. ALSO, they started to exhibit Connection issues that were NOT there initially. I STILL, at this point consider them excelllent. Now, if the NEW pair goes weird, THEN I would have to re-evaluate.UPDATE 6-3-23: New pair are working as they should no connection issues or on/off bttun problems.UPDATE 2-16-24: Still working perfectly and I use them nearly every night to sleep.UPDATE 7-31-25: Still working great and I still use them as silencers.",
+    "rating": 5.0,
+    "date": "4 May 2023",
+    "author": "Waydavis",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/2643fa5a-58ec-4ec4-9e1e-62d4418cfd5a._CR0%2C0%2C768%2C768_SX460_SX48_.jpg",
+    "verified_purchase": true,
+    "product": {
+     "colour": "WH-1000XM5, Black"
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    },
+    "language": {
+     "code": "en",
+     "name": "English (United States)"
+    }
+   },
+   {
+    "position": 2,
+    "title": "Harikasınız amazon",
+    "text": "Ürün mukemmel. Memnunum. Tabiki Amazon güvencesinde tskler",
+    "rating": 5.0,
+    "date": "1 February 2026",
+    "author": "Necdet meseli",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+    "verified_purchase": true,
+    "product": {
+     "colour": "WH-1000XM5, Black"
+    },
+    "country": {
+     "code": "TR",
+     "name": "Turkey"
+    },
+    "language": {
+     "code": "tr",
+     "name": "Turkish"
+    }
+   },
+   {
+    "position": 3,
+    "title": "Confortável e bom cancelamento de ruído",
+    "text": "O fone é ótimo. Ele é confortável e leve, tem função de pausar quando retirado e pode ser pareado com vários aplicados e dá pra escolher qual iniciar através do tipo de toque no fone. O porém é quem tem a cabeça menor, ele fica mais bambo, não tendo opção de deixar mais justo.",
+    "rating": 5.0,
+    "date": "4 June 2026",
+    "author": "Thais",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+    "verified_purchase": true,
+    "product": {
+     "colour": "Silver"
+    },
+    "country": {
+     "code": "BR",
+     "name": "Brazil"
+    },
+    "language": {
+     "code": "pt",
+     "name": "Portuguese (Brazil)"
+    }
+   },
+   {
+    "position": 4,
+    "title": "Excellent",
+    "text": "Excellent",
+    "rating": 5.0,
+    "date": "1 August 2026",
+    "author": "AMIGO",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+    "verified_purchase": true,
+    "product": {
+     "colour": "WH-1000XM5, Black"
+    },
+    "country": {
+     "code": "AE",
+     "name": "United Arab Emirates"
+    },
+    "language": {
+     "code": "en",
+     "name": "English"
+    }
+   },
+   {
+    "position": 5,
+    "title": "Best Bluetooth Noise Cancelling Headphones on the Market - Replacing my AirPods Max",
+    "text": "Ready for the best in class noise cancelling headphones with incredible sound profiles completely customizable? I owned them all. AirPods Max, Sony XM3, XM4, Bose 700. The all new Sony XM5’s is the new king of NC headphones.✔ Much Better Microphone (vs. XM4) – Tested with Zoom/Microsoft Teams business calls and family/personal calls. Performs much better than XM4 previous generation✔ Long Term Comfort – I can wear them for long periods of time (several hours) without any discomfort while wearing my glasses. XM4’s felt warm/hot after long term use, XM5’s have more breathability.✔ Touch Controls – Works flawlessly between swipes and tap. Feels like an upgrade with better sensitivity compared to previous generation.✔Bluetooth & Connectivity – I take them off, music pauses, I put them back on, music resumes. I walk anywhere in my home while leaving my phone on my desk. Clear sound, no distortion whatsoever, signal transmission remains in-tact and stable at any given moment. I have them connected to my iPhone and MacBook Pro, I’m able to swap between both devices quickly.✔Hard Case & Wire – The case is good quality, headphones fit perfectly with slot for USB C charging cable and audio aux cable, both included no extra charge.✔Sony app is full of features. Can customize audio profiles or use presets. The presets are excellent for any genres of music and I often swap depending on my mood. Updates are done through the app. NC and transparency mode can be controlled in the app or by using a button on the headphones. Adaptive sound is nice, it auto detects my environment and changes from NC and transparency. It works in my favor, no complaints. Auto power off is an option, or manually turn them off using the button on the headphones.I purchased 2 pairs of the new Sony XM5’s – one for my wife and one for myself. We absolutely love using the latest and greater wireless noise cancelling headphones – I can easily say that both Sony and Apple make the best out there. Because I own all the latest NC headphones, I created a comparison below between the 2 best: Sony XM5’ and how they compare with Apple’s Air Pods Max.Sound Quality: Winner TiedI tested the XM5’s using Tidal and Apple Music using both wired and wireless. I found the music quality on the XM5’s sound better on specific genres such as Jazz, Bossa Nova, Hip-Hop (90’s), Classical Rock, Symphony, and R&B.The APM are ahead when it comes to EDM like House, Drum & Bass, along with Pop and other computerized music.Both headphones are close for most genres, however the biggest difference I noticed between the two was Jazz like genres, with the XM5’s being leagues ahead.This is a tie because it depends on the genre you prefer.Audio Enhancements: Winner Air Pods MaxThe XM5’s offer 360 Audio Reality which is only accessible to less popular streaming music apps like Tidal, while the APM offer Dolby Atmos and Spatial Audio. The audio library for the sound enhancement is also smaller for Sony with limited selections.Comfort: Winner Sony XM5The XM5 can remain on your head for long periods of time (several hours) without any discomfort given its lightweight feel. When walking around the house, or outdoors, the XM5’s remains on your head without moving.The APM on the other hand are heavier and begin causing some discomfort after 1-2 hours. When stationary, they’re fine, but when walking around and tilting your head, they begin to slip off.Features: Winner Sony XM5Sony offers an headphones app accessible from the App Store or Google Play Store which allows you to heavily customize your XM5’s, from building a sound profile, selecting audio pre-sets, adjusting noise cancelling, transparency modes and a great deal more.The APM on the other hand, do not have an app of any kind, besides the ability to select audio pre-sets from the music app you subscribe to.Transparency Mode: Winner Air Pods MaxThe transparency mode on the APM is unlike anything else; I can have full conversations that sound natural. The XM5’s on the other hand are an upgrade from the XM4’s, but it doesn’t sound as natural as the APM.Microphone: Winner Air Pods MaxThe microphone on the APM is excellent; I’ve hosted hundreds of hours of business meetings and personal phone calls; the microphone is crystal clear and professional.The XM5’s on the other hand is an upgrade from the XM4’s and noticeable a lot better, but the APM are noticeably better. I tested the XM5’s for calls and was satisfied with the results.Noise Cancelling: Winner Sony XM5When wearing the APM for a long period of time, my ears feel like they’re going to explode. When I first purchased the APM on the release date, I could use the noise cancelling option for hours however, after over a year, I can no longer handle noise cancellation beyond 15 minutes it gives me severe ear pain and I must switch to transparency mode or take them off and break.The XM5’s on the other hand, do not cause me any pain, regardless of if I’m listening for 30 minutes or 2 hours. During testing, I listened to music for a long period of time and watched a YouTube for an hour.I feel that prolonged listening to the APM using the noise cancelling feature caused my ears to become highly sensitive after using them for over a year, with a feeling of severe cabin pressure. This is also worse if using the Bose QC35’s, with pressure being too intense.I can wear the XM5’s for long periods of time; they manage to block loud televisions and screaming babies. The biggest takeaway is being able to keep them on for several hours without discomfort or pain.Build Quality: Winner Air Pods MaxThe APM are built to look and feel luxurious. From the band, metal, and aluminum components, they feel like the Lamborghini of headphones. The XM5’s on the other hand are made out of sophisticated plastic. Also, the APM has magnetic interchangeable ear cushions that can be purchased separately, while the XM5’s do not.Accessories & Costs: Winner Sony XM5Sony offers a real carrying case that protects the headphones and its accessories from damage/drops. Apple has a bra-like case that doesn’t protect the headphones at all, forcing the user to purchase a third-party case online. Also, Sony offers a headphone cable, while Apple requires a separate purchase ($45). This means between the cable and the case; you’re looking at almost $100 of added expenses with the APM.Moreover, the price at the time of this review is $499 for the XM5’s and $779.00 for the APM. The Sony’s offer a much better value.Conclusion:There are many factors to take into consideration between both brands, but ultimately, my heart is with the XM5’s because they sound better for the genres I listen to (Jazz) on a daily basis, and it puts me in the musical ‘zone’. Also, the noise cancelling feature from the XM5’s don’t give me the ‘cabin pressure’ feeling found from the APM. The price difference between both is also substantial given they are close in most categories.",
+    "rating": 5.0,
+    "date": "30 May 2022",
+    "author": "Amazon Reviewer",
+    "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+    "images": [
+     "https://m.media-amazon.com/images/I/51CZjOWIrWL.jpg",
+     "https://m.media-amazon.com/images/I/410IOFLb8tL.jpg",
+     "https://m.media-amazon.com/images/I/61yCn8J0+6L.jpg",
+     "https://m.media-amazon.com/images/I/514oBoHA6UL.jpg",
+     "https://m.media-amazon.com/images/I/51sB8zOqD+L.jpg",
+     "https://m.media-amazon.com/images/I/418YzxQ0xBL.jpg",
+     "https://m.media-amazon.com/images/I/51PyntIYMqL.jpg",
+     "https://m.media-amazon.com/images/I/61dhis1eanL.jpg"
+    ],
+    "verified_purchase": true,
+    "product": {
+     "colour": "Silver"
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    },
+    "language": {
+     "code": "en",
+     "name": "English (Canada)"
+    }
+   }
+  ]
+ },
+ "_fetched_at": "2026-10-08T19:40:04.985299+00:00"
+}
