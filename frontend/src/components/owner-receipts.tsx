@@ -345,7 +345,7 @@ function Unavailable({ s, story, onRequest }: { s: Summary; story?: string; onRe
   return <Calm testid="receipts-unavailable" icon={UsersRound} tone="muted" text={story ?? `We couldn't check what owners say: ${why}.`} />;
 }
 
-/** Issues to the left, praise to the right, each bar sized by its independent sources; one quote for the top claim.
+/** Issues to the left, praise to the right: a diverging bar chart, each bar sized by its independent sources on one shared scale; one quote for the top claim.
  *  Clicking a bar opens its receipts (videos at the timestamp, forum threads). The narrated paragraph only restated
  *  these, so it isn't shown here. */
 function Found({ s }: { s: Summary }) {
@@ -357,6 +357,7 @@ function Found({ s }: { s: Summary }) {
   const right = s.known_praise.map((c) => ({ c, n: c.source_count, forum: false }));
   const rows = Math.max(left.length, right.length);
   const all = [...left, ...right];
+  const max = Math.max(1, ...all.map((x) => x.n));
   const selected = all.find((x) => key(x) === open);
   const top = [...s.known_issues.filter((c) => typeOf(c) === "problem"), ...s.known_issues, ...s.known_praise]
     .flatMap((c) => c.sources.filter((x): x is VideoSrc => x.type === "video" && !!x.quote).map((v) => ({ c, v })))[0];
@@ -382,7 +383,12 @@ function Found({ s }: { s: Summary }) {
           {counted && <span className="shrink-0 rounded bg-foreground/5 px-1 text-[10px] uppercase tracking-wide text-muted-foreground">counts</span>}
         </span>
         <span className={cn("flex w-full items-center gap-2", side === "l" && "flex-row-reverse")}>
-          <span className="text-xs tabular-nums text-muted-foreground">
+          <span
+            data-testid="receipt-bar"
+            className={cn("h-2 min-w-1 shrink rounded-full opacity-70 transition-opacity group-hover:opacity-100", x.forum ? "bg-foreground/30" : BAR[t!])}
+            style={{ width: `${(x.n / max) * 60}%` }}
+          />
+          <span className="shrink-0 whitespace-nowrap text-xs tabular-nums text-muted-foreground">
             {x.n} {x.forum ? "forum threads" : x.n === 1 ? "source" : "sources"}
             {!x.forum && t !== "praise" && ` · ${TYPE_WORD[t!]}`}
           </span>
@@ -413,13 +419,13 @@ function Found({ s }: { s: Summary }) {
       ) : (
         top && (
           <blockquote className="rounded-lg border-l-2 border-foreground/20 bg-muted/40 px-3 py-2 text-sm">
-            <span className="italic">“{top.v.quote}”</span>
+            <span className="italic">“{clip(top.v.quote)}”</span>
             <span className="mt-1 block text-xs text-muted-foreground">
-              {top.v.channel} at{" "}
+              Top quote on {show(top.c).toLowerCase()}: {top.v.channel} at{" "}
               <a href={`https://www.youtube.com/watch?v=${top.v.video_id}&t=${top.v.timestamp_s}s`} target="_blank" rel="noopener noreferrer nofollow" className="underline decoration-foreground/30 underline-offset-2 hover:decoration-foreground">
                 {mmss(top.v.timestamp_s)}
               </a>{" "}
-              on {show(top.c).toLowerCase()} · click any row for all its sources
+              · click any row for all its sources
             </span>
           </blockquote>
         )
@@ -428,6 +434,9 @@ function Found({ s }: { s: Summary }) {
   );
 }
 
+const BAR: Record<ItemType, string> = { problem: "bg-red-500", concern: "bg-amber-400", criticism: "bg-amber-500", praise: "bg-emerald-500" };
+/** Transcript quotes are a word window, not a sentence: mark where it was cut so it doesn't read as broken. */
+const clip = (q: string) => `${/^[a-z]/.test(q) ? "…" : ""}${q}${/[.!?]$/.test(q) ? "" : "…"}`;
 const TYPE_WORD: Record<ItemType, string> = { problem: "recurring problem", concern: "possible risk", criticism: "criticism", praise: "praise" };
 const key = (x: { c: ReceiptCard; forum: boolean }) => `${x.forum ? "f" : "v"}:${x.c.label}`;
 
@@ -531,7 +540,7 @@ function VideoRow({ x, playing, onToggle }: { x: VideoSrc; playing: boolean; onT
           <span className="font-medium">{x.channel}</span>
           <span className="text-muted-foreground"> at {mmss(x.timestamp_s)} · this video is no longer available to play here</span>
         </span>
-        <span className="italic text-muted-foreground">“{x.quote}”</span>
+        <span className="italic text-muted-foreground">“{clip(x.quote)}”</span>
         <a href={`https://www.youtube.com/watch?v=${x.video_id}&t=${x.timestamp_s}s`} target="_blank" rel="noopener noreferrer nofollow" className="w-fit text-xs underline decoration-foreground/30 underline-offset-2 hover:decoration-foreground">
           Watch on YouTube at {mmss(x.timestamp_s)}
         </a>
@@ -558,7 +567,7 @@ function VideoRow({ x, playing, onToggle }: { x: VideoSrc; playing: boolean; onT
           {x.model === "not confirmed" && (
             <span className="ml-1.5 rounded bg-muted px-1 text-[10px] uppercase tracking-wide text-muted-foreground">model not confirmed</span>
           )}
-          <span className="mt-0.5 block italic text-muted-foreground">“{x.quote}”</span>
+          <span className="mt-0.5 block italic text-muted-foreground">“{clip(x.quote)}”</span>
         </span>
       </button>
       {playing && (

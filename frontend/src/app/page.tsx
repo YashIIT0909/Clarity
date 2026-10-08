@@ -15,6 +15,7 @@ import {
   X,
   XCircle,
 } from "lucide-react";
+import { AboutSheet } from "@/components/about-sheet";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { EvidenceBoard, isBoardCalm, reduceForensics, type Forensics, type ForensicsEvent } from "@/components/evidence-board";
@@ -289,7 +290,10 @@ export default function Home() {
   return (
     <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col gap-8 px-4 py-10 sm:px-6 sm:py-14">
       <header className="flex flex-col gap-2">
-        <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">Clarity</h1>
+        <div className="flex items-center justify-between gap-4">
+          <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">Clarity</h1>
+          <AboutSheet />
+        </div>
         <p className="text-muted-foreground">
           Buy now, wait, or walk away. Clarity checks whether a listing is trustworthy first — and only then whether
           it’s a good time to buy.
