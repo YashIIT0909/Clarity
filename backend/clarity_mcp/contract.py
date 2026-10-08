@@ -72,6 +72,7 @@ def could_not_check(run):
     timing_ran = any(e["stage"] == "timing" and e.get("status") == "done" for e in run["events"])
     s = {"verdict": "could_not_check", "safe_to_buy": False, "summary": summary("could_not_check", reason=run["reason"]),
          "reason": run["reason"], "timing_ran": timing_ran, "trust": None, "timing": None, "reasons": [], "alternative": None,
+         "wait_plan": None,
          "evidence": None, "data_as_of": None, "query_id": None, "checked_at": run["started_at"],
          "unavailable": {"everything": run["reason"]}}
     return s, {"events": view_log(run["events"])}
@@ -135,6 +136,9 @@ def build(run):
         # Where to buy instead (alternatives.py): walk_away, or wait when it's cheaper. None when no trusted store
         # qualifies; Clarity never guesses one.
         "alternative": alt and {k: alt[k] for k in ("store", "price", "link", "saving", "text")},
+        # wait only (timing.wait_plan): a target price and/or when to check again, each with its reason. Never a price
+        # forecast. None on other verdicts, or when there's nothing to say.
+        "wait_plan": tm and tm.get("wait_plan"),
         "evidence": {"price": price, "photo": photo_ev,
                      "seller": {k: listing[k] for k in SELLER_FACTS if listing.get(k) is not None},
                      "successor": successor},

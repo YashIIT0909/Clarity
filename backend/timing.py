@@ -9,6 +9,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, timedelta, timezone
 
+import alternatives
 import lifecycle
 import trust
 from demo_products import BRAND_TICKERS
@@ -245,6 +246,63 @@ def _receipts(owners):
         "status": "found", "counted": [{"type": k, "label": c["label_display"]} for k, c in counted]}
 
 
+def _wait_window(product, parts, today):
+    """When to check again, the first that applies: an announced newer model's release, the next retail event, a
+    seasonal fall in search interest. None otherwise: never invented. A check-again time, never a price forecast
+    (SerpApi has no price history to back one)."""
+    lc = parts["lifecycle"][2]
+    if lc.get("status") == "announced":
+        rel = next(c["release"] for c in lc["candidates"] if c["name"] == lc["successor"])
+        if not rel["date_passed"] and (rel["release_date"] or rel["release_window"]):
+            d = rel["release_date"] and date.fromisoformat(rel["release_date"])
+            days = d and (d - today).days
+            when = f"due {rel['release_window']}" + (f", in {days} day{'s' if days != 1 else ''}" if days else "")
+            return {"kind": "successor", "date": rel["release_date"], "days": days,
+                    "text": f"Check again when the {lc['successor']} is out ({when}): you can then choose between "
+                            f"both models."}
+    ev = next_event(today, product.get("category"))
+    if ev:
+        name, days = ev
+        return {"kind": "event", "date": (today + timedelta(days)).isoformat(), "days": days,
+                "text": f"{name} starts in {days} day{'s' if days != 1 else ''}: a good time to check again. Clarity "
+                        f"can't predict sale prices."}
+    seasonal = parts["demand"][2].get("seasonal_ratio")
+    if seasonal is not None and pull(seasonal - 1, 0.05) == "wait":
+        return {"kind": "season", "date": (today + timedelta(weeks=SEASON_AHEAD_WEEKS)).isoformat(),
+                "days": SEASON_AHEAD_WEEKS * 7,
+                "text": f"In past years search interest fell over the next {SEASON_AHEAD_WEEKS} weeks: check again "
+                        f"then."}
+    return None
+
+
+def wait_plan(product, listing, market, parts, today):
+    """What a WAIT waits for: a target price and when to check again, each with its reason; either can be None.
+    Target = the lower of today's cheapest trusted store (alternatives.best) and a good price (median - 1 sigma),
+    never below the too_cheap line (median - 2 sigma: a lower price would itself be flagged), and only when it's below
+    this listing's price. None when there's nothing to say."""
+    target = None
+    price, median, sigma = listing.get("price"), market.get("median"), market.get("sigma")
+    if price is not None and median and sigma:
+        floor = median - trust.Z_TOO_CHEAP * sigma
+        good = max(floor, float(int(median - sigma)))  # whole dollars: "$310 or less", not "$310.42"
+        store = alternatives.best(listing, market)
+        usual = "the new-retail median" if market.get("basis", "new") == "new" else f"the usual price for {market['basis']} units"
+        if store and store["price"] <= good:
+            target = {"price": store["price"], "basis": "store",
+                      "reason": f"{store['store']} sells it for ${store['price']:.2f} today"}
+        else:
+            target = {"price": good, "basis": "band",
+                      "reason": f"a good price: one typical price spread (${sigma:.2f}) below {usual} of ${median:.2f}"}
+        if target["price"] >= price:  # this listing is already at or under it: the wait is about something else
+            target = None
+    window = _wait_window(product, parts, today)
+    if not (target or window):
+        return None
+    lines = ([f"Wait for ${target['price']:.2f} or less ({target['reason']})."] if target else []) + \
+            ([window["text"]] if window else [])
+    return {"target": target, "window": window, "text": " ".join(lines)}
+
+
 def main_reason(parts, verdict):
     """The component pushing hardest toward the verdict (weight x score), as a fact for the narrator: {name,
     contribution, text}. A newer model that decided the verdict is the main reason by definition. None when nothing
@@ -298,6 +356,8 @@ def run(product: dict, trust_signals: dict | None = None, emit=None, owners=None
     # Lifecycle (or receipts) decided the verdict when the other signals alone say buy and it tips the total to wait.
     for k in ("lifecycle", "receipts"):
         parts[k][2]["decided_verdict"] = verdict == "wait" and total - WEIGHTS[k] * parts[k][0] > 0
+    # What to wait for: information only, after the verdict is fixed (never scored, never narrated).
+    plan = wait_plan(product, listing, market, parts, date.today()) if verdict == "wait" else None
 
     return {
         "verdict": verdict,
@@ -306,12 +366,14 @@ def run(product: dict, trust_signals: dict | None = None, emit=None, owners=None
         "judged": any(judged.values()),
         "reasons": reasons,
         "evidence": [{"signal": k, "fact": text, "pulls_toward": p} for k in parts for text, p in parts[k][1]],
+        "wait_plan": plan,
         "signals": {
             "score": round(total, 3),
             "components": {k: {"score": round(parts[k][0], 3), "weight": WEIGHTS[k], "judged": judged[k], **parts[k][2]}
                            for k in parts},
             "judged": any(judged.values()),
             "as_of": date.today().isoformat(),
+            "wait_plan": plan,
         },
     }
 

@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import {
   ArrowRight,
+  CalendarClock,
   CheckCircle2,
   CircleDashed,
   ExternalLink,
@@ -12,6 +13,7 @@ import {
   ShieldAlert,
   ShieldCheck,
   Store,
+  Target,
   Timer,
   TrendingUp,
   X,
@@ -50,6 +52,12 @@ type Stage = "resolve" | "trust" | "gate" | "timing" | "narrator" | "verdict";
 type Verdict = "walk_away" | "wait" | "buy_now";
 // Where to buy instead (backend alternatives.py): a major retailer at a normal market price. Information only.
 type Alternative = { store: string; price: number; link: string; saving: number | null; text: string };
+// What a WAIT waits for (backend timing.wait_plan): a target price and/or when to check again. Never a price forecast.
+type WaitPlan = {
+  target: { price: number; basis: "store" | "band"; reason: string } | null;
+  window: { kind: "successor" | "event" | "season"; date: string | null; days: number | null; text: string } | null;
+  text: string;
+};
 type Evt = {
   stage: Stage | "done" | "error" | "forensics" | "lifecycle" | "receipts" | "owners";
   type?: string;
@@ -74,6 +82,7 @@ type Evt = {
   summary?: string;
   steps?: { title: string; text: string }[];
   alternative?: Alternative | null; // verdict step
+  wait_plan?: WaitPlan | null; // verdict step, wait only
 };
 type Node = { status: "pending" | "running" | "done" | "skipped"; data?: Evt };
 type Demo = { key: string; label: string; url: string };
@@ -637,6 +646,8 @@ function VerdictCard({ final, busy }: { final: Evt | null; busy: boolean }) {
 
       {final.summary && <p className="text-sm leading-relaxed">{final.summary}</p>}
 
+      {final.wait_plan && <WhatToWaitFor p={final.wait_plan} />}
+
       {final.alternative && <BuyHereInstead a={final.alternative} />}
 
       {final.steps && final.steps.length > 0 && (
@@ -685,6 +696,32 @@ function BuyHereInstead({ a }: { a: Alternative }) {
         Open at {a.store}
         <ExternalLink className="size-3.5" />
       </a>
+    </div>
+  );
+}
+
+function WhatToWaitFor({ p }: { p: WaitPlan }) {
+  return (
+    <div data-testid="wait-plan" className="flex flex-col gap-3 rounded-lg border bg-background/60 p-4">
+      <div className="flex items-center gap-2 text-sm font-medium">
+        <Timer className="size-4 text-amber-600 dark:text-amber-400" />
+        What to wait for
+      </div>
+      {p.target && (
+        <div className="flex gap-3">
+          <Target className="mt-0.5 size-4 shrink-0 text-muted-foreground" />
+          <div className="flex flex-col gap-0.5">
+            <span className="text-lg font-semibold tabular-nums">${p.target.price.toFixed(2)} or less</span>
+            <span className="text-sm text-muted-foreground first-letter:uppercase">{p.target.reason}</span>
+          </div>
+        </div>
+      )}
+      {p.window && (
+        <div className="flex gap-3">
+          <CalendarClock className="mt-0.5 size-4 shrink-0 text-muted-foreground" />
+          <span className="text-sm text-muted-foreground">{p.window.text}</span>
+        </div>
+      )}
     </div>
   );
 }

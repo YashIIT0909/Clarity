@@ -40,7 +40,9 @@ def fixtures():
             ident = photo_forensics.identity(url=p["image"])
             for engine, c in photo_forensics.ENGINES.items():
                 f = PROBE / f"{PROBE_PREFIX.get(key, key)}_{PROBE_ENGINE[engine]}.json"
-                yield key, engine, photo_forensics.cache_key(engine, ident), {c["by_url"]: p["image"], **c["fixed"]}, f
+                # No phase0 probe for later demos (honeywell-ebay): pin the row a pre-warm run cached instead.
+                yield key, engine, photo_forensics.cache_key(engine, ident), {c["by_url"]: p["image"], **c["fixed"]}, \
+                    f if f.exists() else None
         if key in ("sony-xm5", "switch2"):
             import lifecycle
             for src, (engine, params) in lifecycle.queries(p["trend_query"]).items():
@@ -56,7 +58,7 @@ def pin_all():
             assert sent.items() >= params.items(), f"{probe_file.name} was run on {sent}, not the demo call {params}"
             serpapi.put(engine, raw, _probe_time(raw), ck, **params)
         else:
-            serpapi.pin(engine, **params)
+            serpapi.pin(engine, ck, **params)  # ck: photo checks cache under the image, not the request
         print(f"pinned {key}: {engine} {ck or params}")
     for key, path in IMAGES_TO_SAVE.items():
         if not path.exists():

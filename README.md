@@ -35,6 +35,7 @@ good time to buy, and why. Every reason links back to live search evidence pulle
   - [4. What owners say](#4-what-owners-say-weight-010-wait-only)
   - [5. Narrator](#5-narrator)
   - [6. Where to buy instead](#6-where-to-buy-instead)
+  - [7. What to wait for](#7-what-to-wait-for)
 - [Full request lifecycle](#full-request-lifecycle)
 - [Caching and search budget](#caching-and-search-budget)
 - [Project layout](#project-layout)
@@ -63,7 +64,8 @@ push toward **Wait** but never toward Buy Now.
 
 When the answer is **Walk Away**, or **Wait** because a big retailer is cheaper, Clarity
 also says **where to buy instead**: a major retailer selling the same product at a normal
-market price, with a link.
+market price, with a link. A **Wait** also says **what to wait for**: a target price and
+when to check again.
 
 Every check is a rule you can read in the code, with no black-box score. An LLM (Groq)
 only turns the finished signals into plain English.
@@ -300,6 +302,22 @@ It makes **no extra searches**, never changes the verdict, and the narrator neve
 If no store qualifies, nothing is shown. Used and refurbished listings are compared with
 other eBay listings, so they have no retailer store list and get no alternative.
 
+### 7. What to wait for
+
+A **Wait** comes with a plan (`timing.wait_plan`), written by code, never by the LLM:
+
+- **Target price:** the lower of today's cheapest trusted store (the stage 6 rule) and a good
+  price one typical spread below the median (median − σ). Never below the too-cheap line
+  (median − 2σ), since a lower price would itself be flagged. Shown only when it's below the
+  listing's price.
+- **When to check again**, the first that applies: an announced newer model's release date,
+  the next retail event (within 12 weeks), or a seasonal fall in search interest over the
+  next 8 weeks. Otherwise no window is given.
+
+It's a time to check again, never a price forecast: SerpApi has no price history, so
+Clarity can't say whether prices will fall. Like stage 6, it never changes the verdict and
+the narrator never sees it.
+
 ---
 
 ## Full request lifecycle
@@ -413,6 +431,7 @@ uv run python test_receipts_weight.py
 uv run python test_lifecycle_weights.py
 uv run python test_non_demo.py
 uv run python test_alternatives.py
+uv run python test_wait_plan.py
 ```
 
 ### Configuration

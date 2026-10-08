@@ -42,6 +42,18 @@ DEMO_PRODUCTS = {
         "brand": "Honeywell", "category": "heating", "expect_trust": "pass",
         "trend_query": "space heater", "expect_timing": "buy",
     },
+    "honeywell-ebay": {
+        "label": "Honeywell 360° heater on eBay at $71", "url": "https://www.ebay.com/itm/237092942047",
+        "image": "https://i.ebayimg.com/images/g/MC4AAeSwkepquLNC/s-l960.jpg",
+        "marketplace": "ebay", "listing_id": "237092942047",
+        "market_query": "Honeywell HHF360V heater", "match": [r"360 surround|hhf360"], "exclude": r"digital",
+        "brand": "Honeywell", "category": "heating", "expect_trust": "pass",
+        "trend_query": "space heater", "expect_timing": "wait",
+        # The wait demo (2026-10-09): a legit seller (beachaudio, 1.3M sales, returns accepted) charging $71.05 for a
+        # heater whose new-retail median is $38.77. Trust passes (only too_expensive, 25 points); price outweighs
+        # demand and maker -> WAIT, with Walmart's own $36.24 offer as where to buy instead. Same market as the heater.
+        "note": "Legit seller, 83% over market: wait, or buy at Walmart",
+    },
     "switch2": {
         "label": "Nintendo Switch 2", "url": "https://www.amazon.com/dp/B0F3GWXLTS",
         "image": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg",

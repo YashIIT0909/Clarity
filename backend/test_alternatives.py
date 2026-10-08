@@ -29,8 +29,8 @@ runs = list(DEMO_CHIPS.items()) + [
 # Expected offer on the demo's own verdict. The two eBay walk-aways are used listings: their band is other used eBay
 # listings, so there is no retailer store list and no alternative (missing data, never guessed).
 VERDICT = {"airpods-ebay": "walk_away", "airpods-openbox": "walk_away", "sony-xm5": "buy_now",
-           "honeywell-heater": "buy_now", "switch2": "buy_now", "screenshot-sony-59": "walk_away"}
-EXPECT = {"screenshot-sony-59": ("Best Buy", 254.99)}
+           "honeywell-heater": "buy_now", "switch2": "buy_now", "screenshot-sony-59": "walk_away", "honeywell-ebay": "wait"}
+EXPECT = {"screenshot-sony-59": ("Best Buy", 254.99), "honeywell-ebay": ("Walmart Supercenter", 36.24)}
 for key, product in runs:
     s = trust.run(product)["signals"]
     listing, market = s["listing"], s["market"]
