@@ -83,7 +83,7 @@ def _stream(message, do_resolve, extra=lambda product: {}):
             label, product = do_resolve()
             yield _sse({"stage": "resolve", "status": "done", "label": product.get("label", label),
                         "marketplace": product["marketplace"], "listing_id": product["listing_id"],
-                        "market": product.get("market", locales.DEFAULT), **extra(product)})
+                        "market": orchestrator._market_info(product), **extra(product)})
             for e in orchestrator.stream(product, label=label):
                 yield _sse(e)
         except ResolveError as e:

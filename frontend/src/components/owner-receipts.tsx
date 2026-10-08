@@ -152,17 +152,14 @@ export function OwnerReceipts({ r, onRequest }: { r: Receipts; onRequest: () => 
   const live = r.run?.state === "running";
   const failed = r.run?.state === "failed";
   return (
-    <section data-testid="owner-receipts" className="flex min-w-0 flex-col gap-3 rounded-xl border bg-muted/20 p-4 animate-in fade-in sm:p-5">
+    <section data-testid="owner-receipts" className="flex min-w-0 flex-col gap-4 rounded-3xl border border-border/60 bg-card p-5 shadow-[0_1px_3px_rgb(0_0_0/0.04)] animate-in fade-in sm:p-6">
       <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
         <h2 className="flex items-center gap-2 text-sm font-medium uppercase tracking-wide text-muted-foreground">
           <UsersRound className="size-4" />
           What owners say
         </h2>
         <span className="text-xs text-muted-foreground">
-          Independent reviews and forums ·{" "}
-          {r.afterVerdict
-            ? "checked after the verdict, so it didn't change it"
-            : "defects 2+ sources confirm can only nudge timing toward wait (weight 0.10)"}
+          {r.afterVerdict && "Checked after the verdict, so it didn't change it"}
         </span>
       </div>
 
@@ -180,7 +177,7 @@ export function OwnerReceipts({ r, onRequest }: { r: Receipts; onRequest: () => 
       ) : s.status === "unavailable" ? (
         <Unavailable s={s} story={r.story?.text} onRequest={onRequest} />
       ) : (
-        <Found s={s} story={r.story?.text} />
+        <Found s={s} />
       )}
 
       {s && !live && !failed && s.status !== "on_request" && s.mentioned_once?.length > 0 && <MentionedOnce cards={s.mentioned_once} />}
@@ -195,7 +192,6 @@ function EngineStrip({ r, live }: { r: Receipts; live: boolean }) {
     ["Transcripts", t, t.total != null ? `${t.done}/${t.total}` : null],
     ["Forums", r.engines.forums, r.engines.forums.found != null ? `${r.engines.forums.found}` : null],
   ];
-  const done = rows.filter(([, e]) => e.status === "done").length;
   return (
     <div data-testid="receipts-engines" className="flex flex-wrap items-center gap-x-3 gap-y-1.5 text-xs">
       {rows.map(([name, e, count]) => (
@@ -218,7 +214,7 @@ function EngineStrip({ r, live }: { r: Receipts; live: boolean }) {
           {count && e.status !== "unavailable" && <span className="tabular-nums opacity-70">{count}</span>}
         </span>
       ))}
-      <span className="ml-auto tabular-nums text-muted-foreground">{live ? "checking reviews and forums…" : `${done} of 3 sources`}</span>
+      <span className="ml-auto tabular-nums text-muted-foreground">{live && "checking reviews and forums…"}</span>
     </div>
   );
 }
@@ -349,16 +345,100 @@ function Unavailable({ s, story, onRequest }: { s: Summary; story?: string; onRe
   return <Calm testid="receipts-unavailable" icon={UsersRound} tone="muted" text={story ?? `We couldn't check what owners say: ${why}.`} />;
 }
 
-function Found({ s, story }: { s: Summary; story?: string }) {
+/** Issues to the left, praise to the right: a diverging bar chart, each bar sized by its independent sources on one shared scale; one quote for the top claim.
+ *  Clicking a bar opens its receipts (videos at the timestamp, forum threads). The narrated paragraph only restated
+ *  these, so it isn't shown here. */
+function Found({ s }: { s: Summary }) {
+  const [open, setOpen] = useState<string | null>(null);
+  const left = [
+    ...s.known_issues.map((c) => ({ c, n: c.source_count, forum: false })),
+    ...(s.forum_reported ?? []).map((c) => ({ c, n: c.thread_count ?? c.source_count, forum: true })),
+  ];
+  const right = s.known_praise.map((c) => ({ c, n: c.source_count, forum: false }));
+  const rows = Math.max(left.length, right.length);
+  const all = [...left, ...right];
+  const max = Math.max(1, ...all.map((x) => x.n));
+  const selected = all.find((x) => key(x) === open);
+  const top = [...s.known_issues.filter((c) => typeOf(c) === "problem"), ...s.known_issues, ...s.known_praise]
+    .flatMap((c) => c.sources.filter((x): x is VideoSrc => x.type === "video" && !!x.quote).map((v) => ({ c, v })))[0];
+
+  const bar = (x: (typeof left)[number] | undefined, side: "l" | "r") => {
+    if (!x) return <span />;
+    const t = x.forum ? null : typeOf(x.c);
+    const counted = x.forum || t === "problem" || t === "concern";
+    const Icon = x.forum ? MessagesSquare : TYPE_STYLE[t!].icon;
+
+    return (
+      <button
+        type="button"
+        data-testid="receipt-chip"
+        data-type={x.forum ? "forum" : t}
+        aria-expanded={open === key(x)}
+        onClick={() => setOpen(open === key(x) ? null : key(x))}
+        className={cn("group flex w-full min-w-0 flex-col gap-1 rounded-md p-1 text-sm outline-none hover:bg-muted/60 focus-visible:ring-2 focus-visible:ring-ring", side === "l" ? "items-end text-right" : "items-start text-left", open === key(x) && "bg-muted/60")}
+      >
+        <span className={cn("flex max-w-full items-center gap-1.5", side === "l" && "flex-row-reverse")}>
+          <Icon className="size-3.5 shrink-0 text-muted-foreground" />
+          <span className="truncate">{show(x.c)}</span>
+          {counted && <span className="shrink-0 rounded bg-foreground/5 px-1 text-[10px] uppercase tracking-wide text-muted-foreground">counts</span>}
+        </span>
+        <span className={cn("flex w-full items-center gap-2", side === "l" && "flex-row-reverse")}>
+          <span
+            data-testid="receipt-bar"
+            className={cn("h-2 min-w-1 shrink rounded-full opacity-70 transition-opacity group-hover:opacity-100", x.forum ? "bg-foreground/30" : BAR[t!])}
+            style={{ width: `${(x.n / max) * 60}%` }}
+          />
+          <span className="shrink-0 whitespace-nowrap text-xs tabular-nums text-muted-foreground">
+            {x.n} {x.forum ? "forum threads" : x.n === 1 ? "source" : "sources"}
+            {!x.forum && t !== "praise" && ` · ${TYPE_WORD[t!]}`}
+          </span>
+        </span>
+      </button>
+    );
+  };
+
   return (
     <div data-testid="receipts-found" className="flex min-w-0 flex-col gap-3">
-      {story && <p className="text-sm leading-relaxed">{story}</p>}
-      {s.known_issues.length > 0 && <Chips title="Known issues" cards={s.known_issues} />}
-      {s.known_praise.length > 0 && <Chips title="Known praise" cards={s.known_praise} />}
-      {s.forum_reported?.length > 0 && <Chips title="Reported by owners in forums" cards={s.forum_reported} forum />}
+      <div className="grid grid-cols-2 text-xs uppercase tracking-wide text-muted-foreground">
+        <span className="pr-3 text-right">Issues · {left.length}</span>
+        <span className="border-l pl-3">Praise · {right.length}</span>
+      </div>
+      <div className="grid grid-cols-2">
+        {Array.from({ length: rows }, (_, i) => (
+          <div key={i} className="contents">
+            <div className="min-w-0 pr-2">{bar(left[i], "l")}</div>
+            <div className="min-w-0 border-l pl-2">{bar(right[i], "r")}</div>
+          </div>
+        ))}
+      </div>
+      {left.some((x) => x.forum || ["problem", "concern"].includes(typeOf(x.c))) && (
+        <p className="text-xs text-muted-foreground">“Counts” = can nudge timing toward wait.</p>
+      )}
+      {selected ? (
+        <Sources c={selected.c} forum={selected.forum} />
+      ) : (
+        top && (
+          <blockquote className="rounded-lg border-l-2 border-foreground/20 bg-muted/40 px-3 py-2 text-sm">
+            <span className="italic">“{clip(top.v.quote)}”</span>
+            <span className="mt-1 block text-xs text-muted-foreground">
+              Top quote on {show(top.c).toLowerCase()}: {top.v.channel} at{" "}
+              <a href={`https://www.youtube.com/watch?v=${top.v.video_id}&t=${top.v.timestamp_s}s`} target="_blank" rel="noopener noreferrer nofollow" className="underline decoration-foreground/30 underline-offset-2 hover:decoration-foreground">
+                {mmss(top.v.timestamp_s)}
+              </a>{" "}
+              · click any row for all its sources
+            </span>
+          </blockquote>
+        )
+      )}
     </div>
   );
 }
+
+const BAR: Record<ItemType, string> = { problem: "bg-red-500", concern: "bg-amber-400", criticism: "bg-amber-500", praise: "bg-emerald-500" };
+/** Transcript quotes are a word window, not a sentence: mark where it was cut so it doesn't read as broken. */
+const clip = (q: string) => `${/^[a-z]/.test(q) ? "…" : ""}${q}${/[.!?]$/.test(q) ? "" : "…"}`;
+const TYPE_WORD: Record<ItemType, string> = { problem: "recurring problem", concern: "possible risk", criticism: "criticism", praise: "praise" };
+const key = (x: { c: ReceiptCard; forum: boolean }) => `${x.forum ? "f" : "v"}:${x.c.label}`;
 
 function Chips({ title, cards, forum }: { title: string; cards: ReceiptCard[]; forum?: boolean }) {
   const [open, setOpen] = useState<string | null>(null);
@@ -460,7 +540,7 @@ function VideoRow({ x, playing, onToggle }: { x: VideoSrc; playing: boolean; onT
           <span className="font-medium">{x.channel}</span>
           <span className="text-muted-foreground"> at {mmss(x.timestamp_s)} · this video is no longer available to play here</span>
         </span>
-        <span className="italic text-muted-foreground">“{x.quote}”</span>
+        <span className="italic text-muted-foreground">“{clip(x.quote)}”</span>
         <a href={`https://www.youtube.com/watch?v=${x.video_id}&t=${x.timestamp_s}s`} target="_blank" rel="noopener noreferrer nofollow" className="w-fit text-xs underline decoration-foreground/30 underline-offset-2 hover:decoration-foreground">
           Watch on YouTube at {mmss(x.timestamp_s)}
         </a>
@@ -487,7 +567,7 @@ function VideoRow({ x, playing, onToggle }: { x: VideoSrc; playing: boolean; onT
           {x.model === "not confirmed" && (
             <span className="ml-1.5 rounded bg-muted px-1 text-[10px] uppercase tracking-wide text-muted-foreground">model not confirmed</span>
           )}
-          <span className="mt-0.5 block italic text-muted-foreground">“{x.quote}”</span>
+          <span className="mt-0.5 block italic text-muted-foreground">“{clip(x.quote)}”</span>
         </span>
       </button>
       {playing && (

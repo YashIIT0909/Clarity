@@ -23,6 +23,12 @@
   --color-chart-3: var(--chart-3);
   --color-chart-2: var(--chart-2);
   --color-chart-1: var(--chart-1);
+  --color-viz-buy: var(--viz-buy);
+  --color-viz-lime: var(--viz-lime);
+  --color-viz-wait: var(--viz-wait);
+  --color-viz-fail: var(--viz-fail);
+  --color-viz-info: var(--viz-info);
+  --color-viz-idle: var(--viz-idle);
   --color-ring: var(--ring);
   --color-input: var(--input);
   --color-border: var(--border);
@@ -73,6 +79,14 @@
   --chart-4: oklch(0.371 0 0);
   --chart-5: oklch(0.269 0 0);
   --radius: 0.625rem;
+  /* Chart palette, validated (dataviz validate_palette.js): buy<->wait passes CVD in both modes. fail (red) is a
+     status colour: always shown with an icon or label, never colour alone. lime = a lighter step of buy, not a category. */
+  --viz-buy: #1f9d2b;
+  --viz-lime: #a6d930;
+  --viz-wait: #f2a516;
+  --viz-fail: #e5484d;
+  --viz-info: #2a78d6;
+  --viz-idle: #e6e8e3;
   --sidebar: oklch(0.985 0 0);
   --sidebar-foreground: oklch(0.145 0 0);
   --sidebar-primary: oklch(0.205 0 0);
@@ -107,6 +121,12 @@
   --chart-3: oklch(0.439 0 0);
   --chart-4: oklch(0.371 0 0);
   --chart-5: oklch(0.269 0 0);
+  --viz-buy: #157a22;
+  --viz-lime: #7fae22;
+  --viz-wait: #c98500;
+  --viz-fail: #e66767;
+  --viz-info: #3987e5;
+  --viz-idle: #383a36;
   --sidebar: oklch(0.205 0 0);
   --sidebar-foreground: oklch(0.985 0 0);
   --sidebar-primary: oklch(0.488 0.243 264.376);

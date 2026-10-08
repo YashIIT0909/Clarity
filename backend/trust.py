@@ -477,6 +477,8 @@ def run(product: dict, emit=None) -> dict:
             "price_ratio": ratio, "price_z": z, "price_history": history,
             "seller_listings": {"found": others, "implausibly_cheap": seller_cheap},
             "score": score, "pass_score": PASS_SCORE,
+            "thresholds": {"min_reviews": MIN_REVIEWS, "min_rating": MIN_RATING, "min_seller_sales": MIN_SELLER_SALES,
+                           "z_flag": Z_TOO_CHEAP, "sudden_drop": SUDDEN_DROP},
             "penalties": penalties, "positives": positives, "first_party": first_party, "waived": waived,
             # Evidence for the narrator/UI without re-querying: matched thumbnails, domains, complaint snippets.
             "photo": {"forensics": photo, "signals": photo_signals},

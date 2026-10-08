@@ -61,12 +61,13 @@ def _demand(t, query, category, today, market=None):
     # Same week in each prior year (52-week steps back), and the 8 weeks after it.
     # Skip years where the product barely existed (its whole surrounding year is near zero); a low
     # off-season value in an otherwise active year is exactly the seasonal signal we want.
-    ahead = []
+    ahead, seasons = [], []  # seasons: the past dates compared, for the UI's chart
     for back in (52, 104, 156, 208):
         i = len(v) - 1 - back
         year = v[max(i - 26, 0) : i + 26]
         if i >= 0 and v[i] >= 1 and statistics.mean(year) >= MIN_SEASON_BASE:
             ahead.append(min(statistics.mean(v[i + 1 : i + 1 + SEASON_AHEAD_WEEKS]) / v[i], 4))
+            seasons.append({"date": _week(t[i]), "ratio": round(ahead[-1], 3)})
     seasonal = statistics.mean(ahead) if ahead else None
 
     score = 0.5 * clip(momentum * 2) + (0.5 * clip(seasonal - 1) if seasonal else 0)
@@ -84,7 +85,13 @@ def _demand(t, query, category, today, market=None):
     event_reasons, event = _event(t, query, category, today, market)
     return clip(score), reasons + event_reasons, {"query": query, "recent_avg": recent, "prior_avg": prior,
                                                   "momentum": round(momentum, 3), "seasonal_ratio": seasonal and round(seasonal, 3),
-                                                  "seasons_used": len(ahead), "event": event}
+                                                  "seasons_used": len(ahead), "seasons": seasons, "event": event,
+                                                  # weekly interest (0-100) for the UI's chart; not scored
+                                                  "series": [[_week(p), x] for p, x in zip(t, v)]}
+
+
+def _week(p):
+    return datetime.fromtimestamp(int(p["timestamp"]), timezone.utc).date().isoformat()
 
 
 def _event(t, query, category, today, market=None):
