@@ -9,9 +9,11 @@ import statistics
 import time
 from concurrent.futures import ThreadPoolExecutor
 
+import locales
 import photo_forensics
 import store_reputation
 from domains import classify
+from locales import money
 from serpapi import db, search
 
 # Thresholds (tune here).
@@ -67,22 +69,20 @@ ACCESSORY = re.compile(
 )
 # ...and these are secondhand: excluded from a new-retail band, expected in a used one.
 SECONDHAND = re.compile(r"refurb|renewed|restored|used|pre-?owned|open box", re.I)
-# Peer-to-peer marketplaces: same kind of listing we're judging, so not a retail market reference.
-PEER_MARKETS = re.compile(r"mercari|poshmark|ebay|bonanza|jawa|facebook|offerup|shein|whatnot", re.I)
-# Known retailers. Their product pages list many stores; only these (or their marketplace sellers, "Walmart - X")
-# may supply the reference product whose store list joins the market sample.
-MAJOR_RETAILERS = {
-    "best buy", "walmart", "target", "gamestop", "amazon.com", "costco", "home depot", "the home depot",
-    "lowe's", "b&h photo-video-audio", "sam's club", "bj's wholesale club", "apple", "sony", "nintendo",
-    "tractor supply company", "ace hardware", "staples", "office depot", "kohl's", "macy's",
-}
+# Known retailers and peer marketplaces are per market: locales.MARKETS[market]["retailers" / "peers"].
+MAJOR_RETAILERS = locales.MARKETS["us"]["retailers"]  # the US list, for callers that predate markets
 
 
-def _is_major(store):
-    """The retailer itself ("Walmart", "Walmart Supercenter"), never a marketplace seller on its platform
+def _peers(market):
+    """Peer-to-peer marketplaces: the same kind of listing we're judging, so not a retail market reference."""
+    return re.compile(locales.get(market)["peers"], re.I)
+
+
+def _is_major(store, market=None):
+    """The retailer itself ("Walmart", "Walmart Supercenter", "Flipkart"), never a marketplace seller on its platform
     ("Walmart - SomeSeller"), which Google Shopping names with a " - " suffix."""
     s = (store or "").lower()
-    return " - " not in s and any(s == m or s.startswith(m + " ") for m in MAJOR_RETAILERS)
+    return " - " not in s and any(s == m or s.startswith(m + " ") for m in locales.get(market)["retailers"])
 
 
 def _condition(text):
@@ -98,17 +98,20 @@ def _condition(text):
     return "new"
 
 
-def _listing_amazon(asin):
-    d = search("amazon_product", asin=asin)
+def _listing_amazon(asin, market=None):
+    d = search("amazon_product", asin=asin, **locales.get(market)["amazon"])
     p = d["product_results"]
     offer = next(iter((d.get("purchase_options") or {}).values()), {})
-    seller = ((offer.get("features") or {}).get("shipper_seller") or {}).get("text", "unknown")
+    feats = offer.get("features") or {}
+    # amazon.com: one Shipper/Seller field. amazon.in: separate Ships from / Sold by; the seller is "Sold by".
+    seller = (feats.get("shipper_seller") or feats.get("sold_by") or {}).get("text", "unknown")
     return {
-        "marketplace": "amazon", "id": asin, "title": p["title"],
+        "marketplace": "amazon", "market": market or locales.DEFAULT, "id": asin, "title": p["title"],
         "price": p.get("extracted_price") or offer.get("extracted_price"),
         "rating": p.get("rating"), "reviews": p.get("reviews") or 0,
         "image": next(iter(p.get("thumbnails") or []), None),  # main photo, full size
-        "seller": seller, "seller_is_platform": seller == "Amazon.com",  # combined Shipper/Seller field: Amazon sells AND ships
+        "seller": seller, "seller_is_platform": seller in locales.get(market)["first_party"],  # Amazon itself sells it
+        **({"ships_from": feats["ships_from"].get("text")} if feats.get("ships_from") else {}),
         # No per-offer condition field: the buy box is new unless the ASIN itself is a Renewed one or only used offers exist.
         "condition": "refurbished" if re.search(r"renewed|refurbished", p["title"], re.I)
                      else "new" if {"buy_new", "single_offer"} & set(d.get("purchase_options") or {}) else "used",
@@ -121,7 +124,7 @@ def _listing_ebay(item_id):
     p, s = d["product_results"], d.get("seller_results") or {}
     returns = " ".join(sn.get("text", "") for grp in (p.get("returns") or []) for blk in grp for sn in blk.get("snippets", []))
     return {
-        "marketplace": "ebay", "id": item_id, "title": p["title"], "description": p.get("short_description"),
+        "marketplace": "ebay", "market": "us", "id": item_id, "title": p["title"], "description": p.get("short_description"),
         "image": ((p.get("media") or [{}])[0].get("image") or [{}])[-1].get("link"),  # first photo, largest size
         # Auction-only and multi-option listings have no single Buy It Now price: None (price check skipped).
         "price": (((p.get("buy") or {}).get("buy_it_now") or {}).get("price") or {}).get("amount"),
@@ -148,7 +151,7 @@ def _seller_listings(listing, query, is_match):
     """The same seller's other listings of this product in the listing's condition bucket, from an eBay search for it.
     ponytail: SerpApi has no by-seller listing query (ebay_seller returns a profile only, _ssn is ignored), so this
     only sees sellers who rank in the first results page. Amazon results carry no seller at all -> always []."""
-    if listing["marketplace"] != "ebay":
+    if listing["marketplace"] != "ebay" or not locales.get(listing.get("market"))["ebay"]:
         return []
     return [
         {"id": x.get("product_id"), "title": x.get("title"), "price": x["price"]["extracted"]}
@@ -159,12 +162,19 @@ def _seller_listings(listing, query, is_match):
     ]
 
 
-def _market(query, match, exclude=None):
-    """Median new-condition retail price: matched Google Shopping results + the matched product's Immersive store list."""
-    is_match = _matcher(match, exclude)
+def _local_price(price, loc):
+    """A price set in this market's currency. India: whole rupees only (paise = a converted foreign price)."""
+    return bool(price) and not (loc["whole_prices_only"] and abs(price - round(price)) > 0.005)
+
+
+def _market(query, match, exclude=None, market=None):
+    """Median new-condition retail price: matched Google Shopping results + the matched product's Immersive store list,
+    in the listing's market (US: gl=us, $; India: gl=in, ₹, foreign shops' converted prices dropped)."""
+    is_match, peers, loc = _matcher(match, exclude), _peers(market), locales.get(market)
     results = [
-        r for r in search("google_shopping", q=query, gl="us", hl="en").get("shopping_results", [])
-        if not r.get("second_hand_condition") and not PEER_MARKETS.search(r.get("source") or "")
+        r for r in search("google_shopping", q=query, gl=loc["gl"], hl="en").get("shopping_results", [])
+        if not r.get("second_hand_condition") and not peers.search(r.get("source") or "")
+        and _local_price(r.get("extracted_price"), loc)
     ]
     # One price per source: the reference product's own listing also appears in its store list.
     by_source = {r.get("source") or r.get("title"): r["extracted_price"]
@@ -174,16 +184,17 @@ def _market(query, match, exclude=None):
     # The reference product's store list is merged into the market, so it must be on a known retailer's platform
     # ("Walmart - SomeSeller" is on walmart.com). An unknown domain with a matching title never gets that role.
     hero = next((r for r in results if is_match(r.get("title")) and r.get("immersive_product_page_token")
-                 and (r.get("source") or "").lower().split(" - ")[0] in MAJOR_RETAILERS), None)
+                 and (r.get("source") or "").lower().split(" - ")[0] in loc["retailers"]), None)
     stores, observed_at = [], None
     if hero:
         imm = search("google_immersive_product", page_token=hero["immersive_product_page_token"])
         observed_at = imm["_fetched_at"]
         # link + major feed "where to buy instead" (alternatives.py); the market sample still takes every store.
         stores = [
-            {"store": s.get("name"), "price": s["extracted_price"], "link": s.get("link"), "major": _is_major(s.get("name"))}
+            {"store": s.get("name"), "price": s["extracted_price"], "link": s.get("link"),
+             "major": _is_major(s.get("name"), market)}
             for s in (imm.get("product_results") or {}).get("stores", [])
-            if s.get("extracted_price") and not PEER_MARKETS.search(s.get("name") or "")
+            if _local_price(s.get("extracted_price"), loc) and not peers.search(s.get("name") or "")
         ]
         by_source.update({s["store"]: s["price"] for s in stores})
     return {
@@ -214,6 +225,9 @@ def _secondhand_market(listing, query, match, exclude=None):
     """Band for a used/refurbished listing: same-product eBay listings in the same condition bucket, one price per
     seller, the listing itself excluded. New retail is the wrong yardstick: normal used prices sit ~7 sigma below it."""
     bucket, is_match = listing["condition_bucket"], _matcher(match, exclude, secondhand=True)
+    if not locales.get(listing.get("market"))["ebay"]:  # no secondhand source in this market: check unavailable
+        return {**_band([], MIN_USED_COMPARABLES), "basis": bucket, "basis_text": f"{bucket} units",
+                "no_source": True, "stores": [], "stores_observed_at": None, "reference_product": None}
     by_seller = {}
     for x in search("ebay", ebay_domain="ebay.com", _nkw=query).get("organic_results", []):
         price = (x.get("price") or {}).get("extracted")  # price ranges (multi-variant listings) have no single price
@@ -226,9 +240,11 @@ def _secondhand_market(listing, query, match, exclude=None):
 
 def _snapshot(listing, market):
     """Append this run's prices to price_snapshots. A cache replay has the same observed_at -> skipped, not duplicated."""
-    rows = [{"product_id": listing["id"], "source": f"{listing['marketplace']} listing",
+    # One ASIN can be on amazon.com and amazon.in: Indian rows are kept apart ("B09XS7JWHH@in", prices in ₹).
+    pid = listing["id"] + ("@in" if listing.get("market") == "in" else "")
+    rows = [{"product_id": pid, "source": f"{listing['marketplace']} listing",
              "price": listing["price"], "observed_at": listing["observed_at"]}]
-    rows += [{"product_id": listing["id"], "source": s["store"], "price": s["price"], "observed_at": market["stores_observed_at"]}
+    rows += [{"product_id": pid, "source": s["store"], "price": s["price"], "observed_at": market["stores_observed_at"]}
              for s in market["stores"]]
     rows = [r for r in rows if r["price"] is not None]
     if rows:
@@ -238,16 +254,17 @@ def _snapshot(listing, market):
 def _history(listing):
     """This listing's price in every earlier Clarity check, oldest first.
     serpapi_cache keeps one row per query (upserted), so trust_results is the only table with past prices."""
-    rows = (
-        db.table("trust_results").select("price:signals_json->listing->price, queries(created_at)")
-        .eq("signals_json->listing->>marketplace", listing["marketplace"])
-        .eq("signals_json->listing->>id", listing["id"])
-        .execute().data
-    )
+    q = (db.table("trust_results").select("price:signals_json->listing->price, queries(created_at)")
+         .eq("signals_json->listing->>marketplace", listing["marketplace"])
+         .eq("signals_json->listing->>id", listing["id"]))
+    # Same ASIN, other country, other currency: never one history. Rows from before markets have none: US.
+    q = (q.eq("signals_json->listing->>market", "in") if listing.get("market") == "in" else
+         q.or_("signals_json->listing->>market.is.null,signals_json->listing->>market.eq.us"))
+    rows = q.execute().data
     return sorted((r["queries"]["created_at"], r["price"]) for r in rows if r["price"] is not None)
 
 
-def _price_trend(price, history):
+def _price_trend(price, history, market=None):
     """Compare today's price with the listing's usual price. Returns (penalty reason | None, positive | None, signals).
     The baseline is the median of past prices, so a price that has stayed low for most checks is the norm, not a drop."""
     if not history:
@@ -256,17 +273,18 @@ def _price_trend(price, history):
     drop = round((baseline - price) / baseline, 3)
     info = {"n_checks": len(history), "since": history[0][0][:10], "baseline": baseline, "drop": drop}
     if drop >= SUDDEN_DROP:
-        return (f"Price just dropped {drop * 100:.0f}% — it was usually ${baseline:.2f} across {len(history)} earlier "
+        return (f"Price just dropped {drop * 100:.0f}% — it was usually {money(baseline, market)} across {len(history)} earlier "
                 f"checks since {info['since']}", None, info)
     if abs(drop) <= IN_LINE:
-        return None, f"Priced about the same (${baseline:.2f}) across {len(history)} earlier checks since {info['since']}", info
+        return None, f"Priced about the same ({money(baseline, market)}) across {len(history)} earlier checks since {info['since']}", info
     return None, None, info
 
 
 def _listing_screenshot(product):
     """What a screenshot tells us: the product Lens identified, the price the user typed from the ad (never read from
     the image), and the shop if one was detected. No seller, returns, reviews or condition."""
-    return {"marketplace": "screenshot", "id": product["listing_id"], "title": product["title"],
+    return {"marketplace": "screenshot", "market": product.get("market") or locales.DEFAULT,
+            "id": product["listing_id"], "title": product["title"],
             "price": product.get("ad_price"), "seller": product.get("store_domain") or "unknown shop",
             "seller_is_platform": False, "condition": "unknown (screenshot)", "observed_at": None, "image": None}
 
@@ -280,8 +298,8 @@ def _photo(listing, image_url=None, image_bytes=None, emit=None):
     return {**{k: r[k] for k in keep}, "image": image_url or "uploaded image", "top_matches": r["matches"][:24]}, sigs
 
 
-def _store(domain):
-    return asyncio.run(store_reputation.run(domain))
+def _store(domain, market=None):
+    return asyncio.run(store_reputation.run(domain, market))
 
 
 def _unavailable(names, why):
@@ -294,10 +312,13 @@ def run(product: dict, emit=None) -> dict:
     emit(event): optional live progress of the photo/store checks (the orchestrator streams it as SSE).
     store_domain: reputation runs only for domains that aren't a known retailer or marketplace."""
     shot = product["marketplace"] == "screenshot"
+    mkt = product.get("market") or locales.DEFAULT  # the link's market (eBay: always US); typed text: the caller's
     if shot:
         listing = _listing_screenshot(product)
+    elif product["marketplace"] == "amazon":
+        listing = _listing_amazon(product["listing_id"], mkt)
     else:
-        listing = (_listing_amazon if product["marketplace"] == "amazon" else _listing_ebay)(product["listing_id"])
+        listing = _listing_ebay(product["listing_id"])
     # A screenshot's price is compared with new retail: the ad doesn't say new or used.
     listing["condition_bucket"] = bucket = "new" if shot else _condition(listing["condition"])
 
@@ -307,7 +328,7 @@ def run(product: dict, emit=None) -> dict:
     image, store_domain = product.get("image") or listing.get("image"), product.get("store_domain")
     photo_job = (pool.submit(_photo, listing, image_bytes=product["image_bytes"], emit=emit) if shot
                  else image and pool.submit(_photo, listing, image_url=image, emit=emit))
-    store_job = store_domain and classify(f"https://{store_domain}/") == "unknown" and pool.submit(_store, store_domain)
+    store_job = store_domain and classify(f"https://{store_domain}/") == "unknown" and pool.submit(_store, store_domain, mkt)
     pool.shutdown(wait=False)  # never block on a slow check past its deadline
     # Hand-written for demo products; missing = unknown. No market query -> no market search, and the check is skipped.
     query, match = product.get("market_query"), product.get("match") or []
@@ -315,7 +336,7 @@ def run(product: dict, emit=None) -> dict:
         market = {**_band([], 1), "basis": "new", "basis_text": "new retail", "stores": [], "stores_observed_at": None,
                   "reference_product": None}
     elif bucket == "new":
-        market = _market(query, match, product.get("exclude"))
+        market = _market(query, match, product.get("exclude"), mkt)
     elif bucket == "parts":  # a for-parts unit has no fair "market price" to be anomalous against
         market = {**_band([], 1), "basis": "parts", "basis_text": "parts units", "stores": [], "stores_observed_at": None,
                   "reference_product": None}
@@ -337,9 +358,9 @@ def run(product: dict, emit=None) -> dict:
     z = round((price - median) / market["sigma"], 2) if median and price is not None else None
     new = market["basis"] == "new"
     # "the new-retail median" vs "the usual price for used units"; the narrator repeats these words, so they must say which.
-    usual = (f"the new-retail median of ${median:.2f}" if new
-             else f"the usual price for {market['basis']} units (${median:.2f}, median of {market['n_prices']} eBay listings in the same condition)") if median else None
-    spread = median and f"{market['basis_text']} prices for this product typically vary ±${market['sigma']:.2f}"
+    usual = (f"the new-retail median of {money(median, mkt)}" if new
+             else f"the usual price for {market['basis']} units ({money(median, mkt)}, median of {market['n_prices']} eBay listings in the same condition)") if median else None
+    spread = median and f"{market['basis_text']} prices for this product typically vary ±{money(market['sigma'], mkt)}"
     # A screenshot doesn't say new or used, so its price is compared with new retail: every price reason says so.
     shot_note = ". The ad doesn't say new or used, so it's compared with new retail" if shot else ""
 
@@ -352,21 +373,24 @@ def run(product: dict, emit=None) -> dict:
         positives.append("No market search is available for this product, so the price check was skipped — not counted")
     elif z is None and new:
         flag("market_unknown", f"Not enough comparable market prices ({market['n_prices']}) to verify the price")
+    elif z is None and market.get("no_source"):  # India: no eBay, so no secondhand prices at all
+        positives.append(f"No {market['basis']} price source in {locales.get(mkt)['name']} (eBay doesn't sell there), so "
+                         f"the price check was skipped — not counted either way")
     elif z is None:  # too few secondhand comparables: the check can't run, which is not evidence against the seller
         positives.append(f"Price check unavailable: only {market['n_prices']} comparable {market['basis_text']} "
                          f"(need {MIN_USED_COMPARABLES}) — not counted either way")
     elif z < -Z_TOO_CHEAP:
-        flag("too_cheap", f"Price ${price:.2f} is {100 - ratio * 100:.0f}% below {usual}, "
+        flag("too_cheap", f"Price {money(price, mkt)} is {100 - ratio * 100:.0f}% below {usual}, "
                           f"{-z:.1f}x the normal spread ({spread}) — too good to be true{shot_note}")
     elif z > Z_TOO_EXPENSIVE:
-        flag("too_expensive", f"Price ${price:.2f} is {ratio * 100 - 100:.0f}% above {usual}, "
+        flag("too_expensive", f"Price {money(price, mkt)} is {ratio * 100 - 100:.0f}% above {usual}, "
                               f"{z:.1f}x the normal spread ({spread}){shot_note}")
     else:
         rel = "in line with" if abs(ratio - 1) <= IN_LINE else f"{abs(ratio - 1) * 100:.0f}% {'above' if ratio > 1 else 'below'}"
         compared = f" ({market['n_prices']} retail prices compared)" if new else ""
-        positives.append(f"Price ${price:.2f} is {rel} {usual}{compared} — no anomaly{shot_note}")
+        positives.append(f"Price {money(price, mkt)} is {rel} {usual}{compared} — no anomaly{shot_note}")
 
-    drop_reason, steady, history = _price_trend(price, [] if first_party or shot or price is None else _history(listing))
+    drop_reason, steady, history = _price_trend(price, [] if first_party or shot or price is None else _history(listing), mkt)
     if drop_reason:
         flag("sudden_drop", drop_reason)
     elif steady:
@@ -378,7 +402,7 @@ def run(product: dict, emit=None) -> dict:
         seller_cheap = [o for o in others if (o["price"] - median) / market["sigma"] < -Z_TOO_CHEAP]
     if seller_cheap:
         flag("seller_pattern", f"Seller '{listing['seller']}' has {len(seller_cheap)} other listing(s) of this product also "
-                               f"priced implausibly low (${', $'.join(f'{o['price']:.2f}' for o in seller_cheap)})")
+                               f"priced implausibly low ({', '.join(money(o['price'], mkt) for o in seller_cheap)})")
 
     if first_party:
         positives.append(f"Sold and shipped by {listing['seller']} itself — price checks don't count against it")
@@ -428,7 +452,9 @@ def run(product: dict, emit=None) -> dict:
     for sig in photo_signals + store_signals:
         if sig["status"] == "fired":
             flag(sig["signal"], sig["reason"])
-    if photo and not photo["total_matches"]:
+    if photo and not photo["engines_used"]:  # every engine failed: no matches is no evidence, not "no copies"
+        positives.append("The photo search couldn't run (search engines unavailable) — not counted either way")
+    elif photo and not photo["total_matches"]:
         positives.append("The photo search found no other copies of this image online")
     elif photo and not any(sig["status"] == "fired" for sig in photo_signals):
         positives.append(f"Photo checked across {len(photo['engines_used'])} search engine(s) "

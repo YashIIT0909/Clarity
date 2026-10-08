@@ -46,15 +46,34 @@ const REVEAL_GAP_MS = 700; // pace the chain so each step is readable on stage
 const FORENSICS_GAP_MS = 120; // evidence events stream fast: the board animates them instead
 // Pre-verified screenshot (synthetic ad; its Lens results are cached). Uploaded byte-for-byte, never re-compressed,
 // so the demo replays from cache and is deterministic.
-const DEMO_SCREENSHOT = { label: "Screenshot: Sony XM5 ad at $59", src: "/demo/ad_sony_xm5_59.png", price: "59" };
+const DEMO_SCREENSHOTS = [
+  { label: "Screenshot: Sony XM5 ad at Rs. 4,999", src: "/demo/ad_sony_xm5_rs4999.png", price: "4999", market: "in" as Market },
+  { label: "Screenshot: Sony XM5 ad at Rs. 29,990", src: "/demo/ad_sony_xm5_rs29990.png", price: "29990", market: "in" as Market },
+  { label: "Screenshot: Sony XM5 ad at $59", src: "/demo/ad_sony_xm5_59.png", price: "59", market: "us" as Market },
+];
+// Typed text and screenshots carry no country: the user picks one (India by default). A link decides by itself.
+type Market = "in" | "us";
+const MARKETS: { code: Market; label: string; symbol: string }[] = [
+  { code: "in", label: "India", symbol: "₹" },
+  { code: "us", label: "US", symbol: "$" },
+];
+const isLink = (q: string) => /^https?:\/\/|amazon\.|ebay\./i.test(q.trim());
 
 type Stage = "resolve" | "trust" | "gate" | "timing" | "narrator" | "verdict";
 type Verdict = "walk_away" | "wait" | "buy_now";
 // Where to buy instead (backend alternatives.py): a major retailer at a normal market price. Information only.
-type Alternative = { store: string; price: number; link: string; saving: number | null; text: string };
+type Alternative = {
+  store: string;
+  price: number;
+  price_text: string; // in the listing's currency: "$36.24", "₹19,989"
+  link: string;
+  saving: number | null;
+  saving_text: string | null;
+  text: string;
+};
 // What a WAIT waits for (backend timing.wait_plan): a target price and/or when to check again. Never a price forecast.
 type WaitPlan = {
-  target: { price: number; basis: "store" | "band"; reason: string } | null;
+  target: { price: number; price_text: string; basis: "store" | "band"; reason: string } | null;
   window: { kind: "successor" | "event" | "season"; date: string | null; days: number | null; text: string } | null;
   text: string;
 };
@@ -83,9 +102,10 @@ type Evt = {
   steps?: { title: string; text: string }[];
   alternative?: Alternative | null; // verdict step
   wait_plan?: WaitPlan | null; // verdict step, wait only
+  market?: { code: Market; name: string; currency: string; symbol: string }; // verdict step: where it was checked
 };
 type Node = { status: "pending" | "running" | "done" | "skipped"; data?: Evt };
-type Demo = { key: string; label: string; url: string };
+type Demo = { key: string; label: string; url: string; market: Market };
 type Picked = { blob: Blob; url: string; name: string; demo?: boolean };
 
 const CHAIN: { stage: Stage; title: string; icon: typeof ShieldCheck }[] = [
@@ -132,6 +152,7 @@ export default function Home() {
   const [receipts, setReceipts] = useState<Receipts | null>(null);
   const [picked, setPicked] = useState<Picked | null>(null);
   const [price, setPrice] = useState("");
+  const [market, setMarket] = useState<Market>("in");
   const [dragging, setDragging] = useState(false);
 
   const source = useRef<EventSource | null>(null);
@@ -227,11 +248,11 @@ export default function Home() {
     setBusy(true);
   }
 
-  function analyze(q: string) {
+  function analyze(q: string, m: Market = market) {
     if (!q.trim() || busy) return;
     reset();
     shotUrl.current = null;
-    listen(`${API}/analyze/stream?q=${encodeURIComponent(q.trim())}`);
+    listen(`${API}/analyze/stream?q=${encodeURIComponent(q.trim())}&market=${m}`);
   }
 
   function pick(file: Blob, name: string, demo = false) {
@@ -244,7 +265,7 @@ export default function Home() {
     return next;
   }
 
-  async function analyzeImage(img: Picked, adPrice: string) {
+  async function analyzeImage(img: Picked, adPrice: string, m: Market = market) {
     if (busy) return;
     reset();
     shotUrl.current = img.url;
@@ -254,6 +275,7 @@ export default function Home() {
       const body = img.demo ? img.blob : await compressForUpload(img.blob);
       form.append("file", body, body === img.blob ? img.name : "screenshot.jpg");
       if (adPrice.trim()) form.append("price", adPrice.trim());
+      form.append("market", m);
       const r = await fetch(`${API}/analyze/image`, { method: "POST", body: form });
       const j = await r.json();
       if (!r.ok) throw new Error(typeof j.detail === "string" ? j.detail : "The screenshot couldn't be uploaded.");
@@ -370,7 +392,7 @@ export default function Home() {
                     pick(file, file.name || "pasted screenshot");
                   }
                 }}
-                placeholder="https://www.amazon.com/dp/… or “Sony WH-1000XM5 headphones”"
+                placeholder="https://www.amazon.in/dp/… or “Sony WH-1000XM5 headphones”"
                 className="h-11 text-base"
                 autoComplete="off"
               />
@@ -412,7 +434,7 @@ export default function Home() {
                 inputMode="decimal"
                 value={price}
                 onChange={(e) => setPrice(e.target.value.replace(/[^0-9.]/g, ""))}
-                placeholder="$"
+                placeholder={MARKETS.find((x) => x.code === market)!.symbol}
                 className="h-9 w-32"
               />
               <span className="text-xs text-muted-foreground">
@@ -420,6 +442,7 @@ export default function Home() {
               </span>
             </div>
           )}
+          <MarketPicker market={market} onChange={setMarket} byLink={!picked && isLink(input)} disabled={busy} />
         </form>
         {demos.length > 0 && (
           <div className="flex flex-wrap items-center gap-2 text-sm">
@@ -431,28 +454,34 @@ export default function Home() {
                 disabled={busy}
                 onClick={() => {
                   setInput(d.url);
-                  analyze(d.url);
+                  analyze(d.url, d.market);
                 }}
                 className="rounded-full border px-3 py-1 transition-colors hover:bg-muted disabled:opacity-50"
               >
                 {d.label}
+                <span className="ml-1.5 text-xs text-muted-foreground">{d.market === "in" ? "India" : "US"}</span>
               </button>
             ))}
-            <button
-              type="button"
-              disabled={busy}
-              onClick={async () => {
-                const blob = await fetch(DEMO_SCREENSHOT.src).then((r) => r.blob());
-                const img = pick(blob, DEMO_SCREENSHOT.src.split("/").pop()!, true);
-                if (!img) return;
-                setPrice(DEMO_SCREENSHOT.price);
-                analyzeImage(img, DEMO_SCREENSHOT.price);
-              }}
-              className="inline-flex items-center gap-1.5 rounded-full border px-3 py-1 transition-colors hover:bg-muted disabled:opacity-50"
-            >
-              <ImagePlus className="size-3.5" />
-              {DEMO_SCREENSHOT.label}
-            </button>
+            {DEMO_SCREENSHOTS.map((shot) => (
+              <button
+                key={shot.src}
+                type="button"
+                disabled={busy}
+                onClick={async () => {
+                  const blob = await fetch(shot.src).then((r) => r.blob());
+                  const img = pick(blob, shot.src.split("/").pop()!, true);
+                  if (!img) return;
+                  setPrice(shot.price);
+                  setMarket(shot.market);
+                  analyzeImage(img, shot.price, shot.market);
+                }}
+                className="inline-flex items-center gap-1.5 rounded-full border px-3 py-1 transition-colors hover:bg-muted disabled:opacity-50"
+              >
+                <ImagePlus className="size-3.5" />
+                {shot.label}
+                <span className="ml-0.5 text-xs text-muted-foreground">{shot.market === "in" ? "India" : "US"}</span>
+              </button>
+            ))}
           </div>
         )}
       </section>
@@ -646,6 +675,13 @@ function VerdictCard({ final, busy }: { final: Evt | null; busy: boolean }) {
 
       {final.summary && <p className="text-sm leading-relaxed">{final.summary}</p>}
 
+      {final.market && (
+        <p data-testid="market" className="-mt-2 text-xs text-muted-foreground">
+          Checked against {final.market.name === "US" ? "US" : "Indian"} retailers · prices in {final.market.currency} (
+          {final.market.symbol})
+        </p>
+      )}
+
       {final.wait_plan && <WhatToWaitFor p={final.wait_plan} />}
 
       {final.alternative && <BuyHereInstead a={final.alternative} />}
@@ -680,10 +716,10 @@ function BuyHereInstead({ a }: { a: Alternative }) {
       </div>
       <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
         <span className="text-lg font-semibold">
-          {a.store} · <span className="tabular-nums">${a.price.toFixed(2)}</span>
+          {a.store} · <span className="tabular-nums">{a.price_text}</span>
         </span>
-        {a.saving != null && (
-          <span className="text-sm text-emerald-700 tabular-nums dark:text-emerald-400">${a.saving.toFixed(2)} less</span>
+        {a.saving_text && (
+          <span className="text-sm text-emerald-700 tabular-nums dark:text-emerald-400">{a.saving_text} less</span>
         )}
       </div>
       <p className="text-sm text-muted-foreground">{a.text}</p>
@@ -711,7 +747,7 @@ function WhatToWaitFor({ p }: { p: WaitPlan }) {
         <div className="flex gap-3">
           <Target className="mt-0.5 size-4 shrink-0 text-muted-foreground" />
           <div className="flex flex-col gap-0.5">
-            <span className="text-lg font-semibold tabular-nums">${p.target.price.toFixed(2)} or less</span>
+            <span className="text-lg font-semibold tabular-nums">{p.target.price_text} or less</span>
             <span className="text-sm text-muted-foreground first-letter:uppercase">{p.target.reason}</span>
           </div>
         </div>
@@ -720,6 +756,47 @@ function WhatToWaitFor({ p }: { p: WaitPlan }) {
         <div className="flex gap-3">
           <CalendarClock className="mt-0.5 size-4 shrink-0 text-muted-foreground" />
           <span className="text-sm text-muted-foreground">{p.window.text}</span>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/** India / US for typed text and screenshots. A pasted link decides its own market, so the picker steps aside. */
+function MarketPicker({
+  market,
+  onChange,
+  byLink,
+  disabled,
+}: {
+  market: Market;
+  onChange: (m: Market) => void;
+  byLink: boolean;
+  disabled: boolean;
+}) {
+  return (
+    <div className="flex flex-wrap items-center gap-2 text-sm">
+      <span className="text-muted-foreground">Market</span>
+      {byLink ? (
+        <span className="text-xs text-muted-foreground">set by the link (amazon.in → India; amazon.com, eBay → US)</span>
+      ) : (
+        <div role="radiogroup" aria-label="Market" className="inline-flex rounded-lg border p-0.5">
+          {MARKETS.map((m) => (
+            <button
+              key={m.code}
+              type="button"
+              role="radio"
+              aria-checked={market === m.code}
+              disabled={disabled}
+              onClick={() => onChange(m.code)}
+              className={cn(
+                "rounded-md px-3 py-1 text-xs font-medium transition-colors disabled:opacity-50",
+                market === m.code ? "bg-foreground text-background" : "text-muted-foreground hover:bg-muted",
+              )}
+            >
+              {m.label} ({m.symbol})
+            </button>
+          ))}
         </div>
       )}
     </div>

@@ -1,6 +1,6 @@
 """The Clarity MCP server: one model-visible tool, served by main.py at exactly /mcp (Streamable HTTP, stateless)."""
 from pathlib import Path
-from typing import Annotated
+from typing import Annotated, Literal
 
 from mcp.server.apps import Apps, ResourceCsp
 from mcp.server.mcpserver import MCPServer
@@ -22,9 +22,10 @@ Checks whether a specific Amazon or eBay listing is safe to buy, and whether now
 runs a trust check first (price against the market for the same condition, seller record, returns, photo forensics); \
 only a listing that passes goes on to a timing check (demand trend, price position, maker signals, newer models).
 
-Call it before recommending or buying a specific listing. Pass the listing's URL when you have one (amazon.com/dp/… \
-or ebay.com/itm/…): that checks that exact listing. A product description also works, but is less precise: Clarity \
-then picks an Amazon listing itself.
+Call it before recommending or buying a specific listing. Pass the listing's URL when you have one (amazon.in/dp/…, \
+amazon.com/dp/… or ebay.com/itm/…): that checks that exact listing, in that listing's market (amazon.in: Indian \
+retailers, ₹; amazon.com and eBay: US retailers, $). A product description also works, but is less precise: Clarity \
+then picks an Amazon listing itself, on amazon.in unless `market` is "us".
 
 Verdicts:
 - walk_away: the listing failed the trust check. Clarity advises against buying it; timing is not checked.
@@ -45,9 +46,12 @@ apps = Apps()
             annotations=ToolAnnotations(read_only_hint=True, open_world_hint=True))
 def clarity_check_listing(
     listing: Annotated[str, Field(description="An Amazon or eBay product URL, or a product description.")],
+    market: Annotated[Literal["in", "us"], Field(description="For a product description only: check it on amazon.in "
+                                                 "against Indian retailers (in) or on amazon.com (us). A URL decides "
+                                                 "its own market.")] = "in",
 ) -> CallToolResult:
     # Sync on purpose: the SDK runs sync tools in a worker thread, so a 45 s check never blocks the event loop.
-    structured, meta = contract.build(runner.run(listing))
+    structured, meta = contract.build(runner.run(listing, market=market))
     text = structured["summary"]
     if structured["reasons"]:
         text += "\n" + "\n".join(f"- {r}" for r in structured["reasons"][:TOP_REASONS])

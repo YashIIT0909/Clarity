@@ -242,13 +242,16 @@ def classify_release_status(candidate, news, today):
 TIMEOUT = 15  # s per engine; Trends took up to 7.8s in the probe
 
 
-def queries(name):
-    """The three runtime calls, US locale (engine, params). Param names from SerpApi's docs (Prompt 1). Amazon
-    Autocomplete was dropped: it named no successor that Google didn't."""
-    return {"trends": ("google_trends", {"q": name, "data_type": "RELATED_QUERIES", "date": "today 3-m", "geo": "US",
+def queries(name, market=None):
+    """The three runtime calls in the listing's market (engine, params): US geo=US / gl=us, India geo=IN / gl=in.
+    Param names from SerpApi's docs (Prompt 1). Amazon Autocomplete was dropped: it named no successor that Google
+    didn't."""
+    import locales
+    loc = locales.get(market)
+    return {"trends": ("google_trends", {"q": name, "data_type": "RELATED_QUERIES", "date": "today 3-m", "geo": loc["geo"],
                                          "hl": "en"}),
-            "autocomplete": ("google_autocomplete", {"q": name, "gl": "us", "hl": "en"}),
-            "news": ("google_news", {"q": f"{name} successor", "gl": "us", "hl": "en"})}
+            "autocomplete": ("google_autocomplete", {"q": name, "gl": loc["gl"], "hl": "en"}),
+            "news": ("google_news", {"q": f"{name} successor", "gl": loc["gl"], "hl": "en"})}
 
 
 RUMOR_RECENT_DAYS = 90

@@ -10,7 +10,7 @@ import httpx
 
 import receipts
 
-from events import EVENTS
+from events import EVENTS, starts
 
 MODEL = "openai/gpt-oss-120b"
 
@@ -143,7 +143,7 @@ def _event_sentence(ev):
     trend = ("there isn't enough past search data around it to compare" if avg is None else
              f"in past years search interest for \"{ev['search_term']}\" {'rose' if avg >= 0 else 'fell'} "
              f"{abs(avg) * 100:.0f}% on average around it")
-    return (f"{ev['name']} starts in {ev['days_away']} day{'s' if ev['days_away'] != 1 else ''}; {trend}. That's context only: it didn't count toward this "
+    return (f"{starts(ev['name'], ev['days_away'])}; {trend}. That's context only: it didn't count toward this "
             f"verdict, and it says nothing about whether prices will change.")
 
 
@@ -188,7 +188,7 @@ SENTENCES = re.compile(r"(?<=[.!?])\s+")
 # paraphrase with none of these words counts as naming nothing, and the rule-based text takes over.
 TIMING_NAMES = {
     "demand": r"search|demand|interest|popular|season",
-    "price": r"price[sd]?\b|pricing|retail|market|median|cheaper|\$\d",
+    "price": r"price[sd]?\b|pricing|retail|market|median|cheaper|[$₹]\d",
     "maker": r"maker|shares|(?-i:\b[A-Z]{3,5}\b) stock|stock (?:price|is|has|up|down|ris|rose|fell|fall|gain|climb|surg|jump)",
     "lifecycle": r"newer model|successor|announc|rumou?r|leak",
     "receipts": r"owners?|reviewers?|known problem|reported by|possible risk",
@@ -281,8 +281,8 @@ def _signature(fact):
     num = lambda n: rf"(?:{n}|{WORD_NUMS[int(n)]})" if int(n) < len(WORD_NUMS) else n
     if m := re.search(r"(\d+)%", fact):
         return rf"\b{m[1]} ?%|\b{m[1]} percent" + (r"|\bflat\b|unchanged|steady|stable|no change" if m[1] == "0" else "")
-    if m := re.search(r"\$(\d+)", fact):
-        return rf"\${m[1]}\b"
+    if m := re.search(r"([$₹])(\d+)", fact):
+        return rf"{re.escape(m[1])}{m[2]}\b"
     if m := re.search(r"\b(\d+) of (\d+)\b", fact):
         return rf"\b{num(m[1])} of {num(m[2])}\b"
     if m := re.search(r"^(?:Known problem|Possible risk|Reported by owners)[^:]*: (.+?) \(\d+ ", fact):  # owner report
@@ -295,7 +295,7 @@ def _trust_signature(reason):
     5,558, a percentage, a price), else the words naming its check ("returns", "photo"). None: nothing checkable."""
     for rx, sig in ((r"\b(\d{4}-\d{2}-\d{2})\b", lambda m: re.escape(m[1])),
                     (r"\b(\d{1,3}(?:,\d{3})+)\b", lambda m: rf"\b{re.escape(m[1])}\b|\b{m[1].replace(',', '')}\b"),
-                    (r"(\d+)%", lambda m: rf"\b{m[1]} ?%|\b{m[1]} percent"), (r"\$(\d+)", lambda m: rf"\${m[1]}\b")):
+                    (r"(\d+)%", lambda m: rf"\b{m[1]} ?%|\b{m[1]} percent"), (r"([$₹])(\d+)", lambda m: rf"{re.escape(m[1])}{m[2]}\b")):
         if m := re.search(rx, reason):
             return sig(m)
     return next((rx for rx in TRUST_NAMES.values() if re.search(rx, reason, re.I)), None)
@@ -442,6 +442,23 @@ def _stable_input(facts):
     return out
 
 
+RUPEES = re.compile(r"₹([\d,]+)")
+
+
+def _rupees(out, result):
+    """India: every rupee amount keeps its ₹. The LLM drops the sign ("Price 4,999 is 80% below … 25,082"); each amount
+    the facts state as ₹N that appears bare is given its sign back. US narrations keep their $ (seen in every demo)."""
+    if (result["trust"]["signals"]["listing"].get("market") or "us") != "in":
+        return out
+    told = result["trust"]["reasons"] + (result["timing"]["reasons"] if result["timing"] else [])
+    amounts = sorted({a for t in told for a in RUPEES.findall(t) if len(a) >= 3}, key=len, reverse=True)
+    # a comma or point belongs to the number only between digits ("14,999" isn't "4,999"; "25,082, or" is 25,082)
+    fix = lambda text: re.sub(rf"(?<![₹\d])(?<!\d[,.])({'|'.join(map(re.escape, amounts))})(?!\d|[,.]\d)", r"₹\1",
+                              text) if amounts else text
+    return {**out, "headline": fix(out["headline"]), "summary": fix(out["summary"]),
+            "steps": [{**st, "text": fix(st["text"])} for st in out["steps"]]}
+
+
 def run(result: dict) -> dict:
     """result: orchestrator output with trust/timing. Returns {steps, headline, summary}."""
     facts = _facts(result)
@@ -456,6 +473,7 @@ def run(result: dict) -> dict:
     out = _event_as_context_only(out, facts.get("upcoming_event"), result["final_verdict"])
     # after the event guard: it drops whole steps that mention the event, which can take a scored fact with them
     out = _tone(_all_facts_told(_main_reason_only(out, result, facts), result, facts), result, facts)
+    out = _rupees(out, result)
     return {**out, "headline": NOT_JUDGED_HEADLINE} if _not_judged(result) else out
 
 

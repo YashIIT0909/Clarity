@@ -68,11 +68,19 @@ def view_log(events):
     return out
 
 
+def _market(listing):
+    """The market a listing was checked in (orchestrator._market_info's fields, from the listing itself)."""
+    import locales
+    code = listing.get("market") or locales.DEFAULT
+    loc = locales.get(code)
+    return {"code": code, "name": loc["name"], "currency": loc["currency"]}
+
+
 def could_not_check(run):
     timing_ran = any(e["stage"] == "timing" and e.get("status") == "done" for e in run["events"])
     s = {"verdict": "could_not_check", "safe_to_buy": False, "summary": summary("could_not_check", reason=run["reason"]),
-         "reason": run["reason"], "timing_ran": timing_ran, "trust": None, "timing": None, "reasons": [], "alternative": None,
-         "wait_plan": None,
+         "reason": run["reason"], "timing_ran": timing_ran, "trust": None, "timing": None, "reasons": [], "market": None,
+         "alternative": None, "wait_plan": None,
          "evidence": None, "data_as_of": None, "query_id": None, "checked_at": run["started_at"],
          "unavailable": {"everything": run["reason"]}}
     return s, {"events": view_log(run["events"])}
@@ -124,6 +132,7 @@ def build(run):
 
     reasons = [f"{s['title']}: {s['text']}" for s in story["steps"]][:5]  # the narrator's own wording
     alt = r.get("alternative")
+    market = _market(sig["listing"])
     s = {
         "verdict": verdict,
         "safe_to_buy": verdict in SAFE,
@@ -135,6 +144,8 @@ def build(run):
         "reasons": reasons,
         # Where to buy instead (alternatives.py): walk_away, or wait when it's cheaper. None when no trusted store
         # qualifies; Clarity never guesses one.
+        # Which market it was checked in: amounts below are in this currency (a link decides; text defaults to India).
+        "market": {k: market[k] for k in ("code", "name", "currency")},
         "alternative": alt and {k: alt[k] for k in ("store", "price", "link", "saving", "text")},
         # wait only (timing.wait_plan): a target price and/or when to check again, each with its reason. Never a price
         # forecast. None on other verdicts, or when there's nothing to say.

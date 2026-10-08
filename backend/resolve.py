@@ -1,6 +1,7 @@
 """Turn the single user input (URL or free text) into a product dict the agents understand."""
 import re
 
+import locales
 import photo_forensics
 import serpapi
 from demo_products import DEMO_PRODUCTS
@@ -21,9 +22,9 @@ def _short(title, words):
     return " ".join(title.split()[:words])
 
 
-def _generic(marketplace, listing_id):
+def _generic(marketplace, listing_id, market=None):
     if marketplace == "amazon":
-        p = search("amazon_product", asin=listing_id)["product_results"]
+        p = search("amazon_product", asin=listing_id, **locales.get(market)["amazon"])["product_results"]
         brand = re.sub(r"^(Visit the |Brand: )|( Store)$", "", p.get("brand") or "").strip()
     else:
         p = search("ebay_product", product_id=listing_id)["product_results"]
@@ -33,7 +34,7 @@ def _generic(marketplace, listing_id):
     # Brand + model ("Motorola MA1") when the title has a clear model identifier; else the first title words.
     term = search_term(title, brand)
     return {
-        "marketplace": marketplace, "listing_id": listing_id,
+        "marketplace": marketplace, "market": market or locales.DEFAULT, "listing_id": listing_id,
         "market_query": term or _short(title, 6), "match": [], "trend_query": term or _short(title, 3),
         "brand": brand, "label": _short(title, 6),
     }
@@ -69,9 +70,10 @@ def _advertised_store(photo_hash, matches):
     return (domains.pop() if len(domains) == 1 else None), same
 
 
-def resolve_screenshot(data: bytes, ad_price: float | None = None) -> tuple[str, dict]:
+def resolve_screenshot(data: bytes, ad_price: float | None = None, market: str | None = None) -> tuple[str, dict]:
     """Uploaded screenshot -> product dict for the agents. Lens identifies the product; the price only ever comes from
-    ad_price, which the user typed (no OCR). Cached on the image's sha256, so a re-run makes no SerpApi call or upload."""
+    ad_price, which the user typed (no OCR). Cached on the image's sha256, so a re-run makes no SerpApi call or upload.
+    market: the screenshot carries no country, so the caller says which market to price it in (web app: India)."""
     ident = photo_forensics.identity(data=data)
     image_id = None
 
@@ -97,21 +99,26 @@ def resolve_screenshot(data: bytes, ad_price: float | None = None) -> tuple[str,
     priced = [{"title": m.get("title"), "source": m.get("source"), "link": m.get("link"),
                "price": (m.get("price") or {}).get("extracted_value")} for m in r.get("visual_matches") or [] if m.get("price")]
     match = [re.escape(w) for w in _key_words(title)]
+    # India: the clean model term ("Sony WH-1000XM5"), as links use. Indian Shopping returns other products for Lens's
+    # long US-spelled name ("… Noise Canceling Wireless Headphones": Beats, a WHOOP band, Nike shoes; 2026-10-09).
+    # US keeps the first six words it always used (its pinned screenshot demo is cached under that query).
+    clean = market == "in" and search_term(title, title.split()[0])
+    query, trend = (clean, clean) if clean else (_short(title, 6), _short(title, 3))
     if ad_price is not None:
         # A price we can't check against anything is not a pass. "AirPods Pro" (no generation) finds only resale
         # listings on Shopping: stop cleanly rather than let an unverified $49 through. The market is cached for trust.
         import trust  # lazy: trust -> photo_forensics; resolve is only imported by the API
-        if not trust._market(_short(title, 6), match)["median"]:
-            raise ResolveError(f"This looks like “{title}”, but that's too general to check the ${ad_price:,.2f} price "
+        if not trust._market(query, match, market=market)["median"]:
+            raise ResolveError(f"This looks like “{title}”, but that's too general to check the {locales.money(ad_price, market)} price "
                                "against: no retail prices were found for exactly that product. Paste a link to the "
                                "listing, or use a screenshot that shows the exact model.")
     product = {
-        "marketplace": "screenshot", "listing_id": ident[:16], "image_bytes": data, "ad_price": ad_price,
+        "marketplace": "screenshot", "market": market or locales.DEFAULT, "listing_id": ident[:16], "image_bytes": data, "ad_price": ad_price,
         "store_domain": store, "title": title, "label": _short(title, 6),
         # The words that confirmed the identification also filter the market: "AirPods Pro" must not be priced
         # against AirPods 4 (the first run did exactly that: Shopping's reference product was "AirPods 4").
-        "market_query": _short(title, 6), "match": match,
-        "trend_query": _short(title, 3), "brand": title.split()[0], "category": None,
+        "market_query": query, "match": match,
+        "trend_query": trend, "brand": title.split()[0], "category": None,
         "lens": {"identified_as": title, "lens_types_used": tried, "confirming_matches": len(confirming),
                  "priced_matches": priced[:8], "store": store,
                  "store_note": None if store else "Couldn't tell which shop this is from the image, so no shop check ran",
@@ -120,28 +127,36 @@ def resolve_screenshot(data: bytes, ad_price: float | None = None) -> tuple[str,
     return product["label"], product
 
 
-def resolve(text: str) -> tuple[str, dict]:
-    """Returns (label, product). Demo listings map to their pre-verified config."""
+def resolve(text: str, market: str | None = None) -> tuple[str, dict]:
+    """Returns (label, product). The link decides the market (amazon.in -> India; amazon.com, eBay -> US); typed text
+    uses `market` (the web app sends India; scripts and tests default to US). Demo listings map to their pre-verified
+    config, only in their own market: one ASIN can be on amazon.com and amazon.in."""
     text = text.strip()
     if not text:
         raise ResolveError("Paste a product link or describe the product.")
     if text in DEMO_PRODUCTS:
         return text, DEMO_PRODUCTS[text]
+    asin = AMAZON_ASIN.search(text)
+    if asin and not re.search(r"amazon\.(com|in)\b", text, re.I):  # amazon.co.uk & co: never priced in the wrong store
+        raise ResolveError("Only amazon.com and amazon.in product pages are supported, plus eBay listings.")
+    market = locales.from_link(text) or market or locales.DEFAULT
     for key, p in DEMO_PRODUCTS.items():
-        if p["listing_id"] in text:
+        if p["listing_id"] in text and p.get("market", "us") == market:
             return key, p
 
-    if m := AMAZON_ASIN.search(text):
-        p = _generic("amazon", m.group(1).upper())
+    if asin:
+        p = _generic("amazon", asin.group(1).upper(), market)
     elif m := EBAY_ITEM.search(text):
-        p = _generic("ebay", m.group(1))
+        p = _generic("ebay", m.group(1), "us")  # eBay has no Indian site: an eBay listing is checked in the US market
     elif re.match(r"https?://", text):
         raise ResolveError("Only Amazon product pages (…/dp/ASIN) and eBay listings (…/itm/ID) are supported.")
     else:
-        hit = next((r for r in search("amazon", k=text).get("organic_results", []) if r.get("asin")), None)
+        hit = next((r for r in search("amazon", k=text, **locales.get(market)["amazon"]).get("organic_results", [])
+                    if r.get("asin")), None)
         if not hit:
-            raise ResolveError(f"No Amazon listing found for “{text}”.")
-        p = _generic("amazon", hit["asin"])
+            raise ResolveError(f"No Amazon listing found for “{text}”"
+                               f"{' on amazon.in' if market == 'in' else ''}.")
+        p = _generic("amazon", hit["asin"], market)
     return p["label"], p
 
 

@@ -40,7 +40,7 @@ plan = lambda l, m, p=None, today=TODAY, category=None: timing.wait_plan({"categ
 
 # --- Target price -------------------------------------------------------------------------------------------------
 p = plan(listing(330.0), market())
-assert p["target"] == {"price": 280.0, "basis": "band",
+assert p["target"] == {"price": 280.0, "basis": "band", "price_text": "$280.00",
                        "reason": "a good price: one typical price spread ($20.00) below the new-retail median of $300.00"}, p
 assert p["text"].startswith("Wait for $280.00 or less (a good price"), p["text"]
 # A trusted store cheaper than the listing is the target: a price someone charges today (the cheapest such store).
@@ -48,7 +48,7 @@ p = plan(listing(330.0), market(300.0, 20.0, ("Best Buy", 275.0), ("Target", 290
 assert (p["target"]["price"], p["target"]["basis"]) == (275.0, "store") and "Best Buy sells it for $275.00 today" in p["text"], p
 # ...even when it's above the good price (median - sigma, $280): no hoped-for $280 while Target charges $290 now.
 assert plan(listing(330.0), market(300.0, 20.0, ("Target", 290.0)))["target"] == {
-    "price": 290.0, "basis": "store", "reason": "Target sells it for $290.00 today"}
+    "price": 290.0, "basis": "store", "price_text": "$290.00", "reason": "Target sells it for $290.00 today"}
 # A store at or above the listing's price isn't a target: the band target applies instead.
 assert plan(listing(330.0), market(300.0, 20.0, ("Target", 330.0)))["target"]["basis"] == "band"
 # The listing's own store never sets the target (Batch 1 rule).
@@ -90,7 +90,7 @@ assert plan(listing(279.0), market(), today=QUIET) is None
 
 # --- Through timing.run: only a WAIT gets a plan; it's saved in signals; it changes no score ------------------------
 real = timing._trends, timing._maker, timing._price, timing._lifecycle
-timing._trends = lambda q: []
+timing._trends = lambda q, market=None: []
 timing._maker = lambda brand: (0.0, [], {"ticker": "X", "six_month_change": 0.0})
 timing._lifecycle = lambda product, today, emit=None: (0.0, [], {"status": "none"})
 sig = {"listing": {"marketplace": "amazon", "price": 330.0}, "market": market()}

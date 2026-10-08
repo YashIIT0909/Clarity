@@ -80,7 +80,7 @@ def run():
         comp = r["timing"]["signals"]["components"]
         assert comp["maker"]["ticker"] is None and comp["maker"]["score"] == 0  # no ticker -> neutral
         ev = comp["demand"]["event"]  # unknown category: only all-category events can appear (which one is date-dependent)
-        assert ev is None or EVENTS[ev["name"]]["categories"] == "all", ev
+        assert ev is None or EVENTS[ev["name"]]["markets"]["us"] == "all", ev
     assert narrator._facts(r) and r["narration"]["steps"]  # facts build; fallback narration rendered
     if r["timing"]:  # no model identifier in the name -> lifecycle unavailable, no searches, no exception
         lc = r["timing"]["signals"]["components"]["lifecycle"]

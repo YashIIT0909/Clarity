@@ -22,11 +22,13 @@ serpapi.TTL = timedelta(0)
 serpapi.httpx.get = lambda *a, **k: (_ for _ in ()).throw(ConnectionError("SerpApi blocked: pinned rows only"))
 httpx.post = lambda *a, **k: (_ for _ in ()).throw(ConnectionError("Groq blocked: pinned narration only"))
 
-runs = list(DEMO_CHIPS.items()) + [(k, resolve_screenshot((Path(__file__).parent / s["file"]).read_bytes(), s["price"])[1])
+runs = list(DEMO_CHIPS.items()) + [(k, resolve_screenshot((Path(__file__).parent / s["file"]).read_bytes(), s["price"],
+                                                         s.get("market"))[1])
                                    for k, s in DEMO_SCREENSHOTS.items()]
 expect = {"airpods-ebay": ("walk_away", None), "airpods-openbox": ("walk_away", None), "sony-xm5": ("buy_now", "found"),
           "honeywell-heater": ("buy_now", "unavailable"), "switch2": ("buy_now", "found"), "screenshot-sony-59": ("walk_away", None),
-          "honeywell-ebay": ("wait", "unavailable")}
+          "honeywell-ebay": ("wait", "unavailable"), "sony-xm5-in": ("buy_now", "found"),
+          "screenshot-sony-rs4999": ("walk_away", None), "screenshot-sony-rs29990": ("wait", "found")}
 for key, product in runs:
     events = list(orchestrator.stream(product, label=f"replay-proof:{key}"))
     r = events[-1]["result"]
@@ -36,10 +38,13 @@ for key, product in runs:
     assert (r["final_verdict"], rx and rx["status"]) == expect[key], (key, r["final_verdict"], rx and rx["status"])
     # Where to buy instead, on the verdict event the UI reads (the eBay walk-aways are used: no store list, so none).
     verdict_event = next(e for e in events if e.get("stage") == "verdict")
+    assert verdict_event["market"]["code"] == product.get("market", "us"), (key, verdict_event["market"])
     alt = verdict_event["alternative"]
-    assert (alt and alt["store"]) == {"screenshot-sony-59": "Best Buy", "honeywell-ebay": "Walmart Supercenter"}.get(key), (key, alt)
+    assert (alt and alt["store"]) == {"screenshot-sony-59": "Best Buy", "honeywell-ebay": "Walmart Supercenter",
+                                      "screenshot-sony-rs4999": "Amazon.in", "screenshot-sony-rs29990": "Amazon.in"}.get(key), (key, alt)
     plan = verdict_event["wait_plan"]  # wait only: the eBay heater, 83% over market
-    assert (plan and (plan["target"]["price"], plan["window"]["kind"])) == ({"honeywell-ebay": (36.24, "event")}.get(key)), (key, plan)
+    assert (plan and (plan["target"]["price"], plan["window"]["kind"])) == (
+        {"honeywell-ebay": (36.24, "event"), "screenshot-sony-rs29990": (19989, "event")}.get(key)), (key, plan)
     if rx and rx["status"] == "found":
         assert not owners["fallback"], (key, "owners narration not pinned", owners.get("error"))
     types = [e.get("type") for e in events if e.get("stage") == "receipts"]

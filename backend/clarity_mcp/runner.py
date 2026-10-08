@@ -26,11 +26,12 @@ if FORCE_FAIL:
     logger.warning("CLARITY_MCP_FORCE_FAIL=1: every clarity_check_listing call will FAIL (drill). Unset it and restart.")
 
 
-def run(listing, source="mcp") -> dict:
+def run(listing, source="mcp", market="in") -> dict:
     """{"status": "done", "result": <the orchestrator's result + narration>, ...} or {"status": "could_not_check",
     "reason": ...}. Both carry "events" ([{"t_ms", **event}] in emitted order, up to the verdict) and "started_at".
     Returns at the verdict; the stream keeps running in its thread (owner receipts, the verdicts row), as on the web.
-    source prefixes the history label (queries.product_query), e.g. "mcp:sony-xm5" or "mcp-test:sony-xm5"."""
+    source prefixes the history label (queries.product_query), e.g. "mcp:sony-xm5" or "mcp-test:sony-xm5".
+    market: for a product description only ("in" or "us"); a link decides its own market."""
     started_at, t0 = datetime.now(timezone.utc).isoformat(), time.monotonic()
     events, out, ready = [], {}, threading.Event()
 
@@ -51,7 +52,7 @@ def run(listing, source="mcp") -> dict:
             if FORCE_FAIL:
                 logger.warning("CLARITY_MCP_FORCE_FAIL=1: forcing this check to fail (drill)")
                 raise ConnectionError("simulated outage")
-            label, product = resolve(listing)
+            label, product = resolve(listing, market)
             # Same fields main._stream sends for a link.
             log({"stage": "resolve", "status": "done", "label": product.get("label", label),
                  "marketplace": product["marketplace"], "listing_id": product["listing_id"]})

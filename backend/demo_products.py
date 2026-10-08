@@ -54,6 +54,16 @@ DEMO_PRODUCTS = {
         # demand and maker -> WAIT, with Walmart's own $36.24 offer as where to buy instead. Same market as the heater.
         "note": "Legit seller, 83% over market: wait, or buy at Walmart",
     },
+    "sony-xm5-in": {
+        "label": "Sony WH-1000XM5 on amazon.in", "url": "https://www.amazon.in/dp/B09XS7JWHH",
+        # The same photo file as the amazon.com listing (image 61O3iMlnJIL; amazon.in serves it as ._SL1500_).
+        "image": "https://m.media-amazon.com/images/I/61O3iMlnJIL._AC_SL1500_.jpg",
+        "marketplace": "amazon", "market": "in", "listing_id": "B09XS7JWHH",  # same ASIN as sony-xm5, other market
+        # Indian Shopping mixes in the WF-1000XM5 earbuds and skins (phase0/india_probe): headphones only.
+        "market_query": "Sony WH-1000XM5", "match": [r"wh-?1000xm5"], "exclude": r"\+|bundle|with |skin",
+        "brand": "Sony", "category": "audio", "expect_trust": "pass",
+        "trend_query": "Sony WH-1000XM5", "expect_timing": None,
+    },
     "switch2": {
         "label": "Nintendo Switch 2", "url": "https://www.amazon.com/dp/B0F3GWXLTS",
         "image": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg",
@@ -83,6 +93,14 @@ DEMO_CHIPS = {k: p for k, p in DEMO_PRODUCTS.items() if p.get("demo", True)}
 DEMO_SCREENSHOTS = {
     "screenshot-sony-59": {"file": "../frontend/public/demo/ad_sony_xm5_59.png", "price": 59.0,
                            "expect_trust": "fail", "expect_timing": None},
+    # India (2026-10-09): the same synthetic ad layout, "Rs. 4,999" for a ₹19,989 headphone. Walk away, with Amazon.in
+    # at ₹19,989 as where to buy instead.
+    "screenshot-sony-rs4999": {"file": "../frontend/public/demo/ad_sony_xm5_rs4999.png", "price": 4999.0, "market": "in",
+                               "expect_trust": "fail", "expect_timing": None},
+    # India wait: the same ad at Rs. 29,990, 20% over the Indian median. Trust passes; price and falling Indian demand
+    # say wait (71%), for Amazon.in's ₹19,989, with Big Billion Days as the time to check again.
+    "screenshot-sony-rs29990": {"file": "../frontend/public/demo/ad_sony_xm5_rs29990.png", "price": 29990.0, "market": "in",
+                                "expect_trust": "pass", "expect_timing": "wait"},
 }
 
 # Demo-only brand -> Google Finance ticker. Not general brand resolution.

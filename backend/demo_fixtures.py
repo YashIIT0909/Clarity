@@ -92,7 +92,8 @@ def pin_demo_runs():
     try:
         runs = [(k, p) for k, p in DEMO_CHIPS.items()]
         for k, shot in DEMO_SCREENSHOTS.items():
-            runs.append((k, resolve_screenshot((Path(__file__).parent / shot["file"]).read_bytes(), shot["price"])[1]))
+            runs.append((k, resolve_screenshot((Path(__file__).parent / shot["file"]).read_bytes(), shot["price"],
+                                               shot.get("market"))[1]))
         for key, product in runs:
             t = trust.run(product)
             tm = r = None

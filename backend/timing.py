@@ -11,9 +11,11 @@ from datetime import date, datetime, timedelta, timezone
 
 import alternatives
 import lifecycle
+import locales
 import trust
 from demo_products import BRAND_TICKERS
-from events import EVENTS, next_event
+from events import EVENTS, next_event, starts
+from locales import money
 from serpapi import search
 
 # lifecycle only ever pushes toward wait (score in [-1, 0]); it is added on top, so at 0 every other score is unchanged.
@@ -40,13 +42,15 @@ def clip(x, lo=-1.0, hi=1.0):
     return max(lo, min(hi, x))
 
 
-def _trends(query):
-    """Google Trends, 5 years weekly. [] when Trends has nothing for the term (cached as a no-results answer)."""
-    d = search("google_trends", q=query, data_type="TIMESERIES", date="today 5-y")
+def _trends(query, market=None):
+    """Google Trends, 5 years weekly. [] when Trends has nothing for the term (cached as a no-results answer).
+    US: worldwide, as it always was (no geo: US cache keys unchanged). India: geo=IN."""
+    geo = locales.get(market)["trends_geo"]
+    d = search("google_trends", q=query, data_type="TIMESERIES", date="today 5-y", **({"geo": geo} if geo else {}))
     return (d.get("interest_over_time") or {}).get("timeline_data") or []
 
 
-def _demand(t, query, category, today):
+def _demand(t, query, category, today, market=None):
     """Recent momentum + what happened in the next 8 weeks in past years + interest around the next retail event.
     The event part is context only (not scored): no price data backs a buy/wait direction for it."""
     v = [p["values"][0]["extracted_value"] for p in t]
@@ -77,16 +81,16 @@ def _demand(t, query, category, today):
             f"{abs(seasonal - 1) * 100:.0f}% on average, based on {len(ahead)} earlier year{'s' if len(ahead) != 1 else ''}",
             pull(seasonal - 1, 0.05),
         ))
-    event_reasons, event = _event(t, query, category, today)
+    event_reasons, event = _event(t, query, category, today, market)
     return clip(score), reasons + event_reasons, {"query": query, "recent_avg": recent, "prior_avg": prior,
                                                   "momentum": round(momentum, 3), "seasonal_ratio": seasonal and round(seasonal, 3),
                                                   "seasons_used": len(ahead), "event": event}
 
 
-def _event(t, query, category, today):
-    """Next retail event in range + how search interest moved around its past occurrences.
+def _event(t, query, category, today, market=None):
+    """Next retail event in range (in this market) + how search interest moved around its past occurrences.
     Demand side only: SerpApi has no price history, so no price change is claimed here."""
-    ev = next_event(today, category)
+    ev = next_event(today, category, market=market)
     if not ev:
         return [], None
     name, days = ev
@@ -104,12 +108,12 @@ def _event(t, query, category, today):
             changes[d.year] = round(statistics.mean(around) / statistics.mean(before) - 1, 3)
     signals = {"name": name, "days_away": days, "interest_change_by_year": changes}
     if not changes:
-        return [(f"{name} starts in {days} day{'s' if days != 1 else ''}; not enough past search data around it to compare; context only, not scored",
+        return [(f"{starts(name, days)}; not enough past search data around it to compare; context only, not scored",
                  "neutral")], signals
     avg = statistics.mean(changes.values())
     years = ", ".join(f"{y} {c * 100:+.0f}%" for y, c in changes.items())
     return [(
-        f"{name} starts in {days} day{'s' if days != 1 else ''}; in past years search interest for \"{query}\" "
+        f"{starts(name, days)}; in past years search interest for \"{query}\" "
         f"{'rose' if avg >= 0 else 'fell'} {abs(avg) * 100:.0f}% on average in the two weeks around it "
         f"vs the 4 weeks before ({years}); context only, not scored",
         "neutral",
@@ -128,7 +132,8 @@ def _price(listing, market):
     score = clip(-position * 3)  # 10% under median -> +0.3; 33%+ over -> -1
     rel = "at" if abs(position) <= 0.05 else f"{abs(position) * 100:.0f}% {'above' if position > 0 else 'below'}"
     usual = "the retail median" if market.get("basis", "new") == "new" else f"the usual price for {market['basis']} units"
-    reasons = [(f"${price:.2f} is {rel} {usual} of ${median:.2f}", pull(-position, 0.05))]
+    mkt = listing.get("market")
+    reasons = [(f"{money(price, mkt)} is {rel} {usual} of {money(median, mkt)}", pull(-position, 0.05))]
     if below:
         reasons.append((f"{below} of {len(market['stores'])} retailers on the product page are cheaper right now", "wait"))
     return score, reasons, {"position_vs_median": round(position, 3), "cheaper_retailers": below}
@@ -179,7 +184,7 @@ def _lifecycle(product, today, emit=None):
     if not (name and lifecycle.parse_model(name, brand)):
         ev(type="start", engines=[])
         return done(0.0, [], {"status": "unavailable", "why": "no model identifier in the product name"})
-    calls = lifecycle.queries(name)
+    calls = lifecycle.queries(name, product.get("market"))
     ev(type="start", engines=[engine for engine, _ in calls.values()])
     start = time.monotonic()
     ms = lambda: round((time.monotonic() - start) * 1000)
@@ -260,11 +265,11 @@ def _wait_window(product, parts, today):
             return {"kind": "successor", "date": rel["release_date"], "days": days,
                     "text": f"Check again when the {lc['successor']} is out ({when}): you can then choose between "
                             f"both models."}
-    ev = next_event(today, product.get("category"))
+    ev = next_event(today, product.get("category"), market=product.get("market"))
     if ev:
         name, days = ev
         return {"kind": "event", "date": (today + timedelta(days)).isoformat(), "days": days,
-                "text": f"{name} starts in {days} day{'s' if days != 1 else ''}: a good time to check again. Clarity "
+                "text": f"{starts(name, days)}: a good time to check again. Clarity "
                         f"can't predict sale prices."}
     seasonal = parts["demand"][2].get("seasonal_ratio")
     if seasonal is not None and pull(seasonal - 1, 0.05) == "wait":
@@ -281,25 +286,27 @@ def wait_plan(product, listing, market, parts, today):
     charges now, not a hoped-for one. Otherwise a good price (median - 1 sigma). Never below the too_cheap line
     (median - 2 sigma: a lower price would itself be flagged; a trusted store is inside the band by definition), and only
     when it's below this listing's price. None when there's nothing to say."""
-    target = None
+    target, mkt = None, listing.get("market")
     price, median, sigma = listing.get("price"), market.get("median"), market.get("sigma")
     if price is not None and median and sigma:
         floor = median - trust.Z_TOO_CHEAP * sigma
-        good = max(floor, float(int(median - sigma)))  # whole dollars: "$310 or less", not "$310.42"
+        good = max(floor, float(int(median - sigma)))  # whole units: "$310 or less" / "₹18,500", not "$310.42"
         store = alternatives.best(listing, market)
         usual = "the new-retail median" if market.get("basis", "new") == "new" else f"the usual price for {market['basis']} units"
         if store and store["price"] < price:
             target = {"price": store["price"], "basis": "store",
-                      "reason": f"{store['store']} sells it for ${store['price']:.2f} today"}
+                      "reason": f"{store['store']} sells it for {money(store['price'], mkt)} today"}
         else:
             target = {"price": good, "basis": "band",
-                      "reason": f"a good price: one typical price spread (${sigma:.2f}) below {usual} of ${median:.2f}"}
+                      "reason": f"a good price: one typical price spread ({money(sigma, mkt)}) below {usual} of {money(median, mkt)}"}
         if target["price"] >= price:  # this listing is already at or under it: the wait is about something else
             target = None
     window = _wait_window(product, parts, today)
     if not (target or window):
         return None
-    lines = ([f"Wait for ${target['price']:.2f} or less ({target['reason']})."] if target else []) + \
+    if target:
+        target["price_text"] = money(target["price"], mkt)
+    lines = ([f"Wait for {target['price_text']} or less ({target['reason']})."] if target else []) + \
             ([window["text"]] if window else [])
     return {"target": target, "window": window, "text": " ".join(lines)}
 
@@ -329,9 +336,10 @@ def run(product: dict, trust_signals: dict | None = None, emit=None, owners=None
 
     # No search term, or Trends has no data / under 12 weeks for it (a niche non-demo product) -> demand not judged,
     # never an exception. category: hand-written for demo products only; missing = unknown.
-    t = _trends(product["trend_query"]) if product.get("trend_query") else []
+    t = _trends(product["trend_query"], product.get("market")) if product.get("trend_query") else []
     parts = {
-        "demand": (_demand(t, product["trend_query"], product.get("category"), date.today()) if len(t) >= 12 else
+        "demand": (_demand(t, product["trend_query"], product.get("category"), date.today(), product.get("market"))
+                   if len(t) >= 12 else
                    (0.0, [("Not enough search-interest data for this product, so demand wasn't judged", "neutral")], {})),
         "price": _price(listing, market),
         "maker": _maker(product.get("brand")),  # no brand or no ticker -> neutral

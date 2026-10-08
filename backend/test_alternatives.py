@@ -25,12 +25,16 @@ for name, major in [("Best Buy", True), ("Walmart", True), ("Walmart Supercenter
     assert trust._is_major(name) == major, (name, major)
 
 runs = list(DEMO_CHIPS.items()) + [
-    (k, resolve_screenshot((Path(__file__).parent / s["file"]).read_bytes(), s["price"])[1]) for k, s in DEMO_SCREENSHOTS.items()]
+    (k, resolve_screenshot((Path(__file__).parent / s["file"]).read_bytes(), s["price"], s.get("market"))[1])
+    for k, s in DEMO_SCREENSHOTS.items()]
 # Expected offer on the demo's own verdict. The two eBay walk-aways are used listings: their band is other used eBay
 # listings, so there is no retailer store list and no alternative (missing data, never guessed).
 VERDICT = {"airpods-ebay": "walk_away", "airpods-openbox": "walk_away", "sony-xm5": "buy_now",
-           "honeywell-heater": "buy_now", "switch2": "buy_now", "screenshot-sony-59": "walk_away", "honeywell-ebay": "wait"}
-EXPECT = {"screenshot-sony-59": ("Best Buy", 254.99), "honeywell-ebay": ("Walmart Supercenter", 36.24)}
+           "honeywell-heater": "buy_now", "switch2": "buy_now", "screenshot-sony-59": "walk_away", "honeywell-ebay": "wait",
+           "sony-xm5-in": "buy_now", "screenshot-sony-rs4999": "walk_away",
+           "screenshot-sony-rs29990": "wait"}
+EXPECT = {"screenshot-sony-59": ("Best Buy", 254.99), "honeywell-ebay": ("Walmart Supercenter", 36.24),
+          "screenshot-sony-rs4999": ("Amazon.in", 19989), "screenshot-sony-rs29990": ("Amazon.in", 19989)}
 for key, product in runs:
     s = trust.run(product)["signals"]
     listing, market = s["listing"], s["market"]

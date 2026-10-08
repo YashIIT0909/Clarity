@@ -10,6 +10,7 @@ import asyncio
 import re
 from datetime import datetime, timezone
 
+import locales
 import serpapi
 from domains import registered_domain
 
@@ -25,15 +26,17 @@ MIN_INDEPENDENT = 3
 MIN_COMPLAINTS = 2
 
 
-def queries(domain):
-    """name -> (engine, params). Param names from SerpApi's docs (2026-09-29)."""
+def queries(domain, market=None):
+    """name -> (engine, params), in the shop's market (US: gl=us, ads region 2840; India: gl=in, region 2356).
+    Param names from SerpApi's docs (2026-09-29)."""
+    loc = locales.get(market)
     return {
-        "reviews": ("google", {"q": f"{domain} reviews", "gl": "us", "hl": "en"}),
-        "scam": ("google", {"q": f"{domain} scam", "gl": "us", "hl": "en"}),
-        "forums": ("google_forums", {"q": domain, "gl": "us", "hl": "en"}),
+        "reviews": ("google", {"q": f"{domain} reviews", "gl": loc["gl"], "hl": "en"}),
+        "scam": ("google", {"q": f"{domain} scam", "gl": loc["gl"], "hl": "en"}),
+        "forums": ("google_forums", {"q": domain, "gl": loc["gl"], "hl": "en"}),
         # docs: q is the site URL itself ("https://www.example.com/")
         "about": ("google_about_this_result", {"q": f"https://{domain}/"}),
-        "ads": ("google_ads_transparency_center", {"text": domain, "region": "2840"}),
+        "ads": ("google_ads_transparency_center", {"text": domain, "region": loc["ads_region"]}),
     }
 
 
@@ -63,8 +66,8 @@ def _ads(data):
             "earliest_first_shown": first and datetime.fromtimestamp(first, timezone.utc).date().isoformat()}
 
 
-async def run(domain):
-    q = queries(domain)
+async def run(domain, market=None):
+    q = queries(domain, market)
     got = dict(zip(q, await asyncio.gather(*(_call(*q[name]) for name in q))))
     data = {name: d for name, (d, _) in got.items()}
     unavailable = [{"source": name, "reason": err} for name, (_, err) in got.items() if err]

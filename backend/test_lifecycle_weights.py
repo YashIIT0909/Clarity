@@ -37,7 +37,7 @@ RUMOR = {"name": "X7", "release": {"status": "rumored", "release_date": None, "r
 
 def verdict(price_score, lc_score):
     """timing.run with demand and maker neutral-but-judged, a price score, and a lifecycle score."""
-    timing._trends = lambda q: []
+    timing._trends = lambda q, market=None: []
     timing._maker = lambda brand: (0.0, [], {"ticker": "X", "six_month_change": 0.0})  # judged, neutral
     timing._price = lambda listing, market: (price_score, [], {"position_vs_median": 0.0})
     timing._lifecycle = lambda product, today, emit=None: (lc_score, [], {"status": "stub"})

@@ -47,7 +47,7 @@ LOUD = found([card("problem") for _ in range(9)], forum=[card("problem") for _ i
 
 def verdict(price_score, owners):
     """timing.run with demand, maker and lifecycle neutral, a price score, and a receipts result (or None)."""
-    timing._trends = lambda q: []
+    timing._trends = lambda q, market=None: []
     timing._maker = lambda brand: (0.0, [], {"ticker": "X", "six_month_change": 0.0})  # judged, neutral
     timing._price = lambda listing, market: (price_score, [], {"position_vs_median": 0.0})
     timing._lifecycle = lambda product, today, emit=None: (0.0, [], {"status": "stub"})

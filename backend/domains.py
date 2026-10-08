@@ -62,8 +62,8 @@ def registered_domain(url):
 
 
 def _is_retailer(label):
-    from trust import MAJOR_RETAILERS  # lazy: trust will import photo forensics, which imports this module
-    keys = {re.sub(r"[^a-z]", "", n.removesuffix(".com")) for n in MAJOR_RETAILERS}
+    import locales  # every market's retailers: a photo on flipkart.com is a retailer's in any market
+    keys = {re.sub(r"[^a-z]", "", n.removesuffix(".com")) for n in locales.all_retailers()}
     # "bhphotovideo" ~ "b&h photo-video-audio"; the 5-char floor stops "mac" (mac.bid) matching "macy's"
     return label in keys or (len(label) >= 5 and any(k.startswith(label) for k in keys))
 

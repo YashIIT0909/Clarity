@@ -9,6 +9,8 @@ Run: .venv/bin/python alternatives.py   (self-check, 0 searches, no database)
 """
 import re
 
+from locales import money
+
 Z_BAND = 2.0  # = trust.Z_TOO_CHEAP / Z_TOO_EXPENSIVE: a store price outside the band isn't a fair price either
 
 
@@ -54,12 +56,14 @@ def offer(final_verdict, listing, market, store_domain=None):
     if final_verdict == "wait" and (price is None or alt["price"] >= price):
         return None
     saving = round(price - alt["price"], 2) if price is not None and alt["price"] < price else None
+    mkt = listing.get("market")
     if saving is not None:
-        text = f"{alt['store']} sells this product for ${alt['price']:.2f}, ${saving:.2f} less than this listing."
+        text = f"{alt['store']} sells this product for {money(alt['price'], mkt)}, {money(saving, mkt)} less than this listing."
     else:
-        text = (f"{alt['store']} sells this product for ${alt['price']:.2f}, within the usual new-retail range "
-                f"(median ${alt['median']:.2f}).")
-    return {**alt, "saving": saving, "text": text}
+        text = (f"{alt['store']} sells this product for {money(alt['price'], mkt)}, within the usual new-retail range "
+                f"(median {money(alt['median'], mkt)}).")
+    return {**alt, "saving": saving, "text": text, "price_text": money(alt["price"], mkt),
+            "saving_text": saving is not None and money(saving, mkt) or None}
 
 
 if __name__ == "__main__":

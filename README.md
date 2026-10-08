@@ -19,7 +19,8 @@
 
 Paste a product link and Clarity tells you whether to trust the listing, whether now is a
 good time to buy, and why. Every reason links back to live search evidence pulled through
-**[SerpApi](https://serpapi.com)**.
+**[SerpApi](https://serpapi.com)**. It works for **India** (amazon.in, Indian retailers like
+Flipkart and Croma, prices in ₹, Big Billion Days and Diwali) and the **US**.
 
 ---
 
@@ -36,6 +37,7 @@ good time to buy, and why. Every reason links back to live search evidence pulle
   - [5. Narrator](#5-narrator)
   - [6. Where to buy instead](#6-where-to-buy-instead)
   - [7. What to wait for](#7-what-to-wait-for)
+- [Markets: India and the US](#markets-india-and-the-us)
 - [Full request lifecycle](#full-request-lifecycle)
 - [Caching and search budget](#caching-and-search-budget)
 - [Project layout](#project-layout)
@@ -321,6 +323,27 @@ the narrator never sees it.
 
 ---
 
+## Markets: India and the US
+
+Clarity checks a listing in its own market: Indian retailers and ₹ for India, US retailers
+and $ for the US. **The link decides**: an `amazon.in` link is checked in India; `amazon.com`
+and eBay links in the US (eBay closed its Indian site in 2017). Typed product names and
+screenshots carry no country, so the user picks one; the web app starts on **India**.
+
+| | India | US |
+|---|---|---|
+| Listing | `amazon_product` with `amazon_domain=amazon.in` | `amazon_product` (amazon.com), `ebay_product` |
+| Market prices | `google_shopping` gl=in, in ₹; foreign shops' converted prices (paise) and import shops (Ubuy, Desertcart, …) left out | `google_shopping` gl=us, in $ |
+| Major retailers | Amazon.in, Flipkart, Croma, Reliance Digital, Vijay Sales, Tata CLiQ, JioMart, Myntra, Ajio | Best Buy, Walmart, Target, Home Depot, … |
+| Secondhand prices | none (no eBay): the check is skipped, never a penalty | eBay listings in the same condition |
+| Demand, successors | Trends geo=IN; News, Autocomplete gl=in | Trends worldwide; News, Autocomplete gl=us |
+| Sale events | Great Indian Festival, Big Billion Days, Diwali, Prime Day India, Great Republic Day Sale, Great Freedom Festival | Prime Day, Prime Big Deal Days, Black Friday, Cyber Monday, Diwali (audio, gaming) |
+| First-party seller (price checks waived) | Amazon itself only; affiliated sellers (Clicktech, Appario) are checked | Amazon.com |
+
+Owner reviews (YouTube, forums) are the same product worldwide, so they stay global. All
+per-market settings live in `backend/locales.py`; US settings are exactly what Clarity always
+sent, so every US cache entry and pinned demo still applies.
+
 ## Full request lifecycle
 
 ```mermaid
@@ -373,6 +396,7 @@ Clarity/
 │   ├── serpapi.py           The only SerpApi client, cached in Supabase
 │   ├── trust.py             Price, listing and seller checks
 │   ├── alternatives.py      Where to buy instead (a major retailer in the market band)
+│   ├── locales.py           Markets: India and US (params, retailers, ₹/$ formatting)
 │   ├── photo_forensics.py   Google Lens + Bing reverse image
 │   ├── store_reputation.py  Five searches about an unknown shop
 │   ├── timing.py            Demand, price, maker, lifecycle → buy/wait
@@ -433,6 +457,7 @@ uv run python test_lifecycle_weights.py
 uv run python test_non_demo.py
 uv run python test_alternatives.py
 uv run python test_wait_plan.py
+uv run python test_india.py
 ```
 
 ### Configuration
@@ -454,9 +479,9 @@ uv run python test_wait_plan.py
 |---|---|---|
 | `GET` | `/health` | Liveness check |
 | `GET` | `/demo-products` | Demo chips for the UI |
-| `POST` | `/analyze` | Full analysis, one JSON response |
-| `GET` | `/analyze/stream` | Same analysis as live SSE steps |
-| `POST` | `/analyze/image` | Upload an ad screenshot (+ typed price) |
+| `POST` | `/analyze` | Full analysis, one JSON response (`market`: `in` or `us`, for typed text) |
+| `GET` | `/analyze/stream` | Same analysis as live SSE steps (`?market=in` or `us`, for typed text) |
+| `POST` | `/analyze/image` | Upload an ad screenshot (+ typed price, + `market`) |
 | `GET` | `/analyze/image/stream/{job_id}` | Stream the screenshot analysis |
 | `GET` | `/receipts/stream/{query_id}` | Stream "What owners say" on request |
 

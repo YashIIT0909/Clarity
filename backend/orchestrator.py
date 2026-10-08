@@ -8,6 +8,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 
 import alternatives
+import locales
 import narrator
 import receipts
 import timing
@@ -38,7 +39,8 @@ def _live(fn, stage, *args):
 
 def _receipts_args(product, t):
     listing = t["signals"].get("listing") or {}
-    amazon = cached("amazon_product", asin=product["listing_id"]) if product.get("marketplace") == "amazon" else None
+    amazon = (cached("amazon_product", asin=product["listing_id"], **locales.get(product.get("market"))["amazon"])
+              if product.get("marketplace") == "amazon" else None)
     return product, listing, amazon
 
 
@@ -63,6 +65,13 @@ def _save_receipts(query_id, r):
              "known_praise_json": r["known_praise"], "sources_json": rest}, on_conflict="query_id").execute()
     except Exception as e:  # noqa: BLE001
         log.warning("receipts_results not saved: %s", e)
+
+
+def _market_info(product):
+    """Which market a verdict was checked in, for the UI's "Checked against … retailers" line."""
+    loc = locales.get(product.get("market"))
+    return {"code": product.get("market") or locales.DEFAULT, "name": loc["name"], "currency": loc["currency"],
+            "symbol": loc["symbol"]}
 
 
 def stream(product: dict, label: str | None = None, with_receipts: bool = True):
@@ -117,7 +126,8 @@ def stream(product: dict, label: str | None = None, with_receipts: bool = True):
     yield step(stage="narrator", status="done", **story)
 
     yield step(stage="verdict", status="done", final_verdict=final, confidence=confidence, headline=story["headline"],
-               timing_judged=tm["judged"] if tm else None, alternative=alt, wait_plan=tm and tm["wait_plan"])
+               timing_judged=tm["judged"] if tm else None, alternative=alt, wait_plan=tm and tm["wait_plan"],
+               market=_market_info(product))
     db.table("verdicts").insert({"query_id": query_id, "final_verdict": final, "reasoning_chain_json": steps}).execute()
 
     # After the verdict: the evidence and narration (timing already scored the counted defects; not in reasoning_chain_json).
