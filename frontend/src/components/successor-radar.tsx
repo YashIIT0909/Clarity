@@ -64,7 +64,7 @@ export function SuccessorRadar({ l, running, bare }: { l: Lifecycle; running: bo
           : `Newer-model check unavailable: ${down.map(([n]) => ENGINE_NAME[n] ?? n).join(", ") || "an engine"} didn't respond, so it didn't count either way`;
     return (
       <div data-testid="radar-calm" className="mt-2 flex items-center gap-2 rounded-md bg-muted/60 px-3 py-2 text-sm text-muted-foreground">
-        {s.status === "none" ? <CheckCircle2 className="size-4 shrink-0 text-emerald-600" /> : <Radar className="size-4 shrink-0" />}
+        {s.status === "none" ? <CheckCircle2 className="size-4 shrink-0 text-mint" /> : <Radar className="size-4 shrink-0" />}
         <span className="min-w-0">{text}</span>
       </div>
     );
@@ -84,7 +84,7 @@ export function SuccessorRadar({ l, running, bare }: { l: Lifecycle; running: bo
       className={cn(
         "flex min-w-0 flex-col gap-3 animate-in fade-in",
         !bare && "mt-2 rounded-lg border p-3",
-        !bare && (current === "announced" ? "border-amber-500/40 bg-amber-500/[0.03]" : "bg-muted/30"),
+        !bare && (current === "announced" ? "border-honey/40 bg-honey/[0.03]" : "bg-muted/30"),
       )}
     >
       <EngineStrip engines={engines} running={running && !s} />
@@ -112,7 +112,7 @@ export function SuccessorRadar({ l, running, bare }: { l: Lifecycle; running: bo
                 <span key={e.text} className="inline-flex max-w-full items-center gap-1 rounded-full border px-2 py-0.5">
                   <span className="truncate">{e.text}</span>
                   {e.value && (
-                    <span className={cn("shrink-0 font-medium tabular-nums", e.value === "Breakout" ? "text-red-600 dark:text-red-400" : "text-emerald-700 dark:text-emerald-400")}>
+                    <span className={cn("shrink-0 font-medium tabular-nums", e.value === "Breakout" ? "text-coral" : "text-mint")}>
                       {e.value}
                     </span>
                   )}
@@ -159,7 +159,7 @@ export function SuccessorRadar({ l, running, bare }: { l: Lifecycle; running: bo
 function StatusTrack({ current, tone, date, window, stale }: { current?: string; tone: string; date: string | null; window: string | null; stale: boolean }) {
   const at = TRACK.indexOf(current as (typeof TRACK)[number]);
   const on = {
-    amber: "border-amber-500 bg-amber-500 text-white",
+    amber: "border-honey bg-honey text-white",
     sky: "border-sky-600 bg-sky-600 text-white",
     zinc: "border-zinc-500 bg-zinc-500 text-white",
   }[tone];
@@ -200,14 +200,14 @@ function EngineStrip({ engines, running }: { engines: [string, EngineState][]; r
           className={cn(
             "inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 transition-colors duration-500",
             s.status === "running" && "text-muted-foreground",
-            s.status === "done" && "border-emerald-500/50 bg-emerald-500/10 text-emerald-700 dark:text-emerald-400",
+            s.status === "done" && "border-mint/50 bg-mint/10 text-mint",
             s.status === "unavailable" && "border-dashed text-muted-foreground line-through decoration-1",
           )}
         >
           {s.status === "running" ? (
             <Loader2 className="size-3 animate-spin" />
           ) : (
-            <span className={cn("size-1.5 rounded-full", s.status === "done" ? "bg-emerald-500" : "bg-zinc-400")} />
+            <span className={cn("size-1.5 rounded-full", s.status === "done" ? "bg-mint" : "bg-zinc-400")} />
           )}
           {ENGINE_NAME[name] ?? name}
           {s.status === "done" && <span className="tabular-nums opacity-70">{s.found}</span>}
