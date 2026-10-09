@@ -112,8 +112,10 @@ def stream(product: dict, label: str | None = None, with_receipts: bool = True):
     story = narrator.run(result)
     yield step(stage="narrator", status="done", **story)
 
-    yield step(stage="verdict", status="done", final_verdict=final, confidence=confidence, headline=story["headline"],
-               timing_judged=tm["judged"] if tm else None)
+    # The decision's signals ride along so the gauge and charts render with the verdict, not after owner receipts.
+    verdict = step(stage="verdict", status="done", final_verdict=final, confidence=confidence, headline=story["headline"],
+                   timing_judged=tm["judged"] if tm else None)
+    yield {**verdict, "result": {**result, "narration": story}}
     db.table("verdicts").insert({"query_id": query_id, "final_verdict": final, "reasoning_chain_json": steps}).execute()
 
     # After the verdict: the evidence and narration (timing already scored the counted defects; not in reasoning_chain_json).

@@ -88,8 +88,8 @@ const ENGINE_NAME: Record<string, string> = { google_lens: "Google Lens", bing_r
 const CLASS_META: Record<DomainClass, { label: string; dot: string; ring: string }> = {
   manufacturer: { label: "Maker's site", dot: "bg-violet-500", ring: "ring-violet-500/60" },
   known_retailer: { label: "Big retailers", dot: "bg-sky-500", ring: "ring-sky-500/60" },
-  marketplace_listing: { label: "Other listings", dot: "bg-amber-500", ring: "ring-amber-500/60" },
-  forum_or_scam_report: { label: "Forums & reports", dot: "bg-red-500", ring: "ring-red-500/60" },
+  marketplace_listing: { label: "Other listings", dot: "bg-honey", ring: "ring-honey/60" },
+  forum_or_scam_report: { label: "Forums & reports", dot: "bg-coral", ring: "ring-coral/60" },
   review_or_press: { label: "Reviews & press", dot: "bg-teal-500", ring: "ring-teal-500/60" },
   unknown: { label: "Other sites", dot: "bg-zinc-400", ring: "ring-zinc-400/50" },
 };
@@ -123,7 +123,7 @@ export function EvidenceBoard({ f, running }: { f: Forensics; running: boolean }
   if (settled && !fired.length && !f.store) {
     return (
       <div data-testid="evidence-calm" className="mt-2 flex items-center gap-2 rounded-md bg-muted/60 px-3 py-2 text-sm text-muted-foreground">
-        {allUnavailable ? <ScanSearch className="size-4 shrink-0" /> : <CheckCircle2 className="size-4 shrink-0 text-emerald-600" />}
+        {allUnavailable ? <ScanSearch className="size-4 shrink-0" /> : <CheckCircle2 className="size-4 shrink-0 text-mint" />}
         {allUnavailable
           ? "Photo check unavailable this time, so it didn't count either way"
           : !f.totalDisplay
@@ -143,7 +143,7 @@ export function EvidenceBoard({ f, running }: { f: Forensics; running: boolean }
       data-testid="evidence-board"
       className={cn(
         "mt-2 flex min-w-0 flex-col gap-3 rounded-lg border p-3 animate-in fade-in",
-        fired.length ? "border-red-500/40 bg-red-500/[0.03]" : "bg-muted/30",
+        fired.length ? "border-coral/40 bg-coral/[0.03]" : "bg-muted/30",
       )}
     >
       <EngineStrip f={f} running={running && !settled} />
@@ -159,7 +159,7 @@ export function EvidenceBoard({ f, running }: { f: Forensics; running: boolean }
               alt={f.imageLabel}
               className={cn(
                 "aspect-square w-24 rounded-md border bg-white object-contain sm:w-28",
-                fired.length && "ring-2 ring-red-500",
+                fired.length && "ring-2 ring-coral",
               )}
             />
             <figcaption className="text-xs text-muted-foreground">{f.imageLabel}</figcaption>
@@ -192,14 +192,14 @@ function EngineStrip({ f, running }: { f: Forensics; running: boolean }) {
           className={cn(
             "inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 transition-colors duration-500",
             s.status === "running" && "text-muted-foreground",
-            s.status === "done" && "border-emerald-500/50 bg-emerald-500/10 text-emerald-700 dark:text-emerald-400",
+            s.status === "done" && "border-mint/50 bg-mint/10 text-mint",
             s.status === "unavailable" && "border-dashed text-muted-foreground line-through decoration-1",
           )}
         >
           {s.status === "running" ? (
             <Loader2 className="size-3 animate-spin" />
           ) : (
-            <span className={cn("size-1.5 rounded-full", s.status === "done" ? "bg-emerald-500" : "bg-zinc-400")} />
+            <span className={cn("size-1.5 rounded-full", s.status === "done" ? "bg-mint" : "bg-zinc-400")} />
           )}
           {ENGINE_NAME[name] ?? name}
           {s.status === "done" && <span className="tabular-nums opacity-70">{s.capped ? `${s.matches}+` : s.matches}</span>}
@@ -263,8 +263,8 @@ function Thumb({ m, delay, ring, big }: { m: Match; delay?: number; ring: string
 
 function Callout({ s }: { s: Signal }) {
   return (
-    <div data-testid="signal-callout" className="flex flex-col gap-2 rounded-md border border-red-500/50 bg-red-500/10 p-3 animate-in fade-in slide-in-from-top-1">
-      <div className="flex items-center gap-2 text-sm font-medium text-red-700 dark:text-red-400">
+    <div data-testid="signal-callout" className="flex flex-col gap-2 rounded-md border border-coral/50 bg-coral/10 p-3 animate-in fade-in slide-in-from-top-1">
+      <div className="flex items-center gap-2 text-sm font-medium text-coral">
         <AlertTriangle className="size-4 shrink-0" />
         {SIGNAL_TITLE[s.signal] ?? s.signal}
       </div>
@@ -278,7 +278,7 @@ function Callout({ s }: { s: Signal }) {
               <div key={e.url} className="flex w-16 flex-col items-center gap-0.5">
                 <Thumb m={e} ring={CLASS_META[e.domain_class]?.ring ?? CLASS_META.unknown.ring} big />
                 <span className="w-full truncate text-center text-[10px] text-muted-foreground">{e.domain}</span>
-                {e.photo_distance != null && <span className="text-[10px] font-medium text-red-700 dark:text-red-400">same image</span>}
+                {e.photo_distance != null && <span className="text-[10px] font-medium text-coral">same image</span>}
               </div>
             ))}
         </div>
@@ -288,9 +288,9 @@ function Callout({ s }: { s: Signal }) {
 }
 
 const FOOTPRINT: Record<string, { label: string; tone: string }> = {
-  none: { label: "No web footprint", tone: "bg-red-500/10 text-red-700 dark:text-red-400" },
-  thin: { label: "Thin web footprint", tone: "bg-amber-500/10 text-amber-700 dark:text-amber-400" },
-  established: { label: "Established site", tone: "bg-emerald-500/10 text-emerald-700 dark:text-emerald-400" },
+  none: { label: "No web footprint", tone: "bg-coral/10 text-coral" },
+  thin: { label: "Thin web footprint", tone: "bg-honey/10 text-honey-ink" },
+  established: { label: "Established site", tone: "bg-mint/10 text-mint" },
 };
 
 function StoreCard({ store }: { store: NonNullable<Forensics["store"]> }) {

@@ -9,9 +9,9 @@ import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTr
 const MCP_URL = `${process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000"}/mcp`;
 
 const VERDICTS = [
-  { name: "walk_away", text: "Failed the trust check. Timing isn't checked.", icon: OctagonX, tone: "text-red-600 dark:text-red-400" },
-  { name: "buy_now", text: "Trusted, and timing favours buying now.", icon: CheckCircle2, tone: "text-emerald-600 dark:text-emerald-400" },
-  { name: "wait", text: "Trusted, but timing favours waiting.", icon: Timer, tone: "text-amber-600 dark:text-amber-400" },
+  { name: "walk_away", text: "Failed the trust check. Timing isn't checked.", icon: OctagonX, tone: "text-coral" },
+  { name: "buy_now", text: "Trusted, and timing favours buying now.", icon: CheckCircle2, tone: "text-mint" },
+  { name: "wait", text: "Trusted, but timing favours waiting.", icon: Timer, tone: "text-honey-ink" },
   { name: "buy_timing_not_judged", text: "Trusted; not enough data to judge timing.", icon: CircleHelp, tone: "text-muted-foreground" },
   { name: "could_not_check", text: "The check didn't finish. Unverified, not safe.", icon: ShieldQuestion, tone: "text-muted-foreground" },
 ];
@@ -53,7 +53,7 @@ function Section({ title, children }: { title: string; children: ReactNode }) {
 export function AboutSheet() {
   return (
     <Sheet>
-      <SheetTrigger render={<Button variant="outline" size="sm" />}>
+      <SheetTrigger render={<Button variant="outline" size="sm" className="rounded-full px-3" />}>
         <Info data-icon="inline-start" />
         About / Add to Claude
       </SheetTrigger>

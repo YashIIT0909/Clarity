@@ -123,26 +123,26 @@ const typeOf = (c: ReceiptCard): ItemType => c.type ?? (c.kind === "praise" ? "p
 
 const TYPE_STYLE: Record<ItemType, { chip: string; on: string; icon: typeof ThumbsUp; tag?: string }> = {
   problem: {
-    chip: "border-red-500/40 bg-red-500/5 text-red-800 dark:text-red-300",
-    on: "ring-2 ring-red-500/40",
+    chip: "border-coral/40 bg-coral/5 text-coral",
+    on: "ring-2 ring-coral/40",
     icon: TriangleAlert,
     tag: "problem",
   },
   concern: {
-    chip: "border-dashed border-amber-500/70 bg-transparent text-amber-900 dark:text-amber-200",
-    on: "ring-2 ring-amber-500/30",
+    chip: "border-dashed border-honey/70 bg-transparent text-honey-ink",
+    on: "ring-2 ring-honey/30",
     icon: ShieldQuestion,
     tag: "concern raised by reviewers",
   },
   criticism: {
-    chip: "border-amber-500/40 bg-amber-500/5 text-amber-900 dark:text-amber-200",
-    on: "ring-2 ring-amber-500/40",
+    chip: "border-honey/40 bg-honey/5 text-honey-ink",
+    on: "ring-2 ring-honey/40",
     icon: MessageSquareWarning,
     tag: "common criticism",
   },
   praise: {
-    chip: "border-emerald-500/40 bg-emerald-500/5 text-emerald-800 dark:text-emerald-300",
-    on: "ring-2 ring-emerald-500/40",
+    chip: "border-mint/40 bg-mint/5 text-mint",
+    on: "ring-2 ring-mint/40",
     icon: ThumbsUp,
   },
 };
@@ -154,7 +154,7 @@ export function OwnerReceipts({ r, onRequest }: { r: Receipts; onRequest: () => 
   return (
     <section data-testid="owner-receipts" className="flex min-w-0 flex-col gap-4 rounded-3xl border border-border/60 bg-card p-5 shadow-[0_1px_3px_rgb(0_0_0/0.04)] animate-in fade-in sm:p-6">
       <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
-        <h2 className="flex items-center gap-2 text-sm font-medium uppercase tracking-wide text-muted-foreground">
+        <h2 className="flex items-center gap-2 text-xl font-semibold tracking-tight">
           <UsersRound className="size-4" />
           What owners say
         </h2>
@@ -201,14 +201,14 @@ function EngineStrip({ r, live }: { r: Receipts; live: boolean }) {
             "inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 transition-colors duration-500",
             (e.status === "running" || e.status === "idle") && "text-muted-foreground",
             e.status === "idle" && "opacity-50",
-            e.status === "done" && "border-emerald-500/50 bg-emerald-500/10 text-emerald-700 dark:text-emerald-400",
+            e.status === "done" && "border-mint/50 bg-mint/10 text-mint",
             e.status === "unavailable" && "border-dashed text-muted-foreground line-through decoration-1",
           )}
         >
           {e.status === "running" ? (
             <Loader2 className="size-3 animate-spin" />
           ) : (
-            <span className={cn("size-1.5 rounded-full", e.status === "done" ? "bg-emerald-500" : "bg-zinc-400")} />
+            <span className={cn("size-1.5 rounded-full", e.status === "done" ? "bg-mint" : "bg-zinc-400")} />
           )}
           {name}
           {count && e.status !== "unavailable" && <span className="tabular-nums opacity-70">{count}</span>}
@@ -306,9 +306,9 @@ function Calm({
       data-testid={testid}
       className={cn(
         "flex flex-col gap-3 rounded-md px-3 py-2.5 text-sm sm:flex-row sm:items-center sm:justify-between",
-        tone === "green" && "bg-emerald-500/5 text-foreground",
+        tone === "green" && "bg-mint/5 text-foreground",
         tone === "muted" && "bg-muted/60 text-muted-foreground",
-        tone === "amber" && "bg-amber-500/5 text-foreground",
+        tone === "amber" && "bg-honey/5 text-foreground",
         tone === "sky" && "bg-sky-500/5 text-foreground",
       )}
     >
@@ -316,8 +316,8 @@ function Calm({
         <Icon
           className={cn(
             "mt-0.5 size-4 shrink-0",
-            tone === "green" && "text-emerald-600",
-            tone === "amber" && "text-amber-600",
+            tone === "green" && "text-mint",
+            tone === "amber" && "text-honey-ink",
             tone === "sky" && "text-sky-600",
           )}
         />
@@ -434,7 +434,7 @@ function Found({ s }: { s: Summary }) {
   );
 }
 
-const BAR: Record<ItemType, string> = { problem: "bg-red-500", concern: "bg-amber-400", criticism: "bg-amber-500", praise: "bg-emerald-500" };
+const BAR: Record<ItemType, string> = { problem: "bg-coral", concern: "bg-honey/80", criticism: "bg-honey", praise: "bg-mint" };
 /** Transcript quotes are a word window, not a sentence: mark where it was cut so it doesn't read as broken. */
 const clip = (q: string) => `${/^[a-z]/.test(q) ? "…" : ""}${q}${/[.!?]$/.test(q) ? "" : "…"}`;
 const TYPE_WORD: Record<ItemType, string> = { problem: "recurring problem", concern: "possible risk", criticism: "criticism", praise: "praise" };

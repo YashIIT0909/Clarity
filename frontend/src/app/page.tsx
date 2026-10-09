@@ -1,648 +1,249 @@
-"use client";
-
-import { useEffect, useRef, useState, type ReactNode } from "react";
+import Link from "next/link";
+import type { Metadata } from "next";
 import {
   ArrowRight,
-  CheckCircle2,
-  CircleDashed,
-  ImagePlus,
-  Loader2,
-  OctagonX,
-  ShieldAlert,
+  Factory,
+  Hourglass,
+  Radar,
+  ScanSearch,
   ShieldCheck,
-  Timer,
+  Store,
+  Tag,
   TrendingUp,
-  X,
-  XCircle,
+  UsersRound,
+  type LucideIcon,
 } from "lucide-react";
 import { AboutSheet } from "@/components/about-sheet";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { EvidenceBoard, isBoardCalm, reduceForensics, type Forensics, type ForensicsEvent } from "@/components/evidence-board";
-import { hasSuccessor, reduceLifecycle, SuccessorRadar, type Lifecycle, type LifecycleEvent } from "@/components/successor-radar";
-import {
-  failLiveRun,
-  OwnerReceipts,
-  reduceReceipts,
-  startLiveRun,
-  type Receipts,
-  type ReceiptsEvent,
-} from "@/components/owner-receipts";
-import { DecisionCharts, VerdictGauge, type DecisionResult } from "@/components/decision-charts";
-import { compressForUpload, IMAGE_TYPES, MAX_UPLOAD_BYTES } from "@/lib/image";
+import { HeroFlow } from "@/components/hero-flow";
+import { navLink, pillCta, SiteNav } from "@/components/site-nav";
 import { cn } from "@/lib/utils";
 
-const API = process.env.NEXT_PUBLIC_API_URL;
-const REVEAL_GAP_MS = 700; // pace the chain so each step is readable on stage
-const FORENSICS_GAP_MS = 120; // evidence events stream fast: the board animates them instead
-// Pre-verified screenshot (synthetic ad; its Lens results are cached). Uploaded byte-for-byte, never re-compressed,
-// so the demo replays from cache and is deterministic.
-const DEMO_SCREENSHOT = { label: "Screenshot: Sony XM5 ad at $59", src: "/demo/ad_sony_xm5_59.png", price: "59" };
-
-type Stage = "resolve" | "trust" | "gate" | "timing" | "narrator" | "verdict";
-type Verdict = "walk_away" | "wait" | "buy_now";
-type Evt = {
-  stage: Stage | "done" | "error" | "forensics" | "lifecycle" | "receipts" | "owners";
-  type?: string;
-  identified_as?: string;
-  ad_price?: number | null;
-  store_domain?: string | null;
-  store_note?: string | null;
-  price_note?: string;
-  status?: "running" | "done";
-  message?: string;
-  label?: string;
-  marketplace?: string;
-  listing_id?: string;
-  verdict?: "pass" | "fail" | "buy" | "wait";
-  decision?: "stop" | "proceed";
-  reasons?: string[];
-  confidence?: number | null;
-  judged?: boolean; // timing step: false = no data for any timing component
-  timing_judged?: boolean | null; // verdict step
-  final_verdict?: Verdict;
-  headline?: string;
-  summary?: string;
-  steps?: { title: string; text: string }[];
-  result?: DecisionResult; // the "done" event: full trust/timing signals
+export const metadata: Metadata = {
+  title: "Clarity — buy now, wait, or walk away",
+  description:
+    "Clarity checks whether a listing can be trusted, then whether now is the time to buy. Every reason is backed by live search evidence from 18 SerpApi engines.",
 };
-type Node = { status: "pending" | "running" | "done" | "skipped"; data?: Evt };
-type Demo = { key: string; label: string; url: string };
-type Picked = { blob: Blob; url: string; name: string; demo?: boolean };
 
-const CHAIN: { stage: Stage; title: string; icon: typeof ShieldCheck }[] = [
-  { stage: "resolve", title: "Find the listing", icon: CircleDashed },
-  { stage: "trust", title: "Trust check", icon: ShieldCheck },
-  { stage: "gate", title: "Gate", icon: ArrowRight },
-  { stage: "timing", title: "Timing check", icon: TrendingUp },
+const REPO = "https://github.com/YashIIT0909/Clarity";
+
+/** SerpApi engines, as Clarity calls them (backend/serpapi.py). Stage order matches the pipeline. */
+const STAGES: { title: string; engines: { name: string; use: string }[] }[] = [
+  {
+    title: "Resolve",
+    engines: [
+      { name: "amazon_product", use: "Amazon listing details from an ASIN" },
+      { name: "ebay_product", use: "eBay listing details from an item ID" },
+      { name: "amazon", use: "A product name to the top Amazon result" },
+      { name: "google_lens", use: "Names the product in an ad screenshot" },
+    ],
+  },
+  {
+    title: "Trust",
+    engines: [
+      { name: "google_shopping", use: "New-condition prices across stores" },
+      { name: "google_immersive_product", use: "The full store price list" },
+      { name: "ebay", use: "Used-price band and the seller's other listings" },
+      { name: "bing_reverse_image", use: "Pages that already carry the listing photo" },
+      { name: "google", use: "“<store> reviews” and “<store> scam”" },
+      { name: "google_about_this_result", use: "What Google knows about the site" },
+      { name: "google_ads_transparency_center", use: "Whether the store runs verified ads" },
+    ],
+  },
+  {
+    title: "Timing",
+    engines: [
+      { name: "google_trends", use: "5-year demand, seasons, and newer-model searches" },
+      { name: "google_finance", use: "The maker's stock momentum" },
+      { name: "google_autocomplete", use: "Suggestions that name a successor" },
+      { name: "google_news", use: "Rumoured, announced or released successors" },
+    ],
+  },
+  {
+    title: "Owners",
+    engines: [
+      { name: "youtube", use: "Independent reviews of the exact model" },
+      { name: "youtube_video_transcript", use: "Timestamped transcripts to quote from" },
+      { name: "google_forums", use: "Owner threads, and forum talk about the store" },
+    ],
+  },
 ];
 
-const emptyChain = () =>
-  Object.fromEntries([...CHAIN.map((c) => c.stage), "narrator"].map((s) => [s, { status: "pending" }])) as Record<Stage, Node>;
+const TRUST: { icon: LucideIcon; title: string; text: string }[] = [
+  { icon: Tag, title: "Price check", text: "Too cheap to be real?" },
+  { icon: ScanSearch, title: "Photo forensics", text: "Is the photo lifted from elsewhere?" },
+  { icon: Store, title: "Store reputation", text: "Reviews, scam reports, ad record." },
+];
 
-const VERDICT_STYLE: Record<Verdict, { label: string; icon: typeof ShieldCheck; card: string; accent: string }> = {
-  walk_away: {
-    label: "Walk away",
-    icon: OctagonX,
-    card: "border-red-500/40 bg-red-500/5",
-    accent: "text-red-600 dark:text-red-400",
-  },
-  wait: {
-    label: "Wait",
-    icon: Timer,
-    card: "border-amber-500/40 bg-amber-500/5",
-    accent: "text-amber-600 dark:text-amber-400",
-  },
-  buy_now: {
-    label: "Buy now",
-    icon: CheckCircle2,
-    card: "border-emerald-500/40 bg-emerald-500/5",
-    accent: "text-emerald-600 dark:text-emerald-400",
-  },
-};
+const TIMING: { icon: LucideIcon; title: string; w: number; waitOnly?: boolean }[] = [
+  { icon: Tag, title: "Price position", w: 0.45 },
+  { icon: TrendingUp, title: "Demand and season", w: 0.4 },
+  { icon: Radar, title: "Successor Radar", w: 0.25, waitOnly: true },
+  { icon: Factory, title: "Maker signal", w: 0.15 },
+  { icon: UsersRound, title: "What owners say", w: 0.1, waitOnly: true },
+];
 
-export default function Home() {
-  const [input, setInput] = useState("");
-  const [demos, setDemos] = useState<Demo[]>([]);
-  const [chain, setChain] = useState(emptyChain);
-  const [final, setFinal] = useState<Evt | null>(null);
-  const [error, setError] = useState<string | null>(null);
-  const [busy, setBusy] = useState(false);
-  const [forensics, setForensics] = useState<Forensics | null>(null);
-  const [radar, setRadar] = useState<Lifecycle | null>(null);
-  const [receipts, setReceipts] = useState<Receipts | null>(null);
-  const [result, setResult] = useState<DecisionResult | null>(null);
-  const [picked, setPicked] = useState<Picked | null>(null);
-  const [price, setPrice] = useState("");
-  const [dragging, setDragging] = useState(false);
-
-  const source = useRef<EventSource | null>(null);
-  const receiptsSource = useRef<EventSource | null>(null); // the on-request "See what owners say" run
-  const queue = useRef<Evt[]>([]);
-  const lastReveal = useRef(0);
-  const shotUrl = useRef<string | null>(null); // the screenshot being analysed, pinned beside the photo wall
-  const fileInput = useRef<HTMLInputElement>(null);
-
-  function apply(e: Evt) {
-    if (e.stage === "forensics") {
-      setForensics((f) => reduceForensics(f, e as ForensicsEvent, shotUrl.current));
-      return;
-    }
-    if (e.stage === "lifecycle") {
-      setRadar((l) => reduceLifecycle(l, e as LifecycleEvent));
-      return;
-    }
-    if (e.stage === "receipts" || e.stage === "owners") {
-      setReceipts((r) => reduceReceipts(r, e as ReceiptsEvent));
-      return;
-    }
-    if (e.stage === "error") {
-      setError(e.message ?? "Something went wrong.");
-      setBusy(false);
-      setChain((c) => {
-        const next = { ...c };
-        for (const s of Object.keys(next) as Stage[]) if (next[s].status === "running") next[s] = { status: "pending" };
-        return next;
-      });
-      return;
-    }
-    if (e.stage === "done") {
-      setBusy(false);
-      if (e.result) setResult(e.result);
-      return;
-    }
-    if (e.stage === "verdict") {
-      setFinal((f) => ({ ...f, ...e }));
-      return;
-    }
-    if (e.stage === "narrator" && e.status === "done") setFinal((f) => ({ ...f, ...e, stage: "verdict" }));
-    setChain((c) => {
-      const next = { ...c, [e.stage]: { status: e.status ?? "done", data: e } };
-      if (e.stage === "gate" && e.decision === "stop") next.timing = { status: "skipped" };
-      return next;
-    });
-  }
-
-  useEffect(() => {
-    fetch(`${API}/demo-products`)
-      .then((r) => r.json())
-      .then(setDemos)
-      .catch(() => setError("Can't reach the Clarity backend."));
-    // Leaving the page drops a live receipts run: if the page comes back (back/forward cache), offer a retry.
-    const hide = () => {
-      if (receiptsSource.current) {
-        receiptsSource.current.close();
-        receiptsSource.current = null;
-        setReceipts((r) => (r?.run?.state === "running" ? failLiveRun(r, "left the page") : r));
-      }
-    };
-    window.addEventListener("pagehide", hide);
-    return () => {
-      source.current?.close();
-      receiptsSource.current?.close();
-      window.removeEventListener("pagehide", hide);
-    };
-  }, []);
-
-  // Reveal queued events one at a time so fast (cached) runs still read as a chain.
-  useEffect(() => {
-    const id = setInterval(() => {
-      const gap = ["forensics", "lifecycle", "receipts"].includes(queue.current[0]?.stage) ? FORENSICS_GAP_MS : REVEAL_GAP_MS;
-      if (!queue.current.length || Date.now() - lastReveal.current < gap) return;
-      const e = queue.current.shift()!;
-      lastReveal.current = Date.now();
-      apply(e);
-    }, 50);
-    return () => clearInterval(id);
-  }, []);
-
-  function reset() {
-    source.current?.close();
-    receiptsSource.current?.close();
-    receiptsSource.current = null;
-    queue.current = [];
-    setChain(emptyChain());
-    setFinal(null);
-    setError(null);
-    setForensics(null);
-    setRadar(null);
-    setReceipts(null);
-    setResult(null);
-    setBusy(true);
-  }
-
-  function analyze(q: string) {
-    if (!q.trim() || busy) return;
-    reset();
-    shotUrl.current = null;
-    listen(`${API}/analyze/stream?q=${encodeURIComponent(q.trim())}`);
-  }
-
-  function pick(file: Blob, name: string, demo = false) {
-    if (!IMAGE_TYPES.includes(file.type)) return setError("Use a PNG, JPG or WebP screenshot.");
-    if (file.size > MAX_UPLOAD_BYTES) return setError("That image is larger than 10 MB.");
-    if (picked) URL.revokeObjectURL(picked.url);
-    setError(null);
-    const next = { blob: file, url: URL.createObjectURL(file), name, demo };
-    setPicked(next);
-    return next;
-  }
-
-  async function analyzeImage(img: Picked, adPrice: string) {
-    if (busy) return;
-    reset();
-    shotUrl.current = img.url;
-    try {
-      const form = new FormData();
-      // Demo screenshots go up byte-for-byte (cached); anything else is shrunk under 500 KB first.
-      const body = img.demo ? img.blob : await compressForUpload(img.blob);
-      form.append("file", body, body === img.blob ? img.name : "screenshot.jpg");
-      if (adPrice.trim()) form.append("price", adPrice.trim());
-      const r = await fetch(`${API}/analyze/image`, { method: "POST", body: form });
-      const j = await r.json();
-      if (!r.ok) throw new Error(typeof j.detail === "string" ? j.detail : "The screenshot couldn't be uploaded.");
-      listen(`${API}/analyze/image/stream/${j.job_id}`);
-    } catch (err) {
-      queue.current.push({ stage: "error", message: err instanceof Error ? err.message : "Upload failed." });
-    }
-  }
-
-  /** "See what owners say": the live receipts run for this query, streamed into the card. */
-  function requestReceipts() {
-    const qid = receipts?.queryId;
-    if (!qid || receiptsSource.current) return;
-    setReceipts((r) => r && startLiveRun(r));
-    const es = new EventSource(`${API}/receipts/stream/${qid}`);
-    receiptsSource.current = es;
-    es.onmessage = (m) => {
-      const e: Evt = JSON.parse(m.data);
-      queue.current.push(e);
-      if (e.stage === "owners" || (e.stage === "receipts" && e.type === "error")) {
-        es.close();
-        receiptsSource.current = null;
-      }
-    };
-    es.onerror = () => {
-      if (es.readyState !== EventSource.CLOSED) es.close();
-      if (receiptsSource.current === es) {
-        receiptsSource.current = null;
-        setReceipts((r) => r && failLiveRun(r, "lost connection"));
-      }
-    };
-  }
-
-  function listen(url: string) {
-    const es = new EventSource(url);
-    source.current = es;
-    es.onmessage = (m) => {
-      const e: Evt = JSON.parse(m.data);
-      queue.current.push(e);
-      if (e.stage === "done" || e.stage === "error") es.close();
-    };
-    es.onerror = () => {
-      if (es.readyState !== EventSource.CLOSED) {
-        es.close();
-        queue.current.push({ stage: "error", message: "Lost connection to the Clarity backend." });
-      }
-    };
-  }
-
+function Verdict({ tone, children }: { tone: "mint" | "honey" | "coral"; children: string }) {
+  const tones = {
+    mint: "bg-mint/10 text-mint",
+    honey: "bg-honey/15 text-[#a86f00]",
+    coral: "bg-coral/10 text-coral",
+  };
   return (
-    <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col gap-8 px-4 py-10 sm:px-6 sm:py-14">
-      <header className="flex flex-col gap-2">
-        <div className="flex items-center justify-between gap-4">
-          <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">Clarity</h1>
-          <AboutSheet />
-        </div>
-        <p className="text-muted-foreground">
-          Buy now, wait, or walk away. Clarity checks whether a listing is trustworthy first — and only then whether
-          it’s a good time to buy.
-        </p>
-      </header>
-
-      <section className="flex flex-col gap-3">
-        <form
-          className={cn(
-            "flex flex-col gap-2 rounded-xl border border-transparent p-0 transition-colors",
-            dragging && "border-dashed border-foreground/40 bg-muted/50 p-2",
-          )}
-          onSubmit={(e) => {
-            e.preventDefault();
-            if (picked) analyzeImage(picked, price);
-            else analyze(input);
-          }}
-          onDragOver={(e) => {
-            e.preventDefault();
-            setDragging(true);
-          }}
-          onDragLeave={() => setDragging(false)}
-          onDrop={(e) => {
-            e.preventDefault();
-            setDragging(false);
-            const file = e.dataTransfer.files[0];
-            if (file) pick(file, file.name);
-          }}
-        >
-          <label htmlFor="q" className="text-sm font-medium">
-            Paste a product link or describe the product — or drop, paste or pick a screenshot of an ad
-          </label>
-          <div className="flex flex-col gap-2 sm:flex-row">
-            {picked ? (
-              <div className="flex h-11 min-w-0 flex-1 items-center gap-2 rounded-lg border px-2 text-sm">
-                {/* eslint-disable-next-line @next/next/no-img-element -- local object URL preview */}
-                <img src={picked.url} alt="" className="size-8 shrink-0 rounded object-cover" />
-                <span className="min-w-0 flex-1 truncate">{picked.name}</span>
-                <button
-                  type="button"
-                  aria-label="Remove screenshot"
-                  onClick={() => {
-                    URL.revokeObjectURL(picked.url);
-                    setPicked(null);
-                    setPrice("");
-                  }}
-                  className="rounded p-1 text-muted-foreground hover:bg-muted"
-                >
-                  <X className="size-4" />
-                </button>
-              </div>
-            ) : (
-              <Input
-                id="q"
-                value={input}
-                onChange={(e) => setInput(e.target.value)}
-                onPaste={(e) => {
-                  const file = e.clipboardData.files[0];
-                  if (file) {
-                    e.preventDefault();
-                    pick(file, file.name || "pasted screenshot");
-                  }
-                }}
-                placeholder="https://www.amazon.com/dp/… or “Sony WH-1000XM5 headphones”"
-                className="h-11 text-base"
-                autoComplete="off"
-              />
-            )}
-            <input
-              ref={fileInput}
-              type="file"
-              accept={IMAGE_TYPES.join(",")}
-              className="hidden"
-              onChange={(e) => {
-                const file = e.target.files?.[0];
-                if (file) pick(file, file.name);
-                e.target.value = "";
-              }}
-            />
-            <div className="flex gap-2">
-              <Button
-                type="button"
-                variant="outline"
-                className="h-11"
-                aria-label="Upload a screenshot"
-                title="Upload a screenshot"
-                onClick={() => fileInput.current?.click()}
-              >
-                <ImagePlus />
-              </Button>
-              <Button type="submit" className="h-11 flex-1 px-6 sm:flex-none" disabled={busy || (!picked && !input.trim())}>
-                {busy ? <Loader2 className="animate-spin" /> : "Analyze"}
-              </Button>
-            </div>
-          </div>
-          {picked && (
-            <div className="flex flex-col gap-1 sm:flex-row sm:items-center sm:gap-3">
-              <label htmlFor="price" className="text-sm font-medium">
-                Price in the ad <span className="font-normal text-muted-foreground">(optional)</span>
-              </label>
-              <Input
-                id="price"
-                inputMode="decimal"
-                value={price}
-                onChange={(e) => setPrice(e.target.value.replace(/[^0-9.]/g, ""))}
-                placeholder="$"
-                className="h-9 w-32"
-              />
-              <span className="text-xs text-muted-foreground">
-                Clarity doesn’t read prices from screenshots — type the price shown to have it checked.
-              </span>
-            </div>
-          )}
-        </form>
-        {demos.length > 0 && (
-          <div className="flex flex-wrap items-center gap-2 text-sm">
-            <span className="text-muted-foreground">Try a verified example:</span>
-            {demos.map((d) => (
-              <button
-                key={d.key}
-                type="button"
-                disabled={busy}
-                onClick={() => {
-                  setInput(d.url);
-                  analyze(d.url);
-                }}
-                className="rounded-full border px-3 py-1 transition-colors hover:bg-muted disabled:opacity-50"
-              >
-                {d.label}
-              </button>
-            ))}
-            <button
-              type="button"
-              disabled={busy}
-              onClick={async () => {
-                const blob = await fetch(DEMO_SCREENSHOT.src).then((r) => r.blob());
-                const img = pick(blob, DEMO_SCREENSHOT.src.split("/").pop()!, true);
-                if (!img) return;
-                setPrice(DEMO_SCREENSHOT.price);
-                analyzeImage(img, DEMO_SCREENSHOT.price);
-              }}
-              className="inline-flex items-center gap-1.5 rounded-full border px-3 py-1 transition-colors hover:bg-muted disabled:opacity-50"
-            >
-              <ImagePlus className="size-3.5" />
-              {DEMO_SCREENSHOT.label}
-            </button>
-          </div>
-        )}
-      </section>
-
-      {error && (
-        <div role="alert" data-testid="error" className="flex items-start gap-2 rounded-lg border border-red-500/40 bg-red-500/5 p-4 text-sm">
-          <XCircle className="mt-0.5 size-4 shrink-0 text-red-600 dark:text-red-400" />
-          {error}
-        </div>
-      )}
-
-      <section className="grid items-start gap-6 md:grid-cols-[1fr_1.1fr]">
-        <ReasoningChain chain={chain} forensics={forensics} radar={radar} result={result} busy={busy} />
-        <VerdictCard final={final} result={result} busy={busy} />
-      </section>
-
-      {result && final?.final_verdict && (
-        <DecisionCharts r={result} successor={radar && hasSuccessor(radar) ? <SuccessorRadar l={radar} running={busy} bare /> : undefined} />
-      )}
-
-      {/* The chain's final section, shown after the verdict. Timing already scored its confirmed defects (wait-only, weight 0.10);
-          an on-request live run comes later and never re-scores the verdict. */}
-      {receipts && final?.final_verdict && <OwnerReceipts r={receipts} onRequest={requestReceipts} />}
-    </main>
+    <span className={cn("inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-semibold", tones[tone])}>
+      <span className="size-1.5 rounded-full bg-current" />
+      {children}
+    </span>
   );
 }
 
-function ReasoningChain({
-  chain,
-  forensics,
-  radar,
-  result,
-  busy,
-}: {
-  chain: Record<Stage, Node>;
-  forensics: Forensics | null;
-  radar: Lifecycle | null;
-  result: DecisionResult | null;
-  busy: boolean;
-}) {
+function Step({ n, icon: Icon, title, children, footer }: { n: string; icon: LucideIcon; title: string; children: React.ReactNode; footer: React.ReactNode }) {
   return (
-    <div className="flex flex-col gap-1" aria-live="polite">
-      <h2 className="mb-2 text-sm font-medium uppercase tracking-wide text-muted-foreground">Reasoning chain</h2>
-      <ol className="relative flex flex-col">
-        {CHAIN.map(({ stage, title, icon: Icon }, i) => {
-          const node = chain[stage];
-          const d = node.data;
-          const failed = (stage === "trust" && d?.verdict === "fail") || (stage === "gate" && d?.decision === "stop");
-          const passed = (stage === "trust" && d?.verdict === "pass") || (stage === "gate" && d?.decision === "proceed");
-          return (
-            <li key={stage} className="relative flex gap-3 pb-5 last:pb-0">
-              {i < CHAIN.length - 1 && (
-                <span
-                  className={cn(
-                    "absolute left-[15px] top-8 h-[calc(100%-2rem)] w-px",
-                    node.status === "done" ? "bg-foreground/30" : "bg-foreground/10",
-                  )}
-                />
-              )}
-              <span
-                className={cn(
-                  "z-10 flex size-8 shrink-0 items-center justify-center rounded-full border bg-background",
-                  node.status === "pending" && "opacity-40",
-                  node.status === "skipped" && "border-dashed opacity-50",
-                  failed && "border-red-500 text-red-600 dark:text-red-400",
-                  passed && "border-emerald-500 text-emerald-600 dark:text-emerald-400",
-                )}
-              >
-                {node.status === "running" ? (
-                  <Loader2 className="size-4 animate-spin" />
-                ) : failed && stage === "trust" ? (
-                  <ShieldAlert className="size-4" />
-                ) : (
-                  <Icon className="size-4" />
-                )}
-              </span>
-              <div
-                className={cn(
-                  "flex min-w-0 flex-1 flex-col gap-1 pt-1 animate-in fade-in slide-in-from-left-1",
-                  node.status === "pending" && "opacity-40",
-                )}
-              >
-                <div className="flex flex-wrap items-center gap-2">
-                  <span className="font-medium">{title}</span>
-                  <StageTag stage={stage} node={node} />
-                </div>
-                <StageBody stage={stage} node={node} result={result} />
-                {stage === "trust" && forensics && node.status !== "pending" && !(result && isBoardCalm(forensics)) && <EvidenceBoard f={forensics} running={busy} />}
-                {stage === "timing" && radar && node.status !== "pending" && node.status !== "skipped" && !(result && hasSuccessor(radar)) && (
-                  <SuccessorRadar l={radar} running={busy} />
-                )}
-              </div>
-            </li>
-          );
-        })}
-      </ol>
+    <div className="flex flex-col gap-6 rounded-[28px] bg-white p-6 ring-1 ring-line transition-shadow duration-300 hover:shadow-[0_20px_40px_-24px_rgb(23_21_31/0.3)] sm:p-8">
+      <div className="flex items-center gap-3">
+        <span className="flex size-10 items-center justify-center rounded-xl bg-iris-soft text-iris">
+          <Icon className="size-5" />
+        </span>
+        <h3 className="font-display text-xl font-semibold tracking-tight">{title}</h3>
+        <span className="ml-auto font-mono text-xs text-ink-soft">{n}</span>
+      </div>
+      {children}
+      <div className="mt-auto flex flex-wrap gap-2 border-t border-line pt-5">{footer}</div>
     </div>
   );
 }
 
-function StageTag({ stage, node }: { stage: Stage; node: Node }) {
-  const d = node.data;
-  const tag = (text: string, tone: "red" | "green" | "amber" | "muted") => (
-    <span
-      className={cn(
-        "rounded px-1.5 py-0.5 text-xs font-medium",
-        tone === "red" && "bg-red-500/10 text-red-700 dark:text-red-400",
-        tone === "green" && "bg-emerald-500/10 text-emerald-700 dark:text-emerald-400",
-        tone === "amber" && "bg-amber-500/10 text-amber-700 dark:text-amber-400",
-        tone === "muted" && "bg-muted text-muted-foreground",
-      )}
-    >
-      {text}
-    </span>
-  );
-  if (node.status === "skipped") return tag("skipped", "muted");
-  if (node.status !== "done" || !d) return null;
-  if (stage === "trust") return d.verdict === "pass" ? tag("passed", "green") : tag("risk detected", "red");
-  if (stage === "gate") return d.decision === "stop" ? tag("stopped", "red") : tag("open", "green");
-  if (stage === "timing" && d.judged === false) return tag("safe to buy · timing not judged", "green");
-  if (stage === "timing") return tag(d.verdict === "buy" ? "buy now" : "wait", d.verdict === "buy" ? "green" : "amber");
-  return null;
-}
+export default function Home() {
+  const engineCount = new Set(STAGES.flatMap((s) => s.engines.map((e) => e.name))).size;
+  const ctaClass =
+    "group inline-flex h-11 items-center gap-2 rounded-full bg-ink px-5 text-sm font-semibold text-white transition-all hover:bg-iris hover:shadow-[0_12px_28px_-10px_rgb(109_90_230/0.8)]";
 
-/** One line per step: status and its key number, linking to the chart that shows the evidence. */
-function StageBody({ stage, node, result }: { stage: Stage; node: Node; result: DecisionResult | null }) {
-  const d = node.data;
-  if (node.status === "skipped") return null;
-  if (!d) return null;
-  if (node.status === "running") return <p className="text-sm text-muted-foreground">{d.message}</p>;
-  if (stage === "resolve" && d.marketplace === "screenshot")
-    return (
-      <div className="flex flex-col gap-0.5 text-sm text-muted-foreground">
-        <p>
-          Identified from the screenshot: <span className="text-foreground">{d.identified_as}</span>
-          {d.ad_price != null && <> · price in the ad ${d.ad_price}</>}
-        </p>
-        {d.store_note && <p className="text-xs">{d.store_note}</p>}
-        <p className="text-xs">{d.price_note}</p>
-      </div>
-    );
-  if (stage === "resolve")
-    return (
-      <p className="text-sm text-muted-foreground">
-        {d.label} · {d.marketplace === "ebay" ? "eBay" : "Amazon"} {d.listing_id}
-      </p>
-    );
-  const link = (href: string, text: ReactNode) => (
-    <a href={href} className="text-sm text-muted-foreground underline decoration-foreground/20 underline-offset-2 hover:text-foreground">
-      {text}
-    </a>
-  );
-  if (stage === "trust" && result) {
-    const t = result.trust.signals;
-    const n = t.penalties.length;
-    return link("#trust-checks", n ? `${n} check${n > 1 ? "s" : ""} failed · see checks ↓` : "See checks ↓");
-  }
-  if (stage === "timing" && result?.timing?.judged)
-    return link("#timing", "See what drives it ↓");
-  return null;
-}
-
-/** "Buy now — $298 is 9% below…" -> "$298 is 9% below…": the card's title already says the verdict. */
-function reasonOnly(headline: string) {
-  const rest = headline.replace(/^(buy now|wait|walk away|safe to buy)\s*[—–:-]\s*/i, "");
-  return rest.charAt(0).toUpperCase() + rest.slice(1);
-}
-
-function VerdictCard({ final, result, busy }: { final: Evt | null; result: DecisionResult | null; busy: boolean }) {
-  if (!final?.final_verdict)
-    return (
-      <div className="flex min-h-64 items-center justify-center rounded-xl border border-dashed p-6 text-center text-sm text-muted-foreground">
-        {busy ? "Working through the checks…" : "Your verdict will appear here."}
-      </div>
-    );
-
-  const v = VERDICT_STYLE[final.final_verdict];
-  const Icon = v.icon;
   return (
-    <div className={cn("flex flex-col gap-5 rounded-xl border p-6 animate-in fade-in zoom-in-95", v.card)}>
-      <div className="flex flex-wrap items-start justify-between gap-4">
-        <div className="flex flex-col gap-1">
-          <div data-testid="verdict" className={cn("flex items-center gap-2 text-3xl font-semibold tracking-tight", v.accent)}>
-            <Icon className="size-7" />
-            {final.timing_judged === false ? "Safe to buy — timing not judged" : v.label}
-          </div>
-          {final.headline && <p className="text-base">{reasonOnly(final.headline)}</p>}
-        </div>
-        {result && (result.final_verdict === "walk_away" || result.timing?.judged) ? (
-          <div className="flex shrink-0 flex-col items-center">
-            <VerdictGauge r={result} />
-            <span className="text-xs text-muted-foreground">{result.final_verdict === "walk_away" ? "trust score" : "confidence"}</span>
-          </div>
-        ) : final.confidence != null && (
-          <div className="flex shrink-0 flex-col items-end">
-            <span className={cn("text-2xl font-semibold tabular-nums", v.accent)}>
-              {Math.round(final.confidence * 100)}%
-            </span>
-            <span className="text-xs text-muted-foreground">confidence</span>
-          </div>
-        )}
-      </div>
+    <div className="flex flex-1 flex-col bg-paper font-body text-ink">
+      <SiteNav>
+        <a href="#how" className={navLink}>
+          How it works
+        </a>
+        <a href="#serpapi" className={navLink}>
+          SerpApi
+        </a>
+        <Link href="/check" className={pillCta}>
+          Check a listing
+        </Link>
+      </SiteNav>
 
+      <main className="mx-auto flex w-full max-w-5xl flex-col gap-28 px-4 pt-14 pb-24 sm:px-6 sm:pt-20">
+        {/* Hero */}
+        <section className="flex flex-col items-center gap-10 text-center">
+          <HeroFlow engines={engineCount} />
+          <div className="flex flex-col items-center gap-5 animate-in fade-in slide-in-from-bottom-3 fill-mode-both delay-300 duration-700 motion-reduce:animate-none">
+            <h1 className="max-w-3xl font-display text-5xl leading-[0.95] font-bold tracking-[-0.035em] text-balance sm:text-7xl">
+              Buy now, wait, or walk away.
+            </h1>
+            <p className="max-w-md text-lg text-ink-soft text-pretty">
+              Trust first, timing second. Every reason links to the search it came from.
+            </p>
+            <div className="mt-2 flex flex-wrap items-center justify-center gap-3">
+              <Link href="/check" className={ctaClass}>
+                Check a listing
+                <ArrowRight className="size-4 transition-transform group-hover:translate-x-0.5" />
+              </Link>
+              <AboutSheet />
+            </div>
+          </div>
+        </section>
+
+        {/* How it decides */}
+        <section id="how" className="flex scroll-mt-24 flex-col gap-10">
+          <h2 className="max-w-xl font-display text-3xl font-semibold tracking-tight text-balance sm:text-4xl">
+            A scam never gets a <span className="text-iris">“buy now”</span>.
+          </h2>
+          <div className="grid gap-4 md:grid-cols-2">
+            <Step n="01" icon={ShieldCheck} title="Can I trust it?" footer={<><span className="text-sm text-ink-soft">Score under 60</span><ArrowRight className="size-4 self-center text-ink-soft" /><Verdict tone="coral">Walk away</Verdict></>}>
+              <ul className="flex flex-col gap-4">
+                {TRUST.map((t) => (
+                  <li key={t.title} className="flex items-center gap-3">
+                    <t.icon className="size-4 shrink-0 text-ink-soft" />
+                    <span className="font-semibold whitespace-nowrap">{t.title}</span>
+                    <span className="ml-auto text-right text-sm text-ink-soft">{t.text}</span>
+                  </li>
+                ))}
+              </ul>
+            </Step>
+            <Step n="02" icon={Hourglass} title="Is now the time?" footer={<><Verdict tone="mint">Buy now</Verdict><Verdict tone="honey">Wait</Verdict></>}>
+              <ul className="flex flex-col gap-3.5">
+                {TIMING.map((t) => (
+                  <li key={t.title} className="grid grid-cols-[1rem_8.5rem_1fr_2.25rem] items-center gap-3 text-sm">
+                    <t.icon className="size-4 text-ink-soft" />
+                    <span className="font-semibold">
+                      {t.title}
+                      {t.waitOnly && <span className="block text-xs font-normal text-ink-soft">wait only</span>}
+                    </span>
+                    <span className="h-1.5 rounded-full bg-paper">
+                      <span className="block h-full rounded-full bg-iris" style={{ width: `${(t.w / 0.45) * 100}%` }} />
+                    </span>
+                    <span className="text-right font-mono text-xs tabular-nums text-ink-soft">{t.w.toFixed(2)}</span>
+                  </li>
+                ))}
+              </ul>
+            </Step>
+          </div>
+        </section>
+
+        {/* SerpApi */}
+        <section id="serpapi" className="grid scroll-mt-24 gap-10 md:grid-cols-[1fr_1.6fr] md:items-start">
+          <div className="flex flex-col gap-3">
+            <p className="font-display text-8xl leading-none font-bold tracking-tighter text-iris tabular-nums">{engineCount}</p>
+            <h2 className="font-display text-3xl font-semibold tracking-tight">SerpApi engines.</h2>
+            <p className="max-w-xs text-ink-soft">No scraping. Every signal is a structured result, cached and linked.</p>
+          </div>
+          <div className="flex flex-col divide-y divide-line rounded-[28px] bg-white px-6 ring-1 ring-line">
+            {STAGES.map((s) => (
+              <div key={s.title} className="flex flex-col gap-3 py-5 sm:flex-row sm:gap-6">
+                <h3 className="w-20 shrink-0 pt-1 text-sm font-semibold">{s.title}</h3>
+                <ul className="flex flex-wrap gap-1.5">
+                  {s.engines.map((e) => (
+                    <li
+                      key={e.name}
+                      title={e.use}
+                      className="cursor-default rounded-full bg-paper px-2.5 py-1 font-mono text-[11px] text-ink transition-colors hover:bg-iris-soft hover:text-iris"
+                    >
+                      {e.name}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Claude */}
+        <section className="relative flex flex-col items-start gap-5 overflow-hidden rounded-[32px] bg-ink p-8 text-white sm:p-12">
+          <div className="pointer-events-none absolute -top-24 -right-24 size-72 rounded-full bg-iris/40 blur-3xl" />
+          <h2 className="relative max-w-lg font-display text-3xl font-semibold tracking-tight text-balance sm:text-4xl">
+            Let Claude check before it recommends.
+          </h2>
+          <p className="relative max-w-md text-white/65">
+            One read-only MCP tool, <code className="font-mono text-sm text-white">clarity_check_listing</code>, with the same verdict and evidence.
+          </p>
+          <div className="relative text-ink">
+            <AboutSheet />
+          </div>
+        </section>
+      </main>
+
+      <footer className="border-t border-line">
+        <div className="mx-auto flex w-full max-w-5xl flex-wrap items-center justify-between gap-3 px-4 py-6 text-sm text-ink-soft sm:px-6">
+          <span>
+            Clarity · MIT · data by{" "}
+            <a href="https://serpapi.com" className="underline decoration-ink/20 underline-offset-2 hover:text-ink">
+              SerpApi
+            </a>
+          </span>
+          <a href={REPO} className="hover:text-ink">
+            GitHub
+          </a>
+        </div>
+      </footer>
     </div>
   );
 }

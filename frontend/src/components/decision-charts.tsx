@@ -256,7 +256,7 @@ function TickDial({ t, from, tone, value, left, right, label }: { t: number; fro
             y2={CY - r1 * Math.sin(a)}
             strokeWidth={i === at ? 8 : 6}
             strokeLinecap="round"
-            className={on ? STROKE[tone(u)] : STROKE.idle}
+            className={on ? STROKE[tone(u)] : "stroke-foreground/10"}
           />
         );
       })}
@@ -811,7 +811,7 @@ export function SearchInterest({ t }: { t: Timing }) {
 export function DecisionCharts({ r, successor }: { r: DecisionResult; successor?: ReactNode }) {
   return (
     <section className="flex flex-col gap-3" aria-label="Decision at a glance">
-      <h2 className="text-sm font-medium uppercase tracking-wide text-muted-foreground">The evidence</h2>
+      <h2 className="text-xl font-semibold tracking-tight">The evidence</h2>
       <div className="grid gap-4 md:grid-cols-2">
         <TrustChecks s={r.trust.signals} />
         <PriceBand s={r.trust.signals} />
