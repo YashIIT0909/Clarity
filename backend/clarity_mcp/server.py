@@ -4,6 +4,7 @@ from typing import Annotated, Literal
 
 from mcp.server.apps import Apps, ResourceCsp
 from mcp.server.mcpserver import MCPServer
+from mcp.server.transport_security import TransportSecuritySettings
 from mcp_types import CallToolResult, TextContent, ToolAnnotations
 from pydantic import Field
 
@@ -77,4 +78,9 @@ mcp_server = MCPServer("clarity", extensions=[apps])
 
 # Default path "/mcp": main.py splices this route into FastAPI, so it answers at exactly /mcp (a Mount would 307).
 # Stateless: no Mcp-Session-Id to carry, so browser hosts work without CORS expose-headers and any instance can answer.
-mcp_app = mcp_server.streamable_http_app(stateless_http=True)
+# Disable DNS rebinding protection so public hosts (Render, custom domains) are accepted.
+mcp_app = mcp_server.streamable_http_app(
+    stateless_http=True,
+    transport_security=TransportSecuritySettings(enable_dns_rebinding_protection=False),
+)
+
