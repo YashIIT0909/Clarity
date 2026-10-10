@@ -8,7 +8,7 @@
 
 **Buy Now, Wait or Walk Away.**
 
-Track: Commerce & Market Intelligence | [Live demo](https://clarity-serp-api.vercel.app/check) | [Demo video]() | [MCP endpoint (for Claude connectors)](https://clarity-backend-0hj7.onrender.com/mcp) | [Backend status](https://clarity-backend-0hj7.onrender.com/health)
+Track: Commerce & Market Intelligence | [Live demo](https://clarity-serp-api.vercel.app/check) | [Demo video](https://youtu.be/HmJTspwW12w) | [MCP endpoint (for Claude connectors)](https://clarity-backend-0hj7.onrender.com/mcp) | [Backend status](https://clarity-backend-0hj7.onrender.com/health)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![SerpApi](https://img.shields.io/badge/SerpApi-18%20engines-f5a623)](https://serpapi.com)
@@ -19,6 +19,7 @@ Track: Commerce & Market Intelligence | [Live demo](https://clarity-serp-api.ver
 [![MCP](https://img.shields.io/badge/MCP-Streamable%20HTTP-8a63d2)](https://modelcontextprotocol.io)
 
 <img src="./asset/walk_away.gif" alt="Clarity stops at the trust check and returns Walk Away" width="48%"> <img src="./asset/buy_now.gif" alt="Clarity passes trust, runs timing and returns Buy Now" width="48%">
+<br><sub><b>Walk Away:</b> the pipeline stops at trust and timing never runs. &nbsp;·&nbsp; <b>Buy Now:</b> trust passes, then timing decides.</sub>
 
 </div>
 
@@ -32,6 +33,14 @@ Built for shoppers who encounter suspicious discount ads—such as an Indian con
 </p>
 
 Online shopping scams are the most common scam type worldwide. GASA's Global State of Scams 2025 (46,000 adults, 42 markets) found that 57% of adults were scammed in the past year, 23% lost money, and shopping scams were the most commonly reported type at 54%. Its India survey of 1,000 adults found almost four in five had encountered a scam, roughly one every three days. Sources: [GASA Global State of Scams 2025](https://www.gasa.org/research) · [GASA State of Scams in India 2025](https://gasa.org/knowledge-base/reports/state-of-scams-in-india-2025)
+
+### Try it in 60 seconds
+
+1. Open the [live demo](https://clarity-serp-api.vercel.app/check) *(if the backend has been idle, open the [status endpoint](https://clarity-backend-0hj7.onrender.com/health) first)*.
+2. Click the **AirPods Pro 2 on eBay** example → watch the chain stop at **Trust** and return **Walk Away**.
+3. Click the **Honeywell 360° heater on eBay at $71** example → trust passes, timing runs, and it returns **Wait** with a target price and an alternative retailer.
+4. Click the **Sony WH-1000XM5** example → trust passes and timing returns **Buy Now** with its confidence and reasons.
+5. Then paste any `amazon.in` product link: anything that isn't a demo chip runs live through the same pipeline.
 
 ---
 
@@ -126,22 +135,22 @@ Clarity orchestrates **18 SerpApi engines**. Every request routes through a sing
 |---|---|---|---|---|---|
 | **1. Resolve input** | `amazon_product` | **Core** | Listing details from an Amazon ASIN | Extracts title, seller, price, and condition | `sony-xm5`, `honeywell-heater`, `sony-xm5-in`, `switch2` |
 | | `ebay_product` | **Core** | Listing details from an eBay item ID | Extracts seller history, return policy, price | `airpods-ebay`, `airpods-openbox`, `honeywell-ebay` |
-| | `amazon` | **Supporting** | Resolves typed product queries to the catalog | Maps free-text product queries to ASIN | Free-text search resolution |
+| | `amazon` | **Supporting** | Resolves typed product queries to the catalog | Maps free-text product queries to ASIN | Supporting context; no pinned demo verdict depends on it (see ablation) |
 | | `google_lens` (`products`/`all`) | **Core** | Identifies the product in an ad screenshot | Determines product identity without user typing name | `screenshot-sony-59`, `screenshot-sony-rs4999` |
-| **2a. Trust: price** | `google_shopping` | **Core** | Multi-store new retail pricing across market | Computes retail median & robust IQR dispersion band | `screenshot-sony-59` ($59 flagged vs $329 median), `honeywell-ebay` |
+| **2a. Trust: price** | `google_shopping` | **Core** | Multi-store new retail pricing across market | Computes retail median & robust IQR dispersion band | `screenshot-sony-59` ($59 flagged vs $299.99 median), `honeywell-ebay` |
 | | `google_immersive_product` | **Core** | Complete store directory for reference product | Identifies cheaper authorized major retailers | `honeywell-ebay` (Walmart $36.24), `screenshot-sony-rs4999` (Amazon.in) |
 | | `ebay` (search) | **Core** (US) | Secondhand market price distribution | Establishes used price band (median & spread) | `airpods-ebay` ($25 flagged vs $65 used median) |
 | **2b. Trust: photo forensics** | `google_lens` (`exact_matches`) | **Core** | Online presence of the listing's photos | Flags manufacturer renders on "used" items | `airpods-openbox` (Apple studio render on used listing) |
 | | `bing_reverse_image` | **Supporting** | Secondary reverse-image verification | Cross-verifies image origins across domains | `airpods-openbox` (confirms render across apple.com domains) |
-| **2c. Trust: store reputation** | `google` (Search ×2) | **Core** (shops) | `"<domain> reviews"` and `"<domain> scam"` | Uncovers buyer complaints on unknown shops | Synthetic screenshot ad verification |
-| | `google_forums` | **Supporting** | Discussions about unknown store domains | Uncovers community scam warnings | Unknown shop screening |
-| | `google_about_this_result` | **Supporting** | Google Knowledge Graph entry for domain | Verifies domain establishment and indexing | Domain authority verification |
-| | `google_ads_transparency_center` | **Supporting** | Merchant ad verification status | Verifies whether the merchant runs verified ads | Store legitimacy context |
+| **2c. Trust: store reputation** | `google` (Search ×2) | **Core** (shops) | `"<domain> reviews"` and `"<domain> scam"` | Uncovers buyer complaints on unknown shops | Supporting context; no pinned demo verdict depends on it (see ablation) |
+| | `google_forums` | **Supporting** | Discussions about unknown store domains | Uncovers community scam warnings | Supporting context; no pinned demo verdict depends on it (see ablation) |
+| | `google_about_this_result` | **Supporting** | Google Knowledge Graph entry for domain | Verifies domain establishment and indexing | Supporting context; no pinned demo verdict depends on it (see ablation) |
+| | `google_ads_transparency_center` | **Supporting** | Merchant ad verification status | Verifies whether the merchant runs verified ads | Supporting context; no pinned demo verdict depends on it (see ablation) |
 | **3a. Timing: demand & season** | `google_trends` (`TIMESERIES`) | **Core** | 5-year longitudinal weekly search interest | Evaluates 4-week vs 8-week momentum & 8-week seasonal trend | `honeywell-heater` (winter surge), `sony-xm5-in` (Diwali surge) |
 | **3b. Timing: maker signal** | `google_finance` | **Supporting** | 6-month stock trend for brand parent | Measures maker commercial momentum | `sony-xm5` (Sony stock +16%; maker contribution +0.05) |
 | **3c. Timing: Successor Radar** | `google_trends` (`RELATED_QUERIES`) | **Core** | Rising search queries naming a successor | Identifies rising demand for next-generation hardware | `switch2` (rising successor search terms) |
 | | `google_autocomplete` | **Supporting** | Suggestion queries predicting successors | Uncovers candidate successor model names | `switch2`, `sony-xm5` |
-| | `google_news` | **Core** | Dated news headlines on successors | Verifies if successor is rumored, announced, or released | `sony-xm5` (detects XM6 release, a wait-only signal), `switch2` |
+| | `google_news` | **Core** | Dated news headlines on successors | Verifies if successor is rumored, announced, or released | `sony-xm5` (detects XM6 release; context only per lifecycle.py rule, 0.00 penalty), `switch2` |
 | **4. What owners say** | `youtube` | **Core** | Locates review videos for the exact model | Selects top 3 independent channel reviews | `sony-xm5`, `switch2` |
 | | `youtube_video_transcript` | **Core** | Timestamped transcripts of review videos | Extracts corroborated defect and praise claims | `sony-xm5`, `switch2` |
 | | `google_forums` | **Supporting** | Forum threads on `"<product> problems"` | Cross-corroborates owner issues from Reddit/forums | `sony-xm5`, `switch2` |
@@ -163,7 +172,28 @@ However, each engine is load-bearing:
 - Omitting `google_immersive_product` makes finding cheaper major retailer alternatives impossible.
 - Omitting `ebay` search prevents detecting that a suspiciously cheap $25 AirPods listing is 62% below the secondhand market median.
 
-Performance profile: **searches per cold check: [FILL IN: e.g. 12-16]; typical cold latency: [FILL IN: e.g. 4.2 s]; cached: 0 searches (0 ms network).**
+Performance profile (cold, uncached, measured 10 Oct 2026): one full run took ≈ 26 s end to end through the synchronous API; pinned demo runs and cache hits use 0 searches.
+
+### Engine ablation: what breaks if an engine is removed
+
+| Engine removed | Demo verdicts that change | Largest score/confidence shift | Example |
+|---|---|---|---|
+| `amazon_product` | 4 changed | None | `sony-xm5` (`buy_now` → `could_not_check`) |
+| `ebay_product` | 3 changed | None | `airpods-ebay` (`walk_away` → `could_not_check`) |
+| `google_lens` (products) | 3 changed | None | `screenshot-sony-59` (`walk_away` → `could_not_check`) |
+| `google_shopping` | 5 changed | Trust 100 → 75 (Δ25) | `sony-xm5-in` (`buy_now` → `wait`), `honeywell-ebay` (`wait` → `buy_now`) |
+| `google_immersive_product` | 0 changed | Timing -0.412 → -0.311 (Δ0.101) | `screenshot-sony-rs29990`: timing -0.412 → -0.311 |
+| `ebay` (search) | 1 changed | Trust 5 → 65 (Δ60) | `airpods-ebay` (`walk_away` → `buy_now`) |
+| `bing_reverse_image` | 0 changed | Trust 0 → 30 (Δ30) | `airpods-openbox`: trust 0 → 30 |
+| `google_trends` (TIMESERIES) | 1 changed | Timing +0.238 → +0.038 (Δ0.200) | `switch2` (`buy_now` → `wait`) |
+| `google_finance` | 0 changed | Timing +0.238 → +0.088 (Δ0.150) | `honeywell-heater`: timing +0.238 → +0.088 |
+| `youtube` | 0 changed | Timing +0.086 → +0.136 (Δ0.050) | `switch2`: timing +0.086 → +0.136 |
+| `youtube_video_transcript` | 0 changed | Timing +0.086 → +0.136 (Δ0.050) | `switch2`: timing +0.086 → +0.136 |
+| `google_forums` (receipts) | 0 changed | Timing +0.086 → +0.136 (Δ0.050) | `switch2`: timing +0.086 → +0.136 |
+
+**How to read Core vs Supporting:** *Core* engines can change a verdict by design (they feed a scored check or gate); *Supporting* engines add context or corroboration. The ablation shows which pinned demo verdicts actually depend on each engine. Several Core engines (for example `google` store-reputation searches, `google_news`, and the YouTube pair) shift scores or evidence without flipping a demo verdict, because the demo products are clear-cut cases.
+
+Removing `amazon`, `google_lens` (exact_matches), `google` (reviews/scam), `google_forums` (store rep), `google_about_this_result`, `google_ads_transparency_center`, `google_trends` (RELATED_QUERIES), `google_autocomplete`, `google_news` changed no pinned verdict: they add context and degrade safely, but are not decisive in the demo set.
 
 ---
 
@@ -171,34 +201,28 @@ Performance profile: **searches per cold check: [FILL IN: e.g. 12-16]; typical c
 
 ### Pinned demo suite
 
-The demo catalogue proves how different combinations of trust and timing signals branch deterministically:
+The demo catalogue illustrates how different combinations of trust and timing signals branch deterministically:
 
 | ID | Product | Market | Input Type | Expected | Actual | Confidence / Score | Deciding Signal |
 |---|---|---|---|---|---|---|---|
 | `airpods-ebay` | **AirPods Pro 2** | US | eBay URL | Walk Away | Walk Away | Trust 5/100 | Price $25 is 62% below used median ($65), no returns |
 | `airpods-openbox` | **AirPods Pro 2 'open box'** | US | eBay URL | Walk Away | Walk Away | Trust 0/100 | Apple studio render on used listing, 1 seller sale, no returns |
-| `sony-xm5` | **Sony WH-1000XM5** | US | Amazon URL | Buy Now | Buy Now | 62% (Trust 100) | XM6 detected as released (lifecycle 0.00 x 0.25), outweighed by price 9% below retail median ($329.20) and SONY stock +16% |
+| `sony-xm5` | **Sony WH-1000XM5** | US | Amazon URL | Buy Now | Buy Now | 62% (Trust 100) | XM6 detected (lifecycle 0.00, context only); Buy Now driven by price 9% below retail median ($329.20), demand momentum (+0.05) and SONY stock +16% (+0.05 maker contribution) |
 | `honeywell-heater` | **Honeywell 360° Heater** | US | Amazon URL | Buy Now | Buy Now | 62% (Trust 100) | Price in line with median, seasonal winter demand surge |
 | `honeywell-ebay` | **Honeywell 360° (eBay $71)** | US | eBay URL | Wait | Wait | 55% (Trust 75) | Price 83% over new retail median; Walmart $36.24 alternative, Black Friday window |
 | `sony-xm5-in` | **Sony WH-1000XM5 (amazon.in)** | India | Amazon.in URL | Buy Now | Buy Now | 53% (Trust 100) | Price in line with Indian retail band, Diwali festive demand |
 | `switch2` | **Nintendo Switch 2** | US | Amazon URL | Buy Now | Buy Now | 54% (Trust 100) | Search interest up 37%; successor radar finds no newer model |
-| `screenshot-sony-59` | **Sony XM5 Ad ($59)** | US | Ad Screenshot | Walk Away | Walk Away | Trust 40/100 | $59 is 82% below new retail median ($329.20), unvetted ad domain |
-| `screenshot-sony-rs4999` | **Sony XM5 Ad (₹4,999)** | India | Ad Screenshot | Walk Away | Walk Away | Trust 40/100 | ₹4,999 is 75% below Indian retail median (₹19,989), unknown shop |
-| `screenshot-sony-rs29990` | **Sony XM5 Ad (₹29,990)** | India | Ad Screenshot | Wait | Wait | 71% (Trust 100) | 20% over Indian median (Amazon.in ₹19,989 alternative, Big Billion Days window) |
+| `screenshot-sony-59` | **Sony XM5 Ad ($59)** | US | Ad Screenshot | Walk Away | Walk Away | Trust 40/100 | $59 is 80% below new retail median ($299.99), unvetted ad domain |
+| `screenshot-sony-rs4999` | **Sony XM5 Ad (₹4,999)** | India | Ad Screenshot | Walk Away | Walk Away | Trust 40/100 | ₹4,999 is 80% below Indian retail median (₹25,082), unknown shop |
+| `screenshot-sony-rs29990` | **Sony XM5 Ad (₹29,990)** | India | Ad Screenshot | Wait | Wait | 71% (Trust 100) | 20% over Indian retail median (₹25,082); Amazon.in ₹19,989 alternative, Diwali window |
+
+
+Expected verdicts were fixed in Phase 0 before building the pipeline. Results above are pinned replays recorded from real SerpApi responses; any other input runs live through the same pipeline.
 
 <p align="center">
   <img src="./asset/wait-verdict-plan.png" alt="Wait verdict with where-to-buy-instead retailer, target price and re-check window" width="80%">
   <br><sub><em>A Wait verdict carries a concrete plan: a cheaper trusted retailer, a target price, and when to check again.</em></sub>
 </p>
-
-### Live non-demo runs
-
-Demo chips replay real SerpApi responses recorded on 1 October 2026 (pinned in `demo_fixtures.py`), so judged results are deterministic and spend no search quota. Any other input runs live through the same pipeline with no fixtures:
-
-- **Amazon Basics Dumbbells (`B01LR5S6HK`):** Evaluated live in `test_non_demo.py`. Lacks predefined category and ticker. Passes trust (score 100), timing evaluates demand without category errors, receipts cleanly marked unavailable.
-- **Bare Product Query (no brand/match query):** Price check gracefully skipped without penalty, evaluates to `buy_now`.
-- **eBay Auction Listing (no Buy It Now price):** Price check skipped, seller evaluated, return policy checked.
-- **Live Non-Demo Listings:** [FILL IN: list 2-3 live non-demo products checked recently with URL, market, verdict, and date].
 
 ---
 
@@ -254,9 +278,14 @@ $$\text{Total} = 0.40 \times \text{Demand} + 0.45 \times \text{Price} + 0.15 \ti
 
 ## Engineering challenges we hit
 
-### 1. Silent regression on sample spread
-In early testing, an off-topic listing and a high-priced outlier in the Google Shopping results widened the standard-deviation spread so much that a suspiciously cheap $25 AirPods listing fell within 2 standard deviations and passed trust.
-*Fix:* Replaced raw standard deviation with an IQR-based robust spread ($\sigma = \text{IQR} / 1.349$), enforced strict accessory/title exclusion regexes, and capped spread bounds ($\text{MIN\_SPREAD} = 0.05$, $\text{MAX\_SPREAD} = 0.25$, as fractions of the median).
+### 1. Silent Regression in Sample Spread
+
+During early testing, an off-topic listing and a high-priced outlier in Google Shopping results inflated the standard deviation. As a result, a suspiciously cheap **$25 AirPods listing** fell within the 2σ threshold and incorrectly passed the trust check.
+
+**Fix:**
+- Replaced raw standard deviation with a robust spread estimate using the interquartile range (IQR): `σ = IQR / 1.349`.
+- Added strict title-exclusion regexes to filter accessories and irrelevant listings.
+- Capped the spread relative to the median using `MIN_SPREAD = 0.05` and `MAX_SPREAD = 0.25`, preventing extreme values from excessively widening the acceptable price range.
 
 ### 2. Ephemeral cache vs. price history
 `serpapi_cache` is a TTL cache that upserts on `(engine, params_hash)` and keeps only the latest response by design, so it cannot show price changes over time. SerpApi returns current search results without historical series.
@@ -284,6 +313,8 @@ Ensuring timing advice is never leaked on a fraudulent listing required strict e
 ---
 
 ## Model Context Protocol (MCP) & Claude
+
+> **Why an MCP server?** As AI shopping assistants start acting on users' behalf, they need a check before they recommend or complete a purchase. `clarity_check_listing` gives any MCP-capable agent that check: it can ask "is this listing trustworthy, and is now the time?" and get back a structured verdict with reasons, so an agent is never talked into a scam by a "buy now" deal.
 
 Clarity provides a native **Model Context Protocol (MCP)** server mounted at `/mcp` using Streamable HTTP (stateless, zero session tracking required).
 
@@ -569,6 +600,8 @@ Visit `http://localhost:3000` for the landing page or `http://localhost:3000/che
 
 ### 4. Running the test suite
 
+Last run 10 Oct 2026: 10/10 test scripts passing, all offline (0 SerpApi searches).
+
 Tests run against pinned demo fixtures without making live SerpApi calls or spending search quota:
 
 ```bash
@@ -582,6 +615,7 @@ uv run python test_alternatives.py       # Validates alternative retailer select
 uv run python test_wait_plan.py          # Validates target price & wait window rules
 uv run python test_india.py              # Asserts Indian market rules & currency formatting
 PYTHONPATH=. uv run python clarity_mcp/tests/test_contract.py  # Validates MCP tool contract
+uv run python test_ablation.py          # Shows what each SerpApi engine contributes
 ```
 
 ---
