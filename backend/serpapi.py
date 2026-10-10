@@ -44,7 +44,14 @@ def search(engine: str, cache_key: dict | None = None, **params) -> dict:
     # 120 s: slow engines (Google Forums took 78 s for Switch 2) still finish and land in the cache, even when a caller
     # (owner receipts) stopped waiting at its own shorter timeout.
     r = httpx.get("https://serpapi.com/search.json", params={**params, "api_key": os.environ["SERPAPI_KEY"]}, timeout=120)
-    r.raise_for_status()
+    if r.is_error:
+        try:
+            err = r.json().get("error")
+        except Exception:
+            err = None
+        if err:
+            raise RuntimeError(f"SerpApi {engine}: {err}")
+        r.raise_for_status()
     data = r.json()
     if "error" in data:
         # "hasn't returned any results" is an answer (e.g. no forum threads about a shop), not a failure: cache it

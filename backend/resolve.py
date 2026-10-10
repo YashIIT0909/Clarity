@@ -77,16 +77,19 @@ def resolve_screenshot(data: bytes, ad_price: float | None = None, market: str |
     ident = photo_forensics.identity(data=data)
     image_id = None
 
-    def lens(kind):
+    def lens(kind="all"):
         nonlocal image_id
         key = {"image": ident, "type": kind}
         if hit := serpapi.cached("google_lens", key):
+            return hit
+        # Legacy cache compatibility: fixtures cached before SerpApi discontinued "products"
+        if kind == "all" and (hit := serpapi.cached("google_lens", {"image": ident, "type": "products"})):
             return hit
         image_id = image_id or photo_forensics._upload(data)
         return serpapi.search("google_lens", key, image_id=image_id, type=kind)
 
     title, confirming, tried = None, [], []
-    for kind in ("products", "all"):  # "all" only if "products" can't name it
+    for kind in ("all",):
         r = lens(kind)
         title, confirming = _identify(r)
         tried.append(kind)
